@@ -1,0 +1,84 @@
+[
+  {
+    "id": "person_argantonio",
+    "name": "Argantonio",
+    "dates": "c. VII-VI a.C.",
+    "roles": [
+      "rey semilegendario"
+    ],
+    "topic_ids": [
+      "topic_tartessos"
+    ]
+  },
+  {
+    "id": "person_leonidas",
+    "name": "Leónidas",
+    "dates": "c. 540-480 a.C.",
+    "roles": [
+      "rey espartano"
+    ],
+    "topic_ids": [
+      "topic_esparta"
+    ]
+  },
+  {
+    "id": "person_alejandro",
+    "name": "Alejandro Magno",
+    "dates": "356-323 a.C.",
+    "roles": [
+      "rey de Macedonia",
+      "conquistador"
+    ],
+    "topic_ids": [
+      "topic_alejandro"
+    ]
+  },
+  {
+    "id": "person_amilcar",
+    "name": "Amílcar Barca",
+    "dates": "c. 275-228 a.C.",
+    "roles": [
+      "general cartaginés"
+    ],
+    "topic_ids": [
+      "topic_cartago",
+      "topic_anibal"
+    ]
+  },
+  {
+    "id": "person_anibal",
+    "name": "Aníbal Barca",
+    "dates": "247-183 a.C.",
+    "roles": [
+      "general cartaginés"
+    ],
+    "topic_ids": [
+      "topic_anibal",
+      "topic_cartago"
+    ]
+  },
+  {
+    "id": "person_escipion",
+    "name": "Escipión el Africano",
+    "dates": "236-183 a.C.",
+    "roles": [
+      "general romano"
+    ],
+    "topic_ids": [
+      "topic_anibal",
+      "topic_republica_romana"
+    ]
+  },
+  {
+    "id": "person_seneca",
+    "name": "Séneca",
+    "dates": "4 a.C.-65 d.C.",
+    "roles": [
+      "filósofo",
+      "político romano"
+    ],
+    "topic_ids": [
+      "topic_seneca"
+    ]
+  }
+]

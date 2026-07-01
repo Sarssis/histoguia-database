@@ -1,0 +1,52 @@
+[
+  {
+    "id": "battle_termopilas",
+    "name": "Termópilas",
+    "date": "480 a.C.",
+    "phase_id": "phase_03",
+    "topic_ids": [
+      "topic_esparta"
+    ],
+    "place_ids": []
+  },
+  {
+    "id": "battle_trebia",
+    "name": "Trebia",
+    "date": "218 a.C.",
+    "phase_id": "phase_04",
+    "topic_ids": [
+      "topic_anibal"
+    ],
+    "place_ids": []
+  },
+  {
+    "id": "battle_trasimeno",
+    "name": "Trasimeno",
+    "date": "217 a.C.",
+    "phase_id": "phase_04",
+    "topic_ids": [
+      "topic_anibal"
+    ],
+    "place_ids": []
+  },
+  {
+    "id": "battle_cannas",
+    "name": "Cannas",
+    "date": "216 a.C.",
+    "phase_id": "phase_04",
+    "topic_ids": [
+      "topic_anibal"
+    ],
+    "place_ids": []
+  },
+  {
+    "id": "battle_zama",
+    "name": "Zama",
+    "date": "202 a.C.",
+    "phase_id": "phase_04",
+    "topic_ids": [
+      "topic_anibal"
+    ],
+    "place_ids": []
+  }
+]

@@ -1,27 +1,18 @@
 {
   "version": "1.0",
-  "project": "Histoguía Database",
-  "core_rule": "Solo se consideran publicables en la app episodios en español con enlace verificado a episodio concreto de Apple Podcasts.",
-  "valid_verification_status": [
-    "verified_apple",
-    "pending_apple_verification",
-    "rejected"
+  "description": "Histoguía como base de conocimiento con entidades separadas y relaciones.",
+  "publication_rule": "La app solo debe mostrar episodios con verification_status=verified_apple y apple_url de episodio concreto.",
+  "entities": [
+    "phases",
+    "podcasts",
+    "episodes",
+    "topics",
+    "people",
+    "places",
+    "battles",
+    "civilizations",
+    "routes",
+    "relations"
   ],
-  "required_episode_fields": [
-    "episode_id",
-    "podcast_id",
-    "podcast_name",
-    "title",
-    "phase_id",
-    "phase_name",
-    "main_topic",
-    "period",
-    "priority",
-    "language",
-    "apple_url",
-    "verification_status"
-  ],
-  "phase_count": 16,
-  "initial_verified_episode_count": 16,
-  "notes": "Esta es la estructura definitiva del repositorio de datos; el contenido crecerá por lotes verificados."
+  "next_step": "Cargar Fase 1: Origen de la Humanidad."
 }

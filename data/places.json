@@ -1,0 +1,61 @@
+[
+  {
+    "id": "place_mesopotamia",
+    "name": "Mesopotamia",
+    "modern_location": "Irak/Siria/Turquía",
+    "topic_ids": [
+      "topic_mesopotamia"
+    ]
+  },
+  {
+    "id": "place_egipto",
+    "name": "Egipto",
+    "modern_location": "Egipto",
+    "topic_ids": [
+      "topic_egipto"
+    ]
+  },
+  {
+    "id": "place_guadalquivir",
+    "name": "Guadalquivir",
+    "modern_location": "España",
+    "topic_ids": [
+      "topic_tartessos"
+    ]
+  },
+  {
+    "id": "place_esparta",
+    "name": "Esparta",
+    "modern_location": "Grecia",
+    "topic_ids": [
+      "topic_esparta"
+    ]
+  },
+  {
+    "id": "place_bactria",
+    "name": "Bactria",
+    "modern_location": "Afganistán/Asia Central",
+    "topic_ids": [
+      "topic_alejandro"
+    ]
+  },
+  {
+    "id": "place_cartago",
+    "name": "Cartago",
+    "modern_location": "Túnez",
+    "topic_ids": [
+      "topic_cartago",
+      "topic_anibal"
+    ]
+  },
+  {
+    "id": "place_roma",
+    "name": "Roma",
+    "modern_location": "Italia",
+    "topic_ids": [
+      "topic_republica_romana",
+      "topic_anibal",
+      "topic_seneca"
+    ]
+  }
+]

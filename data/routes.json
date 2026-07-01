@@ -1,0 +1,40 @@
+[
+  {
+    "id": "route_gran_ruta",
+    "name": "La Gran Ruta de la Historia",
+    "description": "Recorrido completo desde la Prehistoria hasta nuestros días.",
+    "phase_ids": [
+      "phase_01",
+      "phase_02",
+      "phase_03",
+      "phase_04",
+      "phase_05",
+      "phase_06",
+      "phase_07",
+      "phase_08",
+      "phase_09",
+      "phase_10",
+      "phase_11",
+      "phase_12",
+      "phase_13",
+      "phase_14",
+      "phase_15",
+      "phase_16"
+    ],
+    "status": "in_design"
+  },
+  {
+    "id": "route_roma_cartago",
+    "name": "Roma y Cartago",
+    "description": "Ruta inicial para entender Cartago, Aníbal y la República romana.",
+    "phase_ids": [
+      "phase_04"
+    ],
+    "episode_ids": [
+      "ep_histocast_15",
+      "ep_histocast_54",
+      "ep_roma_aeterna_p193"
+    ],
+    "status": "seeded"
+  }
+]

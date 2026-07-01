@@ -1,44 +1,44 @@
 [
   {
-    "podcast_id": "histocast",
+    "id": "pod_histocast",
     "name": "HistoCast",
     "language": "es",
     "apple_show_url": "https://podcasts.apple.com/es/podcast/histocast/id500148829",
-    "status": "included"
+    "status": "active"
   },
   {
-    "podcast_id": "roma_aeterna",
+    "id": "pod_roma_aeterna",
     "name": "Roma Aeterna",
     "language": "es",
     "apple_show_url": "https://podcasts.apple.com/es/podcast/roma-aeterna/id1793375747",
-    "status": "included"
+    "status": "active"
   },
   {
-    "podcast_id": "ser_historia",
+    "id": "pod_ser_historia",
     "name": "SER Historia",
     "language": "es",
     "apple_show_url": "https://podcasts.apple.com/es/podcast/ser-historia/id356329864",
-    "status": "included"
+    "status": "active"
   },
   {
-    "podcast_id": "biblioteca_perdida",
+    "id": "pod_biblioteca_perdida",
     "name": "La Biblioteca Perdida",
     "language": "es",
     "apple_show_url": "https://podcasts.apple.com/es/podcast/la-biblioteca-perdida/id715503981",
-    "status": "included"
+    "status": "active"
   },
   {
-    "podcast_id": "memorias_tambor",
+    "id": "pod_memorias_tambor",
     "name": "Memorias de un Tambor",
     "language": "es",
     "apple_show_url": "",
-    "status": "pending_apple_verification"
+    "status": "pending"
   },
   {
-    "podcast_id": "antena_historia",
+    "id": "pod_antena_historia",
     "name": "Antena Historia",
     "language": "es",
     "apple_show_url": "",
-    "status": "pending_apple_verification"
+    "status": "pending"
   }
 ]

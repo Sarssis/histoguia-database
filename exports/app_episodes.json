@@ -1,4 +1,4 @@
-const EPISODES = [
+[
   {
     "id": "ep_ser_mesopotamia_2024",
     "podcast": "SER Historia",
@@ -178,4 +178,4 @@ const EPISODES = [
     "apple_url": "https://podcasts.apple.com/es/podcast/ser-historia-bajo-la-atenta-mirada-de-s%C3%A9neca/id356329864?i=1000707907034",
     "summary": "Complemento sobre Séneca y la cultura romana."
   }
-];
+]

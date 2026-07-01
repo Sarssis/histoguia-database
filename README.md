@@ -1,19 +1,24 @@
-# Histoguía Database
+# Histoguía Knowledge Base v1
 
-Base de datos editorial para Histoguía: una guía de podcasts de Historia en español organizada desde la Prehistoria hasta nuestros días.
+Base de conocimiento para Histoguía.
 
-## Principio clave
-Solo se incluyen en `episodes.json` episodios con enlace verificado de Apple Podcasts a episodio concreto.
+## Objetivo
+Transformar Histoguía de una lista de podcasts en una guía estructurada de Historia Universal en español.
 
-## Estructura
-- `data/phases.json`: La Gran Ruta de la Historia, 16 fases.
-- `data/podcasts.json`: podcasts admitidos o pendientes de verificación.
-- `data/episodes.json`: episodios verificados publicables.
-- `data/topics.json`: índice derivado de temas, personajes, lugares y batallas.
-- `data/schema.json`: reglas y campos.
-- `exports/episodes.csv`: exportación para revisión en Excel/Sheets.
-- `exports/data.js`: exportación preparada para la app actual.
-- `scripts/validate.py`: validación básica.
+## Entidades principales
+- Fases históricas
+- Podcasts
+- Episodios
+- Temas
+- Personajes
+- Lugares
+- Batallas
+- Civilizaciones
+- Rutas
+- Relaciones
 
-## Estado inicial
-Esta versión incluye la arquitectura definitiva y un primer lote de episodios verificados. La base se ampliará por lotes.
+## Regla editorial
+Solo se publican episodios en español con enlace verificado a episodio concreto de Apple Podcasts.
+
+## Próximo bloque editorial
+Fase 1: Origen de la Humanidad.

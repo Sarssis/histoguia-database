@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "person_anibal",
+    "source_type": "person",
+    "target_id": "topic_cartago",
+    "target_type": "topic",
+    "relation": "belongs_to"
+  },
+  {
+    "source_id": "person_anibal",
+    "source_type": "person",
+    "target_id": "person_amilcar",
+    "target_type": "person",
+    "relation": "family"
+  },
+  {
+    "source_id": "person_anibal",
+    "source_type": "person",
+    "target_id": "person_escipion",
+    "target_type": "person",
+    "relation": "opponent"
+  },
+  {
+    "source_id": "person_anibal",
+    "source_type": "person",
+    "target_id": "battle_cannas",
+    "target_type": "battle",
+    "relation": "commander_at"
+  },
+  {
+    "source_id": "topic_anibal",
+    "source_type": "topic",
+    "target_id": "ep_histocast_54",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_anibal",
+    "source_type": "topic",
+    "target_id": "ep_roma_aeterna_p193",
+    "target_type": "episode",
+    "relation": "covered_by"
+  }
+]

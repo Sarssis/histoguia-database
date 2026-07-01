@@ -1,398 +1,101 @@
 [
   {
-    "topic_id": "afganistán",
-    "name": "Afganistán",
-    "episode_ids": [
-      "histocast_38"
-    ]
+    "id": "topic_prehistoria",
+    "name": "Prehistoria",
+    "type": "period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Periodo anterior a la escritura."
   },
   {
-    "topic_id": "alejandro_magno",
-    "name": "Alejandro Magno",
-    "episode_ids": [
-      "histocast_38",
-      "histocast_38"
-    ]
+    "id": "topic_neandertales",
+    "name": "Neandertales",
+    "type": "human_species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Especie humana extinta que habitó Europa y Asia occidental."
   },
   {
-    "topic_id": "américa",
-    "name": "América",
-    "episode_ids": [
-      "biblioteca_perdida_balmis_2026"
-    ]
-  },
-  {
-    "topic_id": "amílcar_barca",
-    "name": "Amílcar Barca",
-    "episode_ids": [
-      "histocast_15"
-    ]
-  },
-  {
-    "topic_id": "aníbal_barca",
-    "name": "Aníbal Barca",
-    "episode_ids": [
-      "histocast_15",
-      "histocast_54",
-      "roma_aeterna_p193",
-      "roma_aeterna_p193",
-      "roma_aeterna_p201",
-      "roma_aeterna_p201"
-    ]
-  },
-  {
-    "topic_id": "aníbal_barca_/_segunda_guerra_púnica",
-    "name": "Aníbal Barca / Segunda Guerra Púnica",
-    "episode_ids": [
-      "histocast_54"
-    ]
-  },
-  {
-    "topic_id": "argantonio",
-    "name": "Argantonio",
-    "episode_ids": [
-      "histocast_340"
-    ]
-  },
-  {
-    "topic_id": "bactria",
-    "name": "Bactria",
-    "episode_ids": [
-      "histocast_38"
-    ]
-  },
-  {
-    "topic_id": "batalla_de_las_islas_egadas",
-    "name": "Batalla de las Islas Egadas",
-    "episode_ids": [
-      "histocast_15"
-    ]
-  },
-  {
-    "topic_id": "cannas",
-    "name": "Cannas",
-    "episode_ids": [
-      "histocast_54"
-    ]
-  },
-  {
-    "topic_id": "cartago",
-    "name": "Cartago",
-    "episode_ids": [
-      "histocast_15",
-      "roma_aeterna_p92",
-      "histocast_54",
-      "roma_aeterna_p193",
-      "roma_aeterna_p201"
-    ]
-  },
-  {
-    "topic_id": "cartago_/_primera_guerra_púnica",
-    "name": "Cartago / Primera Guerra Púnica",
-    "episode_ids": [
-      "histocast_15"
-    ]
-  },
-  {
-    "topic_id": "darío_iii",
-    "name": "Darío III",
-    "episode_ids": [
-      "histocast_38"
-    ]
-  },
-  {
-    "topic_id": "egipto",
-    "name": "Egipto",
-    "episode_ids": [
-      "ser_historia_egipto_2025",
-      "ser_historia_egipto_2025"
-    ]
-  },
-  {
-    "topic_id": "el_cabo",
-    "name": "El Cabo",
-    "episode_ids": [
-      "biblioteca_perdida_el_cabo_2026"
-    ]
-  },
-  {
-    "topic_id": "escipión_el_africano",
-    "name": "Escipión el Africano",
-    "episode_ids": [
-      "histocast_54"
-    ]
-  },
-  {
-    "topic_id": "esparta",
-    "name": "Esparta",
-    "episode_ids": [
-      "histocast_329",
-      "histocast_329"
-    ]
-  },
-  {
-    "topic_id": "españa",
-    "name": "España",
-    "episode_ids": [
-      "biblioteca_perdida_balmis_2026"
-    ]
-  },
-  {
-    "topic_id": "espionaje_romano",
-    "name": "Espionaje romano",
-    "episode_ids": [
-      "roma_aeterna_p199"
-    ]
-  },
-  {
-    "topic_id": "espitámines",
-    "name": "Espitámines",
-    "episode_ids": [
-      "histocast_38"
-    ]
-  },
-  {
-    "topic_id": "expedición_balmis",
-    "name": "Expedición Balmis",
-    "episode_ids": [
-      "biblioteca_perdida_balmis_2026"
-    ]
-  },
-  {
-    "topic_id": "filipinas",
-    "name": "Filipinas",
-    "episode_ids": [
-      "biblioteca_perdida_balmis_2026"
-    ]
-  },
-  {
-    "topic_id": "francisco_javier_balmis",
-    "name": "Francisco Javier Balmis",
-    "episode_ids": [
-      "biblioteca_perdida_balmis_2026"
-    ]
-  },
-  {
-    "topic_id": "gran_pirámide",
-    "name": "Gran Pirámide",
-    "episode_ids": [
-      "ser_historia_egipto_2025"
-    ]
-  },
-  {
-    "topic_id": "guadalquivir",
-    "name": "Guadalquivir",
-    "episode_ids": [
-      "histocast_340"
-    ]
-  },
-  {
-    "topic_id": "harry_burton",
-    "name": "Harry Burton",
-    "episode_ids": [
-      "ser_historia_egipto_2025"
-    ]
-  },
-  {
-    "topic_id": "hispania",
-    "name": "Hispania",
-    "episode_ids": [
-      "histocast_15",
-      "histocast_54",
-      "ser_historia_seneca_2025"
-    ]
-  },
-  {
-    "topic_id": "islas_egadas",
-    "name": "Islas Egadas",
-    "episode_ids": [
-      "histocast_15"
-    ]
-  },
-  {
-    "topic_id": "italia",
-    "name": "Italia",
-    "episode_ids": [
-      "histocast_54"
-    ]
-  },
-  {
-    "topic_id": "julio_césar",
-    "name": "Julio César",
-    "episode_ids": [
-      "roma_aeterna_p199"
-    ]
-  },
-  {
-    "topic_id": "laconia",
-    "name": "Laconia",
-    "episode_ids": [
-      "histocast_329"
-    ]
-  },
-  {
-    "topic_id": "leónidas",
-    "name": "Leónidas",
-    "episode_ids": [
-      "histocast_329"
-    ]
-  },
-  {
-    "topic_id": "licurgo",
-    "name": "Licurgo",
-    "episode_ids": [
-      "histocast_329"
-    ]
-  },
-  {
-    "topic_id": "marco_claudio_marcelo",
-    "name": "Marco Claudio Marcelo",
-    "episode_ids": [
-      "roma_aeterna_p138",
-      "roma_aeterna_p138"
-    ]
-  },
-  {
-    "topic_id": "mesopotamia",
+    "id": "topic_mesopotamia",
     "name": "Mesopotamia",
-    "episode_ids": [
-      "ser_historia_mesopotamia_2024",
-      "ser_historia_mesopotamia_2024"
-    ]
+    "type": "civilization_area",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Región entre el Tigris y el Éufrates."
   },
   {
-    "topic_id": "norte_de_áfrica",
-    "name": "Norte de África",
-    "episode_ids": [
-      "roma_aeterna_p201"
-    ]
+    "id": "topic_egipto",
+    "name": "Egipto",
+    "type": "civilization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Civilización del Nilo."
   },
   {
-    "topic_id": "península_ibérica",
-    "name": "Península ibérica",
-    "episode_ids": [
-      "biblioteca_perdida_el_cabo_2026"
-    ]
-  },
-  {
-    "topic_id": "primera_guerra_púnica",
-    "name": "Primera Guerra Púnica",
-    "episode_ids": [
-      "roma_aeterna_p92"
-    ]
-  },
-  {
-    "topic_id": "quinto_fabio_máximo",
-    "name": "Quinto Fabio Máximo",
-    "episode_ids": [
-      "histocast_54"
-    ]
-  },
-  {
-    "topic_id": "república_romana",
-    "name": "República romana",
-    "episode_ids": [
-      "roma_aeterna_p96"
-    ]
-  },
-  {
-    "topic_id": "roma",
-    "name": "Roma",
-    "episode_ids": [
-      "roma_aeterna_p92",
-      "histocast_54",
-      "roma_aeterna_p193",
-      "roma_aeterna_p201",
-      "roma_aeterna_p96",
-      "roma_aeterna_p138",
-      "roma_aeterna_p199",
-      "ser_historia_seneca_2025"
-    ]
-  },
-  {
-    "topic_id": "samarcanda",
-    "name": "Samarcanda",
-    "episode_ids": [
-      "histocast_38"
-    ]
-  },
-  {
-    "topic_id": "suroeste_peninsular",
-    "name": "Suroeste peninsular",
-    "episode_ids": [
-      "histocast_340"
-    ]
-  },
-  {
-    "topic_id": "séneca",
-    "name": "Séneca",
-    "episode_ids": [
-      "ser_historia_seneca_2025",
-      "ser_historia_seneca_2025"
-    ]
-  },
-  {
-    "topic_id": "tartessos",
+    "id": "topic_tartessos",
     "name": "Tartessos",
-    "episode_ids": [
-      "histocast_340"
-    ]
+    "type": "civilization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Cultura protohistórica del suroeste peninsular."
   },
   {
-    "topic_id": "termópilas",
-    "name": "Termópilas",
-    "episode_ids": [
-      "histocast_329",
-      "histocast_329"
-    ]
+    "id": "topic_esparta",
+    "name": "Esparta",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Polis griega con fuerte organización militar."
   },
   {
-    "topic_id": "teruel",
-    "name": "Teruel",
-    "episode_ids": [
-      "biblioteca_perdida_el_cabo_2026"
-    ]
+    "id": "topic_alejandro",
+    "name": "Alejandro Magno",
+    "type": "person_topic",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Rey macedonio y conquistador del Imperio persa."
   },
   {
-    "topic_id": "tesino",
-    "name": "Tesino",
-    "episode_ids": [
-      "histocast_54"
-    ]
+    "id": "topic_cartago",
+    "name": "Cartago",
+    "type": "civilization_city",
+    "phase_ids": [
+      "phase_04"
+    ],
+    "summary": "Potencia púnica rival de Roma."
   },
   {
-    "topic_id": "trasimeno",
-    "name": "Trasimeno",
-    "episode_ids": [
-      "histocast_54"
-    ]
+    "id": "topic_anibal",
+    "name": "Aníbal Barca",
+    "type": "person_topic",
+    "phase_ids": [
+      "phase_04"
+    ],
+    "summary": "General cartaginés de la Segunda Guerra Púnica."
   },
   {
-    "topic_id": "trebia",
-    "name": "Trebia",
-    "episode_ids": [
-      "histocast_54"
-    ]
+    "id": "topic_republica_romana",
+    "name": "República romana",
+    "type": "period",
+    "phase_ids": [
+      "phase_04"
+    ],
+    "summary": "Etapa republicana de Roma."
   },
   {
-    "topic_id": "tutankhamón",
-    "name": "Tutankhamón",
-    "episode_ids": [
-      "ser_historia_egipto_2025"
-    ]
-  },
-  {
-    "topic_id": "zama",
-    "name": "Zama",
-    "episode_ids": [
-      "histocast_54"
-    ]
-  },
-  {
-    "topic_id": "íberos",
-    "name": "Íberos",
-    "episode_ids": [
-      "biblioteca_perdida_el_cabo_2026"
-    ]
+    "id": "topic_seneca",
+    "name": "Séneca",
+    "type": "person_topic",
+    "phase_ids": [
+      "phase_04"
+    ],
+    "summary": "Filósofo estoico romano."
   }
 ]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "civ_mesopotamia",
+    "name": "Civilizaciones mesopotámicas",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "topic_ids": [
+      "topic_mesopotamia"
+    ]
+  },
+  {
+    "id": "civ_egipto",
+    "name": "Egipto antiguo",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "topic_ids": [
+      "topic_egipto"
+    ]
+  },
+  {
+    "id": "civ_tartessos",
+    "name": "Tartessos",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "topic_ids": [
+      "topic_tartessos"
+    ]
+  },
+  {
+    "id": "civ_grecia",
+    "name": "Grecia antigua",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "topic_ids": [
+      "topic_esparta",
+      "topic_alejandro"
+    ]
+  },
+  {
+    "id": "civ_cartago",
+    "name": "Cartago",
+    "phase_ids": [
+      "phase_04"
+    ],
+    "topic_ids": [
+      "topic_cartago",
+      "topic_anibal"
+    ]
+  },
+  {
+    "id": "civ_roma",
+    "name": "Roma antigua",
+    "phase_ids": [
+      "phase_04"
+    ],
+    "topic_ids": [
+      "topic_republica_romana",
+      "topic_seneca"
+    ]
+  }
+]
