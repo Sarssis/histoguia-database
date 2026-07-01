@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pod_historia_en_podcast",
+    "name": "Historia en Podcast",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/historia-en-podcast/id1503363327",
+    "status": "active"
+  },
+  {
+    "id": "pod_historia_con_el_movil",
+    "name": "Historia con el móvil",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/historia-con-el-m%C3%B3vil/id1219460034",
+    "status": "active"
+  },
+  {
+    "id": "pod_la_historia_espana",
+    "name": "La Historia de España",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/la-historia-de-espa%C3%B1a/id1544923756",
+    "status": "active"
+  },
+  {
+    "id": "pod_planeta_muy",
+    "name": "Planeta Muy",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/planeta-muy/id1588051336",
+    "status": "active"
+  },
+  {
+    "id": "pod_ser_historia",
+    "name": "SER Historia",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/ser-historia/id356329864",
+    "status": "active"
+  },
+  {
+    "id": "pod_un_podcast_salud",
+    "name": "Un podcast de salud",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/un-podcast-de-salud/id1533265652",
+    "status": "active_secondary"
+  },
+  {
+    "id": "pod_historia_desconocido",
+    "name": "Podcast histórico pendiente de normalizar",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/id1150909157",
+    "status": "needs_metadata_cleanup"
+  }
+]

@@ -1,18 +1,7 @@
 {
-  "version": "1.1",
-  "description": "Expanded historical taxonomy before adding large episode batches.",
-  "publication_rule": "Only episodes with verified Apple Podcasts episode URLs are app-publishable.",
-  "entities": [
-    "phases",
-    "subperiods",
-    "topics",
-    "people",
-    "places",
-    "battles",
-    "civilizations",
-    "routes",
-    "relations",
-    "episodes"
-  ],
-  "episode_policy": "Episodes will be added in verified batches after taxonomy review."
+  "version": "1.2",
+  "description": "Phase 1 content seed with verified Apple Podcasts episode URLs.",
+  "publication_rule": "Only episodes with verification_status=verified_apple and Apple episode URL are app-publishable.",
+  "episode_count": 7,
+  "phase_seeded": "phase_01"
 }

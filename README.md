@@ -1,17 +1,14 @@
-# Histoguía Taxonomy v1.1
+# Histoguía Phase 1 v1.2
 
-Ampliación del esqueleto histórico de Histoguía antes de cargar episodios masivos.
+Primer lote de contenido verificado para **Fase 1 — Origen de la Humanidad**.
 
-## Qué incluye
-- 16 fases principales.
-- 67 subperiodos.
-- Índice inicial de temas.
-- Personajes semilla.
-- Batallas semilla.
-- Civilizaciones semilla.
-- Lugares semilla.
-- Rutas principales.
-- Relaciones básicas.
+## Añadido
+- Evolución humana.
+- Neandertales.
+- Prehistoria de la península ibérica.
+- Neolítico.
+- Alimentación y evolución humana.
+- Clima y prehistoria.
 
 ## Regla
-No se añaden episodios nuevos en este bloque. Primero dejamos la taxonomía histórica preparada.
+Solo se incluyen episodios con enlace directo verificado de Apple Podcasts.

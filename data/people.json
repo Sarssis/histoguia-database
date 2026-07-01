@@ -1,103 +1,36 @@
 [
   {
-    "id": "person_anibal",
-    "name": "Aníbal Barca",
-    "dates": "247-183 a.C.",
+    "id": "person_javier_baena",
+    "name": "Javier Baena",
+    "dates": "",
     "roles": [
-      "general cartaginés"
+      "arqueólogo / especialista entrevistado"
     ],
     "topic_ids": [
-      "topic_anibal"
+      "topic_neandertales"
     ]
   },
   {
-    "id": "person_amilcar",
-    "name": "Amílcar Barca",
-    "dates": "c. 275-228 a.C.",
+    "id": "person_carlos_diez",
+    "name": "Carlos Díez",
+    "dates": "",
     "roles": [
-      "general cartaginés"
+      "catedrático de prehistoria"
     ],
     "topic_ids": [
-      "topic_cartago"
+      "topic_prehistoria",
+      "topic_evolucion_humana"
     ]
   },
   {
-    "id": "person_escipion",
-    "name": "Escipión el Africano",
-    "dates": "236-183 a.C.",
+    "id": "person_rafael_martinez",
+    "name": "Rafael Martínez",
+    "dates": "",
     "roles": [
-      "general romano"
+      "profesor de prehistoria"
     ],
     "topic_ids": [
-      "topic_anibal"
-    ]
-  },
-  {
-    "id": "person_julio_cesar",
-    "name": "Julio César",
-    "dates": "100-44 a.C.",
-    "roles": [
-      "general romano",
-      "dictador"
-    ],
-    "topic_ids": [
-      "topic_julio_cesar"
-    ]
-  },
-  {
-    "id": "person_augusto",
-    "name": "Augusto",
-    "dates": "63 a.C.-14 d.C.",
-    "roles": [
-      "emperador romano"
-    ],
-    "topic_ids": [
-      "topic_sub_0405"
-    ]
-  },
-  {
-    "id": "person_napoleon",
-    "name": "Napoleón Bonaparte",
-    "dates": "1769-1821",
-    "roles": [
-      "emperador francés",
-      "general"
-    ],
-    "topic_ids": [
-      "topic_napoleon"
-    ]
-  },
-  {
-    "id": "person_hitler",
-    "name": "Adolf Hitler",
-    "dates": "1889-1945",
-    "roles": [
-      "dictador alemán"
-    ],
-    "topic_ids": [
-      "topic_hitler"
-    ]
-  },
-  {
-    "id": "person_stalin",
-    "name": "Iósif Stalin",
-    "dates": "1878-1953",
-    "roles": [
-      "dirigente soviético"
-    ],
-    "topic_ids": [
-      "topic_stalin"
-    ]
-  },
-  {
-    "id": "person_churchill",
-    "name": "Winston Churchill",
-    "dates": "1874-1965",
-    "roles": [
-      "primer ministro británico"
-    ],
-    "topic_ids": [
-      "topic_churchill"
+      "topic_alimentacion_evolucion"
     ]
   }
 ]

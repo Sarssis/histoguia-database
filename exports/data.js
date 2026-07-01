@@ -1,4 +1,4 @@
-[
+const EPISODES = [
   {
     "id": "ep_historia_en_podcast_65_neolitico",
     "podcast_id": "pod_historia_en_podcast",
@@ -185,4 +185,4 @@
     "verification_status": "verified_apple",
     "summary": "Episodio sobre clima, eventos Heinrich, neandertales, Sáhara verde y nacimiento de Egipto faraónico."
   }
-]
+];

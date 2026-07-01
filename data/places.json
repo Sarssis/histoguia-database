@@ -1,65 +1,28 @@
 [
   {
-    "id": "place_africa_oriental",
-    "name": "África oriental",
-    "modern_location": "África oriental",
+    "id": "place_africa",
+    "name": "África",
+    "modern_location": "África",
     "topic_ids": [
-      "topic_sub_0102",
-      "topic_sub_0103"
+      "topic_evolucion_humana",
+      "topic_homo_sapiens"
     ]
   },
   {
-    "id": "place_mesopotamia",
-    "name": "Mesopotamia",
-    "modern_location": "Irak/Siria/Turquía",
+    "id": "place_europa",
+    "name": "Europa",
+    "modern_location": "Europa",
     "topic_ids": [
-      "topic_sub_0201",
-      "topic_sub_0202"
+      "topic_neandertales",
+      "topic_paleolitico"
     ]
   },
   {
-    "id": "place_egipto",
-    "name": "Egipto",
-    "modern_location": "Egipto",
+    "id": "place_peninsula_iberica",
+    "name": "Península ibérica",
+    "modern_location": "España/Portugal/Andorra",
     "topic_ids": [
-      "topic_sub_0203",
-      "topic_sub_0204"
-    ]
-  },
-  {
-    "id": "place_cartago",
-    "name": "Cartago",
-    "modern_location": "Túnez",
-    "topic_ids": [
-      "topic_cartago",
-      "topic_anibal"
-    ]
-  },
-  {
-    "id": "place_roma",
-    "name": "Roma",
-    "modern_location": "Italia",
-    "topic_ids": [
-      "topic_sub_0401",
-      "topic_julio_cesar"
-    ]
-  },
-  {
-    "id": "place_francia",
-    "name": "Francia",
-    "modern_location": "Francia",
-    "topic_ids": [
-      "topic_sub_1001",
-      "topic_napoleon"
-    ]
-  },
-  {
-    "id": "place_urss",
-    "name": "URSS",
-    "modern_location": "Europa oriental/Asia",
-    "topic_ids": [
-      "topic_sub_1301",
-      "topic_stalin"
+      "topic_prehistoria_peninsula_iberica"
     ]
   }
 ]
