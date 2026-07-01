@@ -1,0 +1,280 @@
+[
+  {
+    "phase_id": "01",
+    "name": "Origen de la Humanidad",
+    "range": "Prehistoria",
+    "order": 1,
+    "description": "Evolución humana, Paleolítico, Neolítico y revolución agrícola.",
+    "topics": [
+      "Evolución humana",
+      "Australopithecus",
+      "Homo habilis",
+      "Homo erectus",
+      "Neandertales",
+      "Homo sapiens",
+      "Paleolítico",
+      "Mesolítico",
+      "Neolítico",
+      "Revolución agrícola",
+      "Edad de los Metales"
+    ]
+  },
+  {
+    "phase_id": "02",
+    "name": "Primeras Civilizaciones",
+    "range": "c. 3500-500 a.C.",
+    "order": 2,
+    "description": "Mesopotamia, Egipto, Persia, Fenicios, Hebreos, Cartago y Tartessos.",
+    "topics": [
+      "Mesopotamia",
+      "Sumer",
+      "Acadios",
+      "Babilonia",
+      "Asiria",
+      "Hititas",
+      "Egipto",
+      "Nubia",
+      "Persia",
+      "Fenicios",
+      "Hebreos",
+      "Cartago",
+      "Tartessos",
+      "Íberos"
+    ]
+  },
+  {
+    "phase_id": "03",
+    "name": "Grecia",
+    "range": "c. 2000-146 a.C.",
+    "order": 3,
+    "description": "Minoicos, micénicos, polis, Esparta, Atenas, Guerras Médicas, Peloponeso, Macedonia y Helenismo.",
+    "topics": [
+      "Minoicos",
+      "Micenas",
+      "Edad Oscura griega",
+      "Polis",
+      "Esparta",
+      "Atenas",
+      "Guerras Médicas",
+      "Guerra del Peloponeso",
+      "Filipo II",
+      "Alejandro Magno",
+      "Helenismo"
+    ]
+  },
+  {
+    "phase_id": "04",
+    "name": "Roma",
+    "range": "753 a.C.-476 d.C.",
+    "order": 4,
+    "description": "Monarquía, República, Guerras Púnicas, César, Augusto, Alto Imperio, Bajo Imperio, cristianismo y caída de Roma.",
+    "topics": [
+      "Monarquía romana",
+      "República romana",
+      "Guerras Púnicas",
+      "Aníbal Barca",
+      "Julio César",
+      "Augusto",
+      "Alto Imperio",
+      "Bajo Imperio",
+      "Cristianismo",
+      "Caída de Roma"
+    ]
+  },
+  {
+    "phase_id": "05",
+    "name": "Alta Edad Media",
+    "range": "c. 476-1000",
+    "order": 5,
+    "description": "Visigodos, Bizancio, Islam, vikingos, Carlomagno y feudalismo temprano.",
+    "topics": [
+      "Visigodos",
+      "Bizancio",
+      "Islam",
+      "Califato",
+      "Vikingos",
+      "Carlomagno",
+      "Feudalismo",
+      "Al-Ándalus"
+    ]
+  },
+  {
+    "phase_id": "06",
+    "name": "Plena Edad Media",
+    "range": "c. 1000-1453",
+    "order": 6,
+    "description": "Cruzadas, Reconquista, Sacro Imperio, mongoles, Guerra de los Cien Años y peste negra.",
+    "topics": [
+      "Cruzadas",
+      "Reconquista",
+      "Sacro Imperio",
+      "Mongoles",
+      "Templarios",
+      "Guerra de los Cien Años",
+      "Peste Negra",
+      "Navas de Tolosa"
+    ]
+  },
+  {
+    "phase_id": "07",
+    "name": "Renacimiento",
+    "range": "c. 1300-1600",
+    "order": 7,
+    "description": "Humanismo, Italia, grandes descubrimientos, Reforma y Contrarreforma.",
+    "topics": [
+      "Humanismo",
+      "Renacimiento italiano",
+      "Grandes descubrimientos",
+      "Reforma protestante",
+      "Contrarreforma"
+    ]
+  },
+  {
+    "phase_id": "08",
+    "name": "Expansión Europea",
+    "range": "c. 1492-1700",
+    "order": 8,
+    "description": "Conquista de América, Imperio español, Imperio portugués, Tercios y hegemonía europea.",
+    "topics": [
+      "Conquista de América",
+      "Imperio español",
+      "Imperio portugués",
+      "Tercios",
+      "Felipe II",
+      "Armada Invencible",
+      "Lepanto"
+    ]
+  },
+  {
+    "phase_id": "09",
+    "name": "Siglo XVIII",
+    "range": "1700-1789",
+    "order": 9,
+    "description": "Ilustración, Guerra de Sucesión Española, reformas borbónicas e independencia de Estados Unidos.",
+    "topics": [
+      "Ilustración",
+      "Guerra de Sucesión Española",
+      "Reformas borbónicas",
+      "Independencia de Estados Unidos",
+      "Blas de Lezo"
+    ]
+  },
+  {
+    "phase_id": "10",
+    "name": "Revolución Francesa y Napoleón",
+    "range": "1789-1815",
+    "order": 10,
+    "description": "Revolución Francesa, Consulado, Imperio napoleónico y guerras europeas.",
+    "topics": [
+      "Revolución Francesa",
+      "Napoleón",
+      "Waterloo",
+      "Borodinó",
+      "Campaña de Rusia",
+      "Guerras napoleónicas"
+    ]
+  },
+  {
+    "phase_id": "11",
+    "name": "Revolución Industrial y Siglo XIX",
+    "range": "1815-1914",
+    "order": 11,
+    "description": "Industrialización, liberalismo, nacionalismos, unificaciones, imperialismo y colonialismo.",
+    "topics": [
+      "Revolución Industrial",
+      "Liberalismo",
+      "Nacionalismo",
+      "Unificación italiana",
+      "Unificación alemana",
+      "Imperialismo",
+      "Guerra de Secesión",
+      "Guerra franco-prusiana"
+    ]
+  },
+  {
+    "phase_id": "12",
+    "name": "Primera Guerra Mundial",
+    "range": "1914-1918",
+    "order": 12,
+    "description": "Causas, frentes, guerra naval, trincheras, 1917, desenlace y consecuencias.",
+    "topics": [
+      "Alianzas",
+      "Imperialismo",
+      "Guerra de trincheras",
+      "Frente occidental",
+      "Frente oriental",
+      "Guerra naval",
+      "1917",
+      "Tratado de Versalles"
+    ]
+  },
+  {
+    "phase_id": "13",
+    "name": "Entreguerras",
+    "range": "1918-1939",
+    "order": 13,
+    "description": "Revolución rusa, URSS, fascismo, nazismo, crisis de 1929 y Guerra Civil Española.",
+    "topics": [
+      "Revolución rusa",
+      "URSS",
+      "Fascismo",
+      "Nazismo",
+      "Crisis de 1929",
+      "Guerra Civil Española",
+      "Guerra civil china"
+    ]
+  },
+  {
+    "phase_id": "14",
+    "name": "Segunda Guerra Mundial",
+    "range": "1939-1945",
+    "order": 14,
+    "description": "Europa, Pacífico, África, Holocausto, operaciones, tecnología y final del conflicto.",
+    "topics": [
+      "Francia 1940",
+      "Pearl Harbor",
+      "Frente oriental",
+      "Kursk",
+      "Día D",
+      "Midway",
+      "Holocausto",
+      "Guerra del Pacífico"
+    ]
+  },
+  {
+    "phase_id": "15",
+    "name": "Guerra Fría",
+    "range": "1945-1991",
+    "order": 15,
+    "description": "Bloques, OTAN, Pacto de Varsovia, Corea, Vietnam, Cuba, carrera espacial y Afganistán.",
+    "topics": [
+      "Telón de Acero",
+      "OTAN",
+      "Pacto de Varsovia",
+      "Corea",
+      "Vietnam",
+      "Cuba",
+      "Carrera espacial",
+      "Afganistán"
+    ]
+  },
+  {
+    "phase_id": "16",
+    "name": "Mundo Actual",
+    "range": "1991-presente",
+    "order": 16,
+    "description": "Caída de la URSS, Balcanes, Oriente Medio, 11-S, Irak, Ucrania, China, IA y geopolítica.",
+    "topics": [
+      "Caída de la URSS",
+      "Balcanes",
+      "Oriente Medio",
+      "Guerra del Golfo",
+      "11-S",
+      "Irak",
+      "Ucrania",
+      "China",
+      "Inteligencia artificial",
+      "Geopolítica"
+    ]
+  }
+]

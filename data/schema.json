@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "project": "Histoguía Database",
+  "core_rule": "Solo se consideran publicables en la app episodios en español con enlace verificado a episodio concreto de Apple Podcasts.",
+  "valid_verification_status": [
+    "verified_apple",
+    "pending_apple_verification",
+    "rejected"
+  ],
+  "required_episode_fields": [
+    "episode_id",
+    "podcast_id",
+    "podcast_name",
+    "title",
+    "phase_id",
+    "phase_name",
+    "main_topic",
+    "period",
+    "priority",
+    "language",
+    "apple_url",
+    "verification_status"
+  ],
+  "phase_count": 16,
+  "initial_verified_episode_count": 16,
+  "notes": "Esta es la estructura definitiva del repositorio de datos; el contenido crecerá por lotes verificados."
+}
