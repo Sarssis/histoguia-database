@@ -1,0 +1,13 @@
+﻿id,name,date,phase_id,topic_ids,place_ids
+battle_termopilas,Termópilas,480 a.C.,phase_03,,
+battle_cannas,Cannas,216 a.C.,phase_04,,
+battle_zama,Zama,202 a.C.,phase_04,,
+battle_alesia,Alesia,52 a.C.,phase_04,,
+battle_waterloo,Waterloo,1815,phase_10,,
+battle_marne,Marne,1914,phase_12,,
+battle_verdun,Verdún,1916,phase_12,,
+battle_somme,Somme,1916,phase_12,,
+battle_stalingrado,Stalingrado,1942-1943,phase_14,,
+battle_kursk,Kursk,1943,phase_14,,
+battle_midway,Midway,1942,phase_14,,
+battle_normandia,Normandía,1944,phase_14,,

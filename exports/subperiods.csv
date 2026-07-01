@@ -1,0 +1,85 @@
+﻿id,phase_id,order,name,date_range,summary
+sub_0101,phase_01,1,Origen de la vida y contexto geológico,c. 4500-700 Ma,Contexto anterior a la historia humana.
+sub_0102,phase_01,2,Primates y primeros homininos,c. 7-4 Ma,Separación evolutiva y primeros homininos.
+sub_0103,phase_01,3,Australopithecus y primeros géneros humanos,c. 4-2 Ma,"Bipedismo, adaptación y diversificación."
+sub_0104,phase_01,4,Homo habilis y primeras herramientas,"c. 2,4-1,6 Ma",Tecnología lítica temprana.
+sub_0105,phase_01,5,Homo erectus y expansión fuera de África,"c. 1,9 Ma-150 ka","Fuego, movilidad y expansión."
+sub_0106,phase_01,6,"Neandertales, denisovanos y sapiens arcaicos",c. 400-40 ka,Diversidad humana pleistocena.
+sub_0107,phase_01,7,Homo sapiens y revolución cognitiva,c. 300-40 ka,"Lenguaje, simbolismo, arte y migraciones."
+sub_0108,phase_01,8,Paleolítico superior,c. 50-12 ka,"Cazadores-recolectores, arte rupestre y expansión global."
+sub_0109,phase_01,9,Mesolítico,c. 12-8 ka,Transición climática y sociedades postglaciales.
+sub_0110,phase_01,10,Neolítico,c. 10-4 ka,"Agricultura, domesticación y aldeas."
+sub_0111,phase_01,11,Edad del Cobre,c. 5000-3000 a.C.,Metalurgia temprana y complejidad social.
+sub_0112,phase_01,12,Edad del Bronce,c. 3300-1200 a.C.,"Estados tempranos, comercio y armas de bronce."
+sub_0113,phase_01,13,Edad del Hierro,c. 1200-500 a.C.,"Hierro, migraciones, jefaturas e inicios estatales."
+sub_0201,phase_02,1,Sumer y primeras ciudades,c. 3500-2300 a.C.,"Urbanización, escritura y ciudades-estado."
+sub_0202,phase_02,2,"Acadios, Babilonia y Asiria",c. 2300-600 a.C.,Imperios mesopotámicos.
+sub_0203,phase_02,3,Egipto predinástico y Reino Antiguo,c. 4000-2180 a.C.,Formación del Estado egipcio y pirámides.
+sub_0204,phase_02,4,Egipto Reino Medio y Reino Nuevo,c. 2050-1070 a.C.,Imperio egipcio y expansión.
+sub_0205,phase_02,5,Hititas y Anatolia antigua,c. 1700-1200 a.C.,Poder anatolio y diplomacia del Bronce.
+sub_0206,phase_02,6,Fenicios y navegación mediterránea,c. 1200-500 a.C.,"Comercio, colonias y alfabeto."
+sub_0207,phase_02,7,Hebreos e Israel antiguo,c. 1200-500 a.C.,Historia antigua del Levante.
+sub_0208,phase_02,8,Persia aqueménida,c. 550-330 a.C.,Primer gran imperio iranio.
+sub_0209,phase_02,9,Cartago y mundo púnico temprano,c. 800-500 a.C.,Expansión fenicio-púnica.
+sub_0210,phase_02,10,Tartessos e Íberos,c. 1000-200 a.C.,Culturas protohistóricas peninsulares.
+sub_0301,phase_03,1,Minoicos y micénicos,c. 2000-1100 a.C.,Bronce egeo.
+sub_0302,phase_03,2,Edad Oscura y nacimiento de la polis,c. 1100-700 a.C.,Formación griega arcaica.
+sub_0303,phase_03,3,Esparta y Atenas,c. 700-500 a.C.,Modelos políticos y sociales.
+sub_0304,phase_03,4,Guerras Médicas,499-449 a.C.,Conflicto greco-persa.
+sub_0305,phase_03,5,Guerra del Peloponeso,431-404 a.C.,Atenas contra Esparta.
+sub_0306,phase_03,6,Macedonia y Alejandro Magno,359-323 a.C.,Hegemonía macedónica.
+sub_0307,phase_03,7,Helenismo,323-146 a.C.,Reinos helenísticos.
+sub_0401,phase_04,1,Monarquía romana,753-509 a.C.,Fundación y reyes.
+sub_0402,phase_04,2,República temprana,509-264 a.C.,Instituciones y expansión italiana.
+sub_0403,phase_04,3,Guerras Púnicas,264-146 a.C.,Roma contra Cartago.
+sub_0404,phase_04,4,Crisis de la República,133-44 a.C.,"Reformas, guerras civiles y César."
+sub_0405,phase_04,5,Augusto y el Principado,44 a.C.-14 d.C.,Nacimiento imperial.
+sub_0406,phase_04,6,Alto Imperio,14-235,Pax Romana y expansión.
+sub_0407,phase_04,7,Crisis del siglo III,235-284,Inestabilidad y reformas.
+sub_0408,phase_04,8,Bajo Imperio y cristianismo,284-395,"Diocleciano, Constantino y cristianización."
+sub_0409,phase_04,9,Caída de Occidente,395-476,Fragmentación del poder occidental.
+sub_0501,phase_05,1,Reinos germánicos,c. 476-700,"Visigodos, ostrogodos, francos y otros reinos."
+sub_0502,phase_05,2,Bizancio temprano,c. 476-800,Imperio romano oriental.
+sub_0503,phase_05,3,Nacimiento y expansión del Islam,622-750,Califatos y expansión.
+sub_0504,phase_05,4,Al-Ándalus temprano,711-1000,Conquista y emirato/califato.
+sub_0505,phase_05,5,Carlomagno y mundo carolingio,c. 750-900,Imperio carolingio.
+sub_0506,phase_05,6,Vikingos,c. 790-1066,Expansión nórdica.
+sub_0601,phase_06,1,Feudalismo y expansión agraria,c. 1000-1200,Crecimiento medieval.
+sub_0602,phase_06,2,Cruzadas,1095-1291,Guerra santa y Oriente Próximo.
+sub_0603,phase_06,3,Reconquista plena,c. 1000-1492,Reinos peninsulares y Al-Ándalus.
+sub_0604,phase_06,4,Mongoles,c. 1206-1368,Imperio mongol.
+sub_0605,phase_06,5,Crisis bajomedieval,c. 1300-1453,"Peste, guerra y cambios sociales."
+sub_0701,phase_07,1,Humanismo y Renacimiento italiano,c. 1300-1500,Cultura humanista.
+sub_0702,phase_07,2,Imprenta y difusión cultural,c. 1450-1600,Revolución de la imprenta.
+sub_0703,phase_07,3,Reforma y Contrarreforma,1517-1648,Ruptura religiosa europea.
+sub_0801,phase_08,1,Descubrimientos y navegación atlántica,c. 1415-1522,Exploración europea.
+sub_0802,phase_08,2,Conquista de América,1492-1570,Conquista española y portuguesa.
+sub_0803,phase_08,3,Imperio español y Tercios,c. 1500-1650,Hegemonía hispánica.
+sub_0804,phase_08,4,Guerra de los Treinta Años,1618-1648,Conflicto europeo moderno.
+sub_0901,phase_09,1,Guerra de Sucesión Española,1701-1714,Cambio dinástico y equilibrio europeo.
+sub_0902,phase_09,2,Ilustración y reformas,c. 1700-1789,Ideas y reformas estatales.
+sub_0903,phase_09,3,Independencia de Estados Unidos,1775-1783,Revolución atlántica.
+sub_1001,phase_10,1,Revolución Francesa,1789-1799,Fin del Antiguo Régimen francés.
+sub_1002,phase_10,2,Consulado e Imperio,1799-1815,Napoleón en el poder.
+sub_1003,phase_10,3,Guerras napoleónicas,1803-1815,Europa en guerra.
+sub_1101,phase_11,1,Industrialización,c. 1760-1900,Transformación tecnológica y social.
+sub_1102,phase_11,2,Nacionalismos y revoluciones liberales,1815-1871,Nuevas ideologías políticas.
+sub_1103,phase_11,3,Imperialismo y colonialismo,c. 1870-1914,Expansión europea global.
+sub_1201,phase_12,1,Causas de la Primera Guerra Mundial,1870-1914,Sistema de alianzas e imperialismo.
+sub_1202,phase_12,2,Guerra de movimiento y trincheras,1914-1916,Frente occidental.
+sub_1203,phase_12,3,Guerra total y desenlace,1917-1918,Crisis final.
+sub_1301,phase_13,1,Revolución rusa y URSS,1917-1939,Bolchevismo y Estado soviético.
+sub_1302,phase_13,2,Fascismo y nazismo,1919-1939,Totalitarismos europeos.
+sub_1303,phase_13,3,Guerra Civil Española,1936-1939,Conflicto español y dimensión internacional.
+sub_1401,phase_14,1,Camino a la guerra y 1939-1940,1939-1940,"Polonia, Francia y Blitzkrieg."
+sub_1402,phase_14,2,Frente oriental,1941-1945,Alemania contra la URSS.
+sub_1403,phase_14,3,Guerra del Pacífico,1941-1945,Japón contra EEUU y aliados.
+sub_1404,phase_14,4,"África, Mediterráneo y Atlántico",1939-1945,Teatros secundarios y guerra naval.
+sub_1405,phase_14,5,Normandía y final de la guerra,1944-1945,Liberación y colapso del Eje.
+sub_1501,phase_15,1,Inicio de la Guerra Fría,1945-1953,Bloques y primeras crisis.
+sub_1502,phase_15,2,"Corea, Vietnam y descolonización",1950-1975,Guerras periféricas.
+sub_1503,phase_15,3,Carrera espacial y crisis nuclear,1957-1989,Competencia tecnológica y militar.
+sub_1504,phase_15,4,Caída del bloque soviético,1985-1991,Reformas y colapso.
+sub_1601,phase_16,1,Post-Guerra Fría,1991-2001,Nuevo orden internacional.
+sub_1602,phase_16,2,11-S y guerras de Oriente Medio,2001-2021,"Terrorismo, Afganistán e Irak."
+sub_1603,phase_16,3,Geopolítica actual,2008-presente,"China, Rusia, Ucrania, IA y nuevo equilibrio global."

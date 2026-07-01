@@ -1,18 +1,18 @@
 {
-  "version": "1.0",
-  "description": "Histoguía como base de conocimiento con entidades separadas y relaciones.",
-  "publication_rule": "La app solo debe mostrar episodios con verification_status=verified_apple y apple_url de episodio concreto.",
+  "version": "1.1",
+  "description": "Expanded historical taxonomy before adding large episode batches.",
+  "publication_rule": "Only episodes with verified Apple Podcasts episode URLs are app-publishable.",
   "entities": [
     "phases",
-    "podcasts",
-    "episodes",
+    "subperiods",
     "topics",
     "people",
     "places",
     "battles",
     "civilizations",
     "routes",
-    "relations"
+    "relations",
+    "episodes"
   ],
-  "next_step": "Cargar Fase 1: Origen de la Humanidad."
+  "episode_policy": "Episodes will be added in verified batches after taxonomy review."
 }

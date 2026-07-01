@@ -1,0 +1,10 @@
+﻿id,name,dates,roles,topic_ids
+person_anibal,Aníbal Barca,247-183 a.C.,general cartaginés,topic_anibal
+person_amilcar,Amílcar Barca,c. 275-228 a.C.,general cartaginés,topic_cartago
+person_escipion,Escipión el Africano,236-183 a.C.,general romano,topic_anibal
+person_julio_cesar,Julio César,100-44 a.C.,general romano; dictador,topic_julio_cesar
+person_augusto,Augusto,63 a.C.-14 d.C.,emperador romano,topic_sub_0405
+person_napoleon,Napoleón Bonaparte,1769-1821,emperador francés; general,topic_napoleon
+person_hitler,Adolf Hitler,1889-1945,dictador alemán,topic_hitler
+person_stalin,Iósif Stalin,1878-1953,dirigente soviético,topic_stalin
+person_churchill,Winston Churchill,1874-1965,primer ministro británico,topic_churchill

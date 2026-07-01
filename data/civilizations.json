@@ -1,12 +1,12 @@
 [
   {
-    "id": "civ_mesopotamia",
-    "name": "Civilizaciones mesopotámicas",
+    "id": "civ_sumer",
+    "name": "Sumer",
     "phase_ids": [
       "phase_02"
     ],
     "topic_ids": [
-      "topic_mesopotamia"
+      "topic_sub_0201"
     ]
   },
   {
@@ -16,17 +16,39 @@
       "phase_02"
     ],
     "topic_ids": [
-      "topic_egipto"
+      "topic_sub_0203",
+      "topic_sub_0204"
     ]
   },
   {
-    "id": "civ_tartessos",
-    "name": "Tartessos",
+    "id": "civ_persia",
+    "name": "Persia aqueménida",
     "phase_ids": [
       "phase_02"
     ],
     "topic_ids": [
-      "topic_tartessos"
+      "topic_sub_0208"
+    ]
+  },
+  {
+    "id": "civ_fenicios",
+    "name": "Fenicios",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "topic_ids": [
+      "topic_sub_0206"
+    ]
+  },
+  {
+    "id": "civ_cartago",
+    "name": "Cartago",
+    "phase_ids": [
+      "phase_02",
+      "phase_04"
+    ],
+    "topic_ids": [
+      "topic_cartago"
     ]
   },
   {
@@ -36,19 +58,8 @@
       "phase_03"
     ],
     "topic_ids": [
-      "topic_esparta",
-      "topic_alejandro"
-    ]
-  },
-  {
-    "id": "civ_cartago",
-    "name": "Cartago",
-    "phase_ids": [
-      "phase_04"
-    ],
-    "topic_ids": [
-      "topic_cartago",
-      "topic_anibal"
+      "topic_sub_0301",
+      "topic_sub_0307"
     ]
   },
   {
@@ -58,8 +69,50 @@
       "phase_04"
     ],
     "topic_ids": [
-      "topic_republica_romana",
-      "topic_seneca"
+      "topic_sub_0401",
+      "topic_sub_0409"
+    ]
+  },
+  {
+    "id": "civ_bizancio",
+    "name": "Bizancio",
+    "phase_ids": [
+      "phase_05"
+    ],
+    "topic_ids": [
+      "topic_sub_0502"
+    ]
+  },
+  {
+    "id": "civ_islam",
+    "name": "Califatos islámicos",
+    "phase_ids": [
+      "phase_05"
+    ],
+    "topic_ids": [
+      "topic_sub_0503"
+    ]
+  },
+  {
+    "id": "civ_mongoles",
+    "name": "Imperio mongol",
+    "phase_ids": [
+      "phase_06"
+    ],
+    "topic_ids": [
+      "topic_sub_0604"
+    ]
+  },
+  {
+    "id": "civ_imperio_espanol",
+    "name": "Imperio español",
+    "phase_ids": [
+      "phase_08",
+      "phase_09"
+    ],
+    "topic_ids": [
+      "topic_sub_0802",
+      "topic_sub_0803"
     ]
   }
 ]

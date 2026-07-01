@@ -1,10 +1,20 @@
 [
   {
+    "id": "place_africa_oriental",
+    "name": "África oriental",
+    "modern_location": "África oriental",
+    "topic_ids": [
+      "topic_sub_0102",
+      "topic_sub_0103"
+    ]
+  },
+  {
     "id": "place_mesopotamia",
     "name": "Mesopotamia",
     "modern_location": "Irak/Siria/Turquía",
     "topic_ids": [
-      "topic_mesopotamia"
+      "topic_sub_0201",
+      "topic_sub_0202"
     ]
   },
   {
@@ -12,31 +22,8 @@
     "name": "Egipto",
     "modern_location": "Egipto",
     "topic_ids": [
-      "topic_egipto"
-    ]
-  },
-  {
-    "id": "place_guadalquivir",
-    "name": "Guadalquivir",
-    "modern_location": "España",
-    "topic_ids": [
-      "topic_tartessos"
-    ]
-  },
-  {
-    "id": "place_esparta",
-    "name": "Esparta",
-    "modern_location": "Grecia",
-    "topic_ids": [
-      "topic_esparta"
-    ]
-  },
-  {
-    "id": "place_bactria",
-    "name": "Bactria",
-    "modern_location": "Afganistán/Asia Central",
-    "topic_ids": [
-      "topic_alejandro"
+      "topic_sub_0203",
+      "topic_sub_0204"
     ]
   },
   {
@@ -53,9 +40,26 @@
     "name": "Roma",
     "modern_location": "Italia",
     "topic_ids": [
-      "topic_republica_romana",
-      "topic_anibal",
-      "topic_seneca"
+      "topic_sub_0401",
+      "topic_julio_cesar"
+    ]
+  },
+  {
+    "id": "place_francia",
+    "name": "Francia",
+    "modern_location": "Francia",
+    "topic_ids": [
+      "topic_sub_1001",
+      "topic_napoleon"
+    ]
+  },
+  {
+    "id": "place_urss",
+    "name": "URSS",
+    "modern_location": "Europa oriental/Asia",
+    "topic_ids": [
+      "topic_sub_1301",
+      "topic_stalin"
     ]
   }
 ]

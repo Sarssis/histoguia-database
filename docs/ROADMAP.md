@@ -1,23 +1,14 @@
-# Roadmap
+# Roadmap v1.1
 
-## Bloque 1
-Arquitectura de conocimiento. Estado: completado.
+## Completado
+- Taxonomía histórica ampliada.
+- Subperiodos por fase.
+- Rutas principales.
 
-## Bloque 2
-Carga de Fase 1: Origen de la Humanidad.
-- Evolución humana
-- Neandertales
-- Homo sapiens
-- Paleolítico
-- Neolítico
-- Edad de los Metales
+## Siguiente paso
+Carga de episodios verificados para Fase 1: Origen de la Humanidad.
 
-## Bloque 3
-Ampliación de Primeras Civilizaciones.
-- Sumer
-- Babilonia
-- Asiria
-- Egipto por periodos
-- Persia
-- Fenicios
-- Hebreos
+## Criterio de entrada de episodios
+- Podcast en español.
+- Enlace de Apple Podcasts a episodio concreto.
+- Clasificación por fase, subperiodo, tema, personas/lugares/batallas cuando aplique.

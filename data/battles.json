@@ -4,29 +4,7 @@
     "name": "Termópilas",
     "date": "480 a.C.",
     "phase_id": "phase_03",
-    "topic_ids": [
-      "topic_esparta"
-    ],
-    "place_ids": []
-  },
-  {
-    "id": "battle_trebia",
-    "name": "Trebia",
-    "date": "218 a.C.",
-    "phase_id": "phase_04",
-    "topic_ids": [
-      "topic_anibal"
-    ],
-    "place_ids": []
-  },
-  {
-    "id": "battle_trasimeno",
-    "name": "Trasimeno",
-    "date": "217 a.C.",
-    "phase_id": "phase_04",
-    "topic_ids": [
-      "topic_anibal"
-    ],
+    "topic_ids": [],
     "place_ids": []
   },
   {
@@ -34,9 +12,7 @@
     "name": "Cannas",
     "date": "216 a.C.",
     "phase_id": "phase_04",
-    "topic_ids": [
-      "topic_anibal"
-    ],
+    "topic_ids": [],
     "place_ids": []
   },
   {
@@ -44,9 +20,79 @@
     "name": "Zama",
     "date": "202 a.C.",
     "phase_id": "phase_04",
-    "topic_ids": [
-      "topic_anibal"
-    ],
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_alesia",
+    "name": "Alesia",
+    "date": "52 a.C.",
+    "phase_id": "phase_04",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_waterloo",
+    "name": "Waterloo",
+    "date": "1815",
+    "phase_id": "phase_10",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_marne",
+    "name": "Marne",
+    "date": "1914",
+    "phase_id": "phase_12",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_verdun",
+    "name": "Verdún",
+    "date": "1916",
+    "phase_id": "phase_12",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_somme",
+    "name": "Somme",
+    "date": "1916",
+    "phase_id": "phase_12",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_stalingrado",
+    "name": "Stalingrado",
+    "date": "1942-1943",
+    "phase_id": "phase_14",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_kursk",
+    "name": "Kursk",
+    "date": "1943",
+    "phase_id": "phase_14",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_midway",
+    "name": "Midway",
+    "date": "1942",
+    "phase_id": "phase_14",
+    "topic_ids": [],
+    "place_ids": []
+  },
+  {
+    "id": "battle_normandia",
+    "name": "Normandía",
+    "date": "1944",
+    "phase_id": "phase_14",
+    "topic_ids": [],
     "place_ids": []
   }
 ]

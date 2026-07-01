@@ -1,24 +1,17 @@
-# Histoguía Knowledge Base v1
+# Histoguía Taxonomy v1.1
 
-Base de conocimiento para Histoguía.
+Ampliación del esqueleto histórico de Histoguía antes de cargar episodios masivos.
 
-## Objetivo
-Transformar Histoguía de una lista de podcasts en una guía estructurada de Historia Universal en español.
+## Qué incluye
+- 16 fases principales.
+- 67 subperiodos.
+- Índice inicial de temas.
+- Personajes semilla.
+- Batallas semilla.
+- Civilizaciones semilla.
+- Lugares semilla.
+- Rutas principales.
+- Relaciones básicas.
 
-## Entidades principales
-- Fases históricas
-- Podcasts
-- Episodios
-- Temas
-- Personajes
-- Lugares
-- Batallas
-- Civilizaciones
-- Rutas
-- Relaciones
-
-## Regla editorial
-Solo se publican episodios en español con enlace verificado a episodio concreto de Apple Podcasts.
-
-## Próximo bloque editorial
-Fase 1: Origen de la Humanidad.
+## Regla
+No se añaden episodios nuevos en este bloque. Primero dejamos la taxonomía histórica preparada.

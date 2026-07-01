@@ -1,36 +1,13 @@
 [
   {
-    "id": "person_argantonio",
-    "name": "Argantonio",
-    "dates": "c. VII-VI a.C.",
+    "id": "person_anibal",
+    "name": "Aníbal Barca",
+    "dates": "247-183 a.C.",
     "roles": [
-      "rey semilegendario"
+      "general cartaginés"
     ],
     "topic_ids": [
-      "topic_tartessos"
-    ]
-  },
-  {
-    "id": "person_leonidas",
-    "name": "Leónidas",
-    "dates": "c. 540-480 a.C.",
-    "roles": [
-      "rey espartano"
-    ],
-    "topic_ids": [
-      "topic_esparta"
-    ]
-  },
-  {
-    "id": "person_alejandro",
-    "name": "Alejandro Magno",
-    "dates": "356-323 a.C.",
-    "roles": [
-      "rey de Macedonia",
-      "conquistador"
-    ],
-    "topic_ids": [
-      "topic_alejandro"
+      "topic_anibal"
     ]
   },
   {
@@ -41,19 +18,6 @@
       "general cartaginés"
     ],
     "topic_ids": [
-      "topic_cartago",
-      "topic_anibal"
-    ]
-  },
-  {
-    "id": "person_anibal",
-    "name": "Aníbal Barca",
-    "dates": "247-183 a.C.",
-    "roles": [
-      "general cartaginés"
-    ],
-    "topic_ids": [
-      "topic_anibal",
       "topic_cartago"
     ]
   },
@@ -65,20 +29,75 @@
       "general romano"
     ],
     "topic_ids": [
-      "topic_anibal",
-      "topic_republica_romana"
+      "topic_anibal"
     ]
   },
   {
-    "id": "person_seneca",
-    "name": "Séneca",
-    "dates": "4 a.C.-65 d.C.",
+    "id": "person_julio_cesar",
+    "name": "Julio César",
+    "dates": "100-44 a.C.",
     "roles": [
-      "filósofo",
-      "político romano"
+      "general romano",
+      "dictador"
     ],
     "topic_ids": [
-      "topic_seneca"
+      "topic_julio_cesar"
+    ]
+  },
+  {
+    "id": "person_augusto",
+    "name": "Augusto",
+    "dates": "63 a.C.-14 d.C.",
+    "roles": [
+      "emperador romano"
+    ],
+    "topic_ids": [
+      "topic_sub_0405"
+    ]
+  },
+  {
+    "id": "person_napoleon",
+    "name": "Napoleón Bonaparte",
+    "dates": "1769-1821",
+    "roles": [
+      "emperador francés",
+      "general"
+    ],
+    "topic_ids": [
+      "topic_napoleon"
+    ]
+  },
+  {
+    "id": "person_hitler",
+    "name": "Adolf Hitler",
+    "dates": "1889-1945",
+    "roles": [
+      "dictador alemán"
+    ],
+    "topic_ids": [
+      "topic_hitler"
+    ]
+  },
+  {
+    "id": "person_stalin",
+    "name": "Iósif Stalin",
+    "dates": "1878-1953",
+    "roles": [
+      "dirigente soviético"
+    ],
+    "topic_ids": [
+      "topic_stalin"
+    ]
+  },
+  {
+    "id": "person_churchill",
+    "name": "Winston Churchill",
+    "dates": "1874-1965",
+    "roles": [
+      "primer ministro británico"
+    ],
+    "topic_ids": [
+      "topic_churchill"
     ]
   }
 ]
