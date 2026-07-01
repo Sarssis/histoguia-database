@@ -1,28 +1,37 @@
 [
   {
-    "id": "place_africa",
-    "name": "África",
-    "modern_location": "África",
-    "topic_ids": [
-      "topic_evolucion_humana",
-      "topic_homo_sapiens"
-    ]
+    "id": "place_peninsula_iberica",
+    "name": "Península ibérica",
+    "modern_location": "España/Portugal/Andorra"
+  },
+  {
+    "id": "place_atapuerca",
+    "name": "Atapuerca",
+    "modern_location": "Burgos, España"
   },
   {
     "id": "place_europa",
     "name": "Europa",
-    "modern_location": "Europa",
-    "topic_ids": [
-      "topic_neandertales",
-      "topic_paleolitico"
-    ]
+    "modern_location": "Europa"
   },
   {
-    "id": "place_peninsula_iberica",
-    "name": "Península ibérica",
-    "modern_location": "España/Portugal/Andorra",
-    "topic_ids": [
-      "topic_prehistoria_peninsula_iberica"
-    ]
+    "id": "place_bahia_cadiz",
+    "name": "Bahía de Cádiz",
+    "modern_location": "Cádiz, España"
+  },
+  {
+    "id": "place_australia",
+    "name": "Australia",
+    "modern_location": "Australia"
+  },
+  {
+    "id": "place_lago_bracciano",
+    "name": "Lago Bracciano / La Marmotta",
+    "modern_location": "Italia"
+  },
+  {
+    "id": "place_altamira",
+    "name": "Altamira",
+    "modern_location": "Cantabria, España"
   }
 ]

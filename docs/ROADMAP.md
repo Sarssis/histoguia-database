@@ -1,14 +1,5 @@
-# Roadmap v1.2
+# Roadmap Prehistoria
 
-## Completado
-- Primer lote de episodios verificados para Fase 1.
+Estado: Prehistoria v1 cerrada para prueba de app.
 
-## Siguiente búsqueda
-- Paleolítico.
-- Edad del Cobre.
-- Edad del Bronce.
-- Edad del Hierro.
-- Arte rupestre.
-- Atapuerca.
-- Denisovanos.
-- Homo erectus.
+Pendiente de investigación: Denisovanos, Homo erectus, Mesolítico, Edad del Cobre, Edad del Bronce y Edad del Hierro con episodios monográficos en español.

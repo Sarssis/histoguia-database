@@ -13,7 +13,7 @@
     "name": "Primeras Civilizaciones",
     "date_range": "c. 3500-500 a.C.",
     "summary": "Mesopotamia, Egipto, Persia, Fenicios, Hebreos, Cartago, Tartessos e Íberos.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_03",
@@ -21,7 +21,7 @@
     "name": "Grecia",
     "date_range": "c. 2000-146 a.C.",
     "summary": "Minoicos, micénicos, polis, Esparta, Atenas, Macedonia y Helenismo.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_04",
@@ -29,7 +29,7 @@
     "name": "Roma",
     "date_range": "753 a.C.-476 d.C.",
     "summary": "Monarquía, República, Guerras Púnicas, César, Augusto, Imperio y caída de Roma.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_05",
@@ -37,7 +37,7 @@
     "name": "Alta Edad Media",
     "date_range": "c. 476-1000",
     "summary": "Visigodos, Bizancio, Islam, vikingos, Carlomagno y feudalismo temprano.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_06",
@@ -45,7 +45,7 @@
     "name": "Plena Edad Media",
     "date_range": "c. 1000-1453",
     "summary": "Cruzadas, Reconquista, Mongoles, Peste Negra y Guerra de los Cien Años.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_07",
@@ -53,7 +53,7 @@
     "name": "Renacimiento",
     "date_range": "c. 1300-1600",
     "summary": "Humanismo, Renacimiento italiano, descubrimientos, Reforma y Contrarreforma.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_08",
@@ -61,7 +61,7 @@
     "name": "Expansión Europea",
     "date_range": "c. 1492-1700",
     "summary": "Conquista de América, Imperio español, Imperio portugués, Tercios y hegemonía europea.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_09",
@@ -69,7 +69,7 @@
     "name": "Siglo XVIII",
     "date_range": "1700-1789",
     "summary": "Ilustración, Guerra de Sucesión, reformas borbónicas e independencia de Estados Unidos.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_10",
@@ -77,7 +77,7 @@
     "name": "Revolución Francesa y Napoleón",
     "date_range": "1789-1815",
     "summary": "Revolución Francesa, Napoleón y guerras napoleónicas.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_11",
@@ -85,7 +85,7 @@
     "name": "Revolución Industrial y Siglo XIX",
     "date_range": "1815-1914",
     "summary": "Industrialización, liberalismo, nacionalismos, imperialismo y colonialismo.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_12",
@@ -93,7 +93,7 @@
     "name": "Primera Guerra Mundial",
     "date_range": "1914-1918",
     "summary": "Causas, frentes, guerra naval, trincheras y consecuencias.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_13",
@@ -101,7 +101,7 @@
     "name": "Entreguerras",
     "date_range": "1918-1939",
     "summary": "Revolución rusa, URSS, fascismo, nazismo, crisis de 1929 y Guerra Civil Española.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_14",
@@ -109,7 +109,7 @@
     "name": "Segunda Guerra Mundial",
     "date_range": "1939-1945",
     "summary": "Europa, Pacífico, África, Holocausto, operaciones, tecnología y final del conflicto.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_15",
@@ -117,7 +117,7 @@
     "name": "Guerra Fría",
     "date_range": "1945-1991",
     "summary": "Bloques, Corea, Vietnam, Cuba, carrera espacial y colapso soviético.",
-    "status": "expanded"
+    "status": "planned"
   },
   {
     "id": "phase_16",
@@ -125,6 +125,6 @@
     "name": "Mundo Actual",
     "date_range": "1991-presente",
     "summary": "Balcanes, Oriente Medio, 11-S, Irak, Ucrania, China, IA y geopolítica.",
-    "status": "expanded"
+    "status": "planned"
   }
 ]

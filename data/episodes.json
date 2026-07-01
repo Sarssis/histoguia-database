@@ -1,5 +1,52 @@
 [
   {
+    "id": "ep_historia_en_podcast_64_paleolitico",
+    "podcast_id": "pod_historia_en_podcast",
+    "podcast_name": "Historia en Podcast",
+    "episode_code": "64",
+    "title": "64. La Prehistoria: El Paleolítico",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0108",
+    "main_topic_id": "topic_paleolitico",
+    "topic_ids": [
+      "topic_paleolitico"
+    ],
+    "people_ids": [],
+    "place_ids": [],
+    "battle_ids": [],
+    "duration": "36:42",
+    "published": "2021-04-25",
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "language": "es",
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/64-la-prehistoria-el-paleol%C3%ADtico/id1503363327?i=1000518543593",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/64-la-prehistoria-el-paleolitico-audios-mp3_rf_69085351_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "verified",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Introducción al Paleolítico: origen del ser humano actual, formas de vida, arte, creencias y primeras herramientas.",
+    "learn": [
+      "Origen humano actual",
+      "Cazadores-recolectores",
+      "Arte paleolítico",
+      "Pensamiento simbólico"
+    ],
+    "related_topics": [
+      "Paleolítico superior",
+      "Arte rupestre"
+    ]
+  },
+  {
     "id": "ep_historia_en_podcast_65_neolitico",
     "podcast_id": "pod_historia_en_podcast",
     "podcast_name": "Historia en Podcast",
@@ -9,23 +56,46 @@
     "subperiod_id": "sub_0110",
     "main_topic_id": "topic_neolitico",
     "topic_ids": [
-      "topic_neolitico",
-      "topic_prehistoria"
+      "topic_neolitico"
     ],
     "people_ids": [],
     "place_ids": [],
     "battle_ids": [],
-    "duration": "",
-    "published": "",
+    "duration": "42 min",
+    "published": "2021-05-01",
     "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
     "language": "es",
-    "apple_url": "https://podcasts.apple.com/es/podcast/65-la-prehistoria-el-neol%C3%ADtico/id1503363327?i=1000519608384",
-    "verification_status": "verified_apple",
-    "summary": "Episodio centrado en la Revolución Neolítica, sedentarismo, agricultura, domesticación, primeras ciudades y origen de la escritura."
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/65-la-prehistoria-el-neol%C3%ADtico/id1503363327?i=1000519608384",
+      "spotify": "https://open.spotify.com/episode/6i4DvShYOpqrI5UH9Q1Jk1",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "verified",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Revolución Neolítica, sedentarismo, agricultura, domesticación, primeras ciudades, división social del trabajo y origen de la escritura.",
+    "learn": [
+      "Agricultura",
+      "Sedentarismo",
+      "Primeras ciudades",
+      "Origen de la escritura"
+    ],
+    "related_topics": [
+      "Agricultura",
+      "Domesticación"
+    ]
   },
   {
     "id": "ep_historia_con_movil_neolitico",
-    "podcast_id": "pod_historia_con_el_movil",
+    "podcast_id": "pod_historia_con_movil",
     "podcast_name": "Historia con el móvil",
     "episode_code": "",
     "title": "El Neolítico ¿Evolución o Involución?",
@@ -33,8 +103,7 @@
     "subperiod_id": "sub_0110",
     "main_topic_id": "topic_neolitico",
     "topic_ids": [
-      "topic_neolitico",
-      "topic_prehistoria"
+      "topic_neolitico"
     ],
     "people_ids": [],
     "place_ids": [],
@@ -42,13 +111,36 @@
     "duration": "29 min",
     "published": "2020-09-02",
     "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
     "language": "es",
-    "apple_url": "https://podcasts.apple.com/es/podcast/el-neol%C3%ADtico-evoluci%C3%B3n-o-involuci%C3%B3n/id1219460034?i=1000574622907",
-    "verification_status": "verified_apple",
-    "summary": "Episodio breve sobre el Neolítico, útil como entrada introductoria."
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/el-neol%C3%ADtico-evoluci%C3%B3n-o-involuci%C3%B3n/id1219460034?i=1000574622907",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Entrada breve al debate sobre el Neolítico como avance o retroceso.",
+    "learn": [
+      "Neolítico como cambio social",
+      "Sedentarismo",
+      "Impacto de la agricultura"
+    ],
+    "related_topics": [
+      "Neolítico",
+      "Agricultura"
+    ]
   },
   {
-    "id": "ep_la_historia_espana_prehistoria_peninsula",
+    "id": "ep_lhe_prehistoria_peninsula",
     "podcast_id": "pod_la_historia_espana",
     "podcast_name": "La Historia de España",
     "episode_code": "3",
@@ -57,24 +149,47 @@
     "subperiod_id": "sub_0108",
     "main_topic_id": "topic_prehistoria_peninsula_iberica",
     "topic_ids": [
-      "topic_prehistoria_peninsula_iberica",
-      "topic_prehistoria",
-      "topic_paleolitico",
-      "topic_neolitico",
-      "topic_edad_metales"
+      "topic_prehistoria_peninsula_iberica"
     ],
     "people_ids": [],
     "place_ids": [
-      "place_peninsula_iberica"
+      "place_peninsula_iberica",
+      "place_atapuerca",
+      "place_altamira"
     ],
     "battle_ids": [],
-    "duration": "",
+    "duration": "49 min",
     "published": "2020-12-13",
     "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
     "language": "es",
-    "apple_url": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
-    "verification_status": "verified_apple",
-    "summary": "Recorrido por la prehistoria de la península ibérica desde el Paleolítico hasta la Edad del Bronce."
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
+      "spotify": "https://open.spotify.com/episode/04OiaPlIalIOK34AyKAtsy",
+      "ivoox": "https://www.ivoox.com/prehistoria-peninsula-iberica-episodio-3-audios-mp3_rf_62270067_1.html",
+      "youtube": "",
+      "web": "https://www.lahistoriaespana.com/prehistoria-de-la-peninsula-iberica/"
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "verified",
+      "ivoox": "verified",
+      "youtube": "pending",
+      "web": "verified"
+    },
+    "summary": "Prehistoria de la península ibérica desde el Paleolítico hasta la Edad del Bronce.",
+    "learn": [
+      "Atapuerca y Altamira",
+      "Mesolítico y Neolítico",
+      "Los Millares",
+      "El Argar"
+    ],
+    "related_topics": [
+      "Atapuerca",
+      "Altamira",
+      "Los Millares"
+    ]
   },
   {
     "id": "ep_planeta_muy_neandertales",
@@ -86,8 +201,7 @@
     "subperiod_id": "sub_0106",
     "main_topic_id": "topic_neandertales",
     "topic_ids": [
-      "topic_neandertales",
-      "topic_evolucion_humana"
+      "topic_neandertales"
     ],
     "people_ids": [
       "person_javier_baena"
@@ -99,78 +213,346 @@
     "duration": "",
     "published": "",
     "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
     "language": "es",
-    "apple_url": "https://podcasts.apple.com/es/podcast/cap%C3%ADtulo-3-caminando-entre-neandertales-con-javier-baena/id1588051336?i=1000536973313",
-    "verification_status": "verified_apple",
-    "summary": "Episodio divulgativo sobre vida, costumbres y capacidades de los neandertales."
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/cap%C3%ADtulo-3-caminando-entre-neandertales-con-javier-baena/id1588051336?i=1000536973313",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Vida, costumbres y capacidades de los neandertales.",
+    "learn": [
+      "Quiénes fueron los neandertales",
+      "Cómo vivían",
+      "Capacidades cognitivas"
+    ],
+    "related_topics": [
+      "Neandertales",
+      "Homo sapiens"
+    ]
   },
   {
-    "id": "ep_ser_historia_origen_prehistoria",
-    "podcast_id": "pod_ser_historia",
-    "podcast_name": "SER Historia",
+    "id": "ep_otro_podcast_arte_paleolitico",
+    "podcast_id": "pod_otro_podcast_historia",
+    "podcast_name": "Otro podcast de historia",
     "episode_code": "",
-    "title": "Origen: la prehistoria en la evolución humana",
+    "title": "El arte en el paleolítico",
     "phase_id": "phase_01",
-    "subperiod_id": "sub_0107",
-    "main_topic_id": "topic_evolucion_humana",
+    "subperiod_id": "sub_0108",
+    "main_topic_id": "topic_arte_rupestre",
     "topic_ids": [
-      "topic_prehistoria",
-      "topic_evolucion_humana",
-      "topic_homo_sapiens"
+      "topic_arte_rupestre"
+    ],
+    "people_ids": [],
+    "place_ids": [],
+    "battle_ids": [],
+    "duration": "",
+    "published": "2022-07-10",
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 2,
+    "language": "es",
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/el-arte-en-el-paleol%C3%ADtico/id1460661274?i=1000569451542",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Arte paleolítico y comportamiento humano moderno: música, pinturas rupestres, tecnología y significado.",
+    "learn": [
+      "Arte rupestre",
+      "Comportamiento simbólico",
+      "Tecnología de pintura"
+    ],
+    "related_topics": [
+      "Arte rupestre",
+      "Paleolítico superior"
+    ]
+  },
+  {
+    "id": "ep_mujeres_historia_prehistoria",
+    "podcast_id": "pod_mujeres_con_historia",
+    "podcast_name": "Mujeres con Historia",
+    "episode_code": "09",
+    "title": "09. Mujeres en la Prehistoria. Paleolítico y sociedades cazadoras-recolectoras",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0108",
+    "main_topic_id": "topic_mujeres_prehistoria",
+    "topic_ids": [
+      "topic_mujeres_prehistoria"
     ],
     "people_ids": [
-      "person_carlos_diez"
+      "person_almudena_hernando"
     ],
     "place_ids": [],
+    "battle_ids": [],
+    "duration": "",
+    "published": "2021-02-13",
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "language": "es",
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/09-mujeres-en-la-prehistoria-paleol%C3%ADtico-y-sociedades/id1506981606?i=1000508920445",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Papel de mujeres y hombres en el Paleolítico y sociedades cazadoras-recolectoras.",
+    "learn": [
+      "Organización social paleolítica",
+      "Perspectiva de género",
+      "Cazadores-recolectores"
+    ],
+    "related_topics": [
+      "Paleolítico",
+      "Mujeres en la historia"
+    ]
+  },
+  {
+    "id": "ep_atapuerca_1_zarpazo",
+    "podcast_id": "pod_atapuerca",
+    "podcast_name": "ATAPUERCA",
+    "episode_code": "1",
+    "title": "Episodio 1: El zarpazo de la curiosidad",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0106",
+    "main_topic_id": "topic_atapuerca",
+    "topic_ids": [
+      "topic_atapuerca"
+    ],
+    "people_ids": [
+      "person_eudald_carbonell",
+      "person_juan_luis_arsuaga",
+      "person_jose_bermudez_castro"
+    ],
+    "place_ids": [
+      "place_atapuerca"
+    ],
+    "battle_ids": [],
+    "duration": "22 min",
+    "published": "2026-02-18",
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "language": "es",
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/episodio-1-el-zarpazo-de-la-curiosidad/id1860248995?i=1000750267014",
+      "spotify": "https://open.spotify.com/episode/592Ijl3I9PSAehxzXnJdJ8",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "verified",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Origen del fenómeno científico de Atapuerca, primeros hallazgos y protagonistas.",
+    "learn": [
+      "Origen de Atapuerca",
+      "Primeros investigadores",
+      "Importancia científica"
+    ],
+    "related_topics": [
+      "Atapuerca",
+      "Evolución humana"
+    ]
+  },
+  {
+    "id": "ep_atapuerca_2_craneos",
+    "podcast_id": "pod_atapuerca",
+    "podcast_name": "ATAPUERCA",
+    "episode_code": "2",
+    "title": "Episodio 2: Los cráneos A, B y C",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0106",
+    "main_topic_id": "topic_atapuerca",
+    "topic_ids": [
+      "topic_atapuerca"
+    ],
+    "people_ids": [
+      "person_eudald_carbonell",
+      "person_juan_luis_arsuaga",
+      "person_jose_bermudez_castro"
+    ],
+    "place_ids": [
+      "place_atapuerca"
+    ],
+    "battle_ids": [],
+    "duration": "29 min",
+    "published": "2026-02-25",
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "language": "es",
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/episodio-2-los-cr%C3%A1neos-a-b-y-c/id1860248995?i=1000751332730",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Equipo de Atapuerca, cráneos A, B y C, relevo científico y grandes descubrimientos.",
+    "learn": [
+      "Equipo científico",
+      "Fósiles humanos",
+      "Paleoantropología"
+    ],
+    "related_topics": [
+      "Atapuerca",
+      "Evolución humana"
+    ]
+  },
+  {
+    "id": "ep_atapuerca_4_piezas_puzle",
+    "podcast_id": "pod_atapuerca",
+    "podcast_name": "ATAPUERCA",
+    "episode_code": "4",
+    "title": "Episodio 4: Las piezas del puzle",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0106",
+    "main_topic_id": "topic_atapuerca",
+    "topic_ids": [
+      "topic_atapuerca"
+    ],
+    "people_ids": [
+      "person_eudald_carbonell",
+      "person_juan_luis_arsuaga",
+      "person_jose_bermudez_castro",
+      "person_maria_martinon"
+    ],
+    "place_ids": [
+      "place_atapuerca"
+    ],
+    "battle_ids": [],
+    "duration": "32 min",
+    "published": "2026-03-11",
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "language": "es",
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/episodio-4-las-piezas-del-puzle/id1860248995?i=1000754607280",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Descubrimientos, hallazgos científicos y piezas clave de Atapuerca.",
+    "learn": [
+      "Hallazgos científicos",
+      "Métodos de investigación",
+      "Trabajo interdisciplinar"
+    ],
+    "related_topics": [
+      "Atapuerca",
+      "Evolución humana"
+    ]
+  },
+  {
+    "id": "ep_zh_neolitico_gaditano",
+    "podcast_id": "pod_zh",
+    "podcast_name": "ZONA HISTORIA",
+    "episode_code": "ZH 4x27",
+    "title": "Prehistoria II, Neolítico Gaditano. El campo de Hockey",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0110",
+    "main_topic_id": "topic_neolitico_gaditano",
+    "topic_ids": [
+      "topic_neolitico_gaditano"
+    ],
+    "people_ids": [
+      "person_eduardo_vijande"
+    ],
+    "place_ids": [
+      "place_bahia_cadiz"
+    ],
     "battle_ids": [],
     "duration": "",
     "published": "",
     "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
     "language": "es",
-    "apple_url": "https://podcasts.apple.com/es/podcast/origen-la-prehistoria-en-la-evoluci%C3%B3n-humana/id744062884?i=1000629179532",
-    "verification_status": "verified_apple",
-    "summary": "Entrevista sobre prehistoria y evolución humana con Carlos Díez."
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/zh-4x27-prehistoria-ii-neol%C3%ADtico-gaditano-el-campo/id1187149404?i=1000477489496",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/zh-4x27-prehistoria-ii-neolitico-gaditano-el-campo-audios-mp3_rf_51943708_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "verified",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Neolítico en la Bahía de Cádiz y yacimiento del Campo de Hockey de San Fernando.",
+    "learn": [
+      "Neolítico gaditano",
+      "Campo de Hockey",
+      "Arqueología funeraria"
+    ],
+    "related_topics": [
+      "Neolítico",
+      "Cádiz"
+    ]
   },
   {
-    "id": "ep_un_podcast_salud_alimentacion_evolucion",
-    "podcast_id": "pod_un_podcast_salud",
-    "podcast_name": "Un podcast de salud",
+    "id": "ep_khulmani_paleolitico_superior",
+    "podcast_id": "pod_las_historias_khulmani",
+    "podcast_name": "Las Historias de Khulmani",
     "episode_code": "",
-    "title": "ALIMENTACIÓN. ¿Cómo nos afecta lo que comemos?",
+    "title": "El Paleolítico Superior",
     "phase_id": "phase_01",
-    "subperiod_id": "sub_0107",
-    "main_topic_id": "topic_alimentacion_evolucion",
+    "subperiod_id": "sub_0108",
+    "main_topic_id": "topic_paleolitico_superior",
     "topic_ids": [
-      "topic_alimentacion_evolucion",
-      "topic_evolucion_humana",
-      "topic_homo_sapiens"
-    ],
-    "people_ids": [
-      "person_rafael_martinez"
-    ],
-    "place_ids": [],
-    "battle_ids": [],
-    "duration": "",
-    "published": "2022-11-30",
-    "priority": 1,
-    "language": "es",
-    "apple_url": "https://podcasts.apple.com/es/podcast/alimentaci%C3%B3n-c%C3%B3mo-nos-afecta-lo-que-comemos/id1533265652?i=1000588115974",
-    "verification_status": "verified_apple",
-    "summary": "Episodio sanitario-divulgativo con componente útil sobre alimentación y evolución humana."
-  },
-  {
-    "id": "ep_clima_historia_neandertales_sahara",
-    "podcast_id": "pod_historia_desconocido",
-    "podcast_name": "Podcast histórico pendiente de normalizar",
-    "episode_code": "",
-    "title": "El clima en la historia: crisis, imperios y supervivencia",
-    "phase_id": "phase_01",
-    "subperiod_id": "sub_0106",
-    "main_topic_id": "topic_clima_prehistoria",
-    "topic_ids": [
-      "topic_clima_prehistoria",
-      "topic_neandertales",
-      "topic_egipto"
+      "topic_paleolitico_superior"
     ],
     "people_ids": [],
     "place_ids": [
@@ -178,11 +560,183 @@
     ],
     "battle_ids": [],
     "duration": "",
+    "published": "",
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "language": "es",
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/paleolitico-superior-audios-mp3_rf_60748439_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "pending",
+      "ivoox": "verified",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Paleolítico Superior: Homo sapiens en Europa, clima glaciar, tecnología y sociedad.",
+    "learn": [
+      "Paleolítico Superior",
+      "Homo sapiens",
+      "Último máximo glacial"
+    ],
+    "related_topics": [
+      "Homo sapiens",
+      "Arte rupestre"
+    ]
+  },
+  {
+    "id": "ep_khulmani_neolitico_europa",
+    "podcast_id": "pod_las_historias_khulmani",
+    "podcast_name": "Las Historias de Khulmani",
+    "episode_code": "",
+    "title": "La expansión del Neolítico por Europa",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0110",
+    "main_topic_id": "topic_neolitico",
+    "topic_ids": [
+      "topic_neolitico"
+    ],
+    "people_ids": [
+      "person_juan_gibaja"
+    ],
+    "place_ids": [
+      "place_lago_bracciano",
+      "place_europa"
+    ],
+    "battle_ids": [],
+    "duration": "",
+    "published": "",
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "language": "es",
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/expansion-del-neolitico-europa-audios-mp3_rf_69689788_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "pending",
+      "ivoox": "verified",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Expansión del Neolítico por Europa con Juan F. Gibaja y referencia a La Marmotta.",
+    "learn": [
+      "Difusión neolítica en Europa",
+      "Primeros agricultores",
+      "La Marmotta"
+    ],
+    "related_topics": [
+      "Neolítico",
+      "Europa",
+      "Agricultura"
+    ]
+  },
+  {
+    "id": "ep_khulmani_aborigenes_australianos",
+    "podcast_id": "pod_las_historias_khulmani",
+    "podcast_name": "Las Historias de Khulmani",
+    "episode_code": "",
+    "title": "Aborígenes Australianos",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0107",
+    "main_topic_id": "topic_aborigenes_australianos",
+    "topic_ids": [
+      "topic_aborigenes_australianos"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_australia"
+    ],
+    "battle_ids": [],
+    "duration": "",
+    "published": "",
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "language": "es",
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/aborigenes-australianos-audios-mp3_rf_58410827_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "pending",
+      "ivoox": "verified",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Poblamiento humano de Australia, herramientas, sociedad, costumbres y creencias aborígenes.",
+    "learn": [
+      "Poblamiento de Australia",
+      "Sociedades cazadoras-recolectoras",
+      "Espiritualidad aborigen"
+    ],
+    "related_topics": [
+      "Homo sapiens",
+      "Migraciones humanas"
+    ]
+  },
+  {
+    "id": "ep_cao_77_prehistoria",
+    "podcast_id": "pod_cao",
+    "podcast_name": "Cuéntaselo a otro",
+    "episode_code": "77",
+    "title": "CAO #77 LA PREHISTORIA",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0108",
+    "main_topic_id": "topic_prehistoria",
+    "topic_ids": [
+      "topic_prehistoria"
+    ],
+    "people_ids": [],
+    "place_ids": [],
+    "battle_ids": [],
+    "duration": "",
     "published": "2026",
     "priority": 1,
+    "difficulty": 1,
+    "depth": 1,
     "language": "es",
-    "apple_url": "https://podcasts.apple.com/es/podcast/el-clima-en-la-historia-crisis-imperios-y/id1150909157?i=1000765992453",
-    "verification_status": "verified_apple",
-    "summary": "Episodio sobre clima, eventos Heinrich, neandertales, Sáhara verde y nacimiento de Egipto faraónico."
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/cao-77-la-prehistoria/id1693438724?i=1000740110307",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "pending",
+      "ivoox": "pending",
+      "youtube": "pending",
+      "web": "pending"
+    },
+    "summary": "Panorámica de la Prehistoria desde primeros homínidos hasta revolución del metal.",
+    "learn": [
+      "Panorámica de Prehistoria",
+      "Fuego",
+      "Arte rupestre",
+      "Neolítico",
+      "Edad de los Metales"
+    ],
+    "related_topics": [
+      "Prehistoria",
+      "Paleolítico",
+      "Neolítico"
+    ]
   }
 ]

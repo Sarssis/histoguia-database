@@ -1,8 +1,8 @@
 [
   {
     "id": "route_prehistoria",
-    "name": "Origen de la Humanidad",
-    "description": "Ruta de prehistoria, evolución humana y revolución agrícola.",
+    "name": "Prehistoria cerrada v1",
+    "description": "Ruta de prehistoria con episodios verificados en Apple, Spotify o iVoox según disponibilidad.",
     "phase_ids": [
       "phase_01"
     ],
@@ -21,6 +21,23 @@
       "sub_0112",
       "sub_0113"
     ],
-    "status": "content_seeded"
+    "episode_ids": [
+      "ep_historia_en_podcast_64_paleolitico",
+      "ep_historia_en_podcast_65_neolitico",
+      "ep_historia_con_movil_neolitico",
+      "ep_lhe_prehistoria_peninsula",
+      "ep_planeta_muy_neandertales",
+      "ep_otro_podcast_arte_paleolitico",
+      "ep_mujeres_historia_prehistoria",
+      "ep_atapuerca_1_zarpazo",
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle",
+      "ep_zh_neolitico_gaditano",
+      "ep_khulmani_paleolitico_superior",
+      "ep_khulmani_neolitico_europa",
+      "ep_khulmani_aborigenes_australianos",
+      "ep_cao_77_prehistoria"
+    ],
+    "status": "ready_for_app_test"
   }
 ]

@@ -1,7 +1,13 @@
 {
-  "version": "1.2",
-  "description": "Phase 1 content seed with verified Apple Podcasts episode URLs.",
-  "publication_rule": "Only episodes with verification_status=verified_apple and Apple episode URL are app-publishable.",
-  "episode_count": 7,
-  "phase_seeded": "phase_01"
+  "version": "1.3",
+  "description": "Prehistoria cerrada v1 con episodios verificados por plataforma.",
+  "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
+  "episode_count": 15,
+  "platforms": [
+    "apple",
+    "spotify",
+    "ivoox",
+    "youtube",
+    "web"
+  ]
 }

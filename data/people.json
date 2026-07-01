@@ -2,35 +2,64 @@
   {
     "id": "person_javier_baena",
     "name": "Javier Baena",
-    "dates": "",
     "roles": [
-      "arqueólogo / especialista entrevistado"
-    ],
-    "topic_ids": [
-      "topic_neandertales"
+      "arqueólogo"
     ]
   },
   {
     "id": "person_carlos_diez",
     "name": "Carlos Díez",
-    "dates": "",
     "roles": [
       "catedrático de prehistoria"
-    ],
-    "topic_ids": [
-      "topic_prehistoria",
-      "topic_evolucion_humana"
     ]
   },
   {
-    "id": "person_rafael_martinez",
-    "name": "Rafael Martínez",
-    "dates": "",
+    "id": "person_maria_martinon",
+    "name": "María Martinón-Torres",
     "roles": [
-      "profesor de prehistoria"
-    ],
-    "topic_ids": [
-      "topic_alimentacion_evolucion"
+      "paleoantropóloga"
+    ]
+  },
+  {
+    "id": "person_eudald_carbonell",
+    "name": "Eudald Carbonell",
+    "roles": [
+      "arqueólogo"
+    ]
+  },
+  {
+    "id": "person_juan_luis_arsuaga",
+    "name": "Juan Luis Arsuaga",
+    "roles": [
+      "paleoantropólogo"
+    ]
+  },
+  {
+    "id": "person_jose_bermudez_castro",
+    "name": "José María Bermúdez de Castro",
+    "roles": [
+      "paleoantropólogo"
+    ]
+  },
+  {
+    "id": "person_almudena_hernando",
+    "name": "Almudena Hernando",
+    "roles": [
+      "arqueóloga"
+    ]
+  },
+  {
+    "id": "person_juan_gibaja",
+    "name": "Juan F. Gibaja",
+    "roles": [
+      "arqueólogo"
+    ]
+  },
+  {
+    "id": "person_eduardo_vijande",
+    "name": "Eduardo Vijande",
+    "roles": [
+      "arqueólogo"
     ]
   }
 ]

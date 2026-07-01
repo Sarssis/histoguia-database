@@ -1,94 +1,17 @@
 [
   {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0101",
-    "target_type": "subperiod",
-    "relation": "contains"
+    "source_id": "sub_0108",
+    "source_type": "subperiod",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "covered_by"
   },
   {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0102",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0103",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0104",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0105",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0106",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0107",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0108",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0109",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0110",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0111",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0112",
-    "target_type": "subperiod",
-    "relation": "contains"
-  },
-  {
-    "source_id": "phase_01",
-    "source_type": "phase",
-    "target_id": "sub_0113",
-    "target_type": "subperiod",
-    "relation": "contains"
+    "source_id": "topic_paleolitico",
+    "source_type": "topic",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "covered_by"
   },
   {
     "source_id": "sub_0110",
@@ -121,14 +44,14 @@
   {
     "source_id": "sub_0108",
     "source_type": "subperiod",
-    "target_id": "ep_la_historia_espana_prehistoria_peninsula",
+    "target_id": "ep_lhe_prehistoria_peninsula",
     "target_type": "episode",
     "relation": "covered_by"
   },
   {
     "source_id": "topic_prehistoria_peninsula_iberica",
     "source_type": "topic",
-    "target_id": "ep_la_historia_espana_prehistoria_peninsula",
+    "target_id": "ep_lhe_prehistoria_peninsula",
     "target_type": "episode",
     "relation": "covered_by"
   },
@@ -147,44 +70,142 @@
     "relation": "covered_by"
   },
   {
-    "source_id": "sub_0107",
+    "source_id": "sub_0108",
     "source_type": "subperiod",
-    "target_id": "ep_ser_historia_origen_prehistoria",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
     "target_type": "episode",
     "relation": "covered_by"
   },
   {
-    "source_id": "topic_evolucion_humana",
+    "source_id": "topic_arte_rupestre",
     "source_type": "topic",
-    "target_id": "ep_ser_historia_origen_prehistoria",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
     "target_type": "episode",
     "relation": "covered_by"
   },
   {
-    "source_id": "sub_0107",
+    "source_id": "sub_0108",
     "source_type": "subperiod",
-    "target_id": "ep_un_podcast_salud_alimentacion_evolucion",
+    "target_id": "ep_mujeres_historia_prehistoria",
     "target_type": "episode",
     "relation": "covered_by"
   },
   {
-    "source_id": "topic_alimentacion_evolucion",
+    "source_id": "topic_mujeres_prehistoria",
     "source_type": "topic",
-    "target_id": "ep_un_podcast_salud_alimentacion_evolucion",
+    "target_id": "ep_mujeres_historia_prehistoria",
     "target_type": "episode",
     "relation": "covered_by"
   },
   {
     "source_id": "sub_0106",
     "source_type": "subperiod",
-    "target_id": "ep_clima_historia_neandertales_sahara",
+    "target_id": "ep_atapuerca_1_zarpazo",
     "target_type": "episode",
     "relation": "covered_by"
   },
   {
-    "source_id": "topic_clima_prehistoria",
+    "source_id": "topic_atapuerca",
     "source_type": "topic",
-    "target_id": "ep_clima_historia_neandertales_sahara",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0106",
+    "source_type": "subperiod",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_atapuerca",
+    "source_type": "topic",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0106",
+    "source_type": "subperiod",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_atapuerca",
+    "source_type": "topic",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0110",
+    "source_type": "subperiod",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_neolitico_gaditano",
+    "source_type": "topic",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0108",
+    "source_type": "subperiod",
+    "target_id": "ep_khulmani_paleolitico_superior",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_paleolitico_superior",
+    "source_type": "topic",
+    "target_id": "ep_khulmani_paleolitico_superior",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0110",
+    "source_type": "subperiod",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_neolitico",
+    "source_type": "topic",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0107",
+    "source_type": "subperiod",
+    "target_id": "ep_khulmani_aborigenes_australianos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_aborigenes_australianos",
+    "source_type": "topic",
+    "target_id": "ep_khulmani_aborigenes_australianos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0108",
+    "source_type": "subperiod",
+    "target_id": "ep_cao_77_prehistoria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_prehistoria",
+    "source_type": "topic",
+    "target_id": "ep_cao_77_prehistoria",
     "target_type": "episode",
     "relation": "covered_by"
   }
