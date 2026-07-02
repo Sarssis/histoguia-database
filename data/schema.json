@@ -1,6 +1,6 @@
 {
-  "version": "3.3",
-  "description": "Subperiodo 3 activo: Australopithecus y primeros géneros humanos.",
+  "version": "3.4",
+  "description": "Subperiodo 4 activo: Homo habilis y primeras herramientas.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
   "episode_count": 39,
   "platforms": [
@@ -10,9 +10,9 @@
     "youtube",
     "web"
   ],
-  "people_count": 34,
+  "people_count": 36,
   "places_count": 38,
-  "topics_count": 125,
-  "relations_count": 692,
-  "status": "sub0103_active"
+  "topics_count": 130,
+  "relations_count": 725,
+  "status": "sub0104_active"
 }

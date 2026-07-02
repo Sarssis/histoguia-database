@@ -163,7 +163,8 @@ const DATA = {
       "order": 4,
       "name": "Homo habilis y primeras herramientas",
       "date_range": "c. 2,4-1,6 Ma",
-      "summary": "Tecnología lítica temprana."
+      "summary": "Homo habilis, Homo rudolfensis, Olduvai, primeras herramientas, industria olduvayense y transición hacia Homo erectus.",
+      "status": "content_seeded"
     },
     {
       "id": "sub_0105",
@@ -1363,6 +1364,51 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Desarrollo progresivo de capacidades cognitivas como planificación, simbolismo y lenguaje."
+    },
+    {
+      "id": "topic_africa_oriental",
+      "name": "África oriental",
+      "type": "region_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Región clave para el origen de los primeros Homo, Olduvai, Koobi Fora y el Valle del Rift."
+    },
+    {
+      "id": "topic_oldowan",
+      "name": "Oldowan / Olduvayense",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primera industria lítica ampliamente reconocida, asociada a herramientas simples de piedra."
+    },
+    {
+      "id": "topic_oh7",
+      "name": "OH 7",
+      "type": "fossil",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fósil tipo de Homo habilis hallado en Olduvai."
+    },
+    {
+      "id": "topic_knm_er_1470",
+      "name": "KNM-ER 1470",
+      "type": "fossil",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cráneo asociado al debate sobre Homo rudolfensis y la diversidad de primeros Homo."
+    },
+    {
+      "id": "topic_transicion_homo_erectus",
+      "name": "Transición hacia Homo erectus",
+      "type": "human_evolution",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso evolutivo que enlaza primeros Homo con Homo ergaster y Homo erectus."
     }
   ],
   "episodes": [
@@ -4225,12 +4271,13 @@ const DATA = {
       "episode_code": "",
       "title": "Evolución de la mente. De Homo habilis a nosotros",
       "phase_id": "phase_01",
-      "subperiod_id": "sub_0103",
-      "main_topic_id": "topic_evolucion_mente",
+      "subperiod_id": "sub_0104",
+      "main_topic_id": "topic_homo_habilis",
       "topic_ids": [
-        "topic_evolucion_mente",
-        "topic_australopithecus",
+        "topic_homo_habilis",
         "topic_genero_homo",
+        "topic_evolucion_mente",
+        "topic_primeras_herramientas",
         "topic_evolucion_humana"
       ],
       "people_ids": [
@@ -4278,18 +4325,18 @@ const DATA = {
         "youtube": "not_available",
         "web": "not_available"
       },
-      "summary": "Entrevista clave para cerrar el subperiodo y enlazar con los primeros Homo. Parte de Homo habilis y aborda la evolución progresiva de capacidades como planificación, teoría de la mente, simbolismo y lenguaje.",
+      "summary": "Episodio central para entender a Homo habilis como puente entre los australopitecos y los primeros humanos. Aporta el marco cognitivo: herramientas, planificación, capacidades mentales y evolución gradual de la conducta humana.",
       "learn": [
-        "Situar a Homo habilis en la evolución de la mente humana.",
-        "Comprender la aparición gradual de capacidades cognitivas.",
-        "Relacionar herramientas, planificación y conducta.",
-        "Preparar el paso hacia Homo erectus y la expansión humana."
+        "Situar a Homo habilis dentro del origen del género Homo.",
+        "Relacionar herramientas, planificación y capacidades cognitivas.",
+        "Comprender la evolución de la mente como un proceso gradual.",
+        "Preparar el paso hacia Homo ergaster y Homo erectus."
       ],
       "listen_before": [
-        "ep_ldd_paleoneurologia"
+        "ep_desenterrando_olduvai"
       ],
       "listen_after": [
-        "ep_historia_en_podcast_64_paleolitico"
+        "ep_lfdlc_australopithecus_neandertal"
       ],
       "related_topics": [
         "Homo habilis",
@@ -4313,13 +4360,14 @@ const DATA = {
       "episode_code": "",
       "title": "Viaje a la Garganta de Olduvai, la cuna de la Humanidad",
       "phase_id": "phase_01",
-      "subperiod_id": "sub_0103",
+      "subperiod_id": "sub_0104",
       "main_topic_id": "topic_olduvai",
       "topic_ids": [
         "topic_olduvai",
-        "topic_australopithecus",
-        "topic_genero_homo",
-        "topic_evolucion_humana"
+        "topic_homo_habilis",
+        "topic_primeras_herramientas",
+        "topic_olduvayense",
+        "topic_africa_oriental"
       ],
       "people_ids": [
         "person_louis_leakey",
@@ -4366,18 +4414,18 @@ const DATA = {
         "youtube": "not_available",
         "web": "not_available"
       },
-      "summary": "Episodio muy recomendable para introducir Olduvai como espacio físico y científico. Explica por qué esta garganta tanzana es central para estudiar primeros Homo, herramientas líticas y el origen profundo de la humanidad.",
+      "summary": "Episodio imprescindible para comprender Olduvai como escenario físico del origen humano. Sitúa la garganta tanzana, los Leakey, los primeros Homo y las primeras herramientas dentro de un contexto arqueológico comprensible.",
       "learn": [
         "Conocer la importancia de la Garganta de Olduvai.",
-        "Relacionar Olduvai con primeros Homo y herramientas.",
-        "Comprender el papel de África oriental en la evolución humana.",
-        "Preparar el paso hacia Homo habilis y Homo erectus."
+        "Relacionar Olduvai con Homo habilis y las primeras herramientas.",
+        "Entender el papel de África oriental en el origen del género Homo.",
+        "Ubicar a Louis y Mary Leakey dentro de la historia de la paleoantropología."
       ],
       "listen_before": [
-        "ep_cueva_topo_sediba"
+        "ep_grandes_yacimientos_olduvai"
       ],
       "listen_after": [
-        "ep_grandes_yacimientos_olduvai"
+        "ep_linterna_mente_habilis"
       ],
       "related_topics": [
         "Olduvai",
@@ -4401,13 +4449,13 @@ const DATA = {
       "episode_code": "",
       "title": "La Garganta de Olduvai y el origen del hombre",
       "phase_id": "phase_01",
-      "subperiod_id": "sub_0103",
+      "subperiod_id": "sub_0104",
       "main_topic_id": "topic_olduvai",
       "topic_ids": [
         "topic_olduvai",
-        "topic_australopithecus",
-        "topic_genero_homo",
-        "topic_evolucion_humana"
+        "topic_primeras_herramientas",
+        "topic_olduvayense",
+        "topic_genero_homo"
       ],
       "people_ids": [
         "person_louis_leakey",
@@ -4455,18 +4503,18 @@ const DATA = {
         "youtube": "not_available",
         "web": "not_available"
       },
-      "summary": "Complemento centrado en Olduvai como gran yacimiento arqueológico. Refuerza el valor del Valle del Rift, la industria lítica temprana y la pregunta por el origen del ser humano.",
+      "summary": "Complemento claro sobre Olduvai como gran yacimiento de la evolución humana. Refuerza el valor del Valle del Rift, la industria lítica temprana y la importancia del registro arqueológico para entender los primeros Homo.",
       "learn": [
-        "Entender Olduvai como gran yacimiento de la humanidad.",
+        "Entender Olduvai como uno de los grandes yacimientos de la humanidad.",
         "Relacionar el Valle del Rift con la evolución humana.",
-        "Reconocer la importancia de las primeras industrias líticas.",
-        "Consolidar el marco geográfico del origen del género Homo."
+        "Reconocer la importancia de la industria olduvayense.",
+        "Consolidar el marco arqueológico de los primeros Homo."
       ],
       "listen_before": [
         "ep_desenterrando_olduvai"
       ],
       "listen_after": [
-        "ep_linterna_mente_habilis"
+        "ep_masterclass_arsuaga_habilis_herramientas"
       ],
       "related_topics": [
         "Olduvai",
@@ -4489,12 +4537,13 @@ const DATA = {
       "episode_code": "",
       "title": "Evolución humana. Del australopithecus al neandertal",
       "phase_id": "phase_01",
-      "subperiod_id": "sub_0103",
+      "subperiod_id": "sub_0104",
       "main_topic_id": "topic_origen_genero_homo",
       "topic_ids": [
         "topic_origen_genero_homo",
-        "topic_australopithecus",
-        "topic_genero_homo",
+        "topic_homo_habilis",
+        "topic_homo_rudolfensis",
+        "topic_homo_erectus",
         "topic_evolucion_humana"
       ],
       "people_ids": [
@@ -4544,15 +4593,15 @@ const DATA = {
         "youtube": "not_available",
         "web": "not_available"
       },
-      "summary": "Episodio panorámico que conecta australopitecos, Paranthropus, primeros Homo y especies posteriores. Es útil como visión de conjunto para cerrar el subperiodo y preparar el avance hacia Homo erectus.",
+      "summary": "Episodio panorámico para cerrar la transición entre australopitecos y primeros Homo. Es útil porque conecta Homo habilis, Homo rudolfensis, Homo ergaster y especies posteriores, preparando el siguiente bloque dedicado a Homo erectus.",
       "learn": [
-        "Ordenar las principales especies de australopitecos y primeros Homo.",
-        "Comprender la diversidad de linajes humanos tempranos.",
+        "Ordenar los principales linajes entre australopitecos y primeros Homo.",
+        "Comprender la diversidad temprana del género Homo.",
         "Relacionar Homo habilis, Homo rudolfensis y Homo ergaster.",
-        "Preparar el siguiente bloque dedicado a Homo erectus."
+        "Preparar el subperiodo siguiente dedicado a Homo erectus."
       ],
       "listen_before": [
-        "ep_grandes_yacimientos_olduvai"
+        "ep_linterna_mente_habilis"
       ],
       "listen_after": [
         "ep_historia_en_podcast_64_paleolitico"
@@ -4579,13 +4628,13 @@ const DATA = {
       "episode_code": "",
       "title": "Master Class con Juan Luis Arsuaga: sin el sudor no habría emociones",
       "phase_id": "phase_01",
-      "subperiod_id": "sub_0103",
+      "subperiod_id": "sub_0104",
       "main_topic_id": "topic_primeras_herramientas",
       "topic_ids": [
         "topic_primeras_herramientas",
-        "topic_australopithecus",
-        "topic_genero_homo",
-        "topic_evolucion_humana"
+        "topic_homo_habilis",
+        "topic_evolucion_anatomica",
+        "topic_genero_homo"
       ],
       "people_ids": [
         "person_homo_habilis",
@@ -4630,15 +4679,15 @@ const DATA = {
         "youtube": "not_available",
         "web": "not_available"
       },
-      "summary": "Pieza breve de apoyo por su referencia a Homo habilis y a la aparición de las primeras herramientas. No es un episodio troncal, pero aporta un complemento divulgativo útil desde la voz de Juan Luis Arsuaga.",
+      "summary": "Pieza breve de apoyo sobre Homo habilis y las primeras herramientas. No es el episodio troncal del subperiodo, pero funciona bien como complemento divulgativo desde la voz de Juan Luis Arsuaga.",
       "learn": [
-        "Relacionar Homo habilis con primeras herramientas.",
+        "Relacionar Homo habilis con las primeras herramientas.",
         "Comprender la importancia de la coordinación corporal.",
         "Conectar evolución anatómica y conducta técnica.",
-        "Usar el episodio como apoyo divulgativo breve."
+        "Usar el episodio como refuerzo breve."
       ],
       "listen_before": [
-        "ep_entrevistas_linterna_evolucion_anatomica"
+        "ep_grandes_yacimientos_olduvai"
       ],
       "listen_after": [
         "ep_linterna_mente_habilis"

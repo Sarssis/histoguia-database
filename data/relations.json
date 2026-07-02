@@ -4842,5 +4842,236 @@
     "target_id": "topic_homo_erectus",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0104",
+    "source_type": "subperiod",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_evolucion_mente",
+    "source_type": "topic",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primeras_herramientas",
+    "source_type": "topic",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "ep_desenterrando_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_linterna_mente_habilis",
+    "source_type": "episode",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0104",
+    "source_type": "subperiod",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primeras_herramientas",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_olduvayense",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_africa_oriental",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "ep_grandes_yacimientos_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_desenterrando_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0104",
+    "source_type": "subperiod",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primeras_herramientas",
+    "source_type": "topic",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_olduvayense",
+    "source_type": "topic",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "ep_grandes_yacimientos_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0104",
+    "source_type": "subperiod",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_homo_rudolfensis",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "ep_linterna_mente_habilis",
+    "source_type": "episode",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "sub_0104",
+    "source_type": "subperiod",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_anatomica",
+    "source_type": "topic",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "ep_grandes_yacimientos_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "topic_origen_genero_homo",
+    "source_type": "topic",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "topic_olduvai",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_olduvai",
+    "source_type": "topic",
+    "target_id": "topic_primeras_herramientas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_primeras_herramientas",
+    "source_type": "topic",
+    "target_id": "topic_olduvayense",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_olduvayense",
+    "source_type": "topic",
+    "target_id": "topic_homo_rudolfensis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_rudolfensis",
+    "source_type": "topic",
+    "target_id": "topic_transicion_homo_erectus",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_transicion_homo_erectus",
+    "source_type": "topic",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

@@ -63,7 +63,11 @@
       "topic_australopithecus_sediba",
       "topic_genero_homo",
       "topic_homo_rudolfensis",
-      "topic_olduvai"
+      "topic_olduvai",
+      "topic_origen_genero_homo",
+      "topic_primeras_herramientas",
+      "topic_olduvayense",
+      "topic_transicion_homo_erectus"
     ],
     "episode_ids": [
       "ep_aparici_s05e06_sopa_primordial",
@@ -85,11 +89,11 @@
       "ep_cueva_topo_sediba",
       "ep_cueva_topo_deyiremeda",
       "ep_ldd_paleoneurologia",
-      "ep_linterna_mente_habilis",
       "ep_desenterrando_olduvai",
       "ep_grandes_yacimientos_olduvai",
-      "ep_lfdlc_australopithecus_neandertal",
       "ep_masterclass_arsuaga_habilis_herramientas",
+      "ep_linterna_mente_habilis",
+      "ep_lfdlc_australopithecus_neandertal",
       "ep_cao_77_prehistoria",
       "ep_historia_en_podcast_64_paleolitico",
       "ep_planeta_muy_neandertales",
@@ -106,6 +110,6 @@
       "ep_zh_neolitico_gaditano",
       "ep_khulmani_aborigenes_australianos"
     ],
-    "status": "sub0103_active"
+    "status": "sub0104_active"
   }
 ]

@@ -1123,5 +1123,50 @@
       "phase_01"
     ],
     "summary": "Desarrollo progresivo de capacidades cognitivas como planificación, simbolismo y lenguaje."
+  },
+  {
+    "id": "topic_africa_oriental",
+    "name": "África oriental",
+    "type": "region_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Región clave para el origen de los primeros Homo, Olduvai, Koobi Fora y el Valle del Rift."
+  },
+  {
+    "id": "topic_oldowan",
+    "name": "Oldowan / Olduvayense",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primera industria lítica ampliamente reconocida, asociada a herramientas simples de piedra."
+  },
+  {
+    "id": "topic_oh7",
+    "name": "OH 7",
+    "type": "fossil",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fósil tipo de Homo habilis hallado en Olduvai."
+  },
+  {
+    "id": "topic_knm_er_1470",
+    "name": "KNM-ER 1470",
+    "type": "fossil",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Cráneo asociado al debate sobre Homo rudolfensis y la diversidad de primeros Homo."
+  },
+  {
+    "id": "topic_transicion_homo_erectus",
+    "name": "Transición hacia Homo erectus",
+    "type": "human_evolution",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Proceso evolutivo que enlaza primeros Homo con Homo ergaster y Homo erectus."
   }
 ]

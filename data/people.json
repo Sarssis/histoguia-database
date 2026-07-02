@@ -702,5 +702,49 @@
     "related_episodes": [
       "ep_linterna_mente_habilis"
     ]
+  },
+  {
+    "id": "person_oh7",
+    "name": "OH 7",
+    "type": "fossil",
+    "category": "human_fossil",
+    "scientific_name": "Homo habilis",
+    "dates": "c. 1,8 millones de años",
+    "period": "Pleistoceno temprano",
+    "summary": "Fósil tipo de Homo habilis hallado en Olduvai, clave para la definición inicial de la especie.",
+    "related_topics": [
+      "topic_homo_habilis",
+      "topic_oh7",
+      "topic_olduvai"
+    ],
+    "related_places": [
+      "place_olduvai"
+    ],
+    "related_episodes": [
+      "ep_desenterrando_olduvai",
+      "ep_linterna_mente_habilis"
+    ]
+  },
+  {
+    "id": "person_knm_er_1470",
+    "name": "KNM-ER 1470",
+    "type": "fossil",
+    "category": "human_fossil",
+    "scientific_name": "Homo rudolfensis",
+    "dates": "c. 1,9 millones de años",
+    "period": "Pleistoceno temprano",
+    "summary": "Cráneo asociado al debate sobre Homo rudolfensis y la diversidad de los primeros representantes del género Homo.",
+    "related_topics": [
+      "topic_homo_rudolfensis",
+      "topic_knm_er_1470",
+      "topic_genero_homo"
+    ],
+    "related_places": [
+      "place_koobi_fora",
+      "place_lago_turkana"
+    ],
+    "related_episodes": [
+      "ep_lfdlc_australopithecus_neandertal"
+    ]
   }
 ]
