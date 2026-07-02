@@ -142,5 +142,50 @@
     "spotify_show_url": "",
     "ivoox_show_url": "",
     "status": "active_secondary"
+  },
+  {
+    "id": "pod_bajo_las_arenas",
+    "name": "Bajo Las Arenas del Tiempo",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-bajo-las-arenas-del-tiempo_sq_f12802020_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_despierta_curiosidad",
+    "name": "Despierta tu curiosidad",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/despierta-tu-curiosidad/id1693657645",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active"
+  },
+  {
+    "id": "pod_podcast_buho",
+    "name": "El Podcast del Búho",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/el-podcast-del-b%C3%BAho/id340698346",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_legacy"
+  },
+  {
+    "id": "pod_cueva_topo",
+    "name": "La cueva del Topo",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/la-cueva-del-topo/id1523594758",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-cueva-del-topo_sq_f1984504_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_entrevistas_linterna",
+    "name": "Entrevistas Linterna de Diógenes",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-entrevistas-linterna-diogenes_sq_f155117_1.html",
+    "status": "active"
   }
 ]

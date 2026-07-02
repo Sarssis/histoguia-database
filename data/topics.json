@@ -844,5 +844,140 @@
       "phase_01"
     ],
     "summary": "Ambientes acuáticos tempranos de la Tierra primitiva."
+  },
+  {
+    "id": "topic_primates",
+    "name": "Primates",
+    "type": "taxonomic_group",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Orden de mamíferos al que pertenecen los humanos, simios, monos y prosimios."
+  },
+  {
+    "id": "topic_primeros_homininos",
+    "name": "Primeros homininos",
+    "type": "human_evolution",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primeras ramas evolutivas posteriores a la separación con el linaje de chimpancés y bonobos."
+  },
+  {
+    "id": "topic_homininos",
+    "name": "Homininos",
+    "type": "taxonomic_group",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Grupo que incluye a humanos modernos y a sus parientes fósiles más cercanos posteriores a la divergencia con chimpancés."
+  },
+  {
+    "id": "topic_ultimo_ancestro_comun",
+    "name": "Último ancestro común",
+    "type": "human_evolution",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Hipótesis sobre la población ancestral compartida por humanos y chimpancés."
+  },
+  {
+    "id": "topic_bipedestacion",
+    "name": "Bipedestación",
+    "type": "anatomy",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Adopción de la locomoción erguida como rasgo clave en la evolución humana."
+  },
+  {
+    "id": "topic_mano_primate",
+    "name": "Mano primate",
+    "type": "anatomy",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Adaptaciones manuales de los primates y su importancia evolutiva."
+  },
+  {
+    "id": "topic_pinza_precision",
+    "name": "Pinza de precisión",
+    "type": "anatomy",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Capacidad manual fina vinculada al uso y fabricación de herramientas."
+  },
+  {
+    "id": "topic_primatologia",
+    "name": "Primatología",
+    "type": "discipline",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Estudio científico de los primates humanos y no humanos."
+  },
+  {
+    "id": "topic_chimpances",
+    "name": "Chimpancés",
+    "type": "primate_group",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primates cercanos evolutivamente a Homo sapiens, relevantes para comparación conductual y cognitiva."
+  },
+  {
+    "id": "topic_bonobos",
+    "name": "Bonobos",
+    "type": "primate_group",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primates estrechamente relacionados con chimpancés, importantes para comparar estructuras sociales."
+  },
+  {
+    "id": "topic_australopithecus_anamensis",
+    "name": "Australopithecus anamensis",
+    "type": "species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Una de las especies más antiguas del género Australopithecus."
+  },
+  {
+    "id": "topic_lucy",
+    "name": "Lucy",
+    "type": "fossil",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fósil de Australopithecus afarensis hallado en Hadar, Etiopía."
+  },
+  {
+    "id": "topic_hadar",
+    "name": "Hadar",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento etíope donde se descubrió a Lucy."
+  },
+  {
+    "id": "topic_laetoli",
+    "name": "Laetoli",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento tanzano célebre por huellas fósiles relacionadas con bipedismo temprano."
+  },
+  {
+    "id": "topic_evolucion_anatomica",
+    "name": "Evolución anatómica humana",
+    "type": "human_evolution",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Cambios corporales como bipedestación, mano, encéfalo y desarrollo prolongado."
   }
 ]

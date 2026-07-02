@@ -431,5 +431,69 @@
     "related_episodes": [
       "ep_zh_neolitico_gaditano"
     ]
+  },
+  {
+    "id": "person_australopithecus_anamensis",
+    "name": "Australopithecus anamensis",
+    "type": "species",
+    "category": "hominin_species",
+    "scientific_name": "Australopithecus anamensis",
+    "dates": "c. 4,2-3,8 millones de años",
+    "period": "Plioceno",
+    "summary": "Una de las especies más antiguas atribuidas al género Australopithecus, importante para estudiar los inicios del linaje australopitecino.",
+    "related_topics": [
+      "topic_australopithecus_anamensis",
+      "topic_australopithecus",
+      "topic_bipedismo"
+    ],
+    "related_places": [
+      "place_lago_turkana"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_australopithecus_anamensis"
+    ]
+  },
+  {
+    "id": "person_donald_johanson",
+    "name": "Donald Johanson",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1943-",
+    "period": "Historia de la paleoantropología",
+    "summary": "Paleoantropólogo vinculado al descubrimiento de Lucy en Hadar, Etiopía.",
+    "related_topics": [
+      "topic_lucy",
+      "topic_australopithecus",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_hadar"
+    ],
+    "related_episodes": [
+      "ep_despierta_lucy",
+      "ep_buho_lucy"
+    ]
+  },
+  {
+    "id": "person_jose_maria_bermudez_castro",
+    "name": "José María Bermúdez de Castro",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1952-",
+    "period": "Historia de la paleoantropología",
+    "summary": "Paleoantropólogo y codirector de Atapuerca, especializado en evolución humana.",
+    "related_topics": [
+      "topic_atapuerca",
+      "topic_evolucion_humana",
+      "topic_evolucion_anatomica"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_entrevistas_linterna_evolucion_anatomica"
+    ]
   }
 ]

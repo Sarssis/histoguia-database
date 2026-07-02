@@ -565,5 +565,24 @@
       "ep_brujula_s01e01_origen_vida",
       "ep_ldd18x09_historia_tierra"
     ]
+  },
+  {
+    "id": "place_kanapoi",
+    "name": "Kanapoi",
+    "type": "site",
+    "modern_location": "Kenia",
+    "summary": "Yacimiento asociado a fósiles de Australopithecus anamensis y al estudio de homininos tempranos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_australopithecus_anamensis",
+      "topic_australopithecus",
+      "topic_bipedismo"
+    ],
+    "related_people": [
+      "person_australopithecus_anamensis"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_australopithecus_anamensis"
+    ]
   }
 ]

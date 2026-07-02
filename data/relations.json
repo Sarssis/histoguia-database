@@ -2700,5 +2700,775 @@
     "target_id": "topic_gran_oxidacion",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0102",
+    "source_type": "subperiod",
+    "target_id": "ep_bajo_arenas_prehominidos_homininos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_prehominidos_homininos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_prehominidos_homininos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_prehominidos_homininos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "ep_brujula_s01e01_origen_vida",
+    "source_type": "episode",
+    "target_id": "ep_bajo_arenas_prehominidos_homininos",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_bajo_arenas_prehominidos_homininos",
+    "source_type": "episode",
+    "target_id": "ep_ldd_primates_i_gran_familia",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "ep_bajo_arenas_prehominidos_homininos",
+    "source_type": "episode",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0102",
+    "source_type": "subperiod",
+    "target_id": "ep_ldd_primates_i_gran_familia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "ep_ldd_primates_i_gran_familia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "ep_ldd_primates_i_gran_familia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_ldd_primates_i_gran_familia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "ep_ldd_primates_i_gran_familia",
+    "source_type": "episode",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0102",
+    "source_type": "subperiod",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_evolucion_anatomica",
+    "source_type": "topic",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_ldd_primates_i_gran_familia",
+    "source_type": "episode",
+    "target_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "source_type": "episode",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0102",
+    "source_type": "subperiod",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_evolucion_anatomica",
+    "source_type": "topic",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_ldd_primates_v_evolucion_anatomica",
+    "source_type": "episode",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "source_type": "episode",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0102",
+    "source_type": "subperiod",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_lucy",
+    "source_type": "topic",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_hadar",
+    "source_type": "place",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_bajo_arenas_prehominidos_homininos",
+    "source_type": "episode",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_despierta_lucy",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0102",
+    "source_type": "subperiod",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_lucy",
+    "source_type": "topic",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_hadar",
+    "source_type": "place",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_despierta_lucy",
+    "source_type": "episode",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_buho_lucy",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0102",
+    "source_type": "subperiod",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus_anamensis",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_anamensis",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_kanapoi",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_lago_turkana",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_despierta_lucy",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_cueva_topo_australopithecus_anamensis",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "topic_primates",
+    "source_type": "topic",
+    "target_id": "topic_primatologia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_primatologia",
+    "source_type": "topic",
+    "target_id": "topic_ultimo_ancestro_comun",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ultimo_ancestro_comun",
+    "source_type": "topic",
+    "target_id": "topic_primeros_homininos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_primeros_homininos",
+    "source_type": "topic",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_bipedismo",
+    "source_type": "topic",
+    "target_id": "topic_bipedestacion",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_bipedestacion",
+    "source_type": "topic",
+    "target_id": "topic_australopithecus_anamensis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_australopithecus_anamensis",
+    "source_type": "topic",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "topic_lucy",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_lucy",
+    "source_type": "topic",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "person_australopithecus_anamensis",
+    "source_type": "person",
+    "target_id": "topic_australopithecus_anamensis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_anamensis",
+    "source_type": "person",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_anamensis",
+    "source_type": "person",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_anamensis",
+    "source_type": "person",
+    "target_id": "place_lago_turkana",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_anamensis",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "topic_lucy",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "place_hadar",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_donald_johanson",
+    "source_type": "person",
+    "target_id": "ep_buho_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jose_maria_bermudez_castro",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jose_maria_bermudez_castro",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jose_maria_bermudez_castro",
+    "source_type": "person",
+    "target_id": "topic_evolucion_anatomica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jose_maria_bermudez_castro",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jose_maria_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "topic_historia_tierra",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "topic_formacion_tierra",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "topic_origen_vida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "ep_aparici_s05e06_sopa_primordial",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "ep_aparici_s08e35_coacervados",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "ep_brujula_s01e01_origen_vida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "ep_bio4eso_origen_vida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "ep_ldd18x09_historia_tierra",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tierra",
+    "source_type": "place",
+    "target_id": "ep_mas_de_uno_vida_antes_celulas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_oceanos_primitivos",
+    "source_type": "place",
+    "target_id": "topic_origen_vida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_oceanos_primitivos",
+    "source_type": "place",
+    "target_id": "topic_abiogenesis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_oceanos_primitivos",
+    "source_type": "place",
+    "target_id": "topic_primeras_celulas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_oceanos_primitivos",
+    "source_type": "place",
+    "target_id": "ep_aparici_s05e06_sopa_primordial",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_oceanos_primitivos",
+    "source_type": "place",
+    "target_id": "ep_aparici_s08e35_coacervados",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_oceanos_primitivos",
+    "source_type": "place",
+    "target_id": "ep_mas_de_uno_vida_antes_celulas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_rocas_arqueanas",
+    "source_type": "place",
+    "target_id": "topic_arqueano",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_rocas_arqueanas",
+    "source_type": "place",
+    "target_id": "topic_origen_vida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_rocas_arqueanas",
+    "source_type": "place",
+    "target_id": "topic_historia_tierra",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_rocas_arqueanas",
+    "source_type": "place",
+    "target_id": "ep_brujula_s01e01_origen_vida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_rocas_arqueanas",
+    "source_type": "place",
+    "target_id": "ep_ldd18x09_historia_tierra",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_kanapoi",
+    "source_type": "place",
+    "target_id": "topic_australopithecus_anamensis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_kanapoi",
+    "source_type": "place",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_kanapoi",
+    "source_type": "place",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_kanapoi",
+    "source_type": "place",
+    "target_id": "person_australopithecus_anamensis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_kanapoi",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_australopithecus_anamensis",
+    "target_type": "episode",
+    "relation": "related_episode"
   }
 ]

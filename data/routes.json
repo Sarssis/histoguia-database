@@ -22,6 +22,13 @@
       "sub_0113"
     ],
     "topic_ids": [
+      "topic_primates",
+      "topic_primatologia",
+      "topic_ultimo_ancestro_comun",
+      "topic_primeros_homininos",
+      "topic_bipedestacion",
+      "topic_australopithecus_anamensis",
+      "topic_lucy",
       "topic_gran_oxidacion",
       "topic_arqueano",
       "topic_primeras_celulas",
@@ -59,6 +66,13 @@
       "ep_bio4eso_origen_vida",
       "ep_ldd18x09_historia_tierra",
       "ep_mas_de_uno_vida_antes_celulas",
+      "ep_bajo_arenas_prehominidos_homininos",
+      "ep_ldd_primates_i_gran_familia",
+      "ep_ldd_primates_v_evolucion_anatomica",
+      "ep_entrevistas_linterna_evolucion_anatomica",
+      "ep_despierta_lucy",
+      "ep_buho_lucy",
+      "ep_cueva_topo_australopithecus_anamensis",
       "ep_cao_77_prehistoria",
       "ep_historia_en_podcast_64_paleolitico",
       "ep_planeta_muy_neandertales",
@@ -75,6 +89,6 @@
       "ep_zh_neolitico_gaditano",
       "ep_khulmani_aborigenes_australianos"
     ],
-    "status": "sub0101_active"
+    "status": "sub0102_active"
   }
 ]

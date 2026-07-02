@@ -1728,5 +1728,606 @@
       "alberto aparici",
       "coacervados"
     ]
+  },
+  {
+    "id": "ep_bajo_arenas_prehominidos_homininos",
+    "podcast_id": "pod_bajo_las_arenas",
+    "podcast_name": "Bajo Las Arenas del Tiempo",
+    "episode_code": "",
+    "title": "Evolución Humana, Pre-Homínidos y primeros Homininos",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0102",
+    "main_topic_id": "topic_primeros_homininos",
+    "topic_ids": [
+      "topic_primeros_homininos",
+      "topic_primates",
+      "topic_primeros_homininos",
+      "topic_evolucion_humana"
+    ],
+    "people_ids": [],
+    "place_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2025",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/evolucion-humana-pre-hominidos-primeros-homininos-audios-mp3_rf_160123762_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "160123762",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio central para activar el subperiodo. Entra directamente en la transición entre primates, prehomínidos y primeros homininos, ofreciendo una visión amplia del contexto evolutivo anterior al género Homo.",
+    "learn": [
+      "Diferenciar primates, homínidos y homininos.",
+      "Situar los primeros homininos dentro de la evolución humana.",
+      "Comprender la importancia de la clasificación biológica.",
+      "Preparar el paso hacia Australopithecus y Homo habilis."
+    ],
+    "listen_before": [
+      "ep_brujula_s01e01_origen_vida"
+    ],
+    "listen_after": [
+      "ep_ldd_primates_i_gran_familia",
+      "ep_despierta_lucy"
+    ],
+    "related_topics": [
+      "Primates",
+      "Primeros homininos",
+      "Evolución humana",
+      "Australopithecus"
+    ],
+    "keywords": [
+      "primates",
+      "primeros homininos",
+      "pre homínidos",
+      "evolución humana",
+      "hominización",
+      "australopithecus"
+    ]
+  },
+  {
+    "id": "ep_ldd_primates_i_gran_familia",
+    "podcast_id": "pod_linterna_diogenes",
+    "podcast_name": "Podcast Linterna de Diógenes",
+    "episode_code": "Primates I",
+    "title": "Primates I - La gran familia primate",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0102",
+    "main_topic_id": "topic_primates",
+    "topic_ids": [
+      "topic_primates",
+      "topic_primates",
+      "topic_primeros_homininos",
+      "topic_evolucion_humana"
+    ],
+    "people_ids": [],
+    "place_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "1 h 15 min",
+    "duration_minutes": 75,
+    "published": "2025-10-23",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/primates-i-la-gran-familia-primate-audios-mp3_rf_160989336_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "160989336",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio útil para comprender de dónde viene el linaje humano dentro del conjunto de los primates. Aborda rasgos como la mano, la dieta, la cooperación, las estructuras sociales y la comparación con chimpancés y bonobos.",
+    "learn": [
+      "Comprender qué caracteriza a los primates.",
+      "Relacionar mano, visión y comportamiento social en primates.",
+      "Comparar chimpancés, bonobos y humanos.",
+      "Entender por qué la primatología ayuda a estudiar la evolución humana."
+    ],
+    "listen_before": [],
+    "listen_after": [
+      "ep_ldd_primates_v_evolucion_anatomica"
+    ],
+    "related_topics": [
+      "Primates",
+      "Primatología",
+      "Chimpancés",
+      "Bonobos",
+      "Mano primate"
+    ],
+    "keywords": [
+      "primates",
+      "primatología",
+      "chimpancés",
+      "bonobos",
+      "comportamiento social",
+      "mano primate"
+    ]
+  },
+  {
+    "id": "ep_ldd_primates_v_evolucion_anatomica",
+    "podcast_id": "pod_linterna_diogenes",
+    "podcast_name": "Podcast Linterna de Diógenes",
+    "episode_code": "Primates V",
+    "title": "Primates V - Evolución anatómica humana",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0102",
+    "main_topic_id": "topic_evolucion_anatomica",
+    "topic_ids": [
+      "topic_evolucion_anatomica",
+      "topic_primates",
+      "topic_primeros_homininos",
+      "topic_evolucion_humana"
+    ],
+    "people_ids": [
+      "person_jose_bermudez_castro"
+    ],
+    "place_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "27 min",
+    "duration_minutes": 27,
+    "published": "2025-11-01",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/primates-v-evolucion-anatomica-humana-audios-mp3_rf_160990003_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "160990003",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio muy recomendable para entender los cambios anatómicos que abren el camino humano: postura erguida, evolución de la mano, encefalización y desarrollo prolongado. Es una pieza puente entre primates y evolución humana propiamente dicha.",
+    "learn": [
+      "Comprender la trascendencia de la postura erguida.",
+      "Relacionar mano, herramientas y pinza de precisión.",
+      "Explicar la importancia de la encefalización.",
+      "Entender cómo la anatomía condiciona la evolución humana."
+    ],
+    "listen_before": [
+      "ep_ldd_primates_i_gran_familia"
+    ],
+    "listen_after": [
+      "ep_entrevistas_linterna_evolucion_anatomica"
+    ],
+    "related_topics": [
+      "Bipedestación",
+      "Evolución de la mano",
+      "Encefalización",
+      "Atapuerca"
+    ],
+    "keywords": [
+      "evolución anatómica",
+      "bipedestación",
+      "mano",
+      "encefalización",
+      "bermúdez de castro",
+      "primates"
+    ]
+  },
+  {
+    "id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "podcast_id": "pod_entrevistas_linterna",
+    "podcast_name": "Entrevistas Linterna de Diógenes",
+    "episode_code": "Evolución humana I",
+    "title": "Evolución humana I - Evolución anatómica (José María Bermúdez de Castro)",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0102",
+    "main_topic_id": "topic_evolucion_anatomica",
+    "topic_ids": [
+      "topic_evolucion_anatomica",
+      "topic_primates",
+      "topic_primeros_homininos",
+      "topic_evolucion_humana"
+    ],
+    "people_ids": [
+      "person_jose_bermudez_castro"
+    ],
+    "place_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "51 min",
+    "duration_minutes": 51,
+    "published": "2014-01-25",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/evolucion-humana-i-evolucion-anatomica-jose-maria-audios-mp3_rf_2755699_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "2755699",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Entrevista de gran valor para comprender los hitos biológicos iniciales de la evolución humana. Bermúdez de Castro explica bipedestación, postura erguida, pinza de precisión, encefalización y prolongación del desarrollo con un enfoque claro y experto.",
+    "learn": [
+      "Identificar los principales cambios anatómicos de la evolución humana.",
+      "Relacionar bipedestación y liberación de las manos.",
+      "Comprender la importancia de la pinza de precisión.",
+      "Entender la evolución humana como un proceso anatómico y conductual."
+    ],
+    "listen_before": [
+      "ep_ldd_primates_v_evolucion_anatomica"
+    ],
+    "listen_after": [
+      "ep_atapuerca_1_zarpazo"
+    ],
+    "related_topics": [
+      "Bipedestación",
+      "Pinza de precisión",
+      "Encefalización",
+      "Hominización"
+    ],
+    "keywords": [
+      "evolución humana",
+      "evolución anatómica",
+      "bipedestación",
+      "pinza de precisión",
+      "encefalización",
+      "bermúdez de castro"
+    ]
+  },
+  {
+    "id": "ep_despierta_lucy",
+    "podcast_id": "pod_despierta_curiosidad",
+    "podcast_name": "Despierta tu curiosidad",
+    "episode_code": "",
+    "title": "Lucy, el ancestro más famoso",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0102",
+    "main_topic_id": "topic_lucy",
+    "topic_ids": [
+      "topic_lucy",
+      "topic_primates",
+      "topic_primeros_homininos",
+      "topic_evolucion_humana"
+    ],
+    "people_ids": [
+      "person_lucy",
+      "person_australopithecus_afarensis",
+      "person_donald_johanson"
+    ],
+    "place_ids": [
+      "place_hadar"
+    ],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2024-04-24",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/lucy-el-ancestro-m%C3%A1s-famoso/id1693657645?i=1000653521180",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000653521180",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "not_available",
+      "ivoox": "not_available",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "La mejor pieza breve para introducir a Lucy y Australopithecus afarensis. Explica por qué este fósil descubierto en Etiopía en 1974 es tan importante para estudiar el bipedismo y los primeros pasos del linaje humano.",
+    "learn": [
+      "Conocer quién fue Lucy.",
+      "Relacionar Lucy con Australopithecus afarensis.",
+      "Comprender la importancia del bipedismo temprano.",
+      "Situar Hadar y Etiopía dentro de la paleoantropología."
+    ],
+    "listen_before": [
+      "ep_bajo_arenas_prehominidos_homininos"
+    ],
+    "listen_after": [
+      "ep_cueva_topo_australopithecus_anamensis"
+    ],
+    "related_topics": [
+      "Lucy",
+      "Australopithecus afarensis",
+      "Bipedismo",
+      "Hadar"
+    ],
+    "keywords": [
+      "lucy",
+      "australopithecus afarensis",
+      "hadar",
+      "etiopía",
+      "bipedismo",
+      "donald johanson"
+    ]
+  },
+  {
+    "id": "ep_buho_lucy",
+    "podcast_id": "pod_podcast_buho",
+    "podcast_name": "El Podcast del Búho",
+    "episode_code": "13",
+    "title": "13. Lucy",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0102",
+    "main_topic_id": "topic_lucy",
+    "topic_ids": [
+      "topic_lucy",
+      "topic_primates",
+      "topic_primeros_homininos",
+      "topic_evolucion_humana"
+    ],
+    "people_ids": [
+      "person_lucy",
+      "person_australopithecus_afarensis",
+      "person_donald_johanson"
+    ],
+    "place_ids": [
+      "place_hadar"
+    ],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "12 min",
+    "duration_minutes": 12,
+    "published": "2010-04-18",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 1,
+    "editor_rating": 4,
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/13-lucy/id340698346?i=1000108310692",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000108310692",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "not_available",
+      "ivoox": "not_available",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Cápsula breve y directa sobre Lucy. No sustituye a una explicación más completa, pero funciona muy bien como refuerzo rápido para recordar quién fue, dónde se encontró y por qué es importante.",
+    "learn": [
+      "Recordar los datos básicos de Lucy.",
+      "Identificar a Australopithecus afarensis.",
+      "Relacionar Hadar con el descubrimiento del fósil.",
+      "Reforzar la importancia del bipedismo temprano."
+    ],
+    "listen_before": [
+      "ep_despierta_lucy"
+    ],
+    "listen_after": [
+      "ep_cueva_topo_australopithecus_anamensis"
+    ],
+    "related_topics": [
+      "Lucy",
+      "Australopithecus afarensis",
+      "Hadar"
+    ],
+    "keywords": [
+      "lucy",
+      "australopithecus",
+      "hadar",
+      "etiopía",
+      "fósil",
+      "bipedismo"
+    ]
+  },
+  {
+    "id": "ep_cueva_topo_australopithecus_anamensis",
+    "podcast_id": "pod_cueva_topo",
+    "podcast_name": "La cueva del Topo",
+    "episode_code": "",
+    "title": "Australopithecus anamensis",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0102",
+    "main_topic_id": "topic_australopithecus_anamensis",
+    "topic_ids": [
+      "topic_australopithecus_anamensis",
+      "topic_primates",
+      "topic_primeros_homininos",
+      "topic_evolucion_humana"
+    ],
+    "people_ids": [
+      "person_australopithecus_anamensis"
+    ],
+    "place_ids": [
+      "place_kanapoi",
+      "place_lago_turkana"
+    ],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2025",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/australopithecus-anamensis/id1523594758?i=1000687255805",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000687255805",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "not_available",
+      "ivoox": "not_available",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio específico sobre Australopithecus anamensis, útil para ampliar el bloque más allá de Lucy y Australopithecus afarensis. Aporta contexto sobre una de las especies más antiguas del género Australopithecus y su posición en la evolución temprana.",
+    "learn": [
+      "Identificar a Australopithecus anamensis.",
+      "Situar la especie entre los australopitecos más antiguos.",
+      "Relacionar Kanapoi y lago Turkana con la paleoantropología africana.",
+      "Comprender la diversidad de homininos tempranos."
+    ],
+    "listen_before": [
+      "ep_despierta_lucy"
+    ],
+    "listen_after": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ],
+    "related_topics": [
+      "Australopithecus anamensis",
+      "Australopithecus",
+      "Bipedismo",
+      "Kenia"
+    ],
+    "keywords": [
+      "australopithecus anamensis",
+      "australopithecus",
+      "kanapoi",
+      "lago turkana",
+      "homininos",
+      "bipedismo"
+    ]
   }
 ]

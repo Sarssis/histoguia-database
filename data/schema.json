@@ -1,8 +1,8 @@
 {
-  "version": "3.1",
-  "description": "Subperiodo 1 activo: Origen de la vida y contexto geológico.",
+  "version": "3.2",
+  "description": "Subperiodo 2 activo: Primates y primeros homininos.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 21,
+  "episode_count": 28,
   "platforms": [
     "apple",
     "spotify",
@@ -10,9 +10,9 @@
     "youtube",
     "web"
   ],
-  "people_count": 21,
-  "places_count": 32,
-  "topics_count": 94,
-  "relations_count": 386,
-  "status": "sub0101_active"
+  "people_count": 24,
+  "places_count": 33,
+  "topics_count": 109,
+  "relations_count": 496,
+  "status": "sub0102_active"
 }

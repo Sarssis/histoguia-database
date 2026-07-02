@@ -1,22 +1,23 @@
-# Histoguía Database · sub_0101 v3.1
+# Histoguía Database · sub_0102 v3.2
 
 Actualización completa de `histoguia-database`.
 
 ## Subperiodo activado
 
-**1. Origen de la vida y contexto geológico**
+**2. Primates y primeros homininos**
 
 ## Añadido
 
-- 6 episodios nuevos verificados.
-- Nuevos podcasts: Aparici en Órbita, La Brújula de la Ciencia, Evolución - Biología y Geología 4º ESO, La Linterna de Diógenes, Más de uno.
-- Nuevos temas: origen de la vida, historia de la Tierra, formación de la Tierra, abiogénesis, mundo de ARN, coacervados, primeras células, Hádico, Arcaico, Gran Oxidación.
-- Nuevos lugares/contextos: Tierra, océanos primitivos, rocas arcaicas.
+- 7 episodios nuevos verificados.
+- Nuevos temas: primates, primeros homininos, último ancestro común, bipedestación, mano primate, pinza de precisión, primatología, Australopithecus anamensis, Lucy.
+- Nuevas personas/especies: Australopithecus anamensis y Donald Johanson.
+- Nuevo lugar: Kanapoi.
 - Relaciones añadidas para activar el subperiodo en la app.
 
 ## Totales
 
-- Episodios: 21
-- Temas: 94
-- Lugares: 32
-- Relaciones: 386
+- Episodios: 28
+- Personas/especies/investigadores: 24
+- Temas: 109
+- Lugares: 33
+- Relaciones: 496
