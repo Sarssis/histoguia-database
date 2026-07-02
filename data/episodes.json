@@ -83,7 +83,14 @@
       "paleolítico superior",
       "prehistoria"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "1000518543593",
+      "spotify": "",
+      "ivoox": "69085351",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_historia_en_podcast_65_neolitico",
@@ -169,7 +176,14 @@
       "neolítico",
       "prehistoria"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "1000519608384",
+      "spotify": "6i4DvShYOpqrI5UH9Q1Jk1",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_historia_con_movil_neolitico",
@@ -252,7 +266,14 @@
       "neolitico",
       "neolítico"
     ],
-    "editor_rating": 4
+    "editor_rating": 4,
+    "platform_ids": {
+      "apple": "1000574622907",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_lhe_prehistoria_peninsula",
@@ -345,7 +366,14 @@
       "península",
       "prehistoria"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "1000502432135",
+      "spotify": "04OiaPlIalIOK34AyKAtsy",
+      "ivoox": "62270067",
+      "youtube": "",
+      "web": "prehistoria-de-la-peninsula-iberica"
+    }
   },
   {
     "id": "ep_planeta_muy_neandertales",
@@ -434,7 +462,14 @@
       "javier",
       "neandertales"
     ],
-    "editor_rating": 4
+    "editor_rating": 4,
+    "platform_ids": {
+      "apple": "1000536973313",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_otro_podcast_arte_paleolitico",
@@ -517,7 +552,14 @@
       "paleolítico superior",
       "rupestre"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "1000569451542",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_mujeres_historia_prehistoria",
@@ -604,7 +646,14 @@
       "prehistoria.",
       "sociedades"
     ],
-    "editor_rating": 4
+    "editor_rating": 4,
+    "platform_ids": {
+      "apple": "1000508920445",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_atapuerca_1_zarpazo",
@@ -695,7 +744,14 @@
       "evolución humana",
       "zarpazo"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "1000750267014",
+      "spotify": "592Ijl3I9PSAehxzXnJdJ8",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_atapuerca_2_craneos",
@@ -787,7 +843,14 @@
       "episodio",
       "evolución humana"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "1000751332730",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_atapuerca_4_piezas_puzle",
@@ -879,7 +942,14 @@
       "piezas",
       "puzle"
     ],
-    "editor_rating": 4
+    "editor_rating": 4,
+    "platform_ids": {
+      "apple": "1000754607280",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_zh_neolitico_gaditano",
@@ -969,7 +1039,14 @@
       "neolítico",
       "prehistoria"
     ],
-    "editor_rating": 4
+    "editor_rating": 4,
+    "platform_ids": {
+      "apple": "1000477489496",
+      "spotify": "",
+      "ivoox": "51943708",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_khulmani_paleolitico_superior",
@@ -1054,7 +1131,14 @@
       "paleolítico",
       "superior"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "60748439",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_khulmani_neolitico_europa",
@@ -1143,7 +1227,14 @@
       "neolitico",
       "neolítico"
     ],
-    "editor_rating": 5
+    "editor_rating": 5,
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "69689788",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_khulmani_aborigenes_australianos",
@@ -1228,7 +1319,14 @@
       "homo sapiens",
       "migraciones humanas"
     ],
-    "editor_rating": 4
+    "editor_rating": 4,
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "58410827",
+      "youtube": "",
+      "web": ""
+    }
   },
   {
     "id": "ep_cao_77_prehistoria",
@@ -1312,6 +1410,13 @@
       "paleolítico",
       "prehistoria"
     ],
-    "editor_rating": 3
+    "editor_rating": 3,
+    "platform_ids": {
+      "apple": "1000740110307",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    }
   }
 ]
