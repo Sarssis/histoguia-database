@@ -979,5 +979,149 @@
       "phase_01"
     ],
     "summary": "Cambios corporales como bipedestación, mano, encéfalo y desarrollo prolongado."
+  },
+  {
+    "id": "topic_australopithecus_africanus",
+    "name": "Australopithecus africanus",
+    "type": "species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Especie sudafricana clave en la historia de la paleoantropología y vinculada al Niño de Taung."
+  },
+  {
+    "id": "topic_australopithecus_afarensis",
+    "name": "Australopithecus afarensis",
+    "type": "species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Especie de Lucy, importante para el estudio del bipedismo y la diversidad de australopitecos."
+  },
+  {
+    "id": "topic_australopithecus_sediba",
+    "name": "Australopithecus sediba",
+    "type": "species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Especie sudafricana debatida por su combinación de rasgos primitivos y derivados."
+  },
+  {
+    "id": "topic_australopithecus_deyiremeda",
+    "name": "Australopithecus deyiremeda",
+    "type": "species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Especie propuesta del Plioceno etíope, relevante para entender la diversidad alrededor de Australopithecus afarensis."
+  },
+  {
+    "id": "topic_homo_rudolfensis",
+    "name": "Homo rudolfensis",
+    "type": "species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Especie temprana del género Homo asociada a debates sobre diversidad y clasificación."
+  },
+  {
+    "id": "topic_genero_homo",
+    "name": "Género Homo",
+    "type": "taxonomic_group",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Grupo evolutivo que incluye a Homo habilis, Homo erectus y Homo sapiens, entre otros."
+  },
+  {
+    "id": "topic_origen_genero_homo",
+    "name": "Origen del género Homo",
+    "type": "human_evolution",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Debate sobre cuándo, dónde y a partir de qué linajes aparece el género Homo."
+  },
+  {
+    "id": "topic_olduvai",
+    "name": "Garganta de Olduvai",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento tanzano fundamental para estudiar primeros Homo e industria olduvayense."
+  },
+  {
+    "id": "topic_koobi_fora",
+    "name": "Koobi Fora",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Área del lago Turkana clave para fósiles de primeros Homo."
+  },
+  {
+    "id": "topic_sterkfontein",
+    "name": "Sterkfontein",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento sudafricano importante para Australopithecus africanus y la evolución humana."
+  },
+  {
+    "id": "topic_malapa",
+    "name": "Malapa",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento sudafricano asociado a Australopithecus sediba."
+  },
+  {
+    "id": "topic_nino_taung",
+    "name": "Niño de Taung",
+    "type": "fossil",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fósil de Australopithecus africanus descrito por Raymond Dart."
+  },
+  {
+    "id": "topic_primeras_herramientas",
+    "name": "Primeras herramientas",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Aparición y uso temprano de herramientas de piedra."
+  },
+  {
+    "id": "topic_paleoneurologia",
+    "name": "Paleoneurología",
+    "type": "discipline",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Estudio de la evolución cerebral a partir de restos fósiles y moldes endocraneales."
+  },
+  {
+    "id": "topic_evolucion_cerebro",
+    "name": "Evolución del cerebro",
+    "type": "human_evolution",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Cambios en volumen, forma y organización cerebral durante la evolución humana."
+  },
+  {
+    "id": "topic_evolucion_mente",
+    "name": "Evolución de la mente",
+    "type": "human_evolution",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Desarrollo progresivo de capacidades cognitivas como planificación, simbolismo y lenguaje."
   }
 ]

@@ -3470,5 +3470,1377 @@
     "target_id": "ep_cueva_topo_australopithecus_anamensis",
     "target_type": "episode",
     "relation": "related_episode"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus_afarensis",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_hadar",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_laetoli",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_despierta_lucy",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_cueva_topo_australopithecus_afarensis",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sterkfontein",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_bajo_arenas_prehominidos_homininos",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_australopithecus_afarensis",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus_africanus",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_raymond_dart",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_taung",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sterkfontein",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_cueva_topo_australopithecus_afarensis",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_cueva_topo_africanus",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus_sediba",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_sediba",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_malapa",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_cueva_topo_africanus",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_cueva_topo_sediba",
+    "source_type": "episode",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus_deyiremeda",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_deyiremeda",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_afar",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_cueva_topo_australopithecus_afarensis",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_cueva_topo_deyiremeda",
+    "source_type": "episode",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_paleoneurologia",
+    "source_type": "topic",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_emiliano_bruner",
+    "source_type": "person",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_cueva_topo_australopithecus_raices_parte4",
+    "source_type": "episode",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_ldd_paleoneurologia",
+    "source_type": "episode",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_evolucion_mente",
+    "source_type": "topic",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_habilis",
+    "source_type": "person",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jordi_agusti",
+    "source_type": "person",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_olduvai",
+    "source_type": "place",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_ldd_paleoneurologia",
+    "source_type": "episode",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_linterna_mente_habilis",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_olduvai",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_olduvai",
+    "source_type": "place",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_cueva_topo_sediba",
+    "source_type": "episode",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_desenterrando_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_olduvai",
+    "source_type": "topic",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_olduvai",
+    "source_type": "place",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_desenterrando_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_grandes_yacimientos_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_origen_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_habilis",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_koobi_fora",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_grandes_yacimientos_olduvai",
+    "source_type": "episode",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_lfdlc_australopithecus_neandertal",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0103",
+    "source_type": "subperiod",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primeras_herramientas",
+    "source_type": "topic",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_habilis",
+    "source_type": "person",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_entrevistas_linterna_evolucion_anatomica",
+    "source_type": "episode",
+    "target_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_masterclass_arsuaga_habilis_herramientas",
+    "source_type": "episode",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "topic_australopithecus_africanus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "topic_nino_taung",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "place_sterkfontein",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "place_taung",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_africanus",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_sediba",
+    "source_type": "person",
+    "target_id": "topic_australopithecus_sediba",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_sediba",
+    "source_type": "person",
+    "target_id": "topic_origen_genero_homo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_sediba",
+    "source_type": "person",
+    "target_id": "place_malapa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_sediba",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_australopithecus_deyiremeda",
+    "source_type": "person",
+    "target_id": "topic_australopithecus_deyiremeda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_deyiremeda",
+    "source_type": "person",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_deyiremeda",
+    "source_type": "person",
+    "target_id": "place_afar",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_deyiremeda",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "topic_homo_rudolfensis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "topic_genero_homo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "topic_origen_genero_homo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "place_koobi_fora",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "place_lago_turkana",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_rudolfensis",
+    "source_type": "person",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_raymond_dart",
+    "source_type": "person",
+    "target_id": "topic_australopithecus_africanus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_raymond_dart",
+    "source_type": "person",
+    "target_id": "topic_nino_taung",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_raymond_dart",
+    "source_type": "person",
+    "target_id": "place_taung",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_raymond_dart",
+    "source_type": "person",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "topic_olduvai",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "topic_olduvayense",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "place_olduvai",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_louis_leakey",
+    "source_type": "person",
+    "target_id": "ep_grandes_yacimientos_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "topic_olduvai",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "topic_laetoli",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "topic_primeras_herramientas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "place_olduvai",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "place_laetoli",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mary_leakey",
+    "source_type": "person",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_richard_leakey",
+    "source_type": "person",
+    "target_id": "topic_koobi_fora",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_richard_leakey",
+    "source_type": "person",
+    "target_id": "topic_homo_rudolfensis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_richard_leakey",
+    "source_type": "person",
+    "target_id": "topic_genero_homo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_richard_leakey",
+    "source_type": "person",
+    "target_id": "place_koobi_fora",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_richard_leakey",
+    "source_type": "person",
+    "target_id": "place_lago_turkana",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_richard_leakey",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_emiliano_bruner",
+    "source_type": "person",
+    "target_id": "topic_paleoneurologia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_emiliano_bruner",
+    "source_type": "person",
+    "target_id": "topic_evolucion_cerebro",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_emiliano_bruner",
+    "source_type": "person",
+    "target_id": "ep_ldd_paleoneurologia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jordi_agusti",
+    "source_type": "person",
+    "target_id": "topic_evolucion_mente",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jordi_agusti",
+    "source_type": "person",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jordi_agusti",
+    "source_type": "person",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_taung",
+    "source_type": "place",
+    "target_id": "topic_nino_taung",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_taung",
+    "source_type": "place",
+    "target_id": "topic_australopithecus_africanus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_taung",
+    "source_type": "place",
+    "target_id": "person_raymond_dart",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_taung",
+    "source_type": "place",
+    "target_id": "person_australopithecus_africanus",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_taung",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sterkfontein",
+    "source_type": "place",
+    "target_id": "topic_sterkfontein",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sterkfontein",
+    "source_type": "place",
+    "target_id": "topic_australopithecus_africanus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sterkfontein",
+    "source_type": "place",
+    "target_id": "person_australopithecus_africanus",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sterkfontein",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_africanus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_malapa",
+    "source_type": "place",
+    "target_id": "topic_malapa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_malapa",
+    "source_type": "place",
+    "target_id": "topic_australopithecus_sediba",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_malapa",
+    "source_type": "place",
+    "target_id": "person_australopithecus_sediba",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_malapa",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_sediba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_afar",
+    "source_type": "place",
+    "target_id": "topic_lucy",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_afar",
+    "source_type": "place",
+    "target_id": "topic_australopithecus_deyiremeda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_afar",
+    "source_type": "place",
+    "target_id": "person_lucy",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_afar",
+    "source_type": "place",
+    "target_id": "person_australopithecus_deyiremeda",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_afar",
+    "source_type": "place",
+    "target_id": "ep_despierta_lucy",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_afar",
+    "source_type": "place",
+    "target_id": "ep_cueva_topo_deyiremeda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_koobi_fora",
+    "source_type": "place",
+    "target_id": "topic_koobi_fora",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_koobi_fora",
+    "source_type": "place",
+    "target_id": "topic_homo_rudolfensis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_koobi_fora",
+    "source_type": "place",
+    "target_id": "topic_genero_homo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_koobi_fora",
+    "source_type": "place",
+    "target_id": "person_homo_rudolfensis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_koobi_fora",
+    "source_type": "place",
+    "target_id": "person_richard_leakey",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_koobi_fora",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "topic_australopithecus_afarensis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_australopithecus_afarensis",
+    "source_type": "topic",
+    "target_id": "topic_lucy",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_lucy",
+    "source_type": "topic",
+    "target_id": "topic_laetoli",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_laetoli",
+    "source_type": "topic",
+    "target_id": "topic_australopithecus_africanus",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_australopithecus_africanus",
+    "source_type": "topic",
+    "target_id": "topic_australopithecus_sediba",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_australopithecus_sediba",
+    "source_type": "topic",
+    "target_id": "topic_genero_homo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_genero_homo",
+    "source_type": "topic",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "topic_homo_rudolfensis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_rudolfensis",
+    "source_type": "topic",
+    "target_id": "topic_olduvayense",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_olduvayense",
+    "source_type": "topic",
+    "target_id": "topic_olduvai",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_olduvai",
+    "source_type": "topic",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

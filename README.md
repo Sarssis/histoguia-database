@@ -1,23 +1,23 @@
-# Histoguía Database · sub_0102 v3.2
+# Histoguía Database · sub_0103 v3.3
 
 Actualización completa de `histoguia-database`.
 
 ## Subperiodo activado
 
-**2. Primates y primeros homininos**
+**3. Australopithecus y primeros géneros humanos**
 
 ## Añadido
 
-- 7 episodios nuevos verificados.
-- Nuevos temas: primates, primeros homininos, último ancestro común, bipedestación, mano primate, pinza de precisión, primatología, Australopithecus anamensis, Lucy.
-- Nuevas personas/especies: Australopithecus anamensis y Donald Johanson.
-- Nuevo lugar: Kanapoi.
+- 11 episodios nuevos verificados.
+- Nuevos temas: Australopithecus afarensis, africanus, sediba, deyiremeda, género Homo, Homo rudolfensis, Olduvai, Koobi Fora, paleoneurología, evolución de la mente.
+- Nuevas personas/especies: Australopithecus africanus, sediba, deyiremeda, Homo rudolfensis, Raymond Dart, Louis Leakey, Mary Leakey, Richard Leakey, Emiliano Bruner, Jordi Agustí.
+- Nuevos lugares: Taung, Sterkfontein, Malapa, región de Afar, Koobi Fora.
 - Relaciones añadidas para activar el subperiodo en la app.
 
 ## Totales
 
-- Episodios: 28
-- Personas/especies/investigadores: 24
-- Temas: 109
-- Lugares: 33
-- Relaciones: 496
+- Episodios: 39
+- Personas/especies/investigadores: 34
+- Temas: 125
+- Lugares: 38
+- Relaciones: 692

@@ -495,5 +495,212 @@
     "related_episodes": [
       "ep_entrevistas_linterna_evolucion_anatomica"
     ]
+  },
+  {
+    "id": "person_australopithecus_africanus",
+    "name": "Australopithecus africanus",
+    "type": "species",
+    "category": "hominin_species",
+    "scientific_name": "Australopithecus africanus",
+    "dates": "c. 3,3-2,1 millones de años",
+    "period": "Plioceno / Pleistoceno temprano",
+    "summary": "Especie sudafricana central en el reconocimiento de África como escenario clave de la evolución humana.",
+    "related_topics": [
+      "topic_australopithecus_africanus",
+      "topic_nino_taung",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_sterkfontein",
+      "place_taung"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_africanus"
+    ]
+  },
+  {
+    "id": "person_australopithecus_sediba",
+    "name": "Australopithecus sediba",
+    "type": "species",
+    "category": "hominin_species",
+    "scientific_name": "Australopithecus sediba",
+    "dates": "c. 1,98 millones de años",
+    "period": "Pleistoceno temprano",
+    "summary": "Especie sudafricana con combinación de rasgos primitivos y derivados, objeto de debate sobre su relación con el género Homo.",
+    "related_topics": [
+      "topic_australopithecus_sediba",
+      "topic_origen_genero_homo"
+    ],
+    "related_places": [
+      "place_malapa"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_sediba"
+    ]
+  },
+  {
+    "id": "person_australopithecus_deyiremeda",
+    "name": "Australopithecus deyiremeda",
+    "type": "species",
+    "category": "hominin_species",
+    "scientific_name": "Australopithecus deyiremeda",
+    "dates": "c. 3,5-3,3 millones de años",
+    "period": "Plioceno",
+    "summary": "Especie propuesta en Etiopía que refuerza la idea de diversidad de homininos contemporáneos a Lucy.",
+    "related_topics": [
+      "topic_australopithecus_deyiremeda",
+      "topic_australopithecus"
+    ],
+    "related_places": [
+      "place_afar"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_deyiremeda"
+    ]
+  },
+  {
+    "id": "person_homo_rudolfensis",
+    "name": "Homo rudolfensis",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo rudolfensis",
+    "dates": "c. 2,4-1,8 millones de años",
+    "period": "Pleistoceno temprano",
+    "summary": "Especie temprana atribuida al género Homo, relevante para el debate sobre la diversidad de los primeros humanos.",
+    "related_topics": [
+      "topic_homo_rudolfensis",
+      "topic_genero_homo",
+      "topic_origen_genero_homo"
+    ],
+    "related_places": [
+      "place_koobi_fora",
+      "place_lago_turkana"
+    ],
+    "related_episodes": [
+      "ep_lfdlc_australopithecus_neandertal",
+      "ep_linterna_mente_habilis"
+    ]
+  },
+  {
+    "id": "person_raymond_dart",
+    "name": "Raymond Dart",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1893-1988",
+    "period": "Historia de la paleoantropología",
+    "summary": "Paleoantropólogo que describió el Niño de Taung y defendió la importancia africana en la evolución humana.",
+    "related_topics": [
+      "topic_australopithecus_africanus",
+      "topic_nino_taung"
+    ],
+    "related_places": [
+      "place_taung"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_africanus"
+    ]
+  },
+  {
+    "id": "person_louis_leakey",
+    "name": "Louis Leakey",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1903-1972",
+    "period": "Historia de la paleoantropología",
+    "summary": "Paleoantropólogo clave en la investigación de Olduvai y en la búsqueda de primeros Homo en África oriental.",
+    "related_topics": [
+      "topic_olduvai",
+      "topic_homo_habilis",
+      "topic_olduvayense"
+    ],
+    "related_places": [
+      "place_olduvai"
+    ],
+    "related_episodes": [
+      "ep_desenterrando_olduvai",
+      "ep_grandes_yacimientos_olduvai"
+    ]
+  },
+  {
+    "id": "person_mary_leakey",
+    "name": "Mary Leakey",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1913-1996",
+    "period": "Historia de la paleoantropología",
+    "summary": "Paleoantropóloga fundamental en Olduvai y Laetoli, asociada a descubrimientos clave sobre herramientas y bipedismo.",
+    "related_topics": [
+      "topic_olduvai",
+      "topic_laetoli",
+      "topic_primeras_herramientas"
+    ],
+    "related_places": [
+      "place_olduvai",
+      "place_laetoli"
+    ],
+    "related_episodes": [
+      "ep_desenterrando_olduvai"
+    ]
+  },
+  {
+    "id": "person_richard_leakey",
+    "name": "Richard Leakey",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1944-2022",
+    "period": "Historia de la paleoantropología",
+    "summary": "Paleoantropólogo vinculado a Koobi Fora y al estudio de fósiles de primeros Homo en África oriental.",
+    "related_topics": [
+      "topic_koobi_fora",
+      "topic_homo_rudolfensis",
+      "topic_genero_homo"
+    ],
+    "related_places": [
+      "place_koobi_fora",
+      "place_lago_turkana"
+    ],
+    "related_episodes": [
+      "ep_lfdlc_australopithecus_neandertal"
+    ]
+  },
+  {
+    "id": "person_emiliano_bruner",
+    "name": "Emiliano Bruner",
+    "type": "researcher",
+    "category": "paleoneurologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la paleoantropología",
+    "summary": "Investigador especializado en paleoneurología y evolución cerebral de homininos.",
+    "related_topics": [
+      "topic_paleoneurologia",
+      "topic_evolucion_cerebro"
+    ],
+    "related_places": [],
+    "related_episodes": [
+      "ep_ldd_paleoneurologia"
+    ]
+  },
+  {
+    "id": "person_jordi_agusti",
+    "name": "Jordi Agustí",
+    "type": "researcher",
+    "category": "paleontologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la paleontología",
+    "summary": "Paleontólogo especializado en evolución humana y evolución de la mente.",
+    "related_topics": [
+      "topic_evolucion_mente",
+      "topic_homo_habilis"
+    ],
+    "related_places": [],
+    "related_episodes": [
+      "ep_linterna_mente_habilis"
+    ]
   }
 ]

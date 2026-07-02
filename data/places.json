@@ -584,5 +584,100 @@
     "related_episodes": [
       "ep_cueva_topo_australopithecus_anamensis"
     ]
+  },
+  {
+    "id": "place_taung",
+    "name": "Taung",
+    "type": "site",
+    "modern_location": "Sudáfrica",
+    "summary": "Lugar asociado al Niño de Taung, fósil clave de Australopithecus africanus.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_nino_taung",
+      "topic_australopithecus_africanus"
+    ],
+    "related_people": [
+      "person_raymond_dart",
+      "person_australopithecus_africanus"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_africanus"
+    ]
+  },
+  {
+    "id": "place_sterkfontein",
+    "name": "Sterkfontein",
+    "type": "site",
+    "modern_location": "Sudáfrica",
+    "summary": "Yacimiento sudafricano fundamental para el estudio de australopitecos y de la evolución humana.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_sterkfontein",
+      "topic_australopithecus_africanus"
+    ],
+    "related_people": [
+      "person_australopithecus_africanus"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_africanus"
+    ]
+  },
+  {
+    "id": "place_malapa",
+    "name": "Malapa",
+    "type": "site",
+    "modern_location": "Sudáfrica",
+    "summary": "Yacimiento asociado a Australopithecus sediba.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_malapa",
+      "topic_australopithecus_sediba"
+    ],
+    "related_people": [
+      "person_australopithecus_sediba"
+    ],
+    "related_episodes": [
+      "ep_cueva_topo_sediba"
+    ]
+  },
+  {
+    "id": "place_afar",
+    "name": "Región de Afar",
+    "type": "region",
+    "modern_location": "Etiopía",
+    "summary": "Región clave para fósiles de australopitecos, incluyendo Lucy y Australopithecus deyiremeda.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_lucy",
+      "topic_australopithecus_deyiremeda"
+    ],
+    "related_people": [
+      "person_lucy",
+      "person_australopithecus_deyiremeda"
+    ],
+    "related_episodes": [
+      "ep_despierta_lucy",
+      "ep_cueva_topo_deyiremeda"
+    ]
+  },
+  {
+    "id": "place_koobi_fora",
+    "name": "Koobi Fora",
+    "type": "site",
+    "modern_location": "Kenia",
+    "summary": "Área del lago Turkana asociada a fósiles de primeros Homo y debates sobre Homo rudolfensis.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_koobi_fora",
+      "topic_homo_rudolfensis",
+      "topic_genero_homo"
+    ],
+    "related_people": [
+      "person_homo_rudolfensis",
+      "person_richard_leakey"
+    ],
+    "related_episodes": [
+      "ep_lfdlc_australopithecus_neandertal"
+    ]
   }
 ]

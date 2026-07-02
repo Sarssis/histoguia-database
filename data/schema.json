@@ -1,8 +1,8 @@
 {
-  "version": "3.2",
-  "description": "Subperiodo 2 activo: Primates y primeros homininos.",
+  "version": "3.3",
+  "description": "Subperiodo 3 activo: Australopithecus y primeros géneros humanos.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 28,
+  "episode_count": 39,
   "platforms": [
     "apple",
     "spotify",
@@ -10,9 +10,9 @@
     "youtube",
     "web"
   ],
-  "people_count": 24,
-  "places_count": 33,
-  "topics_count": 109,
-  "relations_count": 496,
-  "status": "sub0102_active"
+  "people_count": 34,
+  "places_count": 38,
+  "topics_count": 125,
+  "relations_count": 692,
+  "status": "sub0103_active"
 }

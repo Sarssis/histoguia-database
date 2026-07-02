@@ -187,5 +187,50 @@
     "spotify_show_url": "",
     "ivoox_show_url": "https://www.ivoox.com/podcast-entrevistas-linterna-diogenes_sq_f155117_1.html",
     "status": "active"
+  },
+  {
+    "id": "pod_lfdlc",
+    "name": "La Fábrica de la Ciencia",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-fabrica-ciencia-lfdlc_sq_f1100722_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_desenterrando_pasado",
+    "name": "Desenterrando el pasado",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-desenterrando-pasado_sq_f11247299_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_grandes_yacimientos",
+    "name": "Grandes Yacimientos Arqueológicos",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_secondary"
+  },
+  {
+    "id": "pod_master_class",
+    "name": "Master Class",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/master-class/id1394174888",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active"
+  },
+  {
+    "id": "pod_fallo_sistema",
+    "name": "Fallo de sistema",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-fallo-sistema_sq_f1100354_1.html",
+    "status": "active"
   }
 ]

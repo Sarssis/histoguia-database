@@ -154,7 +154,8 @@ const DATA = {
       "order": 3,
       "name": "Australopithecus y primeros géneros humanos",
       "date_range": "c. 4-2 Ma",
-      "summary": "Bipedismo, adaptación y diversificación."
+      "summary": "Australopithecus, Lucy, diversidad de australopitecos, aparición del género Homo, Homo habilis, primeras herramientas y Olduvai.",
+      "status": "content_seeded"
     },
     {
       "id": "sub_0104",
@@ -1218,6 +1219,150 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Cambios corporales como bipedestación, mano, encéfalo y desarrollo prolongado."
+    },
+    {
+      "id": "topic_australopithecus_africanus",
+      "name": "Australopithecus africanus",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie sudafricana clave en la historia de la paleoantropología y vinculada al Niño de Taung."
+    },
+    {
+      "id": "topic_australopithecus_afarensis",
+      "name": "Australopithecus afarensis",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie de Lucy, importante para el estudio del bipedismo y la diversidad de australopitecos."
+    },
+    {
+      "id": "topic_australopithecus_sediba",
+      "name": "Australopithecus sediba",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie sudafricana debatida por su combinación de rasgos primitivos y derivados."
+    },
+    {
+      "id": "topic_australopithecus_deyiremeda",
+      "name": "Australopithecus deyiremeda",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie propuesta del Plioceno etíope, relevante para entender la diversidad alrededor de Australopithecus afarensis."
+    },
+    {
+      "id": "topic_homo_rudolfensis",
+      "name": "Homo rudolfensis",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie temprana del género Homo asociada a debates sobre diversidad y clasificación."
+    },
+    {
+      "id": "topic_genero_homo",
+      "name": "Género Homo",
+      "type": "taxonomic_group",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Grupo evolutivo que incluye a Homo habilis, Homo erectus y Homo sapiens, entre otros."
+    },
+    {
+      "id": "topic_origen_genero_homo",
+      "name": "Origen del género Homo",
+      "type": "human_evolution",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Debate sobre cuándo, dónde y a partir de qué linajes aparece el género Homo."
+    },
+    {
+      "id": "topic_olduvai",
+      "name": "Garganta de Olduvai",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento tanzano fundamental para estudiar primeros Homo e industria olduvayense."
+    },
+    {
+      "id": "topic_koobi_fora",
+      "name": "Koobi Fora",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Área del lago Turkana clave para fósiles de primeros Homo."
+    },
+    {
+      "id": "topic_sterkfontein",
+      "name": "Sterkfontein",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento sudafricano importante para Australopithecus africanus y la evolución humana."
+    },
+    {
+      "id": "topic_malapa",
+      "name": "Malapa",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento sudafricano asociado a Australopithecus sediba."
+    },
+    {
+      "id": "topic_nino_taung",
+      "name": "Niño de Taung",
+      "type": "fossil",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fósil de Australopithecus africanus descrito por Raymond Dart."
+    },
+    {
+      "id": "topic_primeras_herramientas",
+      "name": "Primeras herramientas",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Aparición y uso temprano de herramientas de piedra."
+    },
+    {
+      "id": "topic_paleoneurologia",
+      "name": "Paleoneurología",
+      "type": "discipline",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Estudio de la evolución cerebral a partir de restos fósiles y moldes endocraneales."
+    },
+    {
+      "id": "topic_evolucion_cerebro",
+      "name": "Evolución del cerebro",
+      "type": "human_evolution",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cambios en volumen, forma y organización cerebral durante la evolución humana."
+    },
+    {
+      "id": "topic_evolucion_mente",
+      "name": "Evolución de la mente",
+      "type": "human_evolution",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Desarrollo progresivo de capacidades cognitivas como planificación, simbolismo y lenguaje."
     }
   ],
   "episodes": [
@@ -3550,6 +3695,965 @@ const DATA = {
         "lago turkana",
         "homininos",
         "bipedismo"
+      ]
+    },
+    {
+      "id": "ep_cueva_topo_australopithecus_afarensis",
+      "podcast_id": "pod_cueva_topo",
+      "podcast_name": "La cueva del Topo",
+      "episode_code": "S5E13",
+      "title": "Australopithecus afarensis",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_australopithecus_afarensis",
+      "topic_ids": [
+        "topic_australopithecus_afarensis",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_australopithecus_afarensis",
+        "person_lucy"
+      ],
+      "place_ids": [
+        "place_hadar",
+        "place_laetoli"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "1 h 21 min",
+      "duration_minutes": 81,
+      "published": "2025-09-13",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "https://podcasts.apple.com/pl/podcast/australopithecus-afarensis-resubido/id1523594758?i=1000726693069&l=pl",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/australopithecus-afarensis-audios-mp3_rf_149780059_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "1000726693069",
+        "spotify": "",
+        "ivoox": "149780059",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio monográfico clave para entender a Australopithecus afarensis más allá de Lucy. Permite situar la especie dentro del Plioceno africano, relacionarla con el bipedismo y comprender por qué ocupa un lugar central en el relato de la evolución humana.",
+      "learn": [
+        "Comprender las características principales de Australopithecus afarensis.",
+        "Relacionar la especie con Lucy y las huellas de Laetoli.",
+        "Entender la importancia del bipedismo temprano.",
+        "Situar la especie dentro de la diversidad de australopitecos."
+      ],
+      "listen_before": [
+        "ep_despierta_lucy"
+      ],
+      "listen_after": [
+        "ep_cueva_topo_africanus"
+      ],
+      "related_topics": [
+        "Australopithecus afarensis",
+        "Lucy",
+        "Laetoli",
+        "Bipedismo"
+      ],
+      "keywords": [
+        "australopithecus afarensis",
+        "lucy",
+        "laetoli",
+        "bipedismo",
+        "plioceno",
+        "homininos"
+      ]
+    },
+    {
+      "id": "ep_cueva_topo_australopithecus_raices_parte4",
+      "podcast_id": "pod_cueva_topo",
+      "podcast_name": "La cueva del Topo",
+      "episode_code": "Parte 4",
+      "title": "Australopithecus – entendiendo las raíces de nuestro linaje parte 4",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_australopithecus",
+      "topic_ids": [
+        "topic_australopithecus",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_australopithecus_afarensis",
+        "person_australopithecus_africanus"
+      ],
+      "place_ids": [
+        "place_africa_oriental",
+        "place_sterkfontein"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/australopithecus-entendiendo-las-ra%C3%ADces-de-nuestro/id1523594758?i=1000662853134",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "1000662853134",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo para comprender el género Australopithecus como grupo diverso y no como una línea simple hacia Homo sapiens. Es útil para ordenar especies, cronologías y escenarios africanos antes de entrar en los primeros Homo.",
+      "learn": [
+        "Entender Australopithecus como un grupo diverso.",
+        "Diferenciar una visión lineal de una visión ramificada de la evolución.",
+        "Relacionar África oriental y meridional con los australopitecos.",
+        "Preparar el paso hacia el origen del género Homo."
+      ],
+      "listen_before": [
+        "ep_bajo_arenas_prehominidos_homininos"
+      ],
+      "listen_after": [
+        "ep_cueva_topo_australopithecus_afarensis"
+      ],
+      "related_topics": [
+        "Australopithecus",
+        "Diversidad de australopitecos",
+        "Evolución humana"
+      ],
+      "keywords": [
+        "australopithecus",
+        "australopitecos",
+        "evolución humana",
+        "plioceno",
+        "homininos"
+      ]
+    },
+    {
+      "id": "ep_cueva_topo_africanus",
+      "podcast_id": "pod_cueva_topo",
+      "podcast_name": "La cueva del Topo",
+      "episode_code": "S6E15",
+      "title": "Australopithecus africanus, un paso más sobre el puente que lleva hasta la humanidad",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_australopithecus_africanus",
+      "topic_ids": [
+        "topic_australopithecus_africanus",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_australopithecus_africanus",
+        "person_raymond_dart"
+      ],
+      "place_ids": [
+        "place_taung",
+        "place_sterkfontein"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "1 h 20 min",
+      "duration_minutes": 80,
+      "published": "2025-12-01",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "https://podcasts.apple.com/pl/podcast/australopithecus-africanus-un-paso-m%C3%A1s-sobre-el/id1523594758?i=1000739202317",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "1000739202317",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Monográfico necesario para incorporar el eje sudafricano de la evolución humana. El episodio permite entender la importancia de Australopithecus africanus, el Niño de Taung, Raymond Dart y los yacimientos del sur de África dentro del debate sobre nuestros orígenes.",
+      "learn": [
+        "Conocer la importancia de Australopithecus africanus.",
+        "Relacionar el Niño de Taung con Raymond Dart.",
+        "Comprender el papel de Sudáfrica en la paleoantropología.",
+        "Comparar Australopithecus africanus con otros australopitecos."
+      ],
+      "listen_before": [
+        "ep_cueva_topo_australopithecus_afarensis"
+      ],
+      "listen_after": [
+        "ep_cueva_topo_sediba"
+      ],
+      "related_topics": [
+        "Australopithecus africanus",
+        "Niño de Taung",
+        "Raymond Dart",
+        "Sterkfontein"
+      ],
+      "keywords": [
+        "australopithecus africanus",
+        "taung",
+        "niño de taung",
+        "raymond dart",
+        "sudáfrica",
+        "sterkfontein"
+      ]
+    },
+    {
+      "id": "ep_cueva_topo_sediba",
+      "podcast_id": "pod_cueva_topo",
+      "podcast_name": "La cueva del Topo",
+      "episode_code": "S6E28",
+      "title": "Australopithecus sediba - La huella que aún no encuentra su lugar",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_australopithecus_sediba",
+      "topic_ids": [
+        "topic_australopithecus_sediba",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_australopithecus_sediba"
+      ],
+      "place_ids": [
+        "place_malapa"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "1 h 22 min",
+      "duration_minutes": 82,
+      "published": "2026-05-23",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "https://open.spotify.com/episode/28Qed6EVLMfxTeaMHz1c7C",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "28Qed6EVLMfxTeaMHz1c7C",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "verified",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio especializado sobre una especie debatida por su mezcla de rasgos primitivos y derivados. Es útil para mostrar que el origen del género Homo no es una línea clara y cerrada, sino un problema científico con hipótesis en discusión.",
+      "learn": [
+        "Identificar a Australopithecus sediba.",
+        "Comprender por qué su posición evolutiva es debatida.",
+        "Relacionar Malapa con la paleoantropología sudafricana.",
+        "Entender la transición hacia los primeros Homo como un proceso complejo."
+      ],
+      "listen_before": [
+        "ep_cueva_topo_africanus"
+      ],
+      "listen_after": [
+        "ep_lfdlc_australopithecus_neandertal"
+      ],
+      "related_topics": [
+        "Australopithecus sediba",
+        "Malapa",
+        "Origen del género Homo"
+      ],
+      "keywords": [
+        "australopithecus sediba",
+        "malapa",
+        "origen del género homo",
+        "sudáfrica",
+        "homininos"
+      ]
+    },
+    {
+      "id": "ep_cueva_topo_deyiremeda",
+      "podcast_id": "pod_cueva_topo",
+      "podcast_name": "La cueva del Topo",
+      "episode_code": "",
+      "title": "Australopithecus deyiremeda - dejando huellas en la tierra y sombras en las ramas",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_australopithecus_deyiremeda",
+      "topic_ids": [
+        "topic_australopithecus_deyiremeda",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_australopithecus_deyiremeda",
+        "person_lucy"
+      ],
+      "place_ids": [
+        "place_afar"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2026",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/australopithecus-deyiremeda-audios-mp3_rf_160999116_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "160999116",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de ampliación para usuarios que quieran profundizar en la diversidad de australopitecos contemporáneos a Lucy. No es imprescindible para la ruta básica, pero ayuda a comprender que la evolución humana temprana fue ramificada.",
+      "learn": [
+        "Conocer la propuesta de Australopithecus deyiremeda.",
+        "Relacionar esta especie con la región de Afar.",
+        "Entender la diversidad de homininos en tiempos de Lucy.",
+        "Distinguir episodio imprescindible y episodio de ampliación."
+      ],
+      "listen_before": [
+        "ep_cueva_topo_australopithecus_afarensis"
+      ],
+      "listen_after": [
+        "ep_cueva_topo_sediba"
+      ],
+      "related_topics": [
+        "Australopithecus deyiremeda",
+        "Afar",
+        "Lucy",
+        "Diversidad de australopitecos"
+      ],
+      "keywords": [
+        "australopithecus deyiremeda",
+        "afar",
+        "lucy",
+        "homininos",
+        "australopithecus afarensis"
+      ]
+    },
+    {
+      "id": "ep_ldd_paleoneurologia",
+      "podcast_id": "pod_linterna_diogenes",
+      "podcast_name": "Podcast Linterna de Diógenes",
+      "episode_code": "LDD",
+      "title": "LDD - Paleoneurología. La evolución del cerebro de australopithecus a sapiens",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_paleoneurologia",
+      "topic_ids": [
+        "topic_paleoneurologia",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_emiliano_bruner"
+      ],
+      "place_ids": [],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "1 h",
+      "duration_minutes": 60,
+      "published": "2015-09-27",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ldd-paleoneurologia-la-evolucion-del-cerebro-de-audios-mp3_rf_8637081_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "8637081",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de alto valor para entender la evolución cerebral desde Australopithecus hasta Homo sapiens. Introduce la paleoneurología y permite conectar fósiles craneales, cerebro, conducta y capacidades cognitivas.",
+      "learn": [
+        "Comprender qué estudia la paleoneurología.",
+        "Relacionar cráneo, cerebro y evolución cognitiva.",
+        "Seguir cambios cerebrales desde australopitecos hasta sapiens.",
+        "Preparar el paso hacia Homo habilis y la evolución de la mente."
+      ],
+      "listen_before": [
+        "ep_cueva_topo_australopithecus_raices_parte4"
+      ],
+      "listen_after": [
+        "ep_linterna_mente_habilis"
+      ],
+      "related_topics": [
+        "Paleoneurología",
+        "Evolución del cerebro",
+        "Australopithecus",
+        "Homo sapiens"
+      ],
+      "keywords": [
+        "paleoneurología",
+        "evolución del cerebro",
+        "australopithecus",
+        "homo sapiens",
+        "emiliano bruner"
+      ]
+    },
+    {
+      "id": "ep_linterna_mente_habilis",
+      "podcast_id": "pod_entrevistas_linterna",
+      "podcast_name": "Entrevistas Linterna de Diógenes",
+      "episode_code": "",
+      "title": "Evolución de la mente. De Homo habilis a nosotros",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_evolucion_mente",
+      "topic_ids": [
+        "topic_evolucion_mente",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_habilis",
+        "person_jordi_agusti"
+      ],
+      "place_ids": [
+        "place_olduvai"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "37 min",
+      "duration_minutes": 37,
+      "published": "2014-07-10",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/en/evolucion-mente-de-homo-habilis-a-audios-mp3_rf_3299071_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3299071",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Entrevista clave para cerrar el subperiodo y enlazar con los primeros Homo. Parte de Homo habilis y aborda la evolución progresiva de capacidades como planificación, teoría de la mente, simbolismo y lenguaje.",
+      "learn": [
+        "Situar a Homo habilis en la evolución de la mente humana.",
+        "Comprender la aparición gradual de capacidades cognitivas.",
+        "Relacionar herramientas, planificación y conducta.",
+        "Preparar el paso hacia Homo erectus y la expansión humana."
+      ],
+      "listen_before": [
+        "ep_ldd_paleoneurologia"
+      ],
+      "listen_after": [
+        "ep_historia_en_podcast_64_paleolitico"
+      ],
+      "related_topics": [
+        "Homo habilis",
+        "Evolución de la mente",
+        "Planificación",
+        "Lenguaje"
+      ],
+      "keywords": [
+        "homo habilis",
+        "evolución de la mente",
+        "jordi agustí",
+        "lenguaje",
+        "planificación",
+        "cognición"
+      ]
+    },
+    {
+      "id": "ep_desenterrando_olduvai",
+      "podcast_id": "pod_desenterrando_pasado",
+      "podcast_name": "Desenterrando el pasado",
+      "episode_code": "",
+      "title": "Viaje a la Garganta de Olduvai, la cuna de la Humanidad",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_olduvai",
+      "topic_ids": [
+        "topic_olduvai",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_louis_leakey",
+        "person_mary_leakey"
+      ],
+      "place_ids": [
+        "place_olduvai"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/viaje-a-garganta-olduvai-cuna-audios-mp3_rf_79839080_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "79839080",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio muy recomendable para introducir Olduvai como espacio físico y científico. Explica por qué esta garganta tanzana es central para estudiar primeros Homo, herramientas líticas y el origen profundo de la humanidad.",
+      "learn": [
+        "Conocer la importancia de la Garganta de Olduvai.",
+        "Relacionar Olduvai con primeros Homo y herramientas.",
+        "Comprender el papel de África oriental en la evolución humana.",
+        "Preparar el paso hacia Homo habilis y Homo erectus."
+      ],
+      "listen_before": [
+        "ep_cueva_topo_sediba"
+      ],
+      "listen_after": [
+        "ep_grandes_yacimientos_olduvai"
+      ],
+      "related_topics": [
+        "Olduvai",
+        "Primeras herramientas",
+        "Homo habilis",
+        "Industria olduvayense"
+      ],
+      "keywords": [
+        "olduvai",
+        "garganta de olduvai",
+        "homo habilis",
+        "primeras herramientas",
+        "industria olduvayense",
+        "áfrica oriental"
+      ]
+    },
+    {
+      "id": "ep_grandes_yacimientos_olduvai",
+      "podcast_id": "pod_grandes_yacimientos",
+      "podcast_name": "Grandes Yacimientos Arqueológicos",
+      "episode_code": "",
+      "title": "La Garganta de Olduvai y el origen del hombre",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_olduvai",
+      "topic_ids": [
+        "topic_olduvai",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_louis_leakey",
+        "person_mary_leakey"
+      ],
+      "place_ids": [
+        "place_olduvai",
+        "place_africa_oriental"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/garganta-olduvai-origen-del-audios-mp3_rf_112016384_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "112016384",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Complemento centrado en Olduvai como gran yacimiento arqueológico. Refuerza el valor del Valle del Rift, la industria lítica temprana y la pregunta por el origen del ser humano.",
+      "learn": [
+        "Entender Olduvai como gran yacimiento de la humanidad.",
+        "Relacionar el Valle del Rift con la evolución humana.",
+        "Reconocer la importancia de las primeras industrias líticas.",
+        "Consolidar el marco geográfico del origen del género Homo."
+      ],
+      "listen_before": [
+        "ep_desenterrando_olduvai"
+      ],
+      "listen_after": [
+        "ep_linterna_mente_habilis"
+      ],
+      "related_topics": [
+        "Olduvai",
+        "Valle del Rift",
+        "Primeras herramientas",
+        "Origen del hombre"
+      ],
+      "keywords": [
+        "olduvai",
+        "valle del rift",
+        "origen del hombre",
+        "yacimientos arqueológicos",
+        "primeras herramientas"
+      ]
+    },
+    {
+      "id": "ep_lfdlc_australopithecus_neandertal",
+      "podcast_id": "pod_lfdlc",
+      "podcast_name": "La Fábrica de la Ciencia",
+      "episode_code": "",
+      "title": "Evolución humana. Del australopithecus al neandertal",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_origen_genero_homo",
+      "topic_ids": [
+        "topic_origen_genero_homo",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_habilis",
+        "person_homo_rudolfensis",
+        "person_homo_erectus"
+      ],
+      "place_ids": [
+        "place_africa_oriental",
+        "place_koobi_fora"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/descripcion-evolucion-humana-del-australopithecus-al-neandertal-audios-mp3_rf_131538854_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "131538854",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio panorámico que conecta australopitecos, Paranthropus, primeros Homo y especies posteriores. Es útil como visión de conjunto para cerrar el subperiodo y preparar el avance hacia Homo erectus.",
+      "learn": [
+        "Ordenar las principales especies de australopitecos y primeros Homo.",
+        "Comprender la diversidad de linajes humanos tempranos.",
+        "Relacionar Homo habilis, Homo rudolfensis y Homo ergaster.",
+        "Preparar el siguiente bloque dedicado a Homo erectus."
+      ],
+      "listen_before": [
+        "ep_grandes_yacimientos_olduvai"
+      ],
+      "listen_after": [
+        "ep_historia_en_podcast_64_paleolitico"
+      ],
+      "related_topics": [
+        "Australopithecus",
+        "Homo habilis",
+        "Homo rudolfensis",
+        "Origen del género Homo"
+      ],
+      "keywords": [
+        "evolución humana",
+        "australopithecus",
+        "homo habilis",
+        "homo rudolfensis",
+        "paranthropus",
+        "homo erectus"
+      ]
+    },
+    {
+      "id": "ep_masterclass_arsuaga_habilis_herramientas",
+      "podcast_id": "pod_master_class",
+      "podcast_name": "Master Class",
+      "episode_code": "",
+      "title": "Master Class con Juan Luis Arsuaga: sin el sudor no habría emociones",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0103",
+      "main_topic_id": "topic_primeras_herramientas",
+      "topic_ids": [
+        "topic_primeras_herramientas",
+        "topic_australopithecus",
+        "topic_genero_homo",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_habilis",
+        "person_juan_luis_arsuaga"
+      ],
+      "place_ids": [],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2018-04-23",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/master-class-con-juan-luis-arsuaga-sin-el-sudor-no/id1394174888?i=1000414898036",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "1000414898036",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Pieza breve de apoyo por su referencia a Homo habilis y a la aparición de las primeras herramientas. No es un episodio troncal, pero aporta un complemento divulgativo útil desde la voz de Juan Luis Arsuaga.",
+      "learn": [
+        "Relacionar Homo habilis con primeras herramientas.",
+        "Comprender la importancia de la coordinación corporal.",
+        "Conectar evolución anatómica y conducta técnica.",
+        "Usar el episodio como apoyo divulgativo breve."
+      ],
+      "listen_before": [
+        "ep_entrevistas_linterna_evolucion_anatomica"
+      ],
+      "listen_after": [
+        "ep_linterna_mente_habilis"
+      ],
+      "related_topics": [
+        "Homo habilis",
+        "Primeras herramientas",
+        "Evolución anatómica"
+      ],
+      "keywords": [
+        "homo habilis",
+        "primeras herramientas",
+        "arsuaga",
+        "evolución humana",
+        "master class"
       ]
     }
   ]
