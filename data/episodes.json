@@ -13,13 +13,15 @@
     ],
     "people_ids": [],
     "place_ids": [],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "36:42",
     "published": "2021-04-25",
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/64-la-prehistoria-el-paleol%C3%ADtico/id1503363327?i=1000518543593",
       "spotify": "",
@@ -28,11 +30,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "verified",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Introducción al Paleolítico: origen del ser humano actual, formas de vida, arte, creencias y primeras herramientas.",
     "learn": [
@@ -41,10 +68,22 @@
       "Arte paleolítico",
       "Pensamiento simbólico"
     ],
+    "listen_before": [],
+    "listen_after": [
+      "ep_historia_en_podcast_65_neolitico"
+    ],
     "related_topics": [
       "Paleolítico superior",
       "Arte rupestre"
-    ]
+    ],
+    "keywords": [
+      "arte rupestre",
+      "paleolitico",
+      "paleolítico",
+      "paleolítico superior",
+      "prehistoria"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_historia_en_podcast_65_neolitico",
@@ -60,13 +99,15 @@
     ],
     "people_ids": [],
     "place_ids": [],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "42 min",
     "published": "2021-05-01",
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/65-la-prehistoria-el-neol%C3%ADtico/id1503363327?i=1000519608384",
       "spotify": "https://open.spotify.com/episode/6i4DvShYOpqrI5UH9Q1Jk1",
@@ -75,11 +116,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "verified",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Revolución Neolítica, sedentarismo, agricultura, domesticación, primeras ciudades, división social del trabajo y origen de la escritura.",
     "learn": [
@@ -88,10 +154,22 @@
       "Primeras ciudades",
       "Origen de la escritura"
     ],
+    "listen_before": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ],
+    "listen_after": [],
     "related_topics": [
       "Agricultura",
       "Domesticación"
-    ]
+    ],
+    "keywords": [
+      "agricultura",
+      "domesticación",
+      "neolitico",
+      "neolítico",
+      "prehistoria"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_historia_con_movil_neolitico",
@@ -107,13 +185,15 @@
     ],
     "people_ids": [],
     "place_ids": [],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "29 min",
     "published": "2020-09-02",
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/el-neol%C3%ADtico-evoluci%C3%B3n-o-involuci%C3%B3n/id1219460034?i=1000574622907",
       "spotify": "",
@@ -122,11 +202,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Entrada breve al debate sobre el Neolítico como avance o retroceso.",
     "learn": [
@@ -134,10 +239,20 @@
       "Sedentarismo",
       "Impacto de la agricultura"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Neolítico",
       "Agricultura"
-    ]
+    ],
+    "keywords": [
+      "agricultura",
+      "evolución",
+      "involución",
+      "neolitico",
+      "neolítico"
+    ],
+    "editor_rating": 4
   },
   {
     "id": "ep_lhe_prehistoria_peninsula",
@@ -157,13 +272,15 @@
       "place_atapuerca",
       "place_altamira"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "49 min",
     "published": "2020-12-13",
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
       "spotify": "https://open.spotify.com/episode/04OiaPlIalIOK34AyKAtsy",
@@ -172,11 +289,36 @@
       "web": "https://www.lahistoriaespana.com/prehistoria-de-la-peninsula-iberica/"
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "verified",
-      "ivoox": "verified",
-      "youtube": "pending",
-      "web": "verified"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Prehistoria de la península ibérica desde el Paleolítico hasta la Edad del Bronce.",
     "learn": [
@@ -185,11 +327,25 @@
       "Los Millares",
       "El Argar"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Atapuerca",
       "Altamira",
       "Los Millares"
-    ]
+    ],
+    "keywords": [
+      "altamira",
+      "atapuerca",
+      "episodio",
+      "iberica",
+      "ibérica",
+      "los millares",
+      "peninsula",
+      "península",
+      "prehistoria"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_planeta_muy_neandertales",
@@ -209,13 +365,15 @@
     "place_ids": [
       "place_europa"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "",
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/cap%C3%ADtulo-3-caminando-entre-neandertales-con-javier-baena/id1588051336?i=1000536973313",
       "spotify": "",
@@ -224,11 +382,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Vida, costumbres y capacidades de los neandertales.",
     "learn": [
@@ -236,10 +419,22 @@
       "Cómo vivían",
       "Capacidades cognitivas"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Neandertales",
       "Homo sapiens"
-    ]
+    ],
+    "keywords": [
+      "baena",
+      "caminando",
+      "capítulo",
+      "entre",
+      "homo sapiens",
+      "javier",
+      "neandertales"
+    ],
+    "editor_rating": 4
   },
   {
     "id": "ep_otro_podcast_arte_paleolitico",
@@ -255,13 +450,15 @@
     ],
     "people_ids": [],
     "place_ids": [],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "2022-07-10",
     "priority": 3,
     "difficulty": 2,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/el-arte-en-el-paleol%C3%ADtico/id1460661274?i=1000569451542",
       "spotify": "",
@@ -270,11 +467,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Arte paleolítico y comportamiento humano moderno: música, pinturas rupestres, tecnología y significado.",
     "learn": [
@@ -282,10 +504,20 @@
       "Comportamiento simbólico",
       "Tecnología de pintura"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Arte rupestre",
       "Paleolítico superior"
-    ]
+    ],
+    "keywords": [
+      "arte",
+      "arte rupestre",
+      "paleolítico",
+      "paleolítico superior",
+      "rupestre"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_mujeres_historia_prehistoria",
@@ -303,13 +535,15 @@
       "person_almudena_hernando"
     ],
     "place_ids": [],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "2021-02-13",
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/09-mujeres-en-la-prehistoria-paleol%C3%ADtico-y-sociedades/id1506981606?i=1000508920445",
       "spotify": "",
@@ -318,11 +552,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Papel de mujeres y hombres en el Paleolítico y sociedades cazadoras-recolectoras.",
     "learn": [
@@ -330,10 +589,22 @@
       "Perspectiva de género",
       "Cazadores-recolectores"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Paleolítico",
       "Mujeres en la historia"
-    ]
+    ],
+    "keywords": [
+      "cazadoras-recolectoras",
+      "mujeres",
+      "mujeres en la historia",
+      "paleolítico",
+      "prehistoria",
+      "prehistoria.",
+      "sociedades"
+    ],
+    "editor_rating": 4
   },
   {
     "id": "ep_atapuerca_1_zarpazo",
@@ -355,13 +626,15 @@
     "place_ids": [
       "place_atapuerca"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "22 min",
     "published": "2026-02-18",
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/episodio-1-el-zarpazo-de-la-curiosidad/id1860248995?i=1000750267014",
       "spotify": "https://open.spotify.com/episode/592Ijl3I9PSAehxzXnJdJ8",
@@ -370,11 +643,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "verified",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Origen del fenómeno científico de Atapuerca, primeros hallazgos y protagonistas.",
     "learn": [
@@ -382,10 +680,22 @@
       "Primeros investigadores",
       "Importancia científica"
     ],
+    "listen_before": [],
+    "listen_after": [
+      "ep_atapuerca_2_craneos"
+    ],
     "related_topics": [
       "Atapuerca",
       "Evolución humana"
-    ]
+    ],
+    "keywords": [
+      "atapuerca",
+      "curiosidad",
+      "episodio",
+      "evolución humana",
+      "zarpazo"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_atapuerca_2_craneos",
@@ -407,13 +717,15 @@
     "place_ids": [
       "place_atapuerca"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "29 min",
     "published": "2026-02-25",
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/episodio-2-los-cr%C3%A1neos-a-b-y-c/id1860248995?i=1000751332730",
       "spotify": "",
@@ -422,11 +734,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Equipo de Atapuerca, cráneos A, B y C, relevo científico y grandes descubrimientos.",
     "learn": [
@@ -434,10 +771,23 @@
       "Fósiles humanos",
       "Paleoantropología"
     ],
+    "listen_before": [
+      "ep_atapuerca_1_zarpazo"
+    ],
+    "listen_after": [
+      "ep_atapuerca_4_piezas_puzle"
+    ],
     "related_topics": [
       "Atapuerca",
       "Evolución humana"
-    ]
+    ],
+    "keywords": [
+      "atapuerca",
+      "cráneos",
+      "episodio",
+      "evolución humana"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_atapuerca_4_piezas_puzle",
@@ -460,13 +810,15 @@
     "place_ids": [
       "place_atapuerca"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "32 min",
     "published": "2026-03-11",
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/episodio-4-las-piezas-del-puzle/id1860248995?i=1000754607280",
       "spotify": "",
@@ -475,11 +827,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Descubrimientos, hallazgos científicos y piezas clave de Atapuerca.",
     "learn": [
@@ -487,10 +864,22 @@
       "Métodos de investigación",
       "Trabajo interdisciplinar"
     ],
+    "listen_before": [
+      "ep_atapuerca_2_craneos"
+    ],
+    "listen_after": [],
     "related_topics": [
       "Atapuerca",
       "Evolución humana"
-    ]
+    ],
+    "keywords": [
+      "atapuerca",
+      "episodio",
+      "evolución humana",
+      "piezas",
+      "puzle"
+    ],
+    "editor_rating": 4
   },
   {
     "id": "ep_zh_neolitico_gaditano",
@@ -510,13 +899,15 @@
     "place_ids": [
       "place_bahia_cadiz"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "",
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/zh-4x27-prehistoria-ii-neol%C3%ADtico-gaditano-el-campo/id1187149404?i=1000477489496",
       "spotify": "",
@@ -525,11 +916,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "verified",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Neolítico en la Bahía de Cádiz y yacimiento del Campo de Hockey de San Fernando.",
     "learn": [
@@ -537,10 +953,23 @@
       "Campo de Hockey",
       "Arqueología funeraria"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Neolítico",
       "Cádiz"
-    ]
+    ],
+    "keywords": [
+      "campo",
+      "cádiz",
+      "gaditano",
+      "gaditano.",
+      "hockey",
+      "neolitico",
+      "neolítico",
+      "prehistoria"
+    ],
+    "editor_rating": 4
   },
   {
     "id": "ep_khulmani_paleolitico_superior",
@@ -558,13 +987,15 @@
     "place_ids": [
       "place_europa"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "",
     "priority": 3,
     "difficulty": 2,
     "depth": 3,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "",
       "spotify": "",
@@ -573,11 +1004,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "not_available",
-      "spotify": "pending",
-      "ivoox": "verified",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Paleolítico Superior: Homo sapiens en Europa, clima glaciar, tecnología y sociedad.",
     "learn": [
@@ -585,10 +1041,20 @@
       "Homo sapiens",
       "Último máximo glacial"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Homo sapiens",
       "Arte rupestre"
-    ]
+    ],
+    "keywords": [
+      "arte rupestre",
+      "homo sapiens",
+      "paleolitico",
+      "paleolítico",
+      "superior"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_khulmani_neolitico_europa",
@@ -609,13 +1075,15 @@
       "place_lago_bracciano",
       "place_europa"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "",
     "priority": 3,
     "difficulty": 2,
     "depth": 3,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "",
       "spotify": "",
@@ -624,11 +1092,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "not_available",
-      "spotify": "pending",
-      "ivoox": "verified",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Expansión del Neolítico por Europa con Juan F. Gibaja y referencia a La Marmotta.",
     "learn": [
@@ -636,11 +1129,21 @@
       "Primeros agricultores",
       "La Marmotta"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Neolítico",
       "Europa",
       "Agricultura"
-    ]
+    ],
+    "keywords": [
+      "agricultura",
+      "europa",
+      "expansión",
+      "neolitico",
+      "neolítico"
+    ],
+    "editor_rating": 5
   },
   {
     "id": "ep_khulmani_aborigenes_australianos",
@@ -658,13 +1161,15 @@
     "place_ids": [
       "place_australia"
     ],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "",
     "priority": 2,
     "difficulty": 2,
     "depth": 2,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "",
       "spotify": "",
@@ -673,11 +1178,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "not_available",
-      "spotify": "pending",
-      "ivoox": "verified",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Poblamiento humano de Australia, herramientas, sociedad, costumbres y creencias aborígenes.",
     "learn": [
@@ -685,10 +1215,20 @@
       "Sociedades cazadoras-recolectoras",
       "Espiritualidad aborigen"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Homo sapiens",
       "Migraciones humanas"
-    ]
+    ],
+    "keywords": [
+      "aborigenes",
+      "aborígenes",
+      "australianos",
+      "homo sapiens",
+      "migraciones humanas"
+    ],
+    "editor_rating": 4
   },
   {
     "id": "ep_cao_77_prehistoria",
@@ -704,13 +1244,15 @@
     ],
     "people_ids": [],
     "place_ids": [],
-    "battle_ids": [],
+    "civilization_ids": [],
+    "event_ids": [],
     "duration": "",
     "published": "2026",
     "priority": 1,
     "difficulty": 1,
     "depth": 1,
     "language": "es",
+    "status": "verified",
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/cao-77-la-prehistoria/id1693438724?i=1000740110307",
       "spotify": "",
@@ -719,11 +1261,36 @@
       "web": ""
     },
     "verification": {
-      "apple": "verified",
-      "spotify": "pending",
-      "ivoox": "pending",
-      "youtube": "pending",
-      "web": "pending"
+      "apple": {
+        "status": "verified",
+        "verified_date": "2026-07-02",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "spotify": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "ivoox": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "youtube": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      },
+      "web": {
+        "status": "not_available",
+        "verified_date": "",
+        "verified_by": "editorial",
+        "note": ""
+      }
     },
     "summary": "Panorámica de la Prehistoria desde primeros homínidos hasta revolución del metal.",
     "learn": [
@@ -733,10 +1300,18 @@
       "Neolítico",
       "Edad de los Metales"
     ],
+    "listen_before": [],
+    "listen_after": [],
     "related_topics": [
       "Prehistoria",
       "Paleolítico",
       "Neolítico"
-    ]
+    ],
+    "keywords": [
+      "neolítico",
+      "paleolítico",
+      "prehistoria"
+    ],
+    "editor_rating": 3
   }
 ]
