@@ -369,36 +369,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Punto de partida recomendado para entrar en la Prehistoria. Explica de forma clara el mundo paleolítico: los grupos cazadores-recolectores, las primeras herramientas, el pensamiento simbólico y el arte rupestre. Es el episodio más adecuado para iniciar la ruta antes de pasar al Neolítico.",
       "learn": [
@@ -473,36 +448,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "verified",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Continuación natural del episodio sobre el Paleolítico. Presenta la Revolución Neolítica como uno de los grandes cambios de la historia humana: agricultura, ganadería, sedentarismo, aldeas, división social del trabajo y primeras formas urbanas. Es imprescindible para entender el paso de sociedades móviles a comunidades agrícolas.",
       "learn": [
@@ -581,36 +531,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Episodio breve y útil para reforzar el Neolítico desde una perspectiva crítica: no lo presenta únicamente como progreso, sino también como un cambio con costes sociales, sanitarios y económicos. Funciona bien como complemento tras una introducción general.",
       "learn": [
@@ -690,36 +615,11 @@ const DATA = {
         "web": "prehistoria-de-la-peninsula-iberica"
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "verified",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "verified"
       },
       "summary": "La mejor entrada general para seguir la Prehistoria desde una perspectiva peninsular. Recorre Atapuerca, Altamira, el Mesolítico, el Neolítico, Los Millares y El Argar, conectando la evolución general de la humanidad con el territorio ibérico. Es una pieza clave para usuarios interesados en España.",
       "learn": [
@@ -802,36 +702,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Buena introducción divulgativa a los neandertales. Ayuda a desmontar la imagen simplista del neandertal primitivo y lo presenta como una humanidad compleja, con capacidades técnicas, sociales y cognitivas. Recomendado para abrir el bloque de evolución humana reciente.",
       "learn": [
@@ -905,36 +780,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Monográfico profundo sobre el arte paleolítico. Es uno de los episodios más completos del bloque para entender el comportamiento simbólico, la tecnología de las pinturas, la música prehistórica y el posible significado de las representaciones rupestres. Recomendado para profundizar, no como primera escucha.",
       "learn": [
@@ -1011,36 +861,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Episodio necesario para equilibrar la visión clásica de la Prehistoria. Introduce la perspectiva de género en sociedades paleolíticas y cazadoras-recolectoras, mostrando que la organización social fue más compleja que los modelos tradicionales basados solo en caza masculina y dependencia femenina.",
       "learn": [
@@ -1119,36 +944,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "verified",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Primer episodio recomendado para entrar en Atapuerca. Explica cómo un yacimiento burgalés se convirtió en un referente mundial para estudiar la evolución humana, presentando a sus protagonistas, el origen del proyecto y la importancia científica de los hallazgos.",
       "learn": [
@@ -1230,36 +1030,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Continuación directa del primer episodio de Atapuerca. Profundiza en el equipo científico, los cráneos y los grandes descubrimientos que consolidaron la importancia del yacimiento. Recomendado para seguir la serie en orden.",
       "learn": [
@@ -1341,36 +1116,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Episodio complementario para entender Atapuerca como un gran puzle científico. Aporta contexto sobre hallazgos, métodos y trabajo interdisciplinar. No es el primero que debe escucharse, pero sí enriquece mucho la comprensión del yacimiento.",
       "learn": [
@@ -1447,36 +1197,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Buen episodio para bajar el Neolítico al terreno local. A través del yacimiento del Campo de Hockey de San Fernando, muestra cómo la arqueología regional permite entender cambios funerarios, sociales y culturales en comunidades neolíticas peninsulares.",
       "learn": [
@@ -1553,36 +1278,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Episodio especializado para profundizar en el Paleolítico Superior europeo. Recomendado después de una introducción general, porque entra en clima, tecnología, sociedad y expansión de Homo sapiens con mayor densidad de contenido.",
       "learn": [
@@ -1662,36 +1362,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Episodio especializado sobre la expansión del Neolítico por Europa. Es ideal después de una introducción general, porque explica cómo se difundieron agricultura y ganadería por el continente y permite entender la neolitización como un proceso histórico complejo.",
       "learn": [
@@ -1768,36 +1443,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Episodio útil para ampliar la Prehistoria más allá de Europa y Próximo Oriente. Trata el poblamiento de Australia, las sociedades cazadoras-recolectoras y la cultura aborigen, aportando una perspectiva global sobre Homo sapiens y sus migraciones.",
       "learn": [
@@ -1871,36 +1521,11 @@ const DATA = {
         "web": ""
       },
       "verification": {
-        "apple": {
-          "status": "verified",
-          "verified_date": "2026-07-02",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "spotify": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "ivoox": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "youtube": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        },
-        "web": {
-          "status": "not_available",
-          "verified_date": "",
-          "verified_by": "editorial",
-          "note": ""
-        }
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
       },
       "summary": "Episodio panorámico y ligero sobre la Prehistoria. No sustituye a las piezas principales de la ruta, pero puede servir como repaso general o como entrada muy básica para usuarios que quieran una visión rápida antes de profundizar.",
       "learn": [

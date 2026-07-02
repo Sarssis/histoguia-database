@@ -1,35 +1,19 @@
-# Histoguía Database · Prehistoria v2.3
+# Histoguía Database · Prehistoria v2.3.1
 
-Base completa para sustituir todo el contenido de `histoguia-database`.
+Base completa corregida para compatibilidad con la app actual.
 
-## Archivos incluidos
+## Corrección aplicada
 
-- `data/phases.json`
-- `data/subperiods.json`
-- `data/topics.json`
-- `data/episodes.json`
-- `data/podcasts.json`
-- `data/people.json`
-- `data/places.json`
-- `data/battles.json`
-- `data/civilizations.json`
-- `data/routes.json`
-- `data/relations.json`
-- `data/schema.json`
-- `docs/EDITORIAL_RULES.md`
-- `docs/ROADMAP.md`
-- `exports/data.js`
-- `exports/episodes.csv`
-- `scripts/validate.py`
+`verification` vuelve al formato simple compatible con la app:
 
-## Estado
+```json
+"verification": {
+  "apple": "verified",
+  "spotify": "pending",
+  "ivoox": "verified",
+  "youtube": "pending",
+  "web": "pending"
+}
+```
 
-Prehistoria con `episodes.json` editorial v2.3:
-- Estructura homogénea.
-- Enlaces verificados.
-- Platform IDs.
-- Metadatos normalizados.
-- Resúmenes editoriales.
-- Qué aprenderás.
-- Relaciones básicas.
-- Keywords.
+Esto reactiva los botones de Apple Podcasts, Spotify, iVoox, YouTube o Web cuando estén verificados.
