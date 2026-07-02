@@ -15,17 +15,32 @@
     "place_ids": [],
     "civilization_ids": [],
     "event_ids": [],
-    "duration": "36:42",
+    "duration": "40 min",
+    "duration_minutes": 40,
     "published": "2021-04-25",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/64-la-prehistoria-el-paleol%C3%ADtico/id1503363327?i=1000518543593",
       "spotify": "",
       "ivoox": "https://www.ivoox.com/64-la-prehistoria-el-paleolitico-audios-mp3_rf_69085351_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000518543593",
+      "spotify": "",
+      "ivoox": "69085351",
       "youtube": "",
       "web": ""
     },
@@ -82,15 +97,7 @@
       "paleolítico",
       "paleolítico superior",
       "prehistoria"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "1000518543593",
-      "spotify": "",
-      "ivoox": "69085351",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_historia_en_podcast_65_neolitico",
@@ -108,16 +115,31 @@
     "place_ids": [],
     "civilization_ids": [],
     "event_ids": [],
-    "duration": "42 min",
+    "duration": "46 min",
+    "duration_minutes": 46,
     "published": "2021-05-01",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/65-la-prehistoria-el-neol%C3%ADtico/id1503363327?i=1000519608384",
       "spotify": "https://open.spotify.com/episode/6i4DvShYOpqrI5UH9Q1Jk1",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000519608384",
+      "spotify": "6i4DvShYOpqrI5UH9Q1Jk1",
       "ivoox": "",
       "youtube": "",
       "web": ""
@@ -175,15 +197,7 @@
       "neolitico",
       "neolítico",
       "prehistoria"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "1000519608384",
-      "spotify": "6i4DvShYOpqrI5UH9Q1Jk1",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_historia_con_movil_neolitico",
@@ -202,14 +216,29 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "29 min",
+    "duration_minutes": 29,
     "published": "2020-09-02",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 4,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/el-neol%C3%ADtico-evoluci%C3%B3n-o-involuci%C3%B3n/id1219460034?i=1000574622907",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000574622907",
       "spotify": "",
       "ivoox": "",
       "youtube": "",
@@ -265,15 +294,7 @@
       "involución",
       "neolitico",
       "neolítico"
-    ],
-    "editor_rating": 4,
-    "platform_ids": {
-      "apple": "1000574622907",
-      "spotify": "",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_lhe_prehistoria_peninsula",
@@ -296,18 +317,33 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "49 min",
+    "duration_minutes": 49,
     "published": "2020-12-13",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
       "spotify": "https://open.spotify.com/episode/04OiaPlIalIOK34AyKAtsy",
       "ivoox": "https://www.ivoox.com/prehistoria-peninsula-iberica-episodio-3-audios-mp3_rf_62270067_1.html",
       "youtube": "",
       "web": "https://www.lahistoriaespana.com/prehistoria-de-la-peninsula-iberica/"
+    },
+    "platform_ids": {
+      "apple": "1000502432135",
+      "spotify": "04OiaPlIalIOK34AyKAtsy",
+      "ivoox": "62270067",
+      "youtube": "",
+      "web": "prehistoria-de-la-peninsula-iberica"
     },
     "verification": {
       "apple": {
@@ -365,15 +401,7 @@
       "peninsula",
       "península",
       "prehistoria"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "1000502432135",
-      "spotify": "04OiaPlIalIOK34AyKAtsy",
-      "ivoox": "62270067",
-      "youtube": "",
-      "web": "prehistoria-de-la-peninsula-iberica"
-    }
+    ]
   },
   {
     "id": "ep_planeta_muy_neandertales",
@@ -396,14 +424,29 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "",
+    "duration_minutes": null,
     "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 4,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/cap%C3%ADtulo-3-caminando-entre-neandertales-con-javier-baena/id1588051336?i=1000536973313",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000536973313",
       "spotify": "",
       "ivoox": "",
       "youtube": "",
@@ -461,15 +504,7 @@
       "homo sapiens",
       "javier",
       "neandertales"
-    ],
-    "editor_rating": 4,
-    "platform_ids": {
-      "apple": "1000536973313",
-      "spotify": "",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_otro_podcast_arte_paleolitico",
@@ -487,15 +522,30 @@
     "place_ids": [],
     "civilization_ids": [],
     "event_ids": [],
-    "duration": "",
+    "duration": "4 h 22 min",
+    "duration_minutes": 262,
     "published": "2022-07-10",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 2,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/el-arte-en-el-paleol%C3%ADtico/id1460661274?i=1000569451542",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000569451542",
       "spotify": "",
       "ivoox": "",
       "youtube": "",
@@ -551,15 +601,7 @@
       "paleolítico",
       "paleolítico superior",
       "rupestre"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "1000569451542",
-      "spotify": "",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_mujeres_historia_prehistoria",
@@ -579,15 +621,30 @@
     "place_ids": [],
     "civilization_ids": [],
     "event_ids": [],
-    "duration": "",
+    "duration": "56 min",
+    "duration_minutes": 56,
     "published": "2021-02-13",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 4,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/09-mujeres-en-la-prehistoria-paleol%C3%ADtico-y-sociedades/id1506981606?i=1000508920445",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000508920445",
       "spotify": "",
       "ivoox": "",
       "youtube": "",
@@ -645,15 +702,7 @@
       "prehistoria",
       "prehistoria.",
       "sociedades"
-    ],
-    "editor_rating": 4,
-    "platform_ids": {
-      "apple": "1000508920445",
-      "spotify": "",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_atapuerca_1_zarpazo",
@@ -678,15 +727,30 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "22 min",
+    "duration_minutes": 22,
     "published": "2026-02-18",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/episodio-1-el-zarpazo-de-la-curiosidad/id1860248995?i=1000750267014",
       "spotify": "https://open.spotify.com/episode/592Ijl3I9PSAehxzXnJdJ8",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000750267014",
+      "spotify": "592Ijl3I9PSAehxzXnJdJ8",
       "ivoox": "",
       "youtube": "",
       "web": ""
@@ -743,15 +807,7 @@
       "episodio",
       "evolución humana",
       "zarpazo"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "1000750267014",
-      "spotify": "592Ijl3I9PSAehxzXnJdJ8",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_atapuerca_2_craneos",
@@ -776,14 +832,29 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "29 min",
+    "duration_minutes": 29,
     "published": "2026-02-25",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/episodio-2-los-cr%C3%A1neos-a-b-y-c/id1860248995?i=1000751332730",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000751332730",
       "spotify": "",
       "ivoox": "",
       "youtube": "",
@@ -842,15 +913,7 @@
       "cráneos",
       "episodio",
       "evolución humana"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "1000751332730",
-      "spotify": "",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_atapuerca_4_piezas_puzle",
@@ -876,14 +939,29 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "32 min",
+    "duration_minutes": 32,
     "published": "2026-03-11",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 4,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/episodio-4-las-piezas-del-puzle/id1860248995?i=1000754607280",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000754607280",
       "spotify": "",
       "ivoox": "",
       "youtube": "",
@@ -941,15 +1019,7 @@
       "evolución humana",
       "piezas",
       "puzle"
-    ],
-    "editor_rating": 4,
-    "platform_ids": {
-      "apple": "1000754607280",
-      "spotify": "",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_zh_neolitico_gaditano",
@@ -972,16 +1042,31 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "",
-    "published": "",
+    "duration_minutes": null,
+    "published": "2020",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 2,
     "difficulty": 1,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 4,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/zh-4x27-prehistoria-ii-neol%C3%ADtico-gaditano-el-campo/id1187149404?i=1000477489496",
       "spotify": "",
       "ivoox": "https://www.ivoox.com/zh-4x27-prehistoria-ii-neolitico-gaditano-el-campo-audios-mp3_rf_51943708_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000477489496",
+      "spotify": "",
+      "ivoox": "51943708",
       "youtube": "",
       "web": ""
     },
@@ -1038,15 +1123,7 @@
       "neolitico",
       "neolítico",
       "prehistoria"
-    ],
-    "editor_rating": 4,
-    "platform_ids": {
-      "apple": "1000477489496",
-      "spotify": "",
-      "ivoox": "51943708",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_khulmani_paleolitico_superior",
@@ -1067,16 +1144,31 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "",
+    "duration_minutes": null,
     "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 2,
     "depth": 3,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "",
       "spotify": "",
       "ivoox": "https://www.ivoox.com/paleolitico-superior-audios-mp3_rf_60748439_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "60748439",
       "youtube": "",
       "web": ""
     },
@@ -1130,15 +1222,7 @@
       "paleolitico",
       "paleolítico",
       "superior"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "",
-      "spotify": "",
-      "ivoox": "60748439",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_khulmani_neolitico_europa",
@@ -1162,16 +1246,31 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "",
+    "duration_minutes": null,
     "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 3,
     "difficulty": 2,
     "depth": 3,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 5,
     "links": {
       "apple": "",
       "spotify": "",
       "ivoox": "https://www.ivoox.com/expansion-del-neolitico-europa-audios-mp3_rf_69689788_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "69689788",
       "youtube": "",
       "web": ""
     },
@@ -1226,15 +1325,7 @@
       "expansión",
       "neolitico",
       "neolítico"
-    ],
-    "editor_rating": 5,
-    "platform_ids": {
-      "apple": "",
-      "spotify": "",
-      "ivoox": "69689788",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_khulmani_aborigenes_australianos",
@@ -1255,16 +1346,31 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "",
+    "duration_minutes": null,
     "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 2,
     "difficulty": 2,
     "depth": 2,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 4,
     "links": {
       "apple": "",
       "spotify": "",
       "ivoox": "https://www.ivoox.com/aborigenes-australianos-audios-mp3_rf_58410827_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "58410827",
       "youtube": "",
       "web": ""
     },
@@ -1318,15 +1424,7 @@
       "australianos",
       "homo sapiens",
       "migraciones humanas"
-    ],
-    "editor_rating": 4,
-    "platform_ids": {
-      "apple": "",
-      "spotify": "",
-      "ivoox": "58410827",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   },
   {
     "id": "ep_cao_77_prehistoria",
@@ -1345,14 +1443,29 @@
     "civilization_ids": [],
     "event_ids": [],
     "duration": "",
+    "duration_minutes": null,
     "published": "2026",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
     "priority": 1,
     "difficulty": 1,
     "depth": 1,
-    "language": "es",
-    "status": "verified",
+    "editor_rating": 3,
     "links": {
       "apple": "https://podcasts.apple.com/es/podcast/cao-77-la-prehistoria/id1693438724?i=1000740110307",
+      "spotify": "",
+      "ivoox": "",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "1000740110307",
       "spotify": "",
       "ivoox": "",
       "youtube": "",
@@ -1409,14 +1522,6 @@
       "neolítico",
       "paleolítico",
       "prehistoria"
-    ],
-    "editor_rating": 3,
-    "platform_ids": {
-      "apple": "1000740110307",
-      "spotify": "",
-      "ivoox": "",
-      "youtube": "",
-      "web": ""
-    }
+    ]
   }
 ]
