@@ -1,0 +1,79 @@
+﻿id,name,type,phase_ids,summary
+topic_prehistoria,Prehistoria,period,phase_01,Periodo anterior a la escritura y al surgimiento de las primeras civilizaciones estatales.
+topic_evolucion_humana,Evolución humana,process,phase_01,Proceso evolutivo que conduce desde los primeros homininos hasta Homo sapiens.
+topic_paleoantropologia,Paleoantropología,discipline,phase_01,"Disciplina que estudia la evolución humana a partir de fósiles, genética y contexto arqueológico."
+topic_bipedismo,Bipedismo,concept,phase_01,Capacidad de desplazarse habitualmente sobre dos extremidades inferiores.
+topic_encefalizacion,Encefalización,concept,phase_01,Aumento relativo del tamaño cerebral dentro del proceso evolutivo humano.
+topic_australopithecus,Australopithecus,species_group,phase_01,Grupo de homininos africanos clave para el estudio del bipedismo temprano.
+topic_homo_habilis,Homo habilis,species,phase_01,Primeras especies del género Homo asociadas al uso temprano de herramientas.
+topic_homo_erectus,Homo erectus,species,phase_01,Especie humana de amplia expansión geográfica y gran relevancia evolutiva.
+topic_homo_antecessor,Homo antecessor,species,phase_01,Especie humana identificada en Atapuerca y vinculada al poblamiento temprano europeo.
+topic_homo_heidelbergensis,Homo heidelbergensis,species,phase_01,Especie del Pleistoceno medio relacionada con linajes neandertales y sapiens.
+topic_neandertales,Neandertales,species,phase_01,Humanos arcaicos de Eurasia con cultura material compleja.
+topic_denisovanos,Denisovanos,population,phase_01,Grupo humano arcaico conocido principalmente por evidencias genéticas.
+topic_homo_sapiens,Homo sapiens,species,phase_01,Única especie humana superviviente y protagonista de la expansión global.
+topic_adn_antiguo,ADN antiguo,method,phase_01,Herramienta fundamental para reconstruir parentescos y mezclas entre poblaciones humanas antiguas.
+topic_migraciones_humanas,Migraciones humanas,process,phase_01,Movimientos de poblaciones humanas a través de continentes y ecosistemas.
+topic_salida_africa,Salida de África,event_process,phase_01,Proceso de expansión de homininos y humanos modernos fuera del continente africano.
+topic_industria_litica,Industria lítica,technology,phase_01,Conjunto de técnicas de fabricación y uso de herramientas de piedra.
+topic_olduvayense,Olduvayense,technology,phase_01,Industria lítica temprana asociada a herramientas simples de piedra.
+topic_achelense,Achelense,technology,phase_01,Industria lítica caracterizada por bifaces y asociada a Homo erectus y otros Homo.
+topic_musteriense,Musteriense,technology,phase_01,Industria lítica asociada principalmente a neandertales en el Paleolítico Medio.
+topic_paleolitico,Paleolítico,period,phase_01,"Primera gran etapa de la Prehistoria, marcada por sociedades cazadoras-recolectoras."
+topic_paleolitico_inferior,Paleolítico Inferior,period,phase_01,"Etapa inicial del Paleolítico, asociada a primeros Homo y expansión temprana."
+topic_paleolitico_medio,Paleolítico Medio,period,phase_01,"Etapa asociada a neandertales, musteriense y cambios culturales del Pleistoceno medio y superior."
+topic_paleolitico_superior,Paleolítico superior,period,phase_01,"Etapa marcada por Homo sapiens, expansión europea, arte rupestre y complejidad simbólica."
+topic_cazadores_recolectores,Cazadores-recolectores,social_model,phase_01,"Modelo de subsistencia basado en caza, pesca, recolección y movilidad."
+topic_fuego,Dominio del fuego,technology,phase_01,"Control del fuego como avance técnico, social y adaptativo."
+topic_arte_rupestre,Arte rupestre,cultural_expression,phase_01,Representaciones pintadas o grabadas sobre paredes rocosas y cuevas.
+topic_arte_mueble,Arte mueble,cultural_expression,phase_01,Objetos artísticos portátiles del Paleolítico y otras etapas prehistóricas.
+topic_comportamiento_simbolico,Comportamiento simbólico,concept,phase_01,"Capacidad humana de crear y compartir símbolos, imágenes, rituales y significados."
+topic_chamanismo,Chamanismo prehistórico,interpretation,phase_01,Hipótesis interpretativa sobre prácticas rituales y simbólicas en sociedades prehistóricas.
+topic_altamira,Altamira,site_topic,phase_01,Cueva paleolítica cántabra célebre por su arte rupestre.
+topic_lascaux,Lascaux,site_topic,phase_01,Cueva francesa fundamental para el estudio del arte rupestre paleolítico.
+topic_chauvet,Chauvet,site_topic,phase_01,Cueva francesa con pinturas paleolíticas antiguas y complejas.
+topic_atapuerca,Atapuerca,site_topic,phase_01,Conjunto de yacimientos burgaleses clave para la evolución humana europea.
+topic_prehistoria_peninsula_iberica,Prehistoria de la península ibérica,regional_period,phase_01,Desarrollo de la Prehistoria en el territorio ibérico.
+topic_mujeres_prehistoria,Mujeres en la Prehistoria,social_history,phase_01,Estudio del papel de las mujeres y las relaciones de género en sociedades prehistóricas.
+topic_mesolitico,Mesolítico,period,phase_01,Etapa de transición posterior al Paleolítico y anterior al Neolítico.
+topic_fin_glaciaciones,Fin de las glaciaciones,environment,phase_01,Cambio climático que transformó ecosistemas y modos de vida al final del Pleistoceno.
+topic_holoceno,Holoceno,period,phase_01,Época geológica iniciada tras el final de la última glaciación.
+topic_neolitico,Neolítico,period,phase_01,"Etapa marcada por agricultura, ganadería, sedentarismo y nuevas formas sociales."
+topic_revolucion_neolitica,Revolución Neolítica,process,phase_01,"Transformación profunda asociada a agricultura, domesticación y sedentarismo."
+topic_neolitizacion,Neolitización,process,phase_01,Proceso de expansión y adopción de formas de vida neolíticas.
+topic_agricultura,Agricultura,technology_social_change,phase_01,Producción sistemática de plantas cultivadas.
+topic_ganaderia,Ganadería,technology_social_change,phase_01,"Domesticación y cría de animales para alimentación, trabajo o recursos."
+topic_domesticacion,Domesticación,process,phase_01,Proceso por el que plantas y animales son incorporados a sistemas humanos de producción.
+topic_sedentarismo,Sedentarismo,social_model,phase_01,Establecimiento prolongado de comunidades en asentamientos fijos.
+topic_primeras_aldeas,Primeras aldeas,settlement,phase_01,Primeros asentamientos estables asociados al Neolítico.
+topic_ceramica,Cerámica,technology,phase_01,Producción de recipientes y objetos de barro cocido.
+topic_tejido,Tejido,technology,phase_01,Tecnologías textiles y de fibras en sociedades prehistóricas.
+topic_megalitismo,Megalitismo,cultural_expression,phase_01,"Construcción de monumentos con grandes piedras, a menudo con función funeraria o ritual."
+topic_arqueologia_funeraria,Arqueología funeraria,discipline_topic,phase_01,"Estudio de enterramientos, tumbas y prácticas funerarias antiguas."
+topic_gobekli_tepe,Göbekli Tepe,site_topic,phase_01,Complejo monumental de Anatolia relacionado con el Neolítico temprano.
+topic_jerico,Jericó,site_topic,phase_01,Asentamiento antiguo clave para el estudio del sedentarismo y primeras aldeas.
+topic_catalhoyuk,Çatalhöyük,site_topic,phase_01,Gran asentamiento neolítico de Anatolia.
+topic_neolitico_gaditano,Neolítico gaditano,regional_period,phase_01,Manifestaciones neolíticas del entorno de la Bahía de Cádiz.
+topic_edad_metales,Edad de los Metales,period,phase_01,Etapa caracterizada por el desarrollo de tecnologías metalúrgicas.
+topic_edad_cobre,Edad del Cobre,period,phase_01,"Primera etapa metalúrgica, también llamada Calcolítico."
+topic_calcolitico,Calcolítico,period,phase_01,Periodo de transición caracterizado por el uso del cobre y creciente complejidad social.
+topic_edad_bronce,Edad del Bronce,period,phase_01,"Etapa marcada por aleaciones de bronce, comercio y sociedades jerarquizadas."
+topic_edad_hierro,Edad del Hierro,period,phase_01,Etapa caracterizada por la difusión del hierro y nuevas formas sociopolíticas.
+topic_metalurgia,Metalurgia,technology,phase_01,Conjunto de técnicas para trabajar metales.
+topic_cobre,Cobre,material,phase_01,Metal trabajado en las primeras fases metalúrgicas.
+topic_bronce,Bronce,material,phase_01,Aleación de cobre y estaño de gran importancia tecnológica y militar.
+topic_hierro,Hierro,material,phase_01,"Metal cuya difusión transformó armamento, herramientas y sociedades."
+topic_comercio_prehistorico,Comercio prehistórico,economy,phase_01,"Intercambio de bienes, materias primas e ideas en sociedades prehistóricas."
+topic_jerarquias_sociales,Jerarquías sociales,social_model,phase_01,"Desigualdades de poder, riqueza o estatus en sociedades antiguas."
+topic_los_millares,Los Millares,site_topic,phase_01,Yacimiento calcolítico clave de la península ibérica.
+topic_el_argar,El Argar,culture,phase_01,Cultura de la Edad del Bronce del sureste peninsular.
+topic_campaniforme,Cultura campaniforme,culture,phase_01,Fenómeno arqueológico del Calcolítico y Bronce inicial europeo.
+topic_campos_urnas,Campos de urnas,culture,phase_01,Complejo cultural de la Edad del Bronce final y transición al Hierro.
+topic_hallstatt,Hallstatt,culture,phase_01,Cultura centroeuropea de la primera Edad del Hierro.
+topic_celtas,Celtas,people_group,phase_01,Conjunto de pueblos indoeuropeos asociados a la Edad del Hierro europea.
+topic_iberos,Íberos,people_group,phase_01,Pueblos prerromanos del este y sur peninsular.
+topic_fenicios,Fenicios,civilization,phase_01,Pueblo mediterráneo clave para comercio y colonización en la Protohistoria.
+topic_colonizacion_griega,Colonización griega,process,phase_01,Expansión de comunidades griegas por el Mediterráneo.
+topic_aborigenes_australianos,Aborígenes australianos,people_group,phase_01,Pueblos originarios de Australia con una de las historias culturales más antiguas del mundo.
+topic_clima_prehistoria,Clima y prehistoria,environment,phase_01,"Relación entre cambios climáticos, migraciones y adaptación humana."
+topic_movilidad_prehistorica,Movilidad prehistórica,social_model,phase_01,"Desplazamientos, rutas y movilidad de individuos y grupos prehistóricos."

@@ -1,37 +1,510 @@
 [
   {
-    "id": "place_peninsula_iberica",
-    "name": "Península ibérica",
-    "modern_location": "España/Portugal/Andorra"
+    "id": "place_africa",
+    "name": "África",
+    "type": "region",
+    "modern_location": "África",
+    "summary": "Continente clave para el origen y expansión inicial del género Homo y de Homo sapiens.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_evolucion_humana",
+      "topic_salida_africa",
+      "topic_homo_sapiens"
+    ],
+    "related_people": [
+      "person_homo_sapiens",
+      "person_homo_erectus"
+    ],
+    "related_episodes": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ]
   },
   {
-    "id": "place_atapuerca",
-    "name": "Atapuerca",
-    "modern_location": "Burgos, España"
+    "id": "place_africa_oriental",
+    "name": "África oriental",
+    "type": "region",
+    "modern_location": "Etiopía, Kenia, Tanzania y áreas próximas",
+    "summary": "Región fundamental para el estudio de los primeros homininos y del género Homo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_australopithecus",
+      "topic_homo_habilis",
+      "topic_homo_erectus"
+    ],
+    "related_people": [
+      "person_lucy",
+      "person_homo_habilis",
+      "person_homo_erectus"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "place_hadar",
+    "name": "Hadar",
+    "type": "site",
+    "modern_location": "Etiopía",
+    "summary": "Yacimiento asociado al hallazgo de Lucy y al estudio de Australopithecus afarensis.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_australopithecus",
+      "topic_bipedismo"
+    ],
+    "related_people": [
+      "person_lucy",
+      "person_australopithecus_afarensis"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "place_laetoli",
+    "name": "Laetoli",
+    "type": "site",
+    "modern_location": "Tanzania",
+    "summary": "Yacimiento célebre por huellas fósiles que evidencian bipedismo temprano.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_bipedismo",
+      "topic_australopithecus"
+    ],
+    "related_people": [
+      "person_australopithecus_afarensis"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "place_olduvai",
+    "name": "Garganta de Olduvai",
+    "type": "site",
+    "modern_location": "Tanzania",
+    "summary": "Uno de los yacimientos más importantes para estudiar herramientas tempranas y primeros Homo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_homo_habilis",
+      "topic_industria_litica"
+    ],
+    "related_people": [
+      "person_homo_habilis"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "place_lago_turkana",
+    "name": "Lago Turkana",
+    "type": "site",
+    "modern_location": "Kenia",
+    "summary": "Región clave para el estudio de Homo erectus/ergaster y fósiles como el Niño de Turkana.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_homo_erectus",
+      "topic_evolucion_humana"
+    ],
+    "related_people": [
+      "person_nino_turkana"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "place_dmanisi",
+    "name": "Dmanisi",
+    "type": "site",
+    "modern_location": "Georgia",
+    "summary": "Yacimiento clave para comprender las primeras salidas de homininos fuera de África.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_salida_africa",
+      "topic_homo_erectus"
+    ],
+    "related_people": [
+      "person_homo_erectus"
+    ],
+    "related_episodes": []
   },
   {
     "id": "place_europa",
     "name": "Europa",
-    "modern_location": "Europa"
+    "type": "region",
+    "modern_location": "Europa",
+    "summary": "Región fundamental para el Paleolítico europeo, los neandertales, el arte rupestre y la expansión de Homo sapiens.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neandertales",
+      "topic_paleolitico_superior",
+      "topic_arte_rupestre"
+    ],
+    "related_people": [
+      "person_homo_neanderthalensis",
+      "person_cromagnon"
+    ],
+    "related_episodes": [
+      "ep_planeta_muy_neandertales",
+      "ep_khulmani_paleolitico_superior"
+    ]
   },
   {
-    "id": "place_bahia_cadiz",
-    "name": "Bahía de Cádiz",
-    "modern_location": "Cádiz, España"
-  },
-  {
-    "id": "place_australia",
-    "name": "Australia",
-    "modern_location": "Australia"
-  },
-  {
-    "id": "place_lago_bracciano",
-    "name": "Lago Bracciano / La Marmotta",
-    "modern_location": "Italia"
+    "id": "place_atapuerca",
+    "name": "Atapuerca",
+    "type": "site",
+    "modern_location": "Burgos, España",
+    "summary": "Conjunto de yacimientos clave para el estudio de la evolución humana en Europa.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_atapuerca",
+      "topic_evolucion_humana",
+      "topic_homo_antecessor"
+    ],
+    "related_people": [
+      "person_homo_antecessor",
+      "person_eudald_carbonell",
+      "person_juan_luis_arsuaga",
+      "person_jose_bermudez_castro"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_1_zarpazo",
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle",
+      "ep_lhe_prehistoria_peninsula"
+    ]
   },
   {
     "id": "place_altamira",
     "name": "Altamira",
-    "modern_location": "Cantabria, España"
+    "type": "cave",
+    "modern_location": "Cantabria, España",
+    "summary": "Cueva paleolítica célebre por su arte rupestre y sus representaciones de bisontes.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_arte_rupestre",
+      "topic_paleolitico_superior"
+    ],
+    "related_people": [
+      "person_homo_sapiens"
+    ],
+    "related_episodes": [
+      "ep_lhe_prehistoria_peninsula",
+      "ep_otro_podcast_arte_paleolitico"
+    ]
+  },
+  {
+    "id": "place_lascaux",
+    "name": "Lascaux",
+    "type": "cave",
+    "modern_location": "Dordoña, Francia",
+    "summary": "Cueva francesa con uno de los conjuntos de arte rupestre más célebres del Paleolítico Superior.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_arte_rupestre",
+      "topic_paleolitico_superior"
+    ],
+    "related_people": [
+      "person_homo_sapiens"
+    ],
+    "related_episodes": [
+      "ep_otro_podcast_arte_paleolitico"
+    ]
+  },
+  {
+    "id": "place_chauvet",
+    "name": "Chauvet",
+    "type": "cave",
+    "modern_location": "Ardèche, Francia",
+    "summary": "Cueva con algunas de las pinturas rupestres más antiguas y complejas conocidas en Europa.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_arte_rupestre",
+      "topic_paleolitico_superior"
+    ],
+    "related_people": [
+      "person_homo_sapiens"
+    ],
+    "related_episodes": [
+      "ep_otro_podcast_arte_paleolitico"
+    ]
+  },
+  {
+    "id": "place_el_sidron",
+    "name": "El Sidrón",
+    "type": "cave",
+    "modern_location": "Asturias, España",
+    "summary": "Yacimiento neandertal importante para el estudio genético y biológico de Homo neanderthalensis.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neandertales",
+      "topic_adn_antiguo"
+    ],
+    "related_people": [
+      "person_homo_neanderthalensis"
+    ],
+    "related_episodes": [
+      "ep_planeta_muy_neandertales"
+    ]
+  },
+  {
+    "id": "place_dolni_vestonice",
+    "name": "Dolní Věstonice",
+    "type": "site",
+    "modern_location": "República Checa",
+    "summary": "Yacimiento del Paleolítico Superior asociado a arte mueble, figurillas y sociedades gravetienses.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_paleolitico_superior",
+      "topic_gravetiense",
+      "topic_arte_mueble"
+    ],
+    "related_people": [
+      "person_homo_sapiens"
+    ],
+    "related_episodes": [
+      "ep_khulmani_paleolitico_superior"
+    ]
+  },
+  {
+    "id": "place_cueva_denisova",
+    "name": "Cueva de Denisova",
+    "type": "cave",
+    "modern_location": "Siberia, Rusia",
+    "summary": "Cueva que da nombre a los denisovanos y que es clave para el estudio de ADN antiguo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_denisovanos",
+      "topic_adn_antiguo"
+    ],
+    "related_people": [
+      "person_denisovanos"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "place_peninsula_iberica",
+    "name": "Península ibérica",
+    "type": "region",
+    "modern_location": "España, Portugal y Andorra",
+    "summary": "Marco regional fundamental para estudiar Atapuerca, Altamira, Los Millares, El Argar y la evolución de la Prehistoria peninsular.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_prehistoria_peninsula_iberica",
+      "topic_atapuerca",
+      "topic_arte_rupestre"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_lhe_prehistoria_peninsula",
+      "ep_zh_neolitico_gaditano"
+    ]
+  },
+  {
+    "id": "place_bahia_cadiz",
+    "name": "Bahía de Cádiz",
+    "type": "region",
+    "modern_location": "Cádiz, España",
+    "summary": "Área relevante para el estudio del Neolítico gaditano y del yacimiento del Campo de Hockey.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neolitico_gaditano",
+      "topic_neolitico"
+    ],
+    "related_people": [
+      "person_eduardo_vijande"
+    ],
+    "related_episodes": [
+      "ep_zh_neolitico_gaditano"
+    ]
+  },
+  {
+    "id": "place_campo_hockey",
+    "name": "Campo de Hockey de San Fernando",
+    "type": "site",
+    "modern_location": "San Fernando, Cádiz, España",
+    "summary": "Yacimiento neolítico destacado por su información sobre prácticas funerarias y comunidades del suroeste peninsular.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neolitico_gaditano",
+      "topic_arqueologia_funeraria"
+    ],
+    "related_people": [
+      "person_eduardo_vijande"
+    ],
+    "related_episodes": [
+      "ep_zh_neolitico_gaditano"
+    ]
+  },
+  {
+    "id": "place_lago_bracciano",
+    "name": "Lago Bracciano / La Marmotta",
+    "type": "site",
+    "modern_location": "Italia",
+    "summary": "Yacimiento neolítico lacustre relevante para comprender la expansión del Neolítico por el Mediterráneo europeo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neolitico",
+      "topic_neolitizacion",
+      "topic_agricultura"
+    ],
+    "related_people": [
+      "person_juan_gibaja"
+    ],
+    "related_episodes": [
+      "ep_khulmani_neolitico_europa"
+    ]
+  },
+  {
+    "id": "place_gobekli_tepe",
+    "name": "Göbekli Tepe",
+    "type": "site",
+    "modern_location": "Turquía",
+    "summary": "Complejo monumental del inicio del Neolítico, clave para debatir religión, sedentarismo y comunidades preagrícolas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neolitico",
+      "topic_megalitismo",
+      "topic_revolucion_neolitica"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_historia_en_podcast_65_neolitico"
+    ]
+  },
+  {
+    "id": "place_jerico",
+    "name": "Jericó",
+    "type": "site",
+    "modern_location": "Cisjordania",
+    "summary": "Uno de los asentamientos más antiguos y relevantes para entender aldeas, fortificaciones y sedentarismo neolítico.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neolitico",
+      "topic_primeras_aldeas",
+      "topic_sedentarismo"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_historia_en_podcast_65_neolitico"
+    ]
+  },
+  {
+    "id": "place_catalhoyuk",
+    "name": "Çatalhöyük",
+    "type": "site",
+    "modern_location": "Turquía",
+    "summary": "Gran asentamiento neolítico de Anatolia, clave para estudiar vida doméstica, simbolismo y organización social temprana.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_neolitico",
+      "topic_primeras_aldeas",
+      "topic_sedentarismo"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_historia_en_podcast_65_neolitico"
+    ]
+  },
+  {
+    "id": "place_stonehenge",
+    "name": "Stonehenge",
+    "type": "monument",
+    "modern_location": "Inglaterra, Reino Unido",
+    "summary": "Monumento megalítico emblemático del Neolítico final y la Edad del Bronce en las Islas Británicas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_megalitismo",
+      "topic_edad_bronce"
+    ],
+    "related_people": [],
+    "related_episodes": []
+  },
+  {
+    "id": "place_carnac",
+    "name": "Carnac",
+    "type": "monument",
+    "modern_location": "Bretaña, Francia",
+    "summary": "Conjunto de alineamientos megalíticos fundamentales para estudiar el megalitismo europeo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_megalitismo",
+      "topic_neolitico"
+    ],
+    "related_people": [],
+    "related_episodes": []
+  },
+  {
+    "id": "place_los_millares",
+    "name": "Los Millares",
+    "type": "site",
+    "modern_location": "Almería, España",
+    "summary": "Yacimiento calcolítico clave para estudiar fortificaciones, metalurgia y complejidad social en la península ibérica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_edad_cobre",
+      "topic_metalurgia",
+      "topic_jerarquias_sociales"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_lhe_prehistoria_peninsula"
+    ]
+  },
+  {
+    "id": "place_el_argar",
+    "name": "El Argar",
+    "type": "site_culture",
+    "modern_location": "Sureste de la península ibérica",
+    "summary": "Cultura de la Edad del Bronce peninsular caracterizada por jerarquización, metalurgia y asentamientos complejos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_edad_bronce",
+      "topic_metalurgia",
+      "topic_jerarquias_sociales"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_lhe_prehistoria_peninsula"
+    ]
+  },
+  {
+    "id": "place_dolmen_menga",
+    "name": "Dolmen de Menga",
+    "type": "monument",
+    "modern_location": "Antequera, Málaga, España",
+    "summary": "Monumento megalítico excepcional de la Prehistoria peninsular, clave para entender arquitectura funeraria y monumentalidad.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_megalitismo",
+      "topic_arqueologia_funeraria"
+    ],
+    "related_people": [],
+    "related_episodes": []
+  },
+  {
+    "id": "place_alpes_otztal",
+    "name": "Alpes de Ötztal",
+    "type": "region",
+    "modern_location": "Frontera Austria-Italia",
+    "summary": "Región asociada al hallazgo de Ötzi, la momia del hielo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_edad_cobre",
+      "topic_movilidad_prehistorica"
+    ],
+    "related_people": [
+      "person_otzi"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "place_australia",
+    "name": "Australia",
+    "type": "region",
+    "modern_location": "Australia",
+    "summary": "Continente clave para comprender la expansión global de Homo sapiens y la historia profunda de los pueblos aborígenes.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_aborigenes_australianos",
+      "topic_migraciones_humanas"
+    ],
+    "related_people": [
+      "person_homo_sapiens"
+    ],
+    "related_episodes": [
+      "ep_khulmani_aborigenes_australianos"
+    ]
   }
 ]

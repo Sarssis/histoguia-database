@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "description": "Base completa de Prehistoria v2.3.1 con verification compatible con la app actual.",
+  "version": "3.0",
+  "description": "Prehistoria cerrada v3.0: episodes, people, places, topics, civilizations, routes y relations completos.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
   "episode_count": 15,
   "platforms": [
@@ -9,5 +9,10 @@
     "ivoox",
     "youtube",
     "web"
-  ]
+  ],
+  "people_count": 21,
+  "places_count": 29,
+  "topics_count": 78,
+  "relations_count": 337,
+  "status": "prehistoria_closed_v1"
 }

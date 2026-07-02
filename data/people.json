@@ -1,65 +1,435 @@
 [
   {
-    "id": "person_javier_baena",
-    "name": "Javier Baena",
-    "roles": [
-      "arqueólogo"
+    "id": "person_lucy",
+    "name": "Lucy",
+    "type": "individual",
+    "category": "hominin_fossil",
+    "scientific_name": "Australopithecus afarensis",
+    "dates": "c. 3,2 millones de años",
+    "period": "Plioceno",
+    "summary": "Uno de los fósiles de hominino más famosos, clave para comprender el bipedismo temprano en la evolución humana.",
+    "related_topics": [
+      "topic_australopithecus",
+      "topic_bipedismo",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_hadar"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "person_australopithecus_afarensis",
+    "name": "Australopithecus afarensis",
+    "type": "species",
+    "category": "hominin_species",
+    "scientific_name": "Australopithecus afarensis",
+    "dates": "c. 3,9-2,9 millones de años",
+    "period": "Plioceno",
+    "summary": "Especie de hominino africano asociada al bipedismo temprano y a fósiles emblemáticos como Lucy.",
+    "related_topics": [
+      "topic_australopithecus",
+      "topic_bipedismo",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_hadar",
+      "place_laetoli"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "person_homo_habilis",
+    "name": "Homo habilis",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo habilis",
+    "dates": "c. 2,4-1,4 millones de años",
+    "period": "Paleolítico Inferior",
+    "summary": "Una de las primeras especies del género Homo, tradicionalmente asociada al uso temprano de herramientas de piedra.",
+    "related_topics": [
+      "topic_homo_habilis",
+      "topic_industria_litica",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_olduvai"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "person_homo_erectus",
+    "name": "Homo erectus",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo erectus",
+    "dates": "c. 1,9 millones-110.000 años",
+    "period": "Paleolítico Inferior",
+    "summary": "Especie humana de gran importancia por su expansión fuera de África, su tecnología achelense y su posible relación con el control del fuego.",
+    "related_topics": [
+      "topic_homo_erectus",
+      "topic_salida_africa",
+      "topic_fuego",
+      "topic_achelense"
+    ],
+    "related_places": [
+      "place_africa_oriental",
+      "place_dmanisi"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "person_nino_turkana",
+    "name": "Niño de Turkana",
+    "type": "individual",
+    "category": "human_fossil",
+    "scientific_name": "Homo ergaster / Homo erectus",
+    "dates": "c. 1,6 millones de años",
+    "period": "Paleolítico Inferior",
+    "summary": "Esqueleto fósil excepcional que ayuda a comprender la anatomía corporal de los primeros Homo africanos.",
+    "related_topics": [
+      "topic_homo_erectus",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_lago_turkana"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "person_homo_antecessor",
+    "name": "Homo antecessor",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo antecessor",
+    "dates": "c. 850.000 años",
+    "period": "Paleolítico Inferior",
+    "summary": "Especie humana identificada en Atapuerca y central para el estudio del poblamiento temprano de Europa occidental.",
+    "related_topics": [
+      "topic_homo_antecessor",
+      "topic_atapuerca",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_1_zarpazo",
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle"
     ]
   },
   {
-    "id": "person_carlos_diez",
-    "name": "Carlos Díez",
-    "roles": [
-      "catedrático de prehistoria"
+    "id": "person_homo_heidelbergensis",
+    "name": "Homo heidelbergensis",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo heidelbergensis",
+    "dates": "c. 700.000-200.000 años",
+    "period": "Paleolítico Inferior / Medio",
+    "summary": "Especie humana del Pleistoceno medio relacionada con linajes que conducen a neandertales y humanos modernos.",
+    "related_topics": [
+      "topic_homo_heidelbergensis",
+      "topic_evolucion_humana",
+      "topic_atapuerca"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle"
     ]
   },
   {
-    "id": "person_maria_martinon",
-    "name": "María Martinón-Torres",
-    "roles": [
-      "paleoantropóloga"
+    "id": "person_homo_neanderthalensis",
+    "name": "Homo neanderthalensis",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo neanderthalensis",
+    "dates": "c. 400.000-40.000 años",
+    "period": "Paleolítico Medio",
+    "summary": "Especie humana adaptada a Eurasia, con capacidades técnicas, sociales y simbólicas más complejas de lo que se asumía tradicionalmente.",
+    "related_topics": [
+      "topic_neandertales",
+      "topic_paleolitico_medio",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_europa",
+      "place_el_sidron"
+    ],
+    "related_episodes": [
+      "ep_planeta_muy_neandertales"
+    ]
+  },
+  {
+    "id": "person_denisovanos",
+    "name": "Denisovanos",
+    "type": "population",
+    "category": "human_group",
+    "scientific_name": "Denisovanos",
+    "dates": "Pleistoceno medio y superior",
+    "period": "Paleolítico Medio / Superior",
+    "summary": "Grupo humano arcaico conocido principalmente por evidencias genéticas y fósiles fragmentarios, clave para entender la diversidad humana pleistocena.",
+    "related_topics": [
+      "topic_denisovanos",
+      "topic_evolucion_humana",
+      "topic_adn_antiguo"
+    ],
+    "related_places": [
+      "place_cueva_denisova"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "person_homo_sapiens",
+    "name": "Homo sapiens",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo sapiens",
+    "dates": "c. 300.000 años-presente",
+    "period": "Paleolítico Medio / Superior",
+    "summary": "Única especie humana superviviente, protagonista de la expansión global, el arte rupestre, el desarrollo simbólico y la posterior revolución neolítica.",
+    "related_topics": [
+      "topic_homo_sapiens",
+      "topic_salida_africa",
+      "topic_arte_rupestre",
+      "topic_revolucion_neolitica"
+    ],
+    "related_places": [
+      "place_africa",
+      "place_europa",
+      "place_australia"
+    ],
+    "related_episodes": [
+      "ep_historia_en_podcast_64_paleolitico",
+      "ep_khulmani_aborigenes_australianos"
+    ]
+  },
+  {
+    "id": "person_cromagnon",
+    "name": "Hombre de Cro-Magnon",
+    "type": "population",
+    "category": "human_group",
+    "scientific_name": "Homo sapiens",
+    "dates": "Paleolítico Superior",
+    "period": "Paleolítico Superior",
+    "summary": "Nombre tradicional para referirse a humanos modernos tempranos de Europa occidental durante el Paleolítico Superior.",
+    "related_topics": [
+      "topic_homo_sapiens",
+      "topic_paleolitico_superior",
+      "topic_arte_rupestre"
+    ],
+    "related_places": [
+      "place_europa"
+    ],
+    "related_episodes": [
+      "ep_khulmani_paleolitico_superior",
+      "ep_otro_podcast_arte_paleolitico"
+    ]
+  },
+  {
+    "id": "person_otzi",
+    "name": "Ötzi",
+    "type": "individual",
+    "category": "archaeological_individual",
+    "scientific_name": "",
+    "dates": "c. 3300 a.C.",
+    "period": "Edad del Cobre",
+    "summary": "Momia natural hallada en los Alpes, excepcional para conocer la vida, tecnología, salud y movilidad de las sociedades calcolíticas europeas.",
+    "related_topics": [
+      "topic_edad_cobre",
+      "topic_metalurgia",
+      "topic_movilidad_prehistorica"
+    ],
+    "related_places": [
+      "place_alpes_otztal"
+    ],
+    "related_episodes": []
+  },
+  {
+    "id": "person_emiliano_aguirre",
+    "name": "Emiliano Aguirre",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1925-2021",
+    "period": "Historia de la arqueología",
+    "summary": "Figura clave en el impulso científico inicial del proyecto Atapuerca.",
+    "related_topics": [
+      "topic_atapuerca",
+      "topic_paleoantropologia"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_1_zarpazo"
     ]
   },
   {
     "id": "person_eudald_carbonell",
     "name": "Eudald Carbonell",
-    "roles": [
-      "arqueólogo"
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "1953-",
+    "period": "Historia de la arqueología",
+    "summary": "Arqueólogo y codirector de Atapuerca, figura central en la investigación y divulgación de la evolución humana en España.",
+    "related_topics": [
+      "topic_atapuerca",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_1_zarpazo",
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle"
     ]
   },
   {
     "id": "person_juan_luis_arsuaga",
     "name": "Juan Luis Arsuaga",
-    "roles": [
-      "paleoantropólogo"
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1954-",
+    "period": "Historia de la arqueología",
+    "summary": "Paleoantropólogo y codirector de Atapuerca, especialmente asociado al estudio de fósiles humanos y evolución humana.",
+    "related_topics": [
+      "topic_atapuerca",
+      "topic_paleoantropologia"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_1_zarpazo",
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle"
     ]
   },
   {
     "id": "person_jose_bermudez_castro",
     "name": "José María Bermúdez de Castro",
-    "roles": [
-      "paleoantropólogo"
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1952-",
+    "period": "Historia de la arqueología",
+    "summary": "Paleoantropólogo y codirector de Atapuerca, vinculado al estudio de la evolución humana y al análisis de restos fósiles.",
+    "related_topics": [
+      "topic_atapuerca",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_1_zarpazo",
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle"
+    ]
+  },
+  {
+    "id": "person_maria_martinon",
+    "name": "María Martinón-Torres",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1974-",
+    "period": "Historia de la arqueología",
+    "summary": "Paleoantropóloga especializada en evolución humana, vinculada a Atapuerca y a la investigación de restos humanos fósiles.",
+    "related_topics": [
+      "topic_atapuerca",
+      "topic_evolucion_humana"
+    ],
+    "related_places": [
+      "place_atapuerca"
+    ],
+    "related_episodes": [
+      "ep_atapuerca_4_piezas_puzle"
+    ]
+  },
+  {
+    "id": "person_javier_baena",
+    "name": "Javier Baena",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Arqueólogo especialista en Prehistoria y tecnología lítica, entrevistado en el episodio dedicado a los neandertales.",
+    "related_topics": [
+      "topic_neandertales",
+      "topic_paleolitico_medio"
+    ],
+    "related_places": [
+      "place_europa"
+    ],
+    "related_episodes": [
+      "ep_planeta_muy_neandertales"
     ]
   },
   {
     "id": "person_almudena_hernando",
     "name": "Almudena Hernando",
-    "roles": [
-      "arqueóloga"
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Arqueóloga vinculada a estudios de identidad, género y sociedades prehistóricas.",
+    "related_topics": [
+      "topic_mujeres_prehistoria",
+      "topic_cazadores_recolectores"
+    ],
+    "related_places": [],
+    "related_episodes": [
+      "ep_mujeres_historia_prehistoria"
     ]
   },
   {
     "id": "person_juan_gibaja",
     "name": "Juan F. Gibaja",
-    "roles": [
-      "arqueólogo"
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Arqueólogo especializado en Prehistoria reciente y procesos de neolitización.",
+    "related_topics": [
+      "topic_neolitico",
+      "topic_neolitizacion"
+    ],
+    "related_places": [
+      "place_lago_bracciano"
+    ],
+    "related_episodes": [
+      "ep_khulmani_neolitico_europa"
     ]
   },
   {
     "id": "person_eduardo_vijande",
     "name": "Eduardo Vijande",
-    "roles": [
-      "arqueólogo"
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Arqueólogo vinculado al estudio del Neolítico en la Bahía de Cádiz y al yacimiento del Campo de Hockey.",
+    "related_topics": [
+      "topic_neolitico_gaditano"
+    ],
+    "related_places": [
+      "place_bahia_cadiz",
+      "place_campo_hockey"
+    ],
+    "related_episodes": [
+      "ep_zh_neolitico_gaditano"
     ]
   }
 ]

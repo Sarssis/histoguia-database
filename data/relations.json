@@ -1,5 +1,96 @@
 [
   {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0101",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0102",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0103",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0104",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0105",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0106",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0107",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0108",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0109",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0110",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0111",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0112",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
+    "source_id": "phase_01",
+    "source_type": "phase",
+    "target_id": "sub_0113",
+    "target_type": "subperiod",
+    "relation": "contains"
+  },
+  {
     "source_id": "sub_0108",
     "source_type": "subperiod",
     "target_id": "ep_historia_en_podcast_64_paleolitico",
@@ -14,6 +105,13 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "ep_historia_en_podcast_64_paleolitico",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_65_neolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
     "source_id": "sub_0110",
     "source_type": "subperiod",
     "target_id": "ep_historia_en_podcast_65_neolitico",
@@ -28,6 +126,27 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "ep_historia_en_podcast_64_paleolitico",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_65_neolitico",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_65_neolitico",
+    "source_type": "episode",
+    "target_id": "ep_historia_con_movil_neolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_65_neolitico",
+    "source_type": "episode",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
     "source_id": "sub_0110",
     "source_type": "subperiod",
     "target_id": "ep_historia_con_movil_neolitico",
@@ -40,6 +159,20 @@
     "target_id": "ep_historia_con_movil_neolitico",
     "target_type": "episode",
     "relation": "covered_by"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_65_neolitico",
+    "source_type": "episode",
+    "target_id": "ep_historia_con_movil_neolitico",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_historia_con_movil_neolitico",
+    "source_type": "episode",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "listen_after"
   },
   {
     "source_id": "sub_0108",
@@ -56,6 +189,41 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_altamira",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_64_paleolitico",
+    "source_type": "episode",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_lhe_prehistoria_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
     "source_id": "sub_0106",
     "source_type": "subperiod",
     "target_id": "ep_planeta_muy_neandertales",
@@ -68,6 +236,27 @@
     "target_id": "ep_planeta_muy_neandertales",
     "target_type": "episode",
     "relation": "covered_by"
+  },
+  {
+    "source_id": "person_javier_baena",
+    "source_type": "person",
+    "target_id": "ep_planeta_muy_neandertales",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "ep_planeta_muy_neandertales",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_planeta_muy_neandertales",
+    "source_type": "episode",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "listen_after"
   },
   {
     "source_id": "sub_0108",
@@ -84,6 +273,13 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "ep_historia_en_podcast_64_paleolitico",
+    "source_type": "episode",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
     "source_id": "sub_0108",
     "source_type": "subperiod",
     "target_id": "ep_mujeres_historia_prehistoria",
@@ -98,6 +294,20 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "person_almudena_hernando",
+    "source_type": "person",
+    "target_id": "ep_mujeres_historia_prehistoria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_64_paleolitico",
+    "source_type": "episode",
+    "target_id": "ep_mujeres_historia_prehistoria",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
     "source_id": "sub_0106",
     "source_type": "subperiod",
     "target_id": "ep_atapuerca_1_zarpazo",
@@ -110,6 +320,48 @@
     "target_id": "ep_atapuerca_1_zarpazo",
     "target_type": "episode",
     "relation": "covered_by"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_planeta_muy_neandertales",
+    "source_type": "episode",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_atapuerca_1_zarpazo",
+    "source_type": "episode",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "listen_after"
   },
   {
     "source_id": "sub_0106",
@@ -126,6 +378,48 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_atapuerca_1_zarpazo",
+    "source_type": "episode",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_atapuerca_2_craneos",
+    "source_type": "episode",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
     "source_id": "sub_0106",
     "source_type": "subperiod",
     "target_id": "ep_atapuerca_4_piezas_puzle",
@@ -138,6 +432,48 @@
     "target_id": "ep_atapuerca_4_piezas_puzle",
     "target_type": "episode",
     "relation": "covered_by"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_maria_martinon",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_atapuerca_2_craneos",
+    "source_type": "episode",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "listen_before"
   },
   {
     "source_id": "sub_0110",
@@ -154,6 +490,27 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "person_eduardo_vijande",
+    "source_type": "person",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_bahia_cadiz",
+    "source_type": "place",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_65_neolitico",
+    "source_type": "episode",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
     "source_id": "sub_0108",
     "source_type": "subperiod",
     "target_id": "ep_khulmani_paleolitico_superior",
@@ -166,6 +523,27 @@
     "target_id": "ep_khulmani_paleolitico_superior",
     "target_type": "episode",
     "relation": "covered_by"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "ep_khulmani_paleolitico_superior",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_64_paleolitico",
+    "source_type": "episode",
+    "target_id": "ep_khulmani_paleolitico_superior",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_khulmani_paleolitico_superior",
+    "source_type": "episode",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
   },
   {
     "source_id": "sub_0110",
@@ -182,6 +560,34 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "person_juan_gibaja",
+    "source_type": "person",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_lago_bracciano",
+    "source_type": "place",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_65_neolitico",
+    "source_type": "episode",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
     "source_id": "sub_0107",
     "source_type": "subperiod",
     "target_id": "ep_khulmani_aborigenes_australianos",
@@ -196,6 +602,20 @@
     "relation": "covered_by"
   },
   {
+    "source_id": "place_australia",
+    "source_type": "place",
+    "target_id": "ep_khulmani_aborigenes_australianos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_64_paleolitico",
+    "source_type": "episode",
+    "target_id": "ep_khulmani_aborigenes_australianos",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
     "source_id": "sub_0108",
     "source_type": "subperiod",
     "target_id": "ep_cao_77_prehistoria",
@@ -208,5 +628,1734 @@
     "target_id": "ep_cao_77_prehistoria",
     "target_type": "episode",
     "relation": "covered_by"
+  },
+  {
+    "source_id": "ep_cao_77_prehistoria",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "ep_cao_77_prehistoria",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_65_neolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_lucy",
+    "source_type": "person",
+    "target_id": "place_hadar",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "place_hadar",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_australopithecus_afarensis",
+    "source_type": "person",
+    "target_id": "place_laetoli",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_habilis",
+    "source_type": "person",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_habilis",
+    "source_type": "person",
+    "target_id": "topic_industria_litica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_habilis",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_habilis",
+    "source_type": "person",
+    "target_id": "place_olduvai",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "topic_salida_africa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "topic_fuego",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "topic_achelense",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "place_africa_oriental",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "place_dmanisi",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nino_turkana",
+    "source_type": "person",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nino_turkana",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nino_turkana",
+    "source_type": "person",
+    "target_id": "place_lago_turkana",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "topic_homo_antecessor",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_heidelbergensis",
+    "source_type": "person",
+    "target_id": "topic_homo_heidelbergensis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_heidelbergensis",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_heidelbergensis",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_heidelbergensis",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_heidelbergensis",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_heidelbergensis",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_neanderthalensis",
+    "source_type": "person",
+    "target_id": "topic_neandertales",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_neanderthalensis",
+    "source_type": "person",
+    "target_id": "topic_paleolitico_medio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_neanderthalensis",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_neanderthalensis",
+    "source_type": "person",
+    "target_id": "place_europa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_neanderthalensis",
+    "source_type": "person",
+    "target_id": "place_el_sidron",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_neanderthalensis",
+    "source_type": "person",
+    "target_id": "ep_planeta_muy_neandertales",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_denisovanos",
+    "source_type": "person",
+    "target_id": "topic_denisovanos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_denisovanos",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_denisovanos",
+    "source_type": "person",
+    "target_id": "topic_adn_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_denisovanos",
+    "source_type": "person",
+    "target_id": "place_cueva_denisova",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "topic_homo_sapiens",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "topic_salida_africa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "topic_revolucion_neolitica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "place_africa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "place_europa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "place_australia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "ep_khulmani_aborigenes_australianos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_cromagnon",
+    "source_type": "person",
+    "target_id": "topic_homo_sapiens",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cromagnon",
+    "source_type": "person",
+    "target_id": "topic_paleolitico_superior",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cromagnon",
+    "source_type": "person",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cromagnon",
+    "source_type": "person",
+    "target_id": "place_europa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cromagnon",
+    "source_type": "person",
+    "target_id": "ep_khulmani_paleolitico_superior",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_cromagnon",
+    "source_type": "person",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_otzi",
+    "source_type": "person",
+    "target_id": "topic_edad_cobre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_otzi",
+    "source_type": "person",
+    "target_id": "topic_metalurgia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_otzi",
+    "source_type": "person",
+    "target_id": "topic_movilidad_prehistorica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_otzi",
+    "source_type": "person",
+    "target_id": "place_alpes_otztal",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_emiliano_aguirre",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_emiliano_aguirre",
+    "source_type": "person",
+    "target_id": "topic_paleoantropologia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_emiliano_aguirre",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_emiliano_aguirre",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_eudald_carbonell",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "topic_paleoantropologia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_juan_luis_arsuaga",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jose_bermudez_castro",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_maria_martinon",
+    "source_type": "person",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_maria_martinon",
+    "source_type": "person",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_maria_martinon",
+    "source_type": "person",
+    "target_id": "place_atapuerca",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_maria_martinon",
+    "source_type": "person",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_javier_baena",
+    "source_type": "person",
+    "target_id": "topic_neandertales",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_javier_baena",
+    "source_type": "person",
+    "target_id": "topic_paleolitico_medio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_javier_baena",
+    "source_type": "person",
+    "target_id": "place_europa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_javier_baena",
+    "source_type": "person",
+    "target_id": "ep_planeta_muy_neandertales",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_almudena_hernando",
+    "source_type": "person",
+    "target_id": "topic_mujeres_prehistoria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_almudena_hernando",
+    "source_type": "person",
+    "target_id": "topic_cazadores_recolectores",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_almudena_hernando",
+    "source_type": "person",
+    "target_id": "ep_mujeres_historia_prehistoria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_juan_gibaja",
+    "source_type": "person",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_gibaja",
+    "source_type": "person",
+    "target_id": "topic_neolitizacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_gibaja",
+    "source_type": "person",
+    "target_id": "place_lago_bracciano",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_gibaja",
+    "source_type": "person",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_eduardo_vijande",
+    "source_type": "person",
+    "target_id": "topic_neolitico_gaditano",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eduardo_vijande",
+    "source_type": "person",
+    "target_id": "place_bahia_cadiz",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eduardo_vijande",
+    "source_type": "person",
+    "target_id": "place_campo_hockey",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eduardo_vijande",
+    "source_type": "person",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_africa",
+    "source_type": "place",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa",
+    "source_type": "place",
+    "target_id": "topic_salida_africa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa",
+    "source_type": "place",
+    "target_id": "topic_homo_sapiens",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa",
+    "source_type": "place",
+    "target_id": "person_homo_sapiens",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa",
+    "source_type": "place",
+    "target_id": "person_homo_erectus",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa",
+    "source_type": "place",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "person_lucy",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "person_homo_habilis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_africa_oriental",
+    "source_type": "place",
+    "target_id": "person_homo_erectus",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hadar",
+    "source_type": "place",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hadar",
+    "source_type": "place",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hadar",
+    "source_type": "place",
+    "target_id": "person_lucy",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hadar",
+    "source_type": "place",
+    "target_id": "person_australopithecus_afarensis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_laetoli",
+    "source_type": "place",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_laetoli",
+    "source_type": "place",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_laetoli",
+    "source_type": "place",
+    "target_id": "person_australopithecus_afarensis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_olduvai",
+    "source_type": "place",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_olduvai",
+    "source_type": "place",
+    "target_id": "topic_industria_litica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_olduvai",
+    "source_type": "place",
+    "target_id": "person_homo_habilis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lago_turkana",
+    "source_type": "place",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lago_turkana",
+    "source_type": "place",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lago_turkana",
+    "source_type": "place",
+    "target_id": "person_nino_turkana",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dmanisi",
+    "source_type": "place",
+    "target_id": "topic_salida_africa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dmanisi",
+    "source_type": "place",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dmanisi",
+    "source_type": "place",
+    "target_id": "person_homo_erectus",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "topic_neandertales",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "topic_paleolitico_superior",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "person_homo_neanderthalensis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "person_cromagnon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "ep_planeta_muy_neandertales",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "ep_khulmani_paleolitico_superior",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "topic_evolucion_humana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "topic_homo_antecessor",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "person_homo_antecessor",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "person_eudald_carbonell",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "person_juan_luis_arsuaga",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "person_jose_bermudez_castro",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_atapuerca_1_zarpazo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_atapuerca_2_craneos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_atapuerca_4_piezas_puzle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atapuerca",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_altamira",
+    "source_type": "place",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_altamira",
+    "source_type": "place",
+    "target_id": "topic_paleolitico_superior",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_altamira",
+    "source_type": "place",
+    "target_id": "person_homo_sapiens",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_altamira",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_altamira",
+    "source_type": "place",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_lascaux",
+    "source_type": "place",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lascaux",
+    "source_type": "place",
+    "target_id": "topic_paleolitico_superior",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lascaux",
+    "source_type": "place",
+    "target_id": "person_homo_sapiens",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lascaux",
+    "source_type": "place",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_chauvet",
+    "source_type": "place",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_chauvet",
+    "source_type": "place",
+    "target_id": "topic_paleolitico_superior",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_chauvet",
+    "source_type": "place",
+    "target_id": "person_homo_sapiens",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_chauvet",
+    "source_type": "place",
+    "target_id": "ep_otro_podcast_arte_paleolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_el_sidron",
+    "source_type": "place",
+    "target_id": "topic_neandertales",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_el_sidron",
+    "source_type": "place",
+    "target_id": "topic_adn_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_el_sidron",
+    "source_type": "place",
+    "target_id": "person_homo_neanderthalensis",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_el_sidron",
+    "source_type": "place",
+    "target_id": "ep_planeta_muy_neandertales",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_dolni_vestonice",
+    "source_type": "place",
+    "target_id": "topic_paleolitico_superior",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dolni_vestonice",
+    "source_type": "place",
+    "target_id": "topic_gravetiense",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dolni_vestonice",
+    "source_type": "place",
+    "target_id": "topic_arte_mueble",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dolni_vestonice",
+    "source_type": "place",
+    "target_id": "person_homo_sapiens",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dolni_vestonice",
+    "source_type": "place",
+    "target_id": "ep_khulmani_paleolitico_superior",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_cueva_denisova",
+    "source_type": "place",
+    "target_id": "topic_denisovanos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cueva_denisova",
+    "source_type": "place",
+    "target_id": "topic_adn_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cueva_denisova",
+    "source_type": "place",
+    "target_id": "person_denisovanos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "topic_prehistoria_peninsula_iberica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_bahia_cadiz",
+    "source_type": "place",
+    "target_id": "topic_neolitico_gaditano",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_bahia_cadiz",
+    "source_type": "place",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_bahia_cadiz",
+    "source_type": "place",
+    "target_id": "person_eduardo_vijande",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_bahia_cadiz",
+    "source_type": "place",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_campo_hockey",
+    "source_type": "place",
+    "target_id": "topic_neolitico_gaditano",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_campo_hockey",
+    "source_type": "place",
+    "target_id": "topic_arqueologia_funeraria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_campo_hockey",
+    "source_type": "place",
+    "target_id": "person_eduardo_vijande",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_campo_hockey",
+    "source_type": "place",
+    "target_id": "ep_zh_neolitico_gaditano",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_lago_bracciano",
+    "source_type": "place",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lago_bracciano",
+    "source_type": "place",
+    "target_id": "topic_neolitizacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lago_bracciano",
+    "source_type": "place",
+    "target_id": "topic_agricultura",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lago_bracciano",
+    "source_type": "place",
+    "target_id": "person_juan_gibaja",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lago_bracciano",
+    "source_type": "place",
+    "target_id": "ep_khulmani_neolitico_europa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_gobekli_tepe",
+    "source_type": "place",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_gobekli_tepe",
+    "source_type": "place",
+    "target_id": "topic_megalitismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_gobekli_tepe",
+    "source_type": "place",
+    "target_id": "topic_revolucion_neolitica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_gobekli_tepe",
+    "source_type": "place",
+    "target_id": "ep_historia_en_podcast_65_neolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_jerico",
+    "source_type": "place",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerico",
+    "source_type": "place",
+    "target_id": "topic_primeras_aldeas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerico",
+    "source_type": "place",
+    "target_id": "topic_sedentarismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerico",
+    "source_type": "place",
+    "target_id": "ep_historia_en_podcast_65_neolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_catalhoyuk",
+    "source_type": "place",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_catalhoyuk",
+    "source_type": "place",
+    "target_id": "topic_primeras_aldeas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_catalhoyuk",
+    "source_type": "place",
+    "target_id": "topic_sedentarismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_catalhoyuk",
+    "source_type": "place",
+    "target_id": "ep_historia_en_podcast_65_neolitico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_stonehenge",
+    "source_type": "place",
+    "target_id": "topic_megalitismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_stonehenge",
+    "source_type": "place",
+    "target_id": "topic_edad_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_carnac",
+    "source_type": "place",
+    "target_id": "topic_megalitismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_carnac",
+    "source_type": "place",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "topic_edad_cobre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "topic_metalurgia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "topic_jerarquias_sociales",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_el_argar",
+    "source_type": "place",
+    "target_id": "topic_edad_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_el_argar",
+    "source_type": "place",
+    "target_id": "topic_metalurgia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_el_argar",
+    "source_type": "place",
+    "target_id": "topic_jerarquias_sociales",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_el_argar",
+    "source_type": "place",
+    "target_id": "ep_lhe_prehistoria_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_dolmen_menga",
+    "source_type": "place",
+    "target_id": "topic_megalitismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dolmen_menga",
+    "source_type": "place",
+    "target_id": "topic_arqueologia_funeraria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_alpes_otztal",
+    "source_type": "place",
+    "target_id": "topic_edad_cobre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_alpes_otztal",
+    "source_type": "place",
+    "target_id": "topic_movilidad_prehistorica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_alpes_otztal",
+    "source_type": "place",
+    "target_id": "person_otzi",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_australia",
+    "source_type": "place",
+    "target_id": "topic_aborigenes_australianos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_australia",
+    "source_type": "place",
+    "target_id": "topic_migraciones_humanas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_australia",
+    "source_type": "place",
+    "target_id": "person_homo_sapiens",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_australia",
+    "source_type": "place",
+    "target_id": "ep_khulmani_aborigenes_australianos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "topic_bipedismo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_bipedismo",
+    "source_type": "topic",
+    "target_id": "topic_australopithecus",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_australopithecus",
+    "source_type": "topic",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "topic_salida_africa",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_salida_africa",
+    "source_type": "topic",
+    "target_id": "topic_homo_antecessor",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_antecessor",
+    "source_type": "topic",
+    "target_id": "topic_atapuerca",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_atapuerca",
+    "source_type": "topic",
+    "target_id": "topic_neandertales",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_neandertales",
+    "source_type": "topic",
+    "target_id": "topic_homo_sapiens",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_sapiens",
+    "source_type": "topic",
+    "target_id": "topic_paleolitico",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_paleolitico",
+    "source_type": "topic",
+    "target_id": "topic_arte_rupestre",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_arte_rupestre",
+    "source_type": "topic",
+    "target_id": "topic_mesolitico",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_mesolitico",
+    "source_type": "topic",
+    "target_id": "topic_neolitico",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_neolitico",
+    "source_type": "topic",
+    "target_id": "topic_agricultura",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_agricultura",
+    "source_type": "topic",
+    "target_id": "topic_sedentarismo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_sedentarismo",
+    "source_type": "topic",
+    "target_id": "topic_edad_cobre",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_edad_cobre",
+    "source_type": "topic",
+    "target_id": "topic_edad_bronce",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "topic_edad_hierro",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

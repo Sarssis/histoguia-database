@@ -239,87 +239,704 @@ const DATA = {
     {
       "id": "topic_prehistoria",
       "name": "Prehistoria",
-      "type": "period"
-    },
-    {
-      "id": "topic_paleolitico",
-      "name": "Paleolítico",
-      "type": "period"
-    },
-    {
-      "id": "topic_paleolitico_superior",
-      "name": "Paleolítico superior",
-      "type": "period"
-    },
-    {
-      "id": "topic_neolitico",
-      "name": "Neolítico",
-      "type": "period"
-    },
-    {
-      "id": "topic_atapuerca",
-      "name": "Atapuerca",
-      "type": "site"
-    },
-    {
-      "id": "topic_neandertales",
-      "name": "Neandertales",
-      "type": "human_species"
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Periodo anterior a la escritura y al surgimiento de las primeras civilizaciones estatales."
     },
     {
       "id": "topic_evolucion_humana",
       "name": "Evolución humana",
-      "type": "process"
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso evolutivo que conduce desde los primeros homininos hasta Homo sapiens."
+    },
+    {
+      "id": "topic_paleoantropologia",
+      "name": "Paleoantropología",
+      "type": "discipline",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Disciplina que estudia la evolución humana a partir de fósiles, genética y contexto arqueológico."
+    },
+    {
+      "id": "topic_bipedismo",
+      "name": "Bipedismo",
+      "type": "concept",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Capacidad de desplazarse habitualmente sobre dos extremidades inferiores."
+    },
+    {
+      "id": "topic_encefalizacion",
+      "name": "Encefalización",
+      "type": "concept",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Aumento relativo del tamaño cerebral dentro del proceso evolutivo humano."
+    },
+    {
+      "id": "topic_australopithecus",
+      "name": "Australopithecus",
+      "type": "species_group",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Grupo de homininos africanos clave para el estudio del bipedismo temprano."
+    },
+    {
+      "id": "topic_homo_habilis",
+      "name": "Homo habilis",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primeras especies del género Homo asociadas al uso temprano de herramientas."
+    },
+    {
+      "id": "topic_homo_erectus",
+      "name": "Homo erectus",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie humana de amplia expansión geográfica y gran relevancia evolutiva."
+    },
+    {
+      "id": "topic_homo_antecessor",
+      "name": "Homo antecessor",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie humana identificada en Atapuerca y vinculada al poblamiento temprano europeo."
+    },
+    {
+      "id": "topic_homo_heidelbergensis",
+      "name": "Homo heidelbergensis",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie del Pleistoceno medio relacionada con linajes neandertales y sapiens."
+    },
+    {
+      "id": "topic_neandertales",
+      "name": "Neandertales",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Humanos arcaicos de Eurasia con cultura material compleja."
+    },
+    {
+      "id": "topic_denisovanos",
+      "name": "Denisovanos",
+      "type": "population",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Grupo humano arcaico conocido principalmente por evidencias genéticas."
     },
     {
       "id": "topic_homo_sapiens",
       "name": "Homo sapiens",
-      "type": "human_species"
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Única especie humana superviviente y protagonista de la expansión global."
+    },
+    {
+      "id": "topic_adn_antiguo",
+      "name": "ADN antiguo",
+      "type": "method",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Herramienta fundamental para reconstruir parentescos y mezclas entre poblaciones humanas antiguas."
+    },
+    {
+      "id": "topic_migraciones_humanas",
+      "name": "Migraciones humanas",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Movimientos de poblaciones humanas a través de continentes y ecosistemas."
+    },
+    {
+      "id": "topic_salida_africa",
+      "name": "Salida de África",
+      "type": "event_process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso de expansión de homininos y humanos modernos fuera del continente africano."
+    },
+    {
+      "id": "topic_industria_litica",
+      "name": "Industria lítica",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Conjunto de técnicas de fabricación y uso de herramientas de piedra."
+    },
+    {
+      "id": "topic_olduvayense",
+      "name": "Olduvayense",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Industria lítica temprana asociada a herramientas simples de piedra."
+    },
+    {
+      "id": "topic_achelense",
+      "name": "Achelense",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Industria lítica caracterizada por bifaces y asociada a Homo erectus y otros Homo."
+    },
+    {
+      "id": "topic_musteriense",
+      "name": "Musteriense",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Industria lítica asociada principalmente a neandertales en el Paleolítico Medio."
+    },
+    {
+      "id": "topic_paleolitico",
+      "name": "Paleolítico",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primera gran etapa de la Prehistoria, marcada por sociedades cazadoras-recolectoras."
+    },
+    {
+      "id": "topic_paleolitico_inferior",
+      "name": "Paleolítico Inferior",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa inicial del Paleolítico, asociada a primeros Homo y expansión temprana."
+    },
+    {
+      "id": "topic_paleolitico_medio",
+      "name": "Paleolítico Medio",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa asociada a neandertales, musteriense y cambios culturales del Pleistoceno medio y superior."
+    },
+    {
+      "id": "topic_paleolitico_superior",
+      "name": "Paleolítico superior",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa marcada por Homo sapiens, expansión europea, arte rupestre y complejidad simbólica."
+    },
+    {
+      "id": "topic_cazadores_recolectores",
+      "name": "Cazadores-recolectores",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Modelo de subsistencia basado en caza, pesca, recolección y movilidad."
+    },
+    {
+      "id": "topic_fuego",
+      "name": "Dominio del fuego",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Control del fuego como avance técnico, social y adaptativo."
     },
     {
       "id": "topic_arte_rupestre",
       "name": "Arte rupestre",
-      "type": "cultural_expression"
+      "type": "cultural_expression",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Representaciones pintadas o grabadas sobre paredes rocosas y cuevas."
     },
     {
-      "id": "topic_mujeres_prehistoria",
-      "name": "Mujeres en la Prehistoria",
-      "type": "social_history"
+      "id": "topic_arte_mueble",
+      "name": "Arte mueble",
+      "type": "cultural_expression",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Objetos artísticos portátiles del Paleolítico y otras etapas prehistóricas."
     },
     {
-      "id": "topic_neolitico_gaditano",
-      "name": "Neolítico gaditano",
-      "type": "regional_period"
+      "id": "topic_comportamiento_simbolico",
+      "name": "Comportamiento simbólico",
+      "type": "concept",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Capacidad humana de crear y compartir símbolos, imágenes, rituales y significados."
+    },
+    {
+      "id": "topic_chamanismo",
+      "name": "Chamanismo prehistórico",
+      "type": "interpretation",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Hipótesis interpretativa sobre prácticas rituales y simbólicas en sociedades prehistóricas."
+    },
+    {
+      "id": "topic_altamira",
+      "name": "Altamira",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cueva paleolítica cántabra célebre por su arte rupestre."
+    },
+    {
+      "id": "topic_lascaux",
+      "name": "Lascaux",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cueva francesa fundamental para el estudio del arte rupestre paleolítico."
+    },
+    {
+      "id": "topic_chauvet",
+      "name": "Chauvet",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cueva francesa con pinturas paleolíticas antiguas y complejas."
+    },
+    {
+      "id": "topic_atapuerca",
+      "name": "Atapuerca",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Conjunto de yacimientos burgaleses clave para la evolución humana europea."
     },
     {
       "id": "topic_prehistoria_peninsula_iberica",
       "name": "Prehistoria de la península ibérica",
-      "type": "regional_period"
+      "type": "regional_period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Desarrollo de la Prehistoria en el territorio ibérico."
     },
     {
-      "id": "topic_clima_prehistoria",
-      "name": "Clima y prehistoria",
-      "type": "environment"
+      "id": "topic_mujeres_prehistoria",
+      "name": "Mujeres en la Prehistoria",
+      "type": "social_history",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Estudio del papel de las mujeres y las relaciones de género en sociedades prehistóricas."
     },
     {
-      "id": "topic_alimentacion_evolucion",
-      "name": "Alimentación y evolución humana",
-      "type": "social_biological_process"
+      "id": "topic_mesolitico",
+      "name": "Mesolítico",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa de transición posterior al Paleolítico y anterior al Neolítico."
     },
     {
-      "id": "topic_aborigenes_australianos",
-      "name": "Aborígenes australianos",
-      "type": "human_group"
+      "id": "topic_fin_glaciaciones",
+      "name": "Fin de las glaciaciones",
+      "type": "environment",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cambio climático que transformó ecosistemas y modos de vida al final del Pleistoceno."
+    },
+    {
+      "id": "topic_holoceno",
+      "name": "Holoceno",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Época geológica iniciada tras el final de la última glaciación."
+    },
+    {
+      "id": "topic_neolitico",
+      "name": "Neolítico",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa marcada por agricultura, ganadería, sedentarismo y nuevas formas sociales."
+    },
+    {
+      "id": "topic_revolucion_neolitica",
+      "name": "Revolución Neolítica",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Transformación profunda asociada a agricultura, domesticación y sedentarismo."
+    },
+    {
+      "id": "topic_neolitizacion",
+      "name": "Neolitización",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso de expansión y adopción de formas de vida neolíticas."
+    },
+    {
+      "id": "topic_agricultura",
+      "name": "Agricultura",
+      "type": "technology_social_change",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Producción sistemática de plantas cultivadas."
+    },
+    {
+      "id": "topic_ganaderia",
+      "name": "Ganadería",
+      "type": "technology_social_change",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Domesticación y cría de animales para alimentación, trabajo o recursos."
+    },
+    {
+      "id": "topic_domesticacion",
+      "name": "Domesticación",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso por el que plantas y animales son incorporados a sistemas humanos de producción."
+    },
+    {
+      "id": "topic_sedentarismo",
+      "name": "Sedentarismo",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Establecimiento prolongado de comunidades en asentamientos fijos."
+    },
+    {
+      "id": "topic_primeras_aldeas",
+      "name": "Primeras aldeas",
+      "type": "settlement",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primeros asentamientos estables asociados al Neolítico."
+    },
+    {
+      "id": "topic_ceramica",
+      "name": "Cerámica",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Producción de recipientes y objetos de barro cocido."
+    },
+    {
+      "id": "topic_tejido",
+      "name": "Tejido",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Tecnologías textiles y de fibras en sociedades prehistóricas."
     },
     {
       "id": "topic_megalitismo",
       "name": "Megalitismo",
-      "type": "cultural_expression"
+      "type": "cultural_expression",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Construcción de monumentos con grandes piedras, a menudo con función funeraria o ritual."
+    },
+    {
+      "id": "topic_arqueologia_funeraria",
+      "name": "Arqueología funeraria",
+      "type": "discipline_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Estudio de enterramientos, tumbas y prácticas funerarias antiguas."
+    },
+    {
+      "id": "topic_gobekli_tepe",
+      "name": "Göbekli Tepe",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Complejo monumental de Anatolia relacionado con el Neolítico temprano."
+    },
+    {
+      "id": "topic_jerico",
+      "name": "Jericó",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Asentamiento antiguo clave para el estudio del sedentarismo y primeras aldeas."
+    },
+    {
+      "id": "topic_catalhoyuk",
+      "name": "Çatalhöyük",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Gran asentamiento neolítico de Anatolia."
+    },
+    {
+      "id": "topic_neolitico_gaditano",
+      "name": "Neolítico gaditano",
+      "type": "regional_period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Manifestaciones neolíticas del entorno de la Bahía de Cádiz."
     },
     {
       "id": "topic_edad_metales",
       "name": "Edad de los Metales",
-      "type": "period"
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa caracterizada por el desarrollo de tecnologías metalúrgicas."
+    },
+    {
+      "id": "topic_edad_cobre",
+      "name": "Edad del Cobre",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primera etapa metalúrgica, también llamada Calcolítico."
+    },
+    {
+      "id": "topic_calcolitico",
+      "name": "Calcolítico",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Periodo de transición caracterizado por el uso del cobre y creciente complejidad social."
+    },
+    {
+      "id": "topic_edad_bronce",
+      "name": "Edad del Bronce",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa marcada por aleaciones de bronce, comercio y sociedades jerarquizadas."
+    },
+    {
+      "id": "topic_edad_hierro",
+      "name": "Edad del Hierro",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa caracterizada por la difusión del hierro y nuevas formas sociopolíticas."
+    },
+    {
+      "id": "topic_metalurgia",
+      "name": "Metalurgia",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Conjunto de técnicas para trabajar metales."
+    },
+    {
+      "id": "topic_cobre",
+      "name": "Cobre",
+      "type": "material",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Metal trabajado en las primeras fases metalúrgicas."
+    },
+    {
+      "id": "topic_bronce",
+      "name": "Bronce",
+      "type": "material",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Aleación de cobre y estaño de gran importancia tecnológica y militar."
+    },
+    {
+      "id": "topic_hierro",
+      "name": "Hierro",
+      "type": "material",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Metal cuya difusión transformó armamento, herramientas y sociedades."
+    },
+    {
+      "id": "topic_comercio_prehistorico",
+      "name": "Comercio prehistórico",
+      "type": "economy",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Intercambio de bienes, materias primas e ideas en sociedades prehistóricas."
+    },
+    {
+      "id": "topic_jerarquias_sociales",
+      "name": "Jerarquías sociales",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Desigualdades de poder, riqueza o estatus en sociedades antiguas."
+    },
+    {
+      "id": "topic_los_millares",
+      "name": "Los Millares",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento calcolítico clave de la península ibérica."
+    },
+    {
+      "id": "topic_el_argar",
+      "name": "El Argar",
+      "type": "culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cultura de la Edad del Bronce del sureste peninsular."
+    },
+    {
+      "id": "topic_campaniforme",
+      "name": "Cultura campaniforme",
+      "type": "culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fenómeno arqueológico del Calcolítico y Bronce inicial europeo."
+    },
+    {
+      "id": "topic_campos_urnas",
+      "name": "Campos de urnas",
+      "type": "culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Complejo cultural de la Edad del Bronce final y transición al Hierro."
+    },
+    {
+      "id": "topic_hallstatt",
+      "name": "Hallstatt",
+      "type": "culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cultura centroeuropea de la primera Edad del Hierro."
+    },
+    {
+      "id": "topic_celtas",
+      "name": "Celtas",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Conjunto de pueblos indoeuropeos asociados a la Edad del Hierro europea."
+    },
+    {
+      "id": "topic_iberos",
+      "name": "Íberos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Pueblos prerromanos del este y sur peninsular."
+    },
+    {
+      "id": "topic_fenicios",
+      "name": "Fenicios",
+      "type": "civilization",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Pueblo mediterráneo clave para comercio y colonización en la Protohistoria."
+    },
+    {
+      "id": "topic_colonizacion_griega",
+      "name": "Colonización griega",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Expansión de comunidades griegas por el Mediterráneo."
+    },
+    {
+      "id": "topic_aborigenes_australianos",
+      "name": "Aborígenes australianos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Pueblos originarios de Australia con una de las historias culturales más antiguas del mundo."
+    },
+    {
+      "id": "topic_clima_prehistoria",
+      "name": "Clima y prehistoria",
+      "type": "environment",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Relación entre cambios climáticos, migraciones y adaptación humana."
+    },
+    {
+      "id": "topic_movilidad_prehistorica",
+      "name": "Movilidad prehistórica",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Desplazamientos, rutas y movilidad de individuos y grupos prehistóricos."
     }
   ],
   "episodes": [

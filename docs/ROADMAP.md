@@ -1,5 +1,15 @@
-# Roadmap Prehistoria
+# Roadmap
 
-Estado: Prehistoria v1 cerrada para prueba de app.
+## Cerrado
 
-Pendiente de investigación: Denisovanos, Homo erectus, Mesolítico, Edad del Cobre, Edad del Bronce y Edad del Hierro con episodios monográficos en español.
+- Prehistoria v3.0
+
+## Siguiente bloque editorial
+
+- Primeras Civilizaciones
+  - Mesopotamia
+  - Egipto
+  - Fenicios
+  - Hebreos
+  - Persia
+  - Tartessos e Íberos

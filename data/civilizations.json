@@ -2,21 +2,93 @@
   {
     "id": "civ_cazadores_recolectores",
     "name": "Sociedades cazadoras-recolectoras",
+    "type": "social_model",
     "phase_ids": [
       "phase_01"
     ],
+    "date_range": "Paleolítico y pervivencias posteriores",
+    "summary": "Sociedades basadas en movilidad, caza, pesca, recolección y conocimiento ecológico del entorno.",
     "topic_ids": [
+      "topic_cazadores_recolectores",
       "topic_paleolitico"
+    ],
+    "place_ids": [
+      "place_africa",
+      "place_europa",
+      "place_australia"
+    ],
+    "episode_ids": [
+      "ep_historia_en_podcast_64_paleolitico",
+      "ep_mujeres_historia_prehistoria",
+      "ep_khulmani_aborigenes_australianos"
     ]
   },
   {
     "id": "civ_primeros_agricultores",
     "name": "Primeros agricultores neolíticos",
+    "type": "social_model",
     "phase_ids": [
       "phase_01"
     ],
+    "date_range": "Neolítico",
+    "summary": "Comunidades agrícolas y ganaderas que desarrollaron sedentarismo, aldeas, cerámica y nuevas formas de organización social.",
     "topic_ids": [
-      "topic_neolitico"
+      "topic_neolitico",
+      "topic_agricultura",
+      "topic_ganaderia",
+      "topic_sedentarismo"
+    ],
+    "place_ids": [
+      "place_gobekli_tepe",
+      "place_jerico",
+      "place_catalhoyuk",
+      "place_lago_bracciano"
+    ],
+    "episode_ids": [
+      "ep_historia_en_podcast_65_neolitico",
+      "ep_khulmani_neolitico_europa"
+    ]
+  },
+  {
+    "id": "civ_los_millares",
+    "name": "Los Millares",
+    "type": "archaeological_culture",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "date_range": "Edad del Cobre",
+    "summary": "Cultura calcolítica del sureste peninsular asociada a fortificaciones, metalurgia y complejidad social.",
+    "topic_ids": [
+      "topic_los_millares",
+      "topic_edad_cobre",
+      "topic_metalurgia"
+    ],
+    "place_ids": [
+      "place_los_millares"
+    ],
+    "episode_ids": [
+      "ep_lhe_prehistoria_peninsula"
+    ]
+  },
+  {
+    "id": "civ_el_argar",
+    "name": "El Argar",
+    "type": "archaeological_culture",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "date_range": "Edad del Bronce",
+    "summary": "Cultura de la Edad del Bronce del sureste peninsular con fuerte jerarquización social y desarrollo metalúrgico.",
+    "topic_ids": [
+      "topic_el_argar",
+      "topic_edad_bronce",
+      "topic_jerarquias_sociales"
+    ],
+    "place_ids": [
+      "place_el_argar"
+    ],
+    "episode_ids": [
+      "ep_lhe_prehistoria_peninsula"
     ]
   }
 ]
