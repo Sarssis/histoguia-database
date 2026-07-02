@@ -30,38 +30,18 @@ Siempre que sea posible, cada enlace verificado debe guardar también su identif
 ## Regla 3 · Duración
 
 La duración se guarda de dos formas:
-
 - `duration`: texto legible para usuario.
 - `duration_minutes`: número entero para cálculos.
 
-Si no se conoce la duración:
-- `duration`: cadena vacía.
-- `duration_minutes`: `null`.
-- `metadata_status.duration`: `pending`.
-
 ## Regla 4 · Fecha de publicación
 
-Formato preferente:
+Formato preferente: `YYYY-MM-DD`.
 
-```text
-YYYY-MM-DD
-```
-
-Si solo se conoce el año:
-
-```text
-YYYY
-```
-
-Estados:
-- `verified`: fecha completa.
-- `partial`: fecha parcial.
-- `pending`: fecha desconocida.
+Si solo se conoce el año, se guarda como `YYYY`.
 
 ## Regla 5 · Prioridad editorial
 
 Escala 1-3:
-
 - 1: opcional o panorámico.
 - 2: recomendable.
 - 3: imprescindible para la ruta.
@@ -69,7 +49,6 @@ Escala 1-3:
 ## Regla 6 · Dificultad
 
 Escala 1-3:
-
 - 1: iniciación.
 - 2: intermedio.
 - 3: avanzado.
@@ -77,7 +56,6 @@ Escala 1-3:
 ## Regla 7 · Profundidad
 
 Escala 1-3:
-
 - 1: introducción breve.
 - 2: tratamiento medio.
 - 3: tratamiento profundo o especializado.
@@ -85,7 +63,6 @@ Escala 1-3:
 ## Regla 8 · Editor rating
 
 Escala 1-5:
-
 - 5: episodio especialmente recomendable.
 - 4: muy bueno.
 - 3: correcto.

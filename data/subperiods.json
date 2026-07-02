@@ -1,0 +1,106 @@
+[
+  {
+    "id": "sub_0101",
+    "phase_id": "phase_01",
+    "order": 1,
+    "name": "Origen de la vida y contexto geológico",
+    "date_range": "c. 4500-700 Ma",
+    "summary": "Contexto anterior a la historia humana."
+  },
+  {
+    "id": "sub_0102",
+    "phase_id": "phase_01",
+    "order": 2,
+    "name": "Primates y primeros homininos",
+    "date_range": "c. 7-4 Ma",
+    "summary": "Separación evolutiva y primeros homininos."
+  },
+  {
+    "id": "sub_0103",
+    "phase_id": "phase_01",
+    "order": 3,
+    "name": "Australopithecus y primeros géneros humanos",
+    "date_range": "c. 4-2 Ma",
+    "summary": "Bipedismo, adaptación y diversificación."
+  },
+  {
+    "id": "sub_0104",
+    "phase_id": "phase_01",
+    "order": 4,
+    "name": "Homo habilis y primeras herramientas",
+    "date_range": "c. 2,4-1,6 Ma",
+    "summary": "Tecnología lítica temprana."
+  },
+  {
+    "id": "sub_0105",
+    "phase_id": "phase_01",
+    "order": 5,
+    "name": "Homo erectus y expansión fuera de África",
+    "date_range": "c. 1,9 Ma-150 ka",
+    "summary": "Fuego, movilidad y expansión."
+  },
+  {
+    "id": "sub_0106",
+    "phase_id": "phase_01",
+    "order": 6,
+    "name": "Neandertales, denisovanos y sapiens arcaicos",
+    "date_range": "c. 400-40 ka",
+    "summary": "Diversidad humana pleistocena."
+  },
+  {
+    "id": "sub_0107",
+    "phase_id": "phase_01",
+    "order": 7,
+    "name": "Homo sapiens y revolución cognitiva",
+    "date_range": "c. 300-40 ka",
+    "summary": "Lenguaje, simbolismo, arte y migraciones."
+  },
+  {
+    "id": "sub_0108",
+    "phase_id": "phase_01",
+    "order": 8,
+    "name": "Paleolítico superior",
+    "date_range": "c. 50-12 ka",
+    "summary": "Cazadores-recolectores, arte rupestre y expansión global."
+  },
+  {
+    "id": "sub_0109",
+    "phase_id": "phase_01",
+    "order": 9,
+    "name": "Mesolítico",
+    "date_range": "c. 12-8 ka",
+    "summary": "Transición climática y sociedades postglaciales."
+  },
+  {
+    "id": "sub_0110",
+    "phase_id": "phase_01",
+    "order": 10,
+    "name": "Neolítico",
+    "date_range": "c. 10-4 ka",
+    "summary": "Agricultura, domesticación y aldeas."
+  },
+  {
+    "id": "sub_0111",
+    "phase_id": "phase_01",
+    "order": 11,
+    "name": "Edad del Cobre",
+    "date_range": "c. 5000-3000 a.C.",
+    "summary": "Metalurgia temprana y complejidad social."
+  },
+  {
+    "id": "sub_0112",
+    "phase_id": "phase_01",
+    "order": 12,
+    "name": "Edad del Bronce",
+    "date_range": "c. 3300-1200 a.C.",
+    "summary": "Estados tempranos, comercio y armas de bronce."
+  },
+  {
+    "id": "sub_0113",
+    "phase_id": "phase_01",
+    "order": 13,
+    "name": "Edad del Hierro",
+    "date_range": "c. 1200-500 a.C.",
+    "summary": "Hierro, migraciones, jefaturas e inicios estatales."
+  }
+]

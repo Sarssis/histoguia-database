@@ -1,0 +1,43 @@
+[
+  {
+    "id": "route_prehistoria",
+    "name": "Prehistoria cerrada v1",
+    "description": "Ruta de prehistoria con episodios verificados en Apple, Spotify o iVoox según disponibilidad.",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "subperiod_ids": [
+      "sub_0101",
+      "sub_0102",
+      "sub_0103",
+      "sub_0104",
+      "sub_0105",
+      "sub_0106",
+      "sub_0107",
+      "sub_0108",
+      "sub_0109",
+      "sub_0110",
+      "sub_0111",
+      "sub_0112",
+      "sub_0113"
+    ],
+    "episode_ids": [
+      "ep_historia_en_podcast_64_paleolitico",
+      "ep_historia_en_podcast_65_neolitico",
+      "ep_historia_con_movil_neolitico",
+      "ep_lhe_prehistoria_peninsula",
+      "ep_planeta_muy_neandertales",
+      "ep_otro_podcast_arte_paleolitico",
+      "ep_mujeres_historia_prehistoria",
+      "ep_atapuerca_1_zarpazo",
+      "ep_atapuerca_2_craneos",
+      "ep_atapuerca_4_piezas_puzle",
+      "ep_zh_neolitico_gaditano",
+      "ep_khulmani_paleolitico_superior",
+      "ep_khulmani_neolitico_europa",
+      "ep_khulmani_aborigenes_australianos",
+      "ep_cao_77_prehistoria"
+    ],
+    "status": "ready_for_app_test"
+  }
+]

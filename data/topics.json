@@ -1,0 +1,87 @@
+[
+  {
+    "id": "topic_prehistoria",
+    "name": "Prehistoria",
+    "type": "period"
+  },
+  {
+    "id": "topic_paleolitico",
+    "name": "Paleolítico",
+    "type": "period"
+  },
+  {
+    "id": "topic_paleolitico_superior",
+    "name": "Paleolítico superior",
+    "type": "period"
+  },
+  {
+    "id": "topic_neolitico",
+    "name": "Neolítico",
+    "type": "period"
+  },
+  {
+    "id": "topic_atapuerca",
+    "name": "Atapuerca",
+    "type": "site"
+  },
+  {
+    "id": "topic_neandertales",
+    "name": "Neandertales",
+    "type": "human_species"
+  },
+  {
+    "id": "topic_evolucion_humana",
+    "name": "Evolución humana",
+    "type": "process"
+  },
+  {
+    "id": "topic_homo_sapiens",
+    "name": "Homo sapiens",
+    "type": "human_species"
+  },
+  {
+    "id": "topic_arte_rupestre",
+    "name": "Arte rupestre",
+    "type": "cultural_expression"
+  },
+  {
+    "id": "topic_mujeres_prehistoria",
+    "name": "Mujeres en la Prehistoria",
+    "type": "social_history"
+  },
+  {
+    "id": "topic_neolitico_gaditano",
+    "name": "Neolítico gaditano",
+    "type": "regional_period"
+  },
+  {
+    "id": "topic_prehistoria_peninsula_iberica",
+    "name": "Prehistoria de la península ibérica",
+    "type": "regional_period"
+  },
+  {
+    "id": "topic_clima_prehistoria",
+    "name": "Clima y prehistoria",
+    "type": "environment"
+  },
+  {
+    "id": "topic_alimentacion_evolucion",
+    "name": "Alimentación y evolución humana",
+    "type": "social_biological_process"
+  },
+  {
+    "id": "topic_aborigenes_australianos",
+    "name": "Aborígenes australianos",
+    "type": "human_group"
+  },
+  {
+    "id": "topic_megalitismo",
+    "name": "Megalitismo",
+    "type": "cultural_expression"
+  },
+  {
+    "id": "topic_edad_metales",
+    "name": "Edad de los Metales",
+    "type": "period"
+  }
+]

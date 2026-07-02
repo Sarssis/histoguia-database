@@ -1,0 +1,13 @@
+{
+  "version": "2.3",
+  "description": "Base completa de histoguia-database con Prehistoria y episodes.json editorial v2.3.",
+  "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
+  "episode_count": 15,
+  "platforms": [
+    "apple",
+    "spotify",
+    "ivoox",
+    "youtube",
+    "web"
+  ]
+}
