@@ -76,12 +76,12 @@
         "note": ""
       }
     },
-    "summary": "Introducción al Paleolítico: origen del ser humano actual, formas de vida, arte, creencias y primeras herramientas.",
+    "summary": "Punto de partida recomendado para entrar en la Prehistoria. Explica de forma clara el mundo paleolítico: los grupos cazadores-recolectores, las primeras herramientas, el pensamiento simbólico y el arte rupestre. Es el episodio más adecuado para iniciar la ruta antes de pasar al Neolítico.",
     "learn": [
-      "Origen humano actual",
-      "Cazadores-recolectores",
-      "Arte paleolítico",
-      "Pensamiento simbólico"
+      "Comprender cómo vivían los grupos cazadores-recolectores.",
+      "Diferenciar el Paleolítico de las etapas posteriores de la Prehistoria.",
+      "Identificar el papel del arte rupestre y del pensamiento simbólico.",
+      "Situar el desarrollo de las primeras herramientas dentro de la evolución humana."
     ],
     "listen_before": [],
     "listen_after": [
@@ -89,14 +89,18 @@
     ],
     "related_topics": [
       "Paleolítico superior",
-      "Arte rupestre"
+      "Arte rupestre",
+      "Homo sapiens",
+      "Cazadores-recolectores"
     ],
     "keywords": [
-      "arte rupestre",
-      "paleolitico",
+      "prehistoria",
       "paleolítico",
-      "paleolítico superior",
-      "prehistoria"
+      "cazadores-recolectores",
+      "arte rupestre",
+      "herramientas líticas",
+      "pensamiento simbólico",
+      "homo sapiens"
     ]
   },
   {
@@ -176,27 +180,35 @@
         "note": ""
       }
     },
-    "summary": "Revolución Neolítica, sedentarismo, agricultura, domesticación, primeras ciudades, división social del trabajo y origen de la escritura.",
+    "summary": "Continuación natural del episodio sobre el Paleolítico. Presenta la Revolución Neolítica como uno de los grandes cambios de la historia humana: agricultura, ganadería, sedentarismo, aldeas, división social del trabajo y primeras formas urbanas. Es imprescindible para entender el paso de sociedades móviles a comunidades agrícolas.",
     "learn": [
-      "Agricultura",
-      "Sedentarismo",
-      "Primeras ciudades",
-      "Origen de la escritura"
+      "Comprender por qué la agricultura transformó la organización humana.",
+      "Explicar las consecuencias del sedentarismo.",
+      "Relacionar domesticación, excedentes y división social del trabajo.",
+      "Entender por qué el Neolítico prepara el camino hacia las primeras civilizaciones."
     ],
     "listen_before": [
       "ep_historia_en_podcast_64_paleolitico"
     ],
-    "listen_after": [],
+    "listen_after": [
+      "ep_historia_con_movil_neolitico",
+      "ep_khulmani_neolitico_europa"
+    ],
     "related_topics": [
       "Agricultura",
-      "Domesticación"
+      "Domesticación",
+      "Sedentarismo",
+      "Primeras aldeas"
     ],
     "keywords": [
-      "agricultura",
-      "domesticación",
-      "neolitico",
       "neolítico",
-      "prehistoria"
+      "revolución neolítica",
+      "agricultura",
+      "ganadería",
+      "sedentarismo",
+      "domesticación",
+      "primeras aldeas",
+      "primeras ciudades"
     ]
   },
   {
@@ -276,24 +288,32 @@
         "note": ""
       }
     },
-    "summary": "Entrada breve al debate sobre el Neolítico como avance o retroceso.",
+    "summary": "Episodio breve y útil para reforzar el Neolítico desde una perspectiva crítica: no lo presenta únicamente como progreso, sino también como un cambio con costes sociales, sanitarios y económicos. Funciona bien como complemento tras una introducción general.",
     "learn": [
-      "Neolítico como cambio social",
-      "Sedentarismo",
-      "Impacto de la agricultura"
+      "Valorar el Neolítico como una transformación ambivalente.",
+      "Reconocer los costes del sedentarismo y de la agricultura.",
+      "Comparar vida cazadora-recolectora y vida agrícola.",
+      "Entender por qué la idea de progreso histórico debe matizarse."
     ],
-    "listen_before": [],
-    "listen_after": [],
+    "listen_before": [
+      "ep_historia_en_podcast_65_neolitico"
+    ],
+    "listen_after": [
+      "ep_khulmani_neolitico_europa"
+    ],
     "related_topics": [
       "Neolítico",
-      "Agricultura"
+      "Agricultura",
+      "Sedentarismo"
     ],
     "keywords": [
-      "agricultura",
+      "neolítico",
       "evolución",
       "involución",
-      "neolitico",
-      "neolítico"
+      "agricultura",
+      "sedentarismo",
+      "progreso",
+      "cambio social"
     ]
   },
   {
@@ -377,30 +397,35 @@
         "note": ""
       }
     },
-    "summary": "Prehistoria de la península ibérica desde el Paleolítico hasta la Edad del Bronce.",
+    "summary": "La mejor entrada general para seguir la Prehistoria desde una perspectiva peninsular. Recorre Atapuerca, Altamira, el Mesolítico, el Neolítico, Los Millares y El Argar, conectando la evolución general de la humanidad con el territorio ibérico. Es una pieza clave para usuarios interesados en España.",
     "learn": [
-      "Atapuerca y Altamira",
-      "Mesolítico y Neolítico",
-      "Los Millares",
-      "El Argar"
+      "Situar Atapuerca dentro de la evolución humana europea.",
+      "Comprender la importancia de Altamira y del arte rupestre peninsular.",
+      "Seguir la transición peninsular del Paleolítico al Neolítico.",
+      "Identificar Los Millares y El Argar como hitos de la complejidad social."
     ],
-    "listen_before": [],
-    "listen_after": [],
+    "listen_before": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ],
+    "listen_after": [
+      "ep_zh_neolitico_gaditano"
+    ],
     "related_topics": [
       "Atapuerca",
       "Altamira",
-      "Los Millares"
+      "Los Millares",
+      "El Argar",
+      "Península ibérica"
     ],
     "keywords": [
-      "altamira",
+      "prehistoria peninsular",
+      "península ibérica",
       "atapuerca",
-      "episodio",
-      "iberica",
-      "ibérica",
+      "altamira",
       "los millares",
-      "peninsula",
-      "península",
-      "prehistoria"
+      "el argar",
+      "edad del bronce",
+      "neolítico"
     ]
   },
   {
@@ -484,26 +509,30 @@
         "note": ""
       }
     },
-    "summary": "Vida, costumbres y capacidades de los neandertales.",
+    "summary": "Buena introducción divulgativa a los neandertales. Ayuda a desmontar la imagen simplista del neandertal primitivo y lo presenta como una humanidad compleja, con capacidades técnicas, sociales y cognitivas. Recomendado para abrir el bloque de evolución humana reciente.",
     "learn": [
-      "Quiénes fueron los neandertales",
-      "Cómo vivían",
-      "Capacidades cognitivas"
+      "Comprender quiénes fueron los neandertales.",
+      "Reconocer sus capacidades técnicas y cognitivas.",
+      "Relacionar neandertales y Homo sapiens.",
+      "Superar tópicos sobre la supuesta inferioridad neandertal."
     ],
     "listen_before": [],
-    "listen_after": [],
+    "listen_after": [
+      "ep_atapuerca_1_zarpazo"
+    ],
     "related_topics": [
       "Neandertales",
-      "Homo sapiens"
+      "Homo sapiens",
+      "Paleolítico medio",
+      "Evolución humana"
     ],
     "keywords": [
-      "baena",
-      "caminando",
-      "capítulo",
-      "entre",
+      "neandertales",
+      "homo neanderthalensis",
+      "evolución humana",
+      "paleolítico medio",
       "homo sapiens",
-      "javier",
-      "neandertales"
+      "javier baena"
     ]
   },
   {
@@ -583,24 +612,31 @@
         "note": ""
       }
     },
-    "summary": "Arte paleolítico y comportamiento humano moderno: música, pinturas rupestres, tecnología y significado.",
+    "summary": "Monográfico profundo sobre el arte paleolítico. Es uno de los episodios más completos del bloque para entender el comportamiento simbólico, la tecnología de las pinturas, la música prehistórica y el posible significado de las representaciones rupestres. Recomendado para profundizar, no como primera escucha.",
     "learn": [
-      "Arte rupestre",
-      "Comportamiento simbólico",
-      "Tecnología de pintura"
+      "Entender el arte paleolítico como expresión del pensamiento simbólico.",
+      "Conocer técnicas de pintura, iluminación y representación en cuevas.",
+      "Relacionar arte rupestre, música y comportamiento humano moderno.",
+      "Distinguir una introducción general de un análisis especializado."
     ],
-    "listen_before": [],
+    "listen_before": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ],
     "listen_after": [],
     "related_topics": [
       "Arte rupestre",
-      "Paleolítico superior"
+      "Paleolítico superior",
+      "Homo sapiens",
+      "Comportamiento simbólico"
     ],
     "keywords": [
-      "arte",
+      "arte paleolítico",
       "arte rupestre",
-      "paleolítico",
-      "paleolítico superior",
-      "rupestre"
+      "pinturas rupestres",
+      "cuevas",
+      "música prehistórica",
+      "comportamiento simbólico",
+      "paleolítico superior"
     ]
   },
   {
@@ -682,26 +718,29 @@
         "note": ""
       }
     },
-    "summary": "Papel de mujeres y hombres en el Paleolítico y sociedades cazadoras-recolectoras.",
+    "summary": "Episodio necesario para equilibrar la visión clásica de la Prehistoria. Introduce la perspectiva de género en sociedades paleolíticas y cazadoras-recolectoras, mostrando que la organización social fue más compleja que los modelos tradicionales basados solo en caza masculina y dependencia femenina.",
     "learn": [
-      "Organización social paleolítica",
-      "Perspectiva de género",
-      "Cazadores-recolectores"
+      "Cuestionar estereotipos sobre mujeres y hombres en la Prehistoria.",
+      "Entender cómo se estudian las sociedades cazadoras-recolectoras.",
+      "Relacionar arqueología, etnografía y género.",
+      "Ampliar la interpretación social del Paleolítico."
     ],
-    "listen_before": [],
+    "listen_before": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ],
     "listen_after": [],
     "related_topics": [
       "Paleolítico",
+      "Cazadores-recolectores",
       "Mujeres en la historia"
     ],
     "keywords": [
-      "cazadoras-recolectoras",
-      "mujeres",
-      "mujeres en la historia",
+      "mujeres en la prehistoria",
       "paleolítico",
-      "prehistoria",
-      "prehistoria.",
-      "sociedades"
+      "género",
+      "cazadores-recolectores",
+      "almudena hernando",
+      "sociedad prehistórica"
     ]
   },
   {
@@ -787,26 +826,32 @@
         "note": ""
       }
     },
-    "summary": "Origen del fenómeno científico de Atapuerca, primeros hallazgos y protagonistas.",
+    "summary": "Primer episodio recomendado para entrar en Atapuerca. Explica cómo un yacimiento burgalés se convirtió en un referente mundial para estudiar la evolución humana, presentando a sus protagonistas, el origen del proyecto y la importancia científica de los hallazgos.",
     "learn": [
-      "Origen de Atapuerca",
-      "Primeros investigadores",
-      "Importancia científica"
+      "Comprender por qué Atapuerca es un yacimiento excepcional.",
+      "Identificar a los principales investigadores del proyecto.",
+      "Situar Atapuerca dentro de la paleoantropología europea.",
+      "Entender cómo nace una gran investigación científica."
     ],
-    "listen_before": [],
+    "listen_before": [
+      "ep_planeta_muy_neandertales"
+    ],
     "listen_after": [
       "ep_atapuerca_2_craneos"
     ],
     "related_topics": [
       "Atapuerca",
-      "Evolución humana"
+      "Evolución humana",
+      "Paleoantropología"
     ],
     "keywords": [
       "atapuerca",
-      "curiosidad",
-      "episodio",
       "evolución humana",
-      "zarpazo"
+      "paleoantropología",
+      "burgos",
+      "eudald carbonell",
+      "arsuaga",
+      "bermúdez de castro"
     ]
   },
   {
@@ -892,11 +937,12 @@
         "note": ""
       }
     },
-    "summary": "Equipo de Atapuerca, cráneos A, B y C, relevo científico y grandes descubrimientos.",
+    "summary": "Continuación directa del primer episodio de Atapuerca. Profundiza en el equipo científico, los cráneos y los grandes descubrimientos que consolidaron la importancia del yacimiento. Recomendado para seguir la serie en orden.",
     "learn": [
-      "Equipo científico",
-      "Fósiles humanos",
-      "Paleoantropología"
+      "Conocer el valor de los cráneos y restos humanos de Atapuerca.",
+      "Entender la importancia del equipo investigador.",
+      "Relacionar fósiles concretos con grandes preguntas evolutivas.",
+      "Seguir la construcción científica del relato de Atapuerca."
     ],
     "listen_before": [
       "ep_atapuerca_1_zarpazo"
@@ -906,13 +952,16 @@
     ],
     "related_topics": [
       "Atapuerca",
-      "Evolución humana"
+      "Evolución humana",
+      "Fósiles humanos"
     ],
     "keywords": [
       "atapuerca",
       "cráneos",
-      "episodio",
-      "evolución humana"
+      "fósiles humanos",
+      "evolución humana",
+      "paleoantropología",
+      "sima de los huesos"
     ]
   },
   {
@@ -999,11 +1048,12 @@
         "note": ""
       }
     },
-    "summary": "Descubrimientos, hallazgos científicos y piezas clave de Atapuerca.",
+    "summary": "Episodio complementario para entender Atapuerca como un gran puzle científico. Aporta contexto sobre hallazgos, métodos y trabajo interdisciplinar. No es el primero que debe escucharse, pero sí enriquece mucho la comprensión del yacimiento.",
     "learn": [
-      "Hallazgos científicos",
-      "Métodos de investigación",
-      "Trabajo interdisciplinar"
+      "Entender la investigación de Atapuerca como un proceso acumulativo.",
+      "Relacionar hallazgos parciales con hipótesis científicas.",
+      "Valorar el trabajo interdisciplinar en paleoantropología.",
+      "Profundizar en la lógica de la investigación arqueológica."
     ],
     "listen_before": [
       "ep_atapuerca_2_craneos"
@@ -1011,14 +1061,16 @@
     "listen_after": [],
     "related_topics": [
       "Atapuerca",
-      "Evolución humana"
+      "Evolución humana",
+      "Método científico"
     ],
     "keywords": [
       "atapuerca",
-      "episodio",
-      "evolución humana",
-      "piezas",
-      "puzle"
+      "piezas del puzle",
+      "hallazgos",
+      "paleoantropología",
+      "investigación científica",
+      "evolución humana"
     ]
   },
   {
@@ -1102,27 +1154,31 @@
         "note": ""
       }
     },
-    "summary": "Neolítico en la Bahía de Cádiz y yacimiento del Campo de Hockey de San Fernando.",
+    "summary": "Buen episodio para bajar el Neolítico al terreno local. A través del yacimiento del Campo de Hockey de San Fernando, muestra cómo la arqueología regional permite entender cambios funerarios, sociales y culturales en comunidades neolíticas peninsulares.",
     "learn": [
-      "Neolítico gaditano",
-      "Campo de Hockey",
-      "Arqueología funeraria"
+      "Conocer el Neolítico de la Bahía de Cádiz.",
+      "Entender la importancia del yacimiento del Campo de Hockey.",
+      "Relacionar prácticas funerarias y organización social.",
+      "Aplicar el marco general del Neolítico a un caso regional."
     ],
-    "listen_before": [],
+    "listen_before": [
+      "ep_historia_en_podcast_65_neolitico"
+    ],
     "listen_after": [],
     "related_topics": [
       "Neolítico",
-      "Cádiz"
+      "Cádiz",
+      "Arqueología peninsular",
+      "Campo de Hockey"
     ],
     "keywords": [
-      "campo",
+      "neolítico gaditano",
+      "campo de hockey",
+      "san fernando",
       "cádiz",
-      "gaditano",
-      "gaditano.",
-      "hockey",
-      "neolitico",
-      "neolítico",
-      "prehistoria"
+      "bahía de cádiz",
+      "arqueología funeraria",
+      "neolítico peninsular"
     ]
   },
   {
@@ -1204,24 +1260,31 @@
         "note": ""
       }
     },
-    "summary": "Paleolítico Superior: Homo sapiens en Europa, clima glaciar, tecnología y sociedad.",
+    "summary": "Episodio especializado para profundizar en el Paleolítico Superior europeo. Recomendado después de una introducción general, porque entra en clima, tecnología, sociedad y expansión de Homo sapiens con mayor densidad de contenido.",
     "learn": [
-      "Paleolítico Superior",
-      "Homo sapiens",
-      "Último máximo glacial"
+      "Situar el Paleolítico Superior dentro de la Prehistoria europea.",
+      "Comprender la expansión de Homo sapiens en Europa.",
+      "Relacionar clima glaciar, tecnología y adaptación humana.",
+      "Profundizar más allá de una introducción general."
     ],
-    "listen_before": [],
-    "listen_after": [],
+    "listen_before": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ],
+    "listen_after": [
+      "ep_otro_podcast_arte_paleolitico"
+    ],
     "related_topics": [
+      "Paleolítico superior",
       "Homo sapiens",
-      "Arte rupestre"
+      "Europa glaciar"
     ],
     "keywords": [
-      "arte rupestre",
+      "paleolítico superior",
       "homo sapiens",
-      "paleolitico",
-      "paleolítico",
-      "superior"
+      "europa",
+      "glaciación",
+      "tecnología lítica",
+      "último máximo glacial"
     ]
   },
   {
@@ -1306,25 +1369,31 @@
         "note": ""
       }
     },
-    "summary": "Expansión del Neolítico por Europa con Juan F. Gibaja y referencia a La Marmotta.",
+    "summary": "Episodio especializado sobre la expansión del Neolítico por Europa. Es ideal después de una introducción general, porque explica cómo se difundieron agricultura y ganadería por el continente y permite entender la neolitización como un proceso histórico complejo.",
     "learn": [
-      "Difusión neolítica en Europa",
-      "Primeros agricultores",
-      "La Marmotta"
+      "Comprender cómo se expandió el Neolítico por Europa.",
+      "Relacionar agricultores, ganaderos y poblaciones locales.",
+      "Conocer el valor arqueológico de La Marmotta.",
+      "Profundizar en la neolitización mediterránea."
     ],
-    "listen_before": [],
+    "listen_before": [
+      "ep_historia_en_podcast_65_neolitico"
+    ],
     "listen_after": [],
     "related_topics": [
       "Neolítico",
       "Europa",
-      "Agricultura"
+      "Agricultura",
+      "La Marmotta"
     ],
     "keywords": [
-      "agricultura",
+      "expansión neolítico",
       "europa",
-      "expansión",
-      "neolitico",
-      "neolítico"
+      "neolitización",
+      "agricultura",
+      "ganadería",
+      "la marmotta",
+      "juan gibaja"
     ]
   },
   {
@@ -1406,24 +1475,30 @@
         "note": ""
       }
     },
-    "summary": "Poblamiento humano de Australia, herramientas, sociedad, costumbres y creencias aborígenes.",
+    "summary": "Episodio útil para ampliar la Prehistoria más allá de Europa y Próximo Oriente. Trata el poblamiento de Australia, las sociedades cazadoras-recolectoras y la cultura aborigen, aportando una perspectiva global sobre Homo sapiens y sus migraciones.",
     "learn": [
-      "Poblamiento de Australia",
-      "Sociedades cazadoras-recolectoras",
-      "Espiritualidad aborigen"
+      "Entender el poblamiento humano de Australia.",
+      "Relacionar migraciones humanas y adaptación ambiental.",
+      "Conocer rasgos culturales de los pueblos aborígenes.",
+      "Ampliar la Prehistoria a una escala global."
     ],
-    "listen_before": [],
+    "listen_before": [
+      "ep_historia_en_podcast_64_paleolitico"
+    ],
     "listen_after": [],
     "related_topics": [
       "Homo sapiens",
-      "Migraciones humanas"
+      "Migraciones humanas",
+      "Australia",
+      "Cazadores-recolectores"
     ],
     "keywords": [
-      "aborigenes",
-      "aborígenes",
-      "australianos",
+      "aborígenes australianos",
+      "australia",
       "homo sapiens",
-      "migraciones humanas"
+      "migraciones humanas",
+      "cazadores-recolectores",
+      "prehistoria global"
     ]
   },
   {
@@ -1503,25 +1578,32 @@
         "note": ""
       }
     },
-    "summary": "Panorámica de la Prehistoria desde primeros homínidos hasta revolución del metal.",
+    "summary": "Episodio panorámico y ligero sobre la Prehistoria. No sustituye a las piezas principales de la ruta, pero puede servir como repaso general o como entrada muy básica para usuarios que quieran una visión rápida antes de profundizar.",
     "learn": [
-      "Panorámica de Prehistoria",
-      "Fuego",
-      "Arte rupestre",
-      "Neolítico",
-      "Edad de los Metales"
+      "Obtener una visión general de la Prehistoria.",
+      "Reconocer los grandes hitos: fuego, arte, Neolítico y metalurgia.",
+      "Diferenciar de forma básica Paleolítico y Neolítico.",
+      "Prepararse para escuchar episodios más específicos."
     ],
     "listen_before": [],
-    "listen_after": [],
+    "listen_after": [
+      "ep_historia_en_podcast_64_paleolitico",
+      "ep_historia_en_podcast_65_neolitico"
+    ],
     "related_topics": [
       "Prehistoria",
       "Paleolítico",
-      "Neolítico"
+      "Neolítico",
+      "Edad de los Metales"
     ],
     "keywords": [
-      "neolítico",
+      "prehistoria",
       "paleolítico",
-      "prehistoria"
+      "neolítico",
+      "fuego",
+      "arte rupestre",
+      "edad de los metales",
+      "repaso"
     ]
   }
 ]
