@@ -136,7 +136,8 @@ const DATA = {
       "order": 1,
       "name": "Origen de la vida y contexto geológico",
       "date_range": "c. 4500-700 Ma",
-      "summary": "Contexto anterior a la historia humana."
+      "summary": "Formación de la Tierra, contexto geológico profundo, química prebiótica, origen de la vida y primeras células.",
+      "status": "content_seeded"
     },
     {
       "id": "sub_0102",
@@ -937,6 +938,150 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Desplazamientos, rutas y movilidad de individuos y grupos prehistóricos."
+    },
+    {
+      "id": "topic_origen_vida",
+      "name": "Origen de la vida",
+      "type": "science_history",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Hipótesis y evidencias sobre la aparición de los primeros sistemas vivos en la Tierra."
+    },
+    {
+      "id": "topic_contexto_geologico",
+      "name": "Contexto geológico",
+      "type": "geology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Marco geológico necesario para entender el planeta antes de la aparición de los humanos."
+    },
+    {
+      "id": "topic_historia_tierra",
+      "name": "Historia de la Tierra",
+      "type": "geology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Evolución física, atmosférica, oceánica y biológica del planeta desde su formación."
+    },
+    {
+      "id": "topic_formacion_tierra",
+      "name": "Formación de la Tierra",
+      "type": "geology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso de acreción y diferenciación planetaria que dio origen a la Tierra."
+    },
+    {
+      "id": "topic_hadeon",
+      "name": "Hádico",
+      "type": "geological_eon",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primer eón de la Tierra, asociado a la formación planetaria y a condiciones extremas."
+    },
+    {
+      "id": "topic_arqueano",
+      "name": "Arcaico",
+      "type": "geological_eon",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Eón temprano en el que aparecen las primeras evidencias de vida."
+    },
+    {
+      "id": "topic_proterozoico",
+      "name": "Proterozoico",
+      "type": "geological_eon",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Eón marcado por oxigenación, vida microbiana y cambios planetarios profundos."
+    },
+    {
+      "id": "topic_abiogenesis",
+      "name": "Abiogénesis",
+      "type": "science_concept",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso hipotético por el cual la vida surgiría a partir de materia no viva."
+    },
+    {
+      "id": "topic_mundo_arn",
+      "name": "Mundo de ARN",
+      "type": "science_hypothesis",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Hipótesis sobre una etapa temprana en la que moléculas de ARN tendrían funciones informativas y catalíticas."
+    },
+    {
+      "id": "topic_coacervados",
+      "name": "Coacervados",
+      "type": "science_hypothesis",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Agregados químicos propuestos como modelo de estructuras previas a las células."
+    },
+    {
+      "id": "topic_primeras_celulas",
+      "name": "Primeras células",
+      "type": "biology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Aparición de células simples y organismos microbianos tempranos."
+    },
+    {
+      "id": "topic_gran_oxidacion",
+      "name": "Gran Oxidación",
+      "type": "geological_event",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cambio atmosférico provocado por la acumulación de oxígeno en la atmósfera terrestre."
+    },
+    {
+      "id": "topic_tierra_bola_nieve",
+      "name": "Tierra bola de nieve",
+      "type": "geological_event",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Hipótesis de glaciaciones globales o casi globales en la historia profunda del planeta."
+    },
+    {
+      "id": "topic_meteoritos",
+      "name": "Meteoritos",
+      "type": "geology_astronomy",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Rocas procedentes del espacio que aportan información sobre el origen del sistema solar."
+    },
+    {
+      "id": "topic_planetesimales",
+      "name": "Planetesimales",
+      "type": "planetary_science",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cuerpos primitivos que participaron en la formación de planetas rocosos."
+    },
+    {
+      "id": "topic_oceanos_primitivos",
+      "name": "Océanos primitivos",
+      "type": "environment",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Ambientes acuáticos tempranos de la Tierra primitiva."
     }
   ],
   "episodes": [
@@ -2170,6 +2315,504 @@ const DATA = {
         "arte rupestre",
         "edad de los metales",
         "repaso"
+      ]
+    },
+    {
+      "id": "ep_aparici_s05e06_sopa_primordial",
+      "podcast_id": "pod_aparici_orbita",
+      "podcast_name": "Aparici en Órbita",
+      "episode_code": "s05e06",
+      "title": "Aparici en Órbita s05e06: La sopa primordial y el mundo de ARN",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0101",
+      "main_topic_id": "topic_origen_vida",
+      "topic_ids": [
+        "topic_origen_vida",
+        "topic_contexto_geologico",
+        "topic_historia_tierra"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_tierra"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "31 min",
+      "duration_minutes": 31,
+      "published": "2022",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/aparici-en-%C3%B3rbita-s05e06-la-sopa-primordial-y-el/id1448672712?i=1000587550344",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "1000587550344",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio imprescindible para iniciar el subperiodo de origen de la vida. Explica de forma accesible uno de los grandes problemas científicos: cómo pudo aparecer la vida en una Tierra primitiva, qué papel podría haber tenido la química prebiótica y por qué la hipótesis del mundo de ARN es central en el debate.",
+      "learn": [
+        "Comprender por qué el origen de la vida sigue siendo un problema científico abierto.",
+        "Explicar la idea de sopa primordial y química prebiótica.",
+        "Entender la hipótesis del mundo de ARN.",
+        "Relacionar origen de la vida, primeras moléculas y primeras células."
+      ],
+      "listen_before": [],
+      "listen_after": [
+        "ep_brujula_s01e01_origen_vida"
+      ],
+      "related_topics": [
+        "Abiogénesis",
+        "Mundo de ARN",
+        "Química prebiótica",
+        "Primeras células"
+      ],
+      "keywords": [
+        "origen de la vida",
+        "sopa primordial",
+        "mundo de arn",
+        "abiogénesis",
+        "química prebiótica",
+        "primeras células"
+      ]
+    },
+    {
+      "id": "ep_aparici_s08e35_coacervados",
+      "podcast_id": "pod_aparici_orbita",
+      "podcast_name": "Aparici en Órbita",
+      "episode_code": "s08e35",
+      "title": "Aparici en Órbita s08e35: Coacervados, ¿la vida antes de las células?",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0101",
+      "main_topic_id": "topic_origen_vida",
+      "topic_ids": [
+        "topic_origen_vida",
+        "topic_contexto_geologico",
+        "topic_historia_tierra"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_tierra"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2026",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/aparici-en-%C3%B3rbita-s08e35-coacervados-la-vida-antes/id1448672712?i=1000767144744",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "1000767144744",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Complemento excelente al episodio sobre el mundo de ARN. Centra la atención en los coacervados y en la posibilidad de estructuras anteriores a las células, permitiendo entender que el origen de la vida no fue un salto único, sino una secuencia de pasos químicos y físicos.",
+      "learn": [
+        "Comprender qué son los coacervados.",
+        "Distinguir protocélulas de células verdaderas.",
+        "Relacionar compartimentos químicos y origen de la vida.",
+        "Entender por qué la vida pudo surgir por etapas."
+      ],
+      "listen_before": [
+        "ep_aparici_s05e06_sopa_primordial"
+      ],
+      "listen_after": [
+        "ep_brujula_s01e01_origen_vida"
+      ],
+      "related_topics": [
+        "Coacervados",
+        "Protocélulas",
+        "Origen de la vida",
+        "Primeras células"
+      ],
+      "keywords": [
+        "coacervados",
+        "protocélulas",
+        "origen de la vida",
+        "vida antes de las células",
+        "química prebiótica"
+      ]
+    },
+    {
+      "id": "ep_brujula_s01e01_origen_vida",
+      "podcast_id": "pod_brujula_ciencia",
+      "podcast_name": "La Brújula de la Ciencia",
+      "episode_code": "s01e01",
+      "title": "La Brújula de la Ciencia s01e01: Origen de la vida",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0101",
+      "main_topic_id": "topic_origen_vida",
+      "topic_ids": [
+        "topic_origen_vida",
+        "topic_contexto_geologico",
+        "topic_historia_tierra"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_tierra"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "7 min",
+      "duration_minutes": 7,
+      "published": "2011-09-09",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/brujula-ciencia-s01e01-origen-de-audios-mp3_rf_4218654_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4218654",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Pieza breve y muy útil como cápsula de repaso. Parte de indicios de vida en rocas muy antiguas y resume cómo pudieron ser los primeros seres vivos y la Tierra que habitaban. No sustituye a los episodios más extensos, pero funciona muy bien como entrada rápida.",
+      "learn": [
+        "Situar las primeras evidencias de vida en la historia de la Tierra.",
+        "Comprender cómo eran los primeros seres vivos.",
+        "Relacionar rocas antiguas y búsqueda de vida temprana.",
+        "Obtener una introducción rápida al origen de la vida."
+      ],
+      "listen_before": [
+        "ep_aparici_s05e06_sopa_primordial"
+      ],
+      "listen_after": [
+        "ep_ldd18x09_historia_tierra"
+      ],
+      "related_topics": [
+        "Origen de la vida",
+        "Rocas arcaicas",
+        "Primeras células",
+        "Arcaico"
+      ],
+      "keywords": [
+        "origen de la vida",
+        "primeros seres vivos",
+        "rocas antiguas",
+        "arcaico",
+        "vida temprana"
+      ]
+    },
+    {
+      "id": "ep_bio4eso_origen_vida",
+      "podcast_id": "pod_biologia_geologia_eso",
+      "podcast_name": "Evolución - Biología y Geología 4º de ESO",
+      "episode_code": "1",
+      "title": "1 - Evolución: El origen de la vida",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0101",
+      "main_topic_id": "topic_origen_vida",
+      "topic_ids": [
+        "topic_origen_vida",
+        "topic_contexto_geologico",
+        "topic_historia_tierra"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_tierra"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/1-evolucion-el-origen-vida-audios-mp3_rf_66732669_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "66732669",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Recurso didáctico básico para usuarios que quieran una explicación muy sencilla del origen de la vida. Recorre teorías clásicas y experimentos como Redi, Pasteur y Miller, con un enfoque claramente escolar pero útil como primer contacto.",
+      "learn": [
+        "Identificar teorías clásicas sobre el origen de la vida.",
+        "Comprender la importancia de los experimentos de Redi, Pasteur y Miller.",
+        "Distinguir generación espontánea y explicación científica moderna.",
+        "Prepararse para episodios más avanzados sobre química prebiótica."
+      ],
+      "listen_before": [],
+      "listen_after": [
+        "ep_aparici_s05e06_sopa_primordial"
+      ],
+      "related_topics": [
+        "Origen de la vida",
+        "Experimento de Miller",
+        "Generación espontánea",
+        "Biología básica"
+      ],
+      "keywords": [
+        "origen de la vida",
+        "redi",
+        "pasteur",
+        "miller",
+        "generación espontánea",
+        "biología"
+      ]
+    },
+    {
+      "id": "ep_ldd18x09_historia_tierra",
+      "podcast_id": "pod_linterna_diogenes",
+      "podcast_name": "La Linterna de Diógenes",
+      "episode_code": "LDD18x09",
+      "title": "LDD18x09 - La historia de la Tierra",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0101",
+      "main_topic_id": "topic_origen_vida",
+      "topic_ids": [
+        "topic_origen_vida",
+        "topic_contexto_geologico",
+        "topic_historia_tierra"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_tierra"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ldd18x09-la-historia-tierra-audios-mp3_rf_135115133_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "135115133",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio clave para cubrir el contexto geológico del subperiodo. Recorre la formación de la Tierra, los océanos, continentes, grandes cambios planetarios, glaciaciones y la historia de la vida en paralelo. Es el mejor soporte para que el usuario entienda el escenario físico antes de entrar en evolución humana.",
+      "learn": [
+        "Comprender cómo se formó la Tierra.",
+        "Relacionar océanos, continentes y atmósfera con la aparición de la vida.",
+        "Identificar grandes crisis geológicas como Tierra bola de nieve.",
+        "Situar la vida dentro de la historia profunda del planeta."
+      ],
+      "listen_before": [
+        "ep_brujula_s01e01_origen_vida"
+      ],
+      "listen_after": [
+        "ep_historia_en_podcast_64_paleolitico"
+      ],
+      "related_topics": [
+        "Historia de la Tierra",
+        "Formación de la Tierra",
+        "Océanos primitivos",
+        "Tierra bola de nieve"
+      ],
+      "keywords": [
+        "historia de la tierra",
+        "formación de la tierra",
+        "geología",
+        "océanos",
+        "continentes",
+        "tierra bola de nieve",
+        "origen de la vida"
+      ]
+    },
+    {
+      "id": "ep_mas_de_uno_vida_antes_celulas",
+      "podcast_id": "pod_mas_de_uno",
+      "podcast_name": "Más de uno",
+      "episode_code": "",
+      "title": "La vida antes de las células y qué podemos conseguir con ellas",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0101",
+      "main_topic_id": "topic_origen_vida",
+      "topic_ids": [
+        "topic_origen_vida",
+        "topic_contexto_geologico",
+        "topic_historia_tierra"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_tierra"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2026-05-07",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/la-vida-antes-de-las-c%C3%A9lulas-y-qu%C3%A9-podemos-conseguir/id983656582?i=1000766608353",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "1000766608353",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Pieza divulgativa reciente de Alberto Aparici que sirve como puente entre ciencia actual y origen de la vida. Es útil para reforzar la idea de que antes de las células completas pudieron existir estructuras químicas intermedias.",
+      "learn": [
+        "Entender que la vida celular pudo tener antecedentes químicos.",
+        "Relacionar divulgación científica actual y preguntas sobre el origen de la vida.",
+        "Comprender de forma sencilla el concepto de vida antes de las células.",
+        "Conectar protocélulas, coacervados y primeras células."
+      ],
+      "listen_before": [
+        "ep_aparici_s05e06_sopa_primordial"
+      ],
+      "listen_after": [
+        "ep_aparici_s08e35_coacervados"
+      ],
+      "related_topics": [
+        "Vida antes de las células",
+        "Coacervados",
+        "Primeras células",
+        "Origen de la vida"
+      ],
+      "keywords": [
+        "vida antes de las células",
+        "origen de la vida",
+        "protocélulas",
+        "alberto aparici",
+        "coacervados"
       ]
     }
   ]

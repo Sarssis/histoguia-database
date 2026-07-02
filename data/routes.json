@@ -22,6 +22,16 @@
       "sub_0113"
     ],
     "topic_ids": [
+      "topic_gran_oxidacion",
+      "topic_arqueano",
+      "topic_primeras_celulas",
+      "topic_coacervados",
+      "topic_mundo_arn",
+      "topic_abiogenesis",
+      "topic_origen_vida",
+      "topic_oceanos_primitivos",
+      "topic_hadeon",
+      "topic_formacion_tierra",
       "topic_evolucion_humana",
       "topic_bipedismo",
       "topic_australopithecus",
@@ -43,6 +53,12 @@
       "topic_edad_hierro"
     ],
     "episode_ids": [
+      "ep_aparici_s05e06_sopa_primordial",
+      "ep_aparici_s08e35_coacervados",
+      "ep_brujula_s01e01_origen_vida",
+      "ep_bio4eso_origen_vida",
+      "ep_ldd18x09_historia_tierra",
+      "ep_mas_de_uno_vida_antes_celulas",
       "ep_cao_77_prehistoria",
       "ep_historia_en_podcast_64_paleolitico",
       "ep_planeta_muy_neandertales",
@@ -59,6 +75,6 @@
       "ep_zh_neolitico_gaditano",
       "ep_khulmani_aborigenes_australianos"
     ],
-    "status": "closed_v1"
+    "status": "sub0101_active"
   }
 ]

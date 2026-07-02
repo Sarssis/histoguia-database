@@ -1,15 +1,9 @@
-# Roadmap
+# Roadmap Prehistoria
 
-## Cerrado
+## Completado
 
-- Prehistoria v3.0
+- sub_0101: Origen de la vida y contexto geológico
 
-## Siguiente bloque editorial
+## Siguiente subperiodo
 
-- Primeras Civilizaciones
-  - Mesopotamia
-  - Egipto
-  - Fenicios
-  - Hebreos
-  - Persia
-  - Tartessos e Íberos
+- sub_0102: Primates y primeros homininos

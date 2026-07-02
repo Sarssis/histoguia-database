@@ -506,5 +506,64 @@
     "related_episodes": [
       "ep_khulmani_aborigenes_australianos"
     ]
+  },
+  {
+    "id": "place_tierra",
+    "name": "Tierra",
+    "type": "planet",
+    "modern_location": "Sistema Solar",
+    "summary": "Planeta donde se desarrolla la historia de la vida y el contexto geológico previo a la humanidad.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_historia_tierra",
+      "topic_formacion_tierra",
+      "topic_origen_vida"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_aparici_s05e06_sopa_primordial",
+      "ep_aparici_s08e35_coacervados",
+      "ep_brujula_s01e01_origen_vida",
+      "ep_bio4eso_origen_vida",
+      "ep_ldd18x09_historia_tierra",
+      "ep_mas_de_uno_vida_antes_celulas"
+    ]
+  },
+  {
+    "id": "place_oceanos_primitivos",
+    "name": "Océanos primitivos",
+    "type": "environment",
+    "modern_location": "Tierra primitiva",
+    "summary": "Ambientes acuáticos tempranos relevantes para las hipótesis sobre el origen de la vida.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_origen_vida",
+      "topic_abiogenesis",
+      "topic_primeras_celulas"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_aparici_s05e06_sopa_primordial",
+      "ep_aparici_s08e35_coacervados",
+      "ep_mas_de_uno_vida_antes_celulas"
+    ]
+  },
+  {
+    "id": "place_rocas_arqueanas",
+    "name": "Rocas arcaicas",
+    "type": "geological_context",
+    "modern_location": "Diversos cratones terrestres",
+    "summary": "Rocas muy antiguas que conservan información sobre la Tierra temprana y las primeras evidencias de vida.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_arqueano",
+      "topic_origen_vida",
+      "topic_historia_tierra"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_brujula_s01e01_origen_vida",
+      "ep_ldd18x09_historia_tierra"
+    ]
   }
 ]

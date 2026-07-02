@@ -97,5 +97,50 @@
     "spotify_show_url": "",
     "ivoox_show_url": "",
     "status": "active"
+  },
+  {
+    "id": "pod_aparici_orbita",
+    "name": "Aparici en Órbita",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/aparici-en-%C3%B3rbita/id1448672712",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-aparici-orbita_sq_f1646895_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_brujula_ciencia",
+    "name": "La Brújula de la Ciencia",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/brujula-de-la-ciencia_bk_list_179236_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_biologia_geologia_eso",
+    "name": "Evolución - Biología y Geología 4º de ESO",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-evolucion-biologia-geologia-4-eso_sq_f11206749_1.html",
+    "status": "active_secondary"
+  },
+  {
+    "id": "pod_linterna_diogenes",
+    "name": "La Linterna de Diógenes",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-linterna-diogenes_sq_f11151_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_mas_de_uno",
+    "name": "Más de uno",
+    "language": "es",
+    "apple_show_url": "https://podcasts.apple.com/es/podcast/m%C3%A1s-de-uno/id983656582",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_secondary"
   }
 ]

@@ -1,31 +1,22 @@
-# Histoguía Database · Prehistoria cerrada v3.0
+# Histoguía Database · sub_0101 v3.1
 
-Base completa para sustituir todo el contenido de `histoguia-database`.
+Actualización completa de `histoguia-database`.
 
-## Estado
+## Subperiodo activado
 
-Prehistoria cerrada v1.
+**1. Origen de la vida y contexto geológico**
 
-## Incluye
+## Añadido
 
-- Episodios: 15
-- Personas / especies / investigadores: 21
-- Lugares y yacimientos: 29
-- Temas y conceptos: 78
-- Civilizaciones / culturas / modelos sociales: 4
-- Relaciones: 337
+- 6 episodios nuevos verificados.
+- Nuevos podcasts: Aparici en Órbita, La Brújula de la Ciencia, Evolución - Biología y Geología 4º ESO, La Linterna de Diógenes, Más de uno.
+- Nuevos temas: origen de la vida, historia de la Tierra, formación de la Tierra, abiogénesis, mundo de ARN, coacervados, primeras células, Hádico, Arcaico, Gran Oxidación.
+- Nuevos lugares/contextos: Tierra, océanos primitivos, rocas arcaicas.
+- Relaciones añadidas para activar el subperiodo en la app.
 
-## Archivos principales
+## Totales
 
-- `data/episodes.json`
-- `data/people.json`
-- `data/places.json`
-- `data/topics.json`
-- `data/relations.json`
-- `data/civilizations.json`
-- `data/routes.json`
-- `data/schema.json`
-
-## Nota editorial
-
-Esta versión no cambia la app. Solo cierra el bloque editorial de Prehistoria dentro de la base de datos.
+- Episodios: 21
+- Temas: 94
+- Lugares: 32
+- Relaciones: 386

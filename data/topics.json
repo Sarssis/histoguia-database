@@ -700,5 +700,149 @@
       "phase_01"
     ],
     "summary": "Desplazamientos, rutas y movilidad de individuos y grupos prehistóricos."
+  },
+  {
+    "id": "topic_origen_vida",
+    "name": "Origen de la vida",
+    "type": "science_history",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Hipótesis y evidencias sobre la aparición de los primeros sistemas vivos en la Tierra."
+  },
+  {
+    "id": "topic_contexto_geologico",
+    "name": "Contexto geológico",
+    "type": "geology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Marco geológico necesario para entender el planeta antes de la aparición de los humanos."
+  },
+  {
+    "id": "topic_historia_tierra",
+    "name": "Historia de la Tierra",
+    "type": "geology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Evolución física, atmosférica, oceánica y biológica del planeta desde su formación."
+  },
+  {
+    "id": "topic_formacion_tierra",
+    "name": "Formación de la Tierra",
+    "type": "geology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Proceso de acreción y diferenciación planetaria que dio origen a la Tierra."
+  },
+  {
+    "id": "topic_hadeon",
+    "name": "Hádico",
+    "type": "geological_eon",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primer eón de la Tierra, asociado a la formación planetaria y a condiciones extremas."
+  },
+  {
+    "id": "topic_arqueano",
+    "name": "Arcaico",
+    "type": "geological_eon",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Eón temprano en el que aparecen las primeras evidencias de vida."
+  },
+  {
+    "id": "topic_proterozoico",
+    "name": "Proterozoico",
+    "type": "geological_eon",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Eón marcado por oxigenación, vida microbiana y cambios planetarios profundos."
+  },
+  {
+    "id": "topic_abiogenesis",
+    "name": "Abiogénesis",
+    "type": "science_concept",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Proceso hipotético por el cual la vida surgiría a partir de materia no viva."
+  },
+  {
+    "id": "topic_mundo_arn",
+    "name": "Mundo de ARN",
+    "type": "science_hypothesis",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Hipótesis sobre una etapa temprana en la que moléculas de ARN tendrían funciones informativas y catalíticas."
+  },
+  {
+    "id": "topic_coacervados",
+    "name": "Coacervados",
+    "type": "science_hypothesis",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Agregados químicos propuestos como modelo de estructuras previas a las células."
+  },
+  {
+    "id": "topic_primeras_celulas",
+    "name": "Primeras células",
+    "type": "biology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Aparición de células simples y organismos microbianos tempranos."
+  },
+  {
+    "id": "topic_gran_oxidacion",
+    "name": "Gran Oxidación",
+    "type": "geological_event",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Cambio atmosférico provocado por la acumulación de oxígeno en la atmósfera terrestre."
+  },
+  {
+    "id": "topic_tierra_bola_nieve",
+    "name": "Tierra bola de nieve",
+    "type": "geological_event",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Hipótesis de glaciaciones globales o casi globales en la historia profunda del planeta."
+  },
+  {
+    "id": "topic_meteoritos",
+    "name": "Meteoritos",
+    "type": "geology_astronomy",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Rocas procedentes del espacio que aportan información sobre el origen del sistema solar."
+  },
+  {
+    "id": "topic_planetesimales",
+    "name": "Planetesimales",
+    "type": "planetary_science",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Cuerpos primitivos que participaron en la formación de planetas rocosos."
+  },
+  {
+    "id": "topic_oceanos_primitivos",
+    "name": "Océanos primitivos",
+    "type": "environment",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Ambientes acuáticos tempranos de la Tierra primitiva."
   }
 ]
