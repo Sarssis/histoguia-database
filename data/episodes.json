@@ -4139,5 +4139,341 @@
       "transición",
       "prehistoria"
     ]
+  },
+  {
+    "id": "ep_calcolitico_sureste_peninsula",
+    "podcast_id": "pod_historia_arqueologia",
+    "podcast_name": "HISTORIA Y ARQUEOLOGIA",
+    "episode_code": "",
+    "title": "El Calcolítico en el sureste de la Península Ibérica",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0111",
+    "main_topic_id": "topic_calcolitico_sureste",
+    "topic_ids": [
+      "topic_calcolitico_sureste",
+      "topic_edad_cobre",
+      "topic_calcolitico",
+      "topic_los_millares",
+      "topic_vaso_campaniforme",
+      "topic_necropolis_megaliticas"
+    ],
+    "people_ids": [
+      "person_louis_siret"
+    ],
+    "place_ids": [
+      "place_sureste_peninsular",
+      "place_los_millares",
+      "place_almeria"
+    ],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "13 min",
+    "duration_minutes": 14,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/calcolitico-sureste-peninsula-audios-mp3_rf_4564440_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "4564440",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio troncal para introducir la Edad del Cobre en el sureste peninsular. Explica cronología, características generales del Calcolítico, Los Millares, estructuras defensivas, economía, creencias, cultura material, vasos campaniformes y sepulturas megalíticas.",
+    "learn": [
+      "Comprender qué es el Calcolítico y por qué se identifica con la Edad del Cobre.",
+      "Situar el sureste peninsular como uno de los focos clave del periodo.",
+      "Relacionar Los Millares con fortificaciones, necrópolis y complejidad social.",
+      "Identificar elementos materiales como el vaso campaniforme y las sepulturas megalíticas."
+    ],
+    "listen_before": [
+      "ep_historia_en_podcast_65_neolitico"
+    ],
+    "listen_after": [
+      "ep_ciudades_olvidadas_los_millares"
+    ],
+    "related_topics": [],
+    "keywords": [
+      "calcolítico",
+      "edad del cobre",
+      "sureste peninsular",
+      "los millares",
+      "vaso campaniforme",
+      "megalitismo",
+      "metalurgia"
+    ]
+  },
+  {
+    "id": "ep_ciudades_olvidadas_los_millares",
+    "podcast_id": "pod_ciudades_olvidadas",
+    "podcast_name": "Ciudades Olvidadas",
+    "episode_code": "1-I",
+    "title": "Los Millares, ciudad calcolítica, 1-I",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0111",
+    "main_topic_id": "topic_los_millares",
+    "topic_ids": [
+      "topic_los_millares",
+      "topic_edad_cobre",
+      "topic_calcolitico",
+      "topic_poblados_fortificados",
+      "topic_necropolis_megaliticas"
+    ],
+    "people_ids": [
+      "person_louis_siret",
+      "person_henri_siret"
+    ],
+    "place_ids": [
+      "place_los_millares",
+      "place_santa_fe_mondujar",
+      "place_almeria"
+    ],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "10 min",
+    "duration_minutes": 11,
+    "published": "2021-05-17",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/millares-ciudad-calcolitica-1-i-audios-mp3_rf_70106994_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "70106994",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio imprescindible para bajar la Edad del Cobre a un caso concreto. Presenta Los Millares como uno de los poblados calcolíticos más importantes de Europa, situado en Almería, con murallas, necrópolis, metalurgia y una organización social más compleja que la de etapas anteriores.",
+    "learn": [
+      "Conocer el yacimiento de Los Millares.",
+      "Relacionar el poblado con la Edad del Cobre peninsular.",
+      "Entender la importancia de sus murallas y su necrópolis.",
+      "Identificar a Louis y Henri Siret dentro de la historia de la arqueología del sureste."
+    ],
+    "listen_before": [
+      "ep_calcolitico_sureste_peninsula"
+    ],
+    "listen_after": [
+      "ep_prpi_los_millares"
+    ],
+    "related_topics": [],
+    "keywords": [
+      "los millares",
+      "edad del cobre",
+      "calcolítico",
+      "almería",
+      "siret",
+      "poblado fortificado",
+      "necrópolis"
+    ]
+  },
+  {
+    "id": "ep_prpi_los_millares",
+    "podcast_id": "pod_prpi_audios_repaso",
+    "podcast_name": "PRPI AUDIOS REPASO",
+    "episode_code": "Tema 6",
+    "title": "TEMA 6. Poblados en Calcolítico, Los Millares",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0111",
+    "main_topic_id": "topic_poblados_fortificados",
+    "topic_ids": [
+      "topic_poblados_fortificados",
+      "topic_los_millares",
+      "topic_calcolitico",
+      "topic_edad_cobre"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_los_millares",
+      "place_sureste_peninsular"
+    ],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "3 min",
+    "duration_minutes": 3,
+    "published": "2022-05-30",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 1,
+    "difficulty": 1,
+    "depth": 1,
+    "editor_rating": 3,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/tema-6-poblados-en-calcolitico-los-millares-audios-mp3_rf_87784044_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "87784044",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Cápsula breve de repaso sobre poblados calcolíticos y Los Millares. No sustituye a los episodios principales, pero sirve como resumen rápido para fijar ideas: asentamientos fortificados, murallas, fosos, viviendas y organización del territorio en la Edad del Cobre.",
+    "learn": [
+      "Repasar las características básicas de los poblados calcolíticos.",
+      "Reconocer Los Millares como ejemplo principal.",
+      "Identificar murallas, fosos y estructuras defensivas.",
+      "Usar la pieza como recordatorio antes de avanzar al Bronce."
+    ],
+    "listen_before": [
+      "ep_ciudades_olvidadas_los_millares"
+    ],
+    "listen_after": [
+      "ep_lhe_edad_cobre_peninsula"
+    ],
+    "related_topics": [],
+    "keywords": [
+      "poblados calcolíticos",
+      "los millares",
+      "edad del cobre",
+      "murallas",
+      "fortificaciones",
+      "calcolítico"
+    ]
+  },
+  {
+    "id": "ep_lhe_edad_cobre_peninsula",
+    "podcast_id": "pod_la_historia_espana",
+    "podcast_name": "La Historia de España",
+    "episode_code": "Episodio 3",
+    "title": "Prehistoria de la península ibérica | Episodio 3",
+    "phase_id": "phase_01",
+    "subperiod_id": "sub_0111",
+    "main_topic_id": "topic_prehistoria_peninsula_iberica",
+    "topic_ids": [
+      "topic_prehistoria_peninsula_iberica",
+      "topic_edad_cobre",
+      "topic_calcolitico",
+      "topic_los_millares",
+      "topic_edad_bronce"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_peninsula_iberica",
+      "place_los_millares",
+      "place_sureste_peninsular"
+    ],
+    "civilization_ids": [],
+    "event_ids": [],
+    "duration": "49 min",
+    "duration_minutes": 49,
+    "published": "2020-12-13",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "verified",
+      "published": "verified",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/prehistoria-peninsula-iberica-episodio-3-audios-mp3_rf_62270067_1.html",
+      "youtube": "",
+      "web": "https://www.lahistoriaespana.com/prehistoria-de-la-peninsula-iberica/"
+    },
+    "platform_ids": {
+      "apple": "1000502432135",
+      "spotify": "",
+      "ivoox": "62270067",
+      "youtube": "",
+      "web": "prehistoria-de-la-peninsula-iberica"
+    },
+    "verification": {
+      "apple": "verified",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "verified"
+    },
+    "summary": "Episodio panorámico reutilizado editorialmente para situar la Edad del Cobre dentro de la secuencia completa de la Prehistoria peninsular. Es útil para conectar Neolítico, Calcolítico, Los Millares, Edad del Bronce y el proceso de complejidad social antes de pasar a El Argar.",
+    "learn": [
+      "Ubicar la Edad del Cobre dentro de la Prehistoria peninsular.",
+      "Relacionar Neolítico, Calcolítico y Edad del Bronce.",
+      "Entender Los Millares dentro del marco general peninsular.",
+      "Preparar el paso hacia la Edad del Bronce y la cultura argárica."
+    ],
+    "listen_before": [
+      "ep_prpi_los_millares"
+    ],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "edad del cobre",
+      "calcolítico",
+      "prehistoria peninsular",
+      "los millares",
+      "edad del bronce",
+      "neolítico"
+    ]
   }
 ]

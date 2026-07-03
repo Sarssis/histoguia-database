@@ -848,5 +848,62 @@
       "ep_pasajes_ultimos_cazadores_recolectores",
       "ep_lhe_mesolitico_prehistoria_peninsula"
     ]
+  },
+  {
+    "id": "place_almeria",
+    "name": "Almería",
+    "type": "region",
+    "modern_location": "Andalucía, España",
+    "summary": "Provincia clave para el estudio del Calcolítico del sureste peninsular y de yacimientos como Los Millares.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_calcolitico_sureste",
+      "topic_los_millares",
+      "topic_edad_cobre"
+    ],
+    "related_people": [
+      "person_louis_siret",
+      "person_henri_siret"
+    ],
+    "related_episodes": [
+      "ep_ciudades_olvidadas_los_millares",
+      "ep_calcolitico_sureste_peninsula"
+    ]
+  },
+  {
+    "id": "place_santa_fe_mondujar",
+    "name": "Santa Fe de Mondújar",
+    "type": "municipality",
+    "modern_location": "Almería, España",
+    "summary": "Municipio próximo al yacimiento de Los Millares, uno de los referentes de la Edad del Cobre peninsular.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_los_millares",
+      "topic_calcolitico_sureste"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_ciudades_olvidadas_los_millares"
+    ]
+  },
+  {
+    "id": "place_sureste_peninsular",
+    "name": "Sureste peninsular",
+    "type": "region",
+    "modern_location": "Almería, Murcia, Granada y áreas próximas",
+    "summary": "Área fundamental para estudiar la Edad del Cobre y las sociedades calcolíticas de la península ibérica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_calcolitico_sureste",
+      "topic_edad_cobre",
+      "topic_metalurgia_cobre"
+    ],
+    "related_people": [
+      "person_louis_siret"
+    ],
+    "related_episodes": [
+      "ep_calcolitico_sureste_peninsula",
+      "ep_ciudades_olvidadas_los_millares"
+    ]
   }
 ]

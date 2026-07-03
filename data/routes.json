@@ -82,7 +82,14 @@
       "topic_microlitos",
       "topic_concheros",
       "topic_necropolis_mesoliticas",
-      "topic_transicion_neolitico"
+      "topic_transicion_neolitico",
+      "topic_calcolitico",
+      "topic_metalurgia_cobre",
+      "topic_calcolitico_sureste",
+      "topic_los_millares",
+      "topic_poblados_fortificados",
+      "topic_necropolis_megaliticas",
+      "topic_vaso_campaniforme"
     ],
     "episode_ids": [
       "ep_aparici_s05e06_sopa_primordial",
@@ -130,11 +137,15 @@
       "ep_lhe_mesolitico_prehistoria_peninsula",
       "ep_hf16_epipaleolitico_mesolitico_neolitizacion",
       "ep_historia_en_podcast_65_neolitico",
+      "ep_calcolitico_sureste_peninsula",
+      "ep_ciudades_olvidadas_los_millares",
+      "ep_prpi_los_millares",
+      "ep_lhe_edad_cobre_peninsula",
       "ep_historia_con_movil_neolitico",
       "ep_khulmani_neolitico_europa",
       "ep_zh_neolitico_gaditano",
       "ep_khulmani_aborigenes_australianos"
     ],
-    "status": "sub0109_active"
+    "status": "sub0111_active"
   }
 ]

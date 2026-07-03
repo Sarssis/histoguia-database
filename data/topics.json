@@ -1411,5 +1411,77 @@
       "phase_01"
     ],
     "summary": "Manifestación artística prehistórica del arco mediterráneo peninsular, vinculada al mundo postpaleolítico."
+  },
+  {
+    "id": "topic_calcolitico_sureste",
+    "name": "Calcolítico del sureste peninsular",
+    "type": "regional_period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Desarrollo calcolítico del sureste ibérico, con poblados fortificados como Los Millares."
+  },
+  {
+    "id": "topic_metalurgia_cobre",
+    "name": "Metalurgia del cobre",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primeras técnicas de extracción, transformación y uso del cobre en sociedades prehistóricas."
+  },
+  {
+    "id": "topic_poblados_fortificados",
+    "name": "Poblados fortificados",
+    "type": "settlement",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Asentamientos con murallas, torres, bastiones o fosos, frecuentes en algunos contextos calcolíticos."
+  },
+  {
+    "id": "topic_necropolis_megaliticas",
+    "name": "Necrópolis megalíticas",
+    "type": "archaeological_feature",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Espacios funerarios monumentales asociados a comunidades del Neolítico final y Calcolítico."
+  },
+  {
+    "id": "topic_vaso_campaniforme",
+    "name": "Vaso campaniforme",
+    "type": "material_culture",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fenómeno arqueológico asociado al final del Calcolítico y al inicio de la Edad del Bronce."
+  },
+  {
+    "id": "topic_complejidad_social_calcolitico",
+    "name": "Complejidad social calcolítica",
+    "type": "social_model",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Aumento de desigualdades, especialización, redes de intercambio y jerarquización en sociedades calcolíticas."
+  },
+  {
+    "id": "topic_megalitismo_calcolitico",
+    "name": "Megalitismo calcolítico",
+    "type": "cultural_expression",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Monumentalidad funeraria y arquitectónica asociada a sociedades del Neolítico final y Calcolítico."
+  },
+  {
+    "id": "topic_siret",
+    "name": "Hermanos Siret",
+    "type": "research_history",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Investigadores vinculados al descubrimiento y estudio temprano de yacimientos prehistóricos del sureste peninsular."
   }
 ]

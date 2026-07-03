@@ -6634,5 +6634,593 @@
     "target_id": "topic_neolitico",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0111",
+    "source_type": "subperiod",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_calcolitico_sureste",
+    "source_type": "topic",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_cobre",
+    "source_type": "topic",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_calcolitico",
+    "source_type": "topic",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_los_millares",
+    "source_type": "topic",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_vaso_campaniforme",
+    "source_type": "topic",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_necropolis_megaliticas",
+    "source_type": "topic",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_en_podcast_65_neolitico",
+    "source_type": "episode",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_calcolitico_sureste_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0111",
+    "source_type": "subperiod",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_los_millares",
+    "source_type": "topic",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_cobre",
+    "source_type": "topic",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_calcolitico",
+    "source_type": "topic",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_poblados_fortificados",
+    "source_type": "topic",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_necropolis_megaliticas",
+    "source_type": "topic",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_henri_siret",
+    "source_type": "person",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_santa_fe_mondujar",
+    "source_type": "place",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_calcolitico_sureste_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_ciudades_olvidadas_los_millares",
+    "source_type": "episode",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0111",
+    "source_type": "subperiod",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_poblados_fortificados",
+    "source_type": "topic",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_los_millares",
+    "source_type": "topic",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_calcolitico",
+    "source_type": "topic",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_edad_cobre",
+    "source_type": "topic",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_ciudades_olvidadas_los_millares",
+    "source_type": "episode",
+    "target_id": "ep_prpi_los_millares",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_prpi_los_millares",
+    "source_type": "episode",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0111",
+    "source_type": "subperiod",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_prehistoria_peninsula_iberica",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_cobre",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_calcolitico",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_los_millares",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_los_millares",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_prpi_los_millares",
+    "source_type": "episode",
+    "target_id": "ep_lhe_edad_cobre_peninsula",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "topic_los_millares",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "topic_calcolitico_sureste",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "topic_siret",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "place_los_millares",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "place_almeria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_louis_siret",
+    "source_type": "person",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_henri_siret",
+    "source_type": "person",
+    "target_id": "topic_siret",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_henri_siret",
+    "source_type": "person",
+    "target_id": "topic_calcolitico_sureste",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_henri_siret",
+    "source_type": "person",
+    "target_id": "topic_los_millares",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_henri_siret",
+    "source_type": "person",
+    "target_id": "place_almeria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_henri_siret",
+    "source_type": "person",
+    "target_id": "place_los_millares",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_henri_siret",
+    "source_type": "person",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "topic_calcolitico_sureste",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "topic_los_millares",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "topic_edad_cobre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "person_louis_siret",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "person_henri_siret",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_almeria",
+    "source_type": "place",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_santa_fe_mondujar",
+    "source_type": "place",
+    "target_id": "topic_los_millares",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_santa_fe_mondujar",
+    "source_type": "place",
+    "target_id": "topic_calcolitico_sureste",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_santa_fe_mondujar",
+    "source_type": "place",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "topic_calcolitico_sureste",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "topic_edad_cobre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "topic_metalurgia_cobre",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "person_louis_siret",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_calcolitico_sureste_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_ciudades_olvidadas_los_millares",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_neolitico",
+    "source_type": "topic",
+    "target_id": "topic_transicion_neolitico",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_transicion_neolitico",
+    "source_type": "topic",
+    "target_id": "topic_edad_cobre",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_edad_cobre",
+    "source_type": "topic",
+    "target_id": "topic_calcolitico",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_calcolitico",
+    "source_type": "topic",
+    "target_id": "topic_metalurgia_cobre",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_metalurgia_cobre",
+    "source_type": "topic",
+    "target_id": "topic_calcolitico_sureste",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_calcolitico_sureste",
+    "source_type": "topic",
+    "target_id": "topic_los_millares",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_los_millares",
+    "source_type": "topic",
+    "target_id": "topic_poblados_fortificados",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_poblados_fortificados",
+    "source_type": "topic",
+    "target_id": "topic_necropolis_megaliticas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_necropolis_megaliticas",
+    "source_type": "topic",
+    "target_id": "topic_vaso_campaniforme",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_vaso_campaniforme",
+    "source_type": "topic",
+    "target_id": "topic_edad_bronce",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

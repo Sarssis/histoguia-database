@@ -915,5 +915,50 @@
     "related_episodes": [
       "ep_pasajes_ultimos_cazadores_recolectores"
     ]
+  },
+  {
+    "id": "person_louis_siret",
+    "name": "Louis Siret",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "1860-1934",
+    "period": "Historia de la arqueología",
+    "summary": "Ingeniero y arqueólogo belga vinculado al estudio de la Prehistoria del sureste peninsular y a yacimientos como Los Millares.",
+    "related_topics": [
+      "topic_los_millares",
+      "topic_calcolitico_sureste",
+      "topic_siret"
+    ],
+    "related_places": [
+      "place_los_millares",
+      "place_almeria"
+    ],
+    "related_episodes": [
+      "ep_ciudades_olvidadas_los_millares",
+      "ep_calcolitico_sureste_peninsula"
+    ]
+  },
+  {
+    "id": "person_henri_siret",
+    "name": "Henri Siret",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "1857-1933",
+    "period": "Historia de la arqueología",
+    "summary": "Ingeniero y arqueólogo belga, hermano de Louis Siret, asociado a investigaciones pioneras sobre la Prehistoria del sureste ibérico.",
+    "related_topics": [
+      "topic_siret",
+      "topic_calcolitico_sureste",
+      "topic_los_millares"
+    ],
+    "related_places": [
+      "place_almeria",
+      "place_los_millares"
+    ],
+    "related_episodes": [
+      "ep_ciudades_olvidadas_los_millares"
+    ]
   }
 ]

@@ -8,7 +8,8 @@
 - sub_0104: Homo habilis y primeras herramientas
 - sub_0105: Homo erectus y expansión fuera de África
 - sub_0109: Mesolítico
+- sub_0111: Edad del Cobre
 
 ## Siguiente subperiodo sugerido
 
-- sub_0110: Neolítico
+- sub_0112: Edad del Bronce

@@ -1,10 +1,10 @@
-# Histoguía Database · sub_0109 v3.9
+# Histoguía Database · sub_0111 v3.11
 
 Actualización completa de `histoguia-database`.
 
-## Subperiodo activado
+## Subperiodio activado
 
-**9. Mesolítico**
+**11. Edad del Cobre**
 
 ## Criterio aplicado
 
@@ -12,15 +12,16 @@ Solo se han incluido episodios con al menos un enlace directo verificado. Los ep
 
 ## Episodios añadidos
 
-- Los últimos cazadores-recolectores de la Prehistoria en la Península Ibérica y en Gipuzkoa
+- El Calcolítico en el sureste de la Península Ibérica
+- Los Millares, ciudad calcolítica, 1-I
+- TEMA 6. Poblados en Calcolítico, Los Millares
 - Prehistoria de la península ibérica | Episodio 3
-- HF.16 - Matriarcados neolíticos
 
 ## Totales
 
-- Episodios totales: 49
-- Episodios del subperiodo 9: 3
-- Personas/especies/investigadores: 44
-- Temas: 157
-- Lugares: 47
-- Relaciones: 948
+- Episodios totales: 53
+- Episodios del subperiodo 11: 4
+- Personas/especies/investigadores: 46
+- Temas: 165
+- Lugares: 50
+- Relaciones: 1032

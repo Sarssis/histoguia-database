@@ -295,5 +295,32 @@
     "spotify_show_url": "",
     "ivoox_show_url": "https://www.ivoox.com/podcast-historia-ficcion_sq_f173463_1.html",
     "status": "active"
+  },
+  {
+    "id": "pod_ciudades_olvidadas",
+    "name": "Ciudades Olvidadas",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-ciudades-olvidadas_sq_f11090368_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_historia_arqueologia",
+    "name": "HISTORIA Y ARQUEOLOGIA",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-historia-arqueologia_sq_f1105539_1.html",
+    "status": "active_legacy"
+  },
+  {
+    "id": "pod_prpi_audios_repaso",
+    "name": "PRPI AUDIOS REPASO",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-prpi-audios-repaso_sq_f11652768_1.html",
+    "status": "active_secondary"
   }
 ]

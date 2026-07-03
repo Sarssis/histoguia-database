@@ -1,8 +1,8 @@
 {
-  "version": "3.9",
-  "description": "Subperiodo 9 activo: Mesolítico.",
+  "version": "3.11",
+  "description": "Subperiodo 11 activo: Edad del Cobre.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 49,
+  "episode_count": 53,
   "platforms": [
     "apple",
     "spotify",
@@ -10,9 +10,9 @@
     "youtube",
     "web"
   ],
-  "people_count": 44,
-  "places_count": 47,
-  "topics_count": 157,
-  "relations_count": 948,
-  "status": "sub0109_active"
+  "people_count": 46,
+  "places_count": 50,
+  "topics_count": 165,
+  "relations_count": 1032,
+  "status": "sub0111_active"
 }
