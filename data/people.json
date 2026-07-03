@@ -746,5 +746,130 @@
     "related_episodes": [
       "ep_lfdlc_australopithecus_neandertal"
     ]
+  },
+  {
+    "id": "person_homo_ergaster",
+    "name": "Homo ergaster",
+    "type": "species",
+    "category": "human_species",
+    "scientific_name": "Homo ergaster",
+    "dates": "c. 1,9-1,4 millones de años",
+    "period": "Pleistoceno temprano",
+    "summary": "Forma africana temprana relacionada con Homo erectus, importante para estudiar cuerpo moderno y primera expansión fuera de África.",
+    "related_topics": [
+      "topic_homo_ergaster",
+      "topic_salida_africa_1",
+      "topic_nino_turkana"
+    ],
+    "related_places": [
+      "place_lago_turkana",
+      "place_nariokotome"
+    ],
+    "related_episodes": [
+      "ep_uned_homo_ergaster_salida_africa"
+    ]
+  },
+  {
+    "id": "person_homo_georgicus",
+    "name": "Homo georgicus",
+    "type": "species_debate",
+    "category": "human_species",
+    "scientific_name": "Homo georgicus",
+    "dates": "c. 1,8 millones de años",
+    "period": "Pleistoceno temprano",
+    "summary": "Denominación propuesta para los homininos de Dmanisi, relevantes para entender la primera expansión fuera de África.",
+    "related_topics": [
+      "topic_dmanisi",
+      "topic_salida_africa_1",
+      "topic_homo_erectus"
+    ],
+    "related_places": [
+      "place_dmanisi"
+    ],
+    "related_episodes": [
+      "ep_agora_dmanisi"
+    ]
+  },
+  {
+    "id": "person_eugene_dubois",
+    "name": "Eugène Dubois",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1858-1940",
+    "period": "Historia de la paleoantropología",
+    "summary": "Médico y paleoantropólogo neerlandés asociado al descubrimiento del Hombre de Java.",
+    "related_topics": [
+      "topic_java_man",
+      "topic_homo_erectus_asia"
+    ],
+    "related_places": [
+      "place_trinil",
+      "place_java"
+    ],
+    "related_episodes": [
+      "ep_un_punto_azul_homo_erectus"
+    ]
+  },
+  {
+    "id": "person_davidson_black",
+    "name": "Davidson Black",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1884-1934",
+    "period": "Historia de la paleoantropología",
+    "summary": "Paleoantropólogo vinculado al estudio inicial del Hombre de Pekín.",
+    "related_topics": [
+      "topic_pekin_man",
+      "topic_zhoukoudian"
+    ],
+    "related_places": [
+      "place_zhoukoudian"
+    ],
+    "related_episodes": [
+      "ep_un_punto_azul_homo_erectus"
+    ]
+  },
+  {
+    "id": "person_franz_weidenreich",
+    "name": "Franz Weidenreich",
+    "type": "researcher",
+    "category": "paleoanthropologist",
+    "scientific_name": "",
+    "dates": "1873-1948",
+    "period": "Historia de la paleoantropología",
+    "summary": "Anatomista y paleoantropólogo destacado en el estudio de los fósiles de Zhoukoudian.",
+    "related_topics": [
+      "topic_pekin_man",
+      "topic_zhoukoudian"
+    ],
+    "related_places": [
+      "place_zhoukoudian"
+    ],
+    "related_episodes": [
+      "ep_un_punto_azul_homo_erectus"
+    ]
+  },
+  {
+    "id": "person_kamoya_kimeu",
+    "name": "Kamoya Kimeu",
+    "type": "researcher",
+    "category": "fossil_finder",
+    "scientific_name": "",
+    "dates": "c. 1938-2022",
+    "period": "Historia de la paleoantropología",
+    "summary": "Buscador de fósiles keniano asociado a importantes hallazgos en África oriental, incluido el Niño de Turkana.",
+    "related_topics": [
+      "topic_nino_turkana",
+      "topic_lago_turkana"
+    ],
+    "related_places": [
+      "place_lago_turkana",
+      "place_nariokotome"
+    ],
+    "related_episodes": [
+      "ep_uned_homo_ergaster_salida_africa"
+    ]
   }
 ]

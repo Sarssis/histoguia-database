@@ -1168,5 +1168,140 @@
       "phase_01"
     ],
     "summary": "Proceso evolutivo que enlaza primeros Homo con Homo ergaster y Homo erectus."
+  },
+  {
+    "id": "topic_homo_ergaster",
+    "name": "Homo ergaster",
+    "type": "species",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Especie africana relacionada con Homo erectus y con la primera gran expansión fuera de África."
+  },
+  {
+    "id": "topic_salida_africa_1",
+    "name": "Primera salida de África",
+    "type": "process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primera dispersión de homininos fuera de África, asociada a Homo ergaster/erectus y formas tempranas del género Homo."
+  },
+  {
+    "id": "topic_dmanisi",
+    "name": "Dmanisi",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento georgiano clave para estudiar las primeras poblaciones humanas fuera de África."
+  },
+  {
+    "id": "topic_homo_georgicus",
+    "name": "Homo georgicus",
+    "type": "species_debate",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Nombre propuesto para homininos tempranos de Dmanisi, dentro del debate sobre variabilidad de los primeros Homo."
+  },
+  {
+    "id": "topic_homo_erectus_asia",
+    "name": "Homo erectus en Asia",
+    "type": "regional_process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Expansión y persistencia de Homo erectus en Asia oriental e insular."
+  },
+  {
+    "id": "topic_java_man",
+    "name": "Hombre de Java",
+    "type": "fossil",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fósil de Homo erectus descubierto en Java y asociado a Eugène Dubois."
+  },
+  {
+    "id": "topic_pekin_man",
+    "name": "Hombre de Pekín",
+    "type": "fossil",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Restos de Homo erectus hallados en Zhoukoudian, China."
+  },
+  {
+    "id": "topic_trinil",
+    "name": "Trinil",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento de Java asociado al descubrimiento del Hombre de Java."
+  },
+  {
+    "id": "topic_sangiran",
+    "name": "Sangiran",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento de Java fundamental para Homo erectus asiático."
+  },
+  {
+    "id": "topic_zhoukoudian",
+    "name": "Zhoukoudian",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento chino asociado al Hombre de Pekín."
+  },
+  {
+    "id": "topic_nariokotome",
+    "name": "Nariokotome",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Zona del lago Turkana asociada al Niño de Turkana."
+  },
+  {
+    "id": "topic_nino_turkana",
+    "name": "Niño de Turkana",
+    "type": "fossil",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Esqueleto excepcional atribuido a Homo ergaster/erectus, clave para comprender anatomía corporal temprana."
+  },
+  {
+    "id": "topic_bifaz",
+    "name": "Bifaz",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Herramienta lítica tallada por ambas caras, característica del Achelense."
+  },
+  {
+    "id": "topic_fuego_erectus",
+    "name": "Fuego y Homo erectus",
+    "type": "technology_debate",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Debate sobre el uso y control del fuego en Homo erectus y otros humanos arcaicos."
+  },
+  {
+    "id": "topic_expansion_eurasia",
+    "name": "Expansión por Eurasia",
+    "type": "process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Dispersión de humanos arcaicos por Europa y Asia."
   }
 ]

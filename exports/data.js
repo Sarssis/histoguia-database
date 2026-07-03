@@ -172,7 +172,8 @@ const DATA = {
       "order": 5,
       "name": "Homo erectus y expansión fuera de África",
       "date_range": "c. 1,9 Ma-150 ka",
-      "summary": "Fuego, movilidad y expansión."
+      "summary": "Homo erectus, Homo ergaster, Dmanisi, primera salida de África, expansión por Eurasia, Achelense, Java y Zhoukoudian.",
+      "status": "content_seeded"
     },
     {
       "id": "sub_0106",
@@ -1409,6 +1410,141 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Proceso evolutivo que enlaza primeros Homo con Homo ergaster y Homo erectus."
+    },
+    {
+      "id": "topic_homo_ergaster",
+      "name": "Homo ergaster",
+      "type": "species",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Especie africana relacionada con Homo erectus y con la primera gran expansión fuera de África."
+    },
+    {
+      "id": "topic_salida_africa_1",
+      "name": "Primera salida de África",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primera dispersión de homininos fuera de África, asociada a Homo ergaster/erectus y formas tempranas del género Homo."
+    },
+    {
+      "id": "topic_dmanisi",
+      "name": "Dmanisi",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento georgiano clave para estudiar las primeras poblaciones humanas fuera de África."
+    },
+    {
+      "id": "topic_homo_georgicus",
+      "name": "Homo georgicus",
+      "type": "species_debate",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Nombre propuesto para homininos tempranos de Dmanisi, dentro del debate sobre variabilidad de los primeros Homo."
+    },
+    {
+      "id": "topic_homo_erectus_asia",
+      "name": "Homo erectus en Asia",
+      "type": "regional_process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Expansión y persistencia de Homo erectus en Asia oriental e insular."
+    },
+    {
+      "id": "topic_java_man",
+      "name": "Hombre de Java",
+      "type": "fossil",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fósil de Homo erectus descubierto en Java y asociado a Eugène Dubois."
+    },
+    {
+      "id": "topic_pekin_man",
+      "name": "Hombre de Pekín",
+      "type": "fossil",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Restos de Homo erectus hallados en Zhoukoudian, China."
+    },
+    {
+      "id": "topic_trinil",
+      "name": "Trinil",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento de Java asociado al descubrimiento del Hombre de Java."
+    },
+    {
+      "id": "topic_sangiran",
+      "name": "Sangiran",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento de Java fundamental para Homo erectus asiático."
+    },
+    {
+      "id": "topic_zhoukoudian",
+      "name": "Zhoukoudian",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento chino asociado al Hombre de Pekín."
+    },
+    {
+      "id": "topic_nariokotome",
+      "name": "Nariokotome",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Zona del lago Turkana asociada al Niño de Turkana."
+    },
+    {
+      "id": "topic_nino_turkana",
+      "name": "Niño de Turkana",
+      "type": "fossil",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Esqueleto excepcional atribuido a Homo ergaster/erectus, clave para comprender anatomía corporal temprana."
+    },
+    {
+      "id": "topic_bifaz",
+      "name": "Bifaz",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Herramienta lítica tallada por ambas caras, característica del Achelense."
+    },
+    {
+      "id": "topic_fuego_erectus",
+      "name": "Fuego y Homo erectus",
+      "type": "technology_debate",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Debate sobre el uso y control del fuego en Homo erectus y otros humanos arcaicos."
+    },
+    {
+      "id": "topic_expansion_eurasia",
+      "name": "Expansión por Eurasia",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Dispersión de humanos arcaicos por Europa y Asia."
     }
   ],
   "episodes": [
@@ -4703,6 +4839,589 @@ const DATA = {
         "arsuaga",
         "evolución humana",
         "master class"
+      ]
+    },
+    {
+      "id": "ep_brujula_s10e35_homo_erectus_cerebro",
+      "podcast_id": "pod_brujula_ciencia",
+      "podcast_name": "La Brújula de la Ciencia",
+      "episode_code": "s10e35",
+      "title": "La Brújula de la Ciencia s10e35: Homo erectus fue el primero en tener un cerebro como el nuestro",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0105",
+      "main_topic_id": "topic_homo_erectus",
+      "topic_ids": [
+        "topic_homo_erectus",
+        "topic_homo_erectus",
+        "topic_salida_africa_1",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_erectus"
+      ],
+      "place_ids": [],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021-04-16",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/brujula-ciencia-s10e35-homo-erectus-audios-mp3_rf_68785902_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "68785902",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio imprescindible para introducir a Homo erectus desde una perspectiva anatómica y cerebral. Explica por qué esta especie representa un salto relevante en la evolución humana y cómo el estudio de cráneos fósiles permite inferir cambios en el cerebro.",
+      "learn": [
+        "Comprender por qué Homo erectus es una especie clave en la evolución humana.",
+        "Relacionar cerebro, cráneo y comportamiento.",
+        "Situar a Homo erectus dentro de la transición desde los primeros Homo.",
+        "Preparar la expansión fuera de África desde una base biológica."
+      ],
+      "listen_before": [
+        "ep_lfdlc_australopithecus_neandertal"
+      ],
+      "listen_after": [
+        "ep_uned_homo_ergaster_salida_africa"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "homo erectus",
+        "cerebro",
+        "evolución humana",
+        "cráneos",
+        "paleoneurología"
+      ]
+    },
+    {
+      "id": "ep_uned_homo_ergaster_salida_africa",
+      "podcast_id": "pod_uned",
+      "podcast_name": "UNED",
+      "episode_code": "",
+      "title": "UNED - El homo ergaster y la primera salida de África",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0105",
+      "main_topic_id": "topic_homo_ergaster",
+      "topic_ids": [
+        "topic_homo_ergaster",
+        "topic_homo_erectus",
+        "topic_salida_africa_1",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_ergaster",
+        "person_nino_turkana"
+      ],
+      "place_ids": [
+        "place_lago_turkana",
+        "place_nariokotome"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2013",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/uned-el-homo-ergaster-primera-audios-mp3_rf_2454158_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "2454158",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal para entender la primera salida de África. Presenta a Homo ergaster como forma africana relacionada con Homo erectus y analiza las causas y consecuencias de la expansión hacia Asia y Europa.",
+      "learn": [
+        "Comprender el papel de Homo ergaster en la primera salida de África.",
+        "Relacionar Homo ergaster, Homo erectus y Homo antecessor.",
+        "Entender por qué algunos homininos abandonaron África.",
+        "Conectar África oriental con Eurasia en la evolución humana."
+      ],
+      "listen_before": [
+        "ep_brujula_s10e35_homo_erectus_cerebro"
+      ],
+      "listen_after": [
+        "ep_agora_dmanisi"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "homo ergaster",
+        "salida de áfrica",
+        "homo erectus",
+        "homo antecessor",
+        "áfrica oriental"
+      ]
+    },
+    {
+      "id": "ep_agora_dmanisi",
+      "podcast_id": "pod_agora_historia",
+      "podcast_name": "Ágora Historia",
+      "episode_code": "01x13",
+      "title": "Ágora Historia 01x13 - Excavaciones de Dmanisi",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0105",
+      "main_topic_id": "topic_dmanisi",
+      "topic_ids": [
+        "topic_dmanisi",
+        "topic_homo_erectus",
+        "topic_salida_africa_1",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_georgicus",
+        "person_jordi_agusti"
+      ],
+      "place_ids": [
+        "place_dmanisi",
+        "place_georgia"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2013-10-26",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/agora-historia-01x13-excavaciones-dmanisi-el-ano-audios-mp3_rf_2500765_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "2500765",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio fundamental para introducir Dmanisi, uno de los yacimientos que más ha cambiado la visión de la primera expansión fuera de África. Aporta el contexto científico de Georgia y sus fósiles humanos tempranos.",
+      "learn": [
+        "Conocer la importancia del yacimiento de Dmanisi.",
+        "Relacionar Dmanisi con la primera salida de África.",
+        "Comprender el debate sobre Homo georgicus y primeros Homo.",
+        "Situar el Cáucaso dentro de la expansión humana temprana."
+      ],
+      "listen_before": [
+        "ep_uned_homo_ergaster_salida_africa"
+      ],
+      "listen_after": [
+        "ep_bajo_arenas_post_erectus"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "dmanisi",
+        "georgia",
+        "homo georgicus",
+        "salida de áfrica",
+        "primeros homo"
+      ]
+    },
+    {
+      "id": "ep_bajo_arenas_post_erectus",
+      "podcast_id": "pod_bajo_las_arenas",
+      "podcast_name": "Bajo Las Arenas del Tiempo",
+      "episode_code": "7",
+      "title": "Episodio 7º Post Erectus",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0105",
+      "main_topic_id": "topic_homo_erectus",
+      "topic_ids": [
+        "topic_homo_erectus",
+        "topic_achelense",
+        "topic_bifaz",
+        "topic_expansion_eurasia",
+        "topic_homo_antecessor"
+      ],
+      "people_ids": [
+        "person_homo_erectus",
+        "person_homo_antecessor",
+        "person_homo_heidelbergensis"
+      ],
+      "place_ids": [
+        "place_europa",
+        "place_peninsula_iberica"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2026",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/episodio-7-post-erectus-audios-mp3_rf_163485096_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "163485096",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de cierre y ampliación sobre el avance de Homo erectus en Eurasia, sus linajes y la cultura material achelense. Es especialmente útil para conectar Homo erectus con el Achelense, la península ibérica y especies posteriores.",
+      "learn": [
+        "Comprender la expansión de Homo erectus por Eurasia.",
+        "Relacionar Homo erectus con el Achelense y los bifaces.",
+        "Identificar la continuidad hacia Homo antecessor y Homo heidelbergensis.",
+        "Preparar el siguiente bloque sobre humanos arcaicos posteriores."
+      ],
+      "listen_before": [
+        "ep_agora_dmanisi"
+      ],
+      "listen_after": [
+        "ep_historia_en_podcast_64_paleolitico"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "homo erectus",
+        "achelense",
+        "bifaces",
+        "eurasia",
+        "homo antecessor",
+        "heidelbergensis"
+      ]
+    },
+    {
+      "id": "ep_un_punto_azul_homo_erectus",
+      "podcast_id": "pod_un_punto_azul_palido",
+      "podcast_name": "Un punto azul pálido",
+      "episode_code": "114",
+      "title": "Homo erectus",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0105",
+      "main_topic_id": "topic_homo_erectus_asia",
+      "topic_ids": [
+        "topic_homo_erectus_asia",
+        "topic_java_man",
+        "topic_pekin_man",
+        "topic_trinil",
+        "topic_zhoukoudian"
+      ],
+      "people_ids": [
+        "person_homo_erectus",
+        "person_eugene_dubois",
+        "person_davidson_black",
+        "person_franz_weidenreich"
+      ],
+      "place_ids": [
+        "place_java",
+        "place_trinil",
+        "place_sangiran",
+        "place_zhoukoudian"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/homo-erectus-audios-mp3_rf_12501527_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "12501527",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio monográfico sobre Homo erectus, útil para reforzar su distribución, diversidad, cultura material y papel en la evolución humana. Sirve como complemento general tras la explicación de la salida de África.",
+      "learn": [
+        "Conocer la distribución geográfica de Homo erectus.",
+        "Relacionar Java, China y Eurasia con Homo erectus.",
+        "Comprender su diversidad y larga duración temporal.",
+        "Reforzar la transición hacia formas humanas posteriores."
+      ],
+      "listen_before": [
+        "ep_uned_homo_ergaster_salida_africa"
+      ],
+      "listen_after": [
+        "ep_bajo_arenas_post_erectus"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "homo erectus",
+        "hombre de java",
+        "hombre de pekín",
+        "java",
+        "zhoukoudian",
+        "asia"
+      ]
+    },
+    {
+      "id": "ep_solo_documental_homo_erectus",
+      "podcast_id": "pod_solo_documental",
+      "podcast_name": "Solo Documental",
+      "episode_code": "",
+      "title": "El planeta de los simios, la batalla por la tierra: Homo erectus",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0105",
+      "main_topic_id": "topic_homo_erectus_asia",
+      "topic_ids": [
+        "topic_homo_erectus_asia",
+        "topic_homo_erectus",
+        "topic_salida_africa_1",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_erectus"
+      ],
+      "place_ids": [
+        "place_java",
+        "place_zhoukoudian"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "43 min",
+      "duration_minutes": 43,
+      "published": "2022-04-11",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/planeta-simios-batalla-por-audios-mp3_rf_79257152_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "79257152",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Documento sonoro de apoyo centrado en Homo erectus y su presencia en Asia. No es la pieza más académica del bloque, pero puede funcionar como complemento divulgativo para usuarios que quieran una experiencia más documental.",
+      "learn": [
+        "Reconocer a Homo erectus como una especie humana de larga duración.",
+        "Comprender de forma divulgativa su presencia en Asia.",
+        "Relacionar Homo erectus con escenarios de coexistencia humana.",
+        "Diferenciar contenido documental de episodios más académicos."
+      ],
+      "listen_before": [
+        "ep_un_punto_azul_homo_erectus"
+      ],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "homo erectus",
+        "documental",
+        "asia",
+        "homo sapiens",
+        "coexistencia"
+      ]
+    },
+    {
+      "id": "ep_docuhistoria_secretos_humanidad",
+      "podcast_id": "pod_docuhistoria",
+      "podcast_name": "Docuhistoria",
+      "episode_code": "",
+      "title": "Los últimos secretos de la humanidad",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0105",
+      "main_topic_id": "topic_expansion_eurasia",
+      "topic_ids": [
+        "topic_expansion_eurasia",
+        "topic_homo_erectus",
+        "topic_salida_africa_1",
+        "topic_evolucion_humana"
+      ],
+      "people_ids": [
+        "person_homo_erectus",
+        "person_homo_sapiens"
+      ],
+      "place_ids": [
+        "place_europa"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2025",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ultimos-secretos-humanidad-audios-mp3_rf_138324687_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "138324687",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio documental de refuerzo que recorre de Homo erectus a Homo sapiens. Es útil como pieza panorámica para cerrar el bloque, aunque queda clasificado como apoyo y no como episodio troncal.",
+      "learn": [
+        "Obtener una visión documental desde Homo erectus hasta Homo sapiens.",
+        "Relacionar fuego, arte y evolución humana a largo plazo.",
+        "Conectar Homo erectus con especies posteriores.",
+        "Usar el episodio como repaso panorámico."
+      ],
+      "listen_before": [
+        "ep_bajo_arenas_post_erectus"
+      ],
+      "listen_after": [
+        "ep_historia_en_podcast_64_paleolitico"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "homo erectus",
+        "homo sapiens",
+        "humanidad",
+        "fuego",
+        "arte",
+        "evolución humana"
       ]
     }
   ]

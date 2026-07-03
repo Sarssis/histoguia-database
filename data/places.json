@@ -679,5 +679,116 @@
     "related_episodes": [
       "ep_lfdlc_australopithecus_neandertal"
     ]
+  },
+  {
+    "id": "place_nariokotome",
+    "name": "Nariokotome",
+    "type": "site",
+    "modern_location": "Kenia",
+    "summary": "Área del lago Turkana asociada al hallazgo del Niño de Turkana.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_nariokotome",
+      "topic_nino_turkana",
+      "topic_homo_ergaster"
+    ],
+    "related_people": [
+      "person_nino_turkana",
+      "person_kamoya_kimeu"
+    ],
+    "related_episodes": [
+      "ep_uned_homo_ergaster_salida_africa"
+    ]
+  },
+  {
+    "id": "place_java",
+    "name": "Java",
+    "type": "region",
+    "modern_location": "Indonesia",
+    "summary": "Isla indonesia clave para el estudio de Homo erectus asiático y el Hombre de Java.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_homo_erectus_asia",
+      "topic_java_man"
+    ],
+    "related_people": [
+      "person_eugene_dubois"
+    ],
+    "related_episodes": [
+      "ep_un_punto_azul_homo_erectus"
+    ]
+  },
+  {
+    "id": "place_trinil",
+    "name": "Trinil",
+    "type": "site",
+    "modern_location": "Java, Indonesia",
+    "summary": "Yacimiento asociado al descubrimiento clásico del Hombre de Java.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_trinil",
+      "topic_java_man",
+      "topic_homo_erectus_asia"
+    ],
+    "related_people": [
+      "person_eugene_dubois"
+    ],
+    "related_episodes": [
+      "ep_un_punto_azul_homo_erectus"
+    ]
+  },
+  {
+    "id": "place_sangiran",
+    "name": "Sangiran",
+    "type": "site",
+    "modern_location": "Java, Indonesia",
+    "summary": "Complejo paleoantropológico de Java fundamental para el estudio de Homo erectus asiático.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_sangiran",
+      "topic_homo_erectus_asia"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_un_punto_azul_homo_erectus"
+    ]
+  },
+  {
+    "id": "place_zhoukoudian",
+    "name": "Zhoukoudian",
+    "type": "site",
+    "modern_location": "China",
+    "summary": "Yacimiento asociado al Hombre de Pekín y al estudio de Homo erectus en Asia oriental.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_zhoukoudian",
+      "topic_pekin_man",
+      "topic_homo_erectus_asia"
+    ],
+    "related_people": [
+      "person_davidson_black",
+      "person_franz_weidenreich"
+    ],
+    "related_episodes": [
+      "ep_un_punto_azul_homo_erectus"
+    ]
+  },
+  {
+    "id": "place_georgia",
+    "name": "Georgia",
+    "type": "region",
+    "modern_location": "Cáucaso",
+    "summary": "Región donde se ubica Dmanisi, clave para la primera expansión humana fuera de África.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_dmanisi",
+      "topic_salida_africa_1"
+    ],
+    "related_people": [
+      "person_homo_georgicus"
+    ],
+    "related_episodes": [
+      "ep_agora_dmanisi"
+    ]
   }
 ]

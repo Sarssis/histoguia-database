@@ -5073,5 +5073,1083 @@
     "target_id": "topic_homo_erectus",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0105",
+    "source_type": "subperiod",
+    "target_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_salida_africa_1",
+    "source_type": "topic",
+    "target_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_lfdlc_australopithecus_neandertal",
+    "source_type": "episode",
+    "target_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "source_type": "episode",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0105",
+    "source_type": "subperiod",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_ergaster",
+    "source_type": "topic",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_salida_africa_1",
+    "source_type": "topic",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_ergaster",
+    "source_type": "person",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_nino_turkana",
+    "source_type": "person",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_lago_turkana",
+    "source_type": "place",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_nariokotome",
+    "source_type": "place",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_brujula_s10e35_homo_erectus_cerebro",
+    "source_type": "episode",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_uned_homo_ergaster_salida_africa",
+    "source_type": "episode",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0105",
+    "source_type": "subperiod",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_dmanisi",
+    "source_type": "topic",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_salida_africa_1",
+    "source_type": "topic",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_georgicus",
+    "source_type": "person",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jordi_agusti",
+    "source_type": "person",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_dmanisi",
+    "source_type": "place",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_georgia",
+    "source_type": "place",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_uned_homo_ergaster_salida_africa",
+    "source_type": "episode",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_agora_dmanisi",
+    "source_type": "episode",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0105",
+    "source_type": "subperiod",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_achelense",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_bifaz",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_expansion_eurasia",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_homo_antecessor",
+    "source_type": "topic",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_homo_antecessor",
+    "source_type": "person",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_homo_heidelbergensis",
+    "source_type": "person",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_agora_dmanisi",
+    "source_type": "episode",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_bajo_arenas_post_erectus",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0105",
+    "source_type": "subperiod",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus_asia",
+    "source_type": "topic",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_java_man",
+    "source_type": "topic",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_pekin_man",
+    "source_type": "topic",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_trinil",
+    "source_type": "topic",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_zhoukoudian",
+    "source_type": "topic",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_eugene_dubois",
+    "source_type": "person",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_davidson_black",
+    "source_type": "person",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_franz_weidenreich",
+    "source_type": "person",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_java",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_trinil",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sangiran",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_uned_homo_ergaster_salida_africa",
+    "source_type": "episode",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_un_punto_azul_homo_erectus",
+    "source_type": "episode",
+    "target_id": "ep_bajo_arenas_post_erectus",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0105",
+    "source_type": "subperiod",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus_asia",
+    "source_type": "topic",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_salida_africa_1",
+    "source_type": "topic",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_java",
+    "source_type": "place",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_un_punto_azul_homo_erectus",
+    "source_type": "episode",
+    "target_id": "ep_solo_documental_homo_erectus",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "sub_0105",
+    "source_type": "subperiod",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_expansion_eurasia",
+    "source_type": "topic",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_salida_africa_1",
+    "source_type": "topic",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_evolucion_humana",
+    "source_type": "topic",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_erectus",
+    "source_type": "person",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_homo_sapiens",
+    "source_type": "person",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_europa",
+    "source_type": "place",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_bajo_arenas_post_erectus",
+    "source_type": "episode",
+    "target_id": "ep_docuhistoria_secretos_humanidad",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_docuhistoria_secretos_humanidad",
+    "source_type": "episode",
+    "target_id": "ep_historia_en_podcast_64_paleolitico",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "person_oh7",
+    "source_type": "person",
+    "target_id": "topic_homo_habilis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_oh7",
+    "source_type": "person",
+    "target_id": "topic_oh7",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_oh7",
+    "source_type": "person",
+    "target_id": "topic_olduvai",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_oh7",
+    "source_type": "person",
+    "target_id": "place_olduvai",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_oh7",
+    "source_type": "person",
+    "target_id": "ep_desenterrando_olduvai",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_oh7",
+    "source_type": "person",
+    "target_id": "ep_linterna_mente_habilis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_knm_er_1470",
+    "source_type": "person",
+    "target_id": "topic_homo_rudolfensis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_knm_er_1470",
+    "source_type": "person",
+    "target_id": "topic_knm_er_1470",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_knm_er_1470",
+    "source_type": "person",
+    "target_id": "topic_genero_homo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_knm_er_1470",
+    "source_type": "person",
+    "target_id": "place_koobi_fora",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_knm_er_1470",
+    "source_type": "person",
+    "target_id": "place_lago_turkana",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_knm_er_1470",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_australopithecus_neandertal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_ergaster",
+    "source_type": "person",
+    "target_id": "topic_homo_ergaster",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_ergaster",
+    "source_type": "person",
+    "target_id": "topic_salida_africa_1",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_ergaster",
+    "source_type": "person",
+    "target_id": "topic_nino_turkana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_ergaster",
+    "source_type": "person",
+    "target_id": "place_lago_turkana",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_ergaster",
+    "source_type": "person",
+    "target_id": "place_nariokotome",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_ergaster",
+    "source_type": "person",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homo_georgicus",
+    "source_type": "person",
+    "target_id": "topic_dmanisi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_georgicus",
+    "source_type": "person",
+    "target_id": "topic_salida_africa_1",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_georgicus",
+    "source_type": "person",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_georgicus",
+    "source_type": "person",
+    "target_id": "place_dmanisi",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homo_georgicus",
+    "source_type": "person",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_eugene_dubois",
+    "source_type": "person",
+    "target_id": "topic_java_man",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eugene_dubois",
+    "source_type": "person",
+    "target_id": "topic_homo_erectus_asia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eugene_dubois",
+    "source_type": "person",
+    "target_id": "place_trinil",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eugene_dubois",
+    "source_type": "person",
+    "target_id": "place_java",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eugene_dubois",
+    "source_type": "person",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_davidson_black",
+    "source_type": "person",
+    "target_id": "topic_pekin_man",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_davidson_black",
+    "source_type": "person",
+    "target_id": "topic_zhoukoudian",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_davidson_black",
+    "source_type": "person",
+    "target_id": "place_zhoukoudian",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_davidson_black",
+    "source_type": "person",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_franz_weidenreich",
+    "source_type": "person",
+    "target_id": "topic_pekin_man",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_franz_weidenreich",
+    "source_type": "person",
+    "target_id": "topic_zhoukoudian",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_franz_weidenreich",
+    "source_type": "person",
+    "target_id": "place_zhoukoudian",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_franz_weidenreich",
+    "source_type": "person",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_kamoya_kimeu",
+    "source_type": "person",
+    "target_id": "topic_nino_turkana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_kamoya_kimeu",
+    "source_type": "person",
+    "target_id": "topic_lago_turkana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_kamoya_kimeu",
+    "source_type": "person",
+    "target_id": "place_lago_turkana",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_kamoya_kimeu",
+    "source_type": "person",
+    "target_id": "place_nariokotome",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_kamoya_kimeu",
+    "source_type": "person",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_nariokotome",
+    "source_type": "place",
+    "target_id": "topic_nariokotome",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nariokotome",
+    "source_type": "place",
+    "target_id": "topic_nino_turkana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nariokotome",
+    "source_type": "place",
+    "target_id": "topic_homo_ergaster",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nariokotome",
+    "source_type": "place",
+    "target_id": "person_nino_turkana",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nariokotome",
+    "source_type": "place",
+    "target_id": "person_kamoya_kimeu",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nariokotome",
+    "source_type": "place",
+    "target_id": "ep_uned_homo_ergaster_salida_africa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_java",
+    "source_type": "place",
+    "target_id": "topic_homo_erectus_asia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_java",
+    "source_type": "place",
+    "target_id": "topic_java_man",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_java",
+    "source_type": "place",
+    "target_id": "person_eugene_dubois",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_java",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_trinil",
+    "source_type": "place",
+    "target_id": "topic_trinil",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_trinil",
+    "source_type": "place",
+    "target_id": "topic_java_man",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_trinil",
+    "source_type": "place",
+    "target_id": "topic_homo_erectus_asia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_trinil",
+    "source_type": "place",
+    "target_id": "person_eugene_dubois",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_trinil",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sangiran",
+    "source_type": "place",
+    "target_id": "topic_sangiran",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sangiran",
+    "source_type": "place",
+    "target_id": "topic_homo_erectus_asia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sangiran",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "topic_zhoukoudian",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "topic_pekin_man",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "topic_homo_erectus_asia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "person_davidson_black",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "person_franz_weidenreich",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_zhoukoudian",
+    "source_type": "place",
+    "target_id": "ep_un_punto_azul_homo_erectus",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_georgia",
+    "source_type": "place",
+    "target_id": "topic_dmanisi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_georgia",
+    "source_type": "place",
+    "target_id": "topic_salida_africa_1",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_georgia",
+    "source_type": "place",
+    "target_id": "person_homo_georgicus",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_georgia",
+    "source_type": "place",
+    "target_id": "ep_agora_dmanisi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_homo_habilis",
+    "source_type": "topic",
+    "target_id": "topic_homo_ergaster",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_ergaster",
+    "source_type": "topic",
+    "target_id": "topic_homo_erectus",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_erectus",
+    "source_type": "topic",
+    "target_id": "topic_salida_africa_1",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_salida_africa_1",
+    "source_type": "topic",
+    "target_id": "topic_dmanisi",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_dmanisi",
+    "source_type": "topic",
+    "target_id": "topic_expansion_eurasia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_expansion_eurasia",
+    "source_type": "topic",
+    "target_id": "topic_homo_erectus_asia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homo_erectus_asia",
+    "source_type": "topic",
+    "target_id": "topic_achelense",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_achelense",
+    "source_type": "topic",
+    "target_id": "topic_homo_antecessor",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

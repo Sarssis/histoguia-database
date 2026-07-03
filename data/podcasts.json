@@ -232,5 +232,50 @@
     "spotify_show_url": "",
     "ivoox_show_url": "https://www.ivoox.com/podcast-fallo-sistema_sq_f1100354_1.html",
     "status": "active"
+  },
+  {
+    "id": "pod_un_punto_azul_palido",
+    "name": "Un punto azul pálido",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_legacy"
+  },
+  {
+    "id": "pod_uned",
+    "name": "UNED",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_legacy"
+  },
+  {
+    "id": "pod_agora_historia",
+    "name": "Ágora Historia",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-agora_sq_f1131183_1.html",
+    "status": "active_legacy"
+  },
+  {
+    "id": "pod_solo_documental",
+    "name": "Solo Documental",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_secondary"
+  },
+  {
+    "id": "pod_docuhistoria",
+    "name": "Docuhistoria",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_secondary"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "version": "3.4",
-  "description": "Subperiodo 4 activo: Homo habilis y primeras herramientas.",
+  "version": "3.5",
+  "description": "Subperiodo 5 activo: Homo erectus y expansión fuera de África.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 39,
+  "episode_count": 46,
   "platforms": [
     "apple",
     "spotify",
@@ -10,9 +10,9 @@
     "youtube",
     "web"
   ],
-  "people_count": 36,
-  "places_count": 38,
-  "topics_count": 130,
-  "relations_count": 725,
-  "status": "sub0104_active"
+  "people_count": 42,
+  "places_count": 44,
+  "topics_count": 145,
+  "relations_count": 879,
+  "status": "sub0105_active"
 }
