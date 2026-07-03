@@ -73,7 +73,16 @@
       "topic_dmanisi",
       "topic_expansion_eurasia",
       "topic_homo_erectus_asia",
-      "topic_achelense"
+      "topic_achelense",
+      "topic_fin_glaciaciones",
+      "topic_holoceno_temprano",
+      "topic_postglacial",
+      "topic_epipaleolitico",
+      "topic_cazadores_recolectores_mesoliticos",
+      "topic_microlitos",
+      "topic_concheros",
+      "topic_necropolis_mesoliticas",
+      "topic_transicion_neolitico"
     ],
     "episode_ids": [
       "ep_aparici_s05e06_sopa_primordial",
@@ -117,12 +126,15 @@
       "ep_otro_podcast_arte_paleolitico",
       "ep_mujeres_historia_prehistoria",
       "ep_lhe_prehistoria_peninsula",
+      "ep_pasajes_ultimos_cazadores_recolectores",
+      "ep_lhe_mesolitico_prehistoria_peninsula",
+      "ep_hf16_epipaleolitico_mesolitico_neolitizacion",
       "ep_historia_en_podcast_65_neolitico",
       "ep_historia_con_movil_neolitico",
       "ep_khulmani_neolitico_europa",
       "ep_zh_neolitico_gaditano",
       "ep_khulmani_aborigenes_australianos"
     ],
-    "status": "sub0105_active"
+    "status": "sub0109_active"
   }
 ]

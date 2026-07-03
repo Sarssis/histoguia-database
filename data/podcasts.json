@@ -277,5 +277,23 @@
     "spotify_show_url": "",
     "ivoox_show_url": "",
     "status": "active_secondary"
+  },
+  {
+    "id": "pod_pasajes_gipuzkoa",
+    "name": "Pasajes desconocidos de la historia de Gipuzkoa",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-pasajes-desconocidos-historia-gipuzkoa_sq_f11142163_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_historia_ficcion",
+    "name": "Historia Ficción",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-historia-ficcion_sq_f173463_1.html",
+    "status": "active"
   }
 ]

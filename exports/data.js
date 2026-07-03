@@ -205,7 +205,8 @@ const DATA = {
       "order": 9,
       "name": "Mesolítico",
       "date_range": "c. 12-8 ka",
-      "summary": "Transición climática y sociedades postglaciales."
+      "summary": "Mesolítico, Epipaleolítico, mundo postglacial, últimos cazadores-recolectores, necrópolis mesolíticas y transición hacia el Neolítico.",
+      "status": "content_seeded"
     },
     {
       "id": "sub_0110",
@@ -1545,6 +1546,114 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Dispersión de humanos arcaicos por Europa y Asia."
+    },
+    {
+      "id": "topic_epipaleolitico",
+      "name": "Epipaleolítico",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fase postpaleolítica de sociedades cazadoras-recolectoras, frecuentemente asociada al Mesolítico en la península ibérica."
+    },
+    {
+      "id": "topic_postglacial",
+      "name": "Mundo postglacial",
+      "type": "environment",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Escenario climático posterior a la última glaciación, con expansión de bosques y cambios en fauna, paisaje y movilidad humana."
+    },
+    {
+      "id": "topic_holoceno_temprano",
+      "name": "Holoceno temprano",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Inicio del Holoceno, momento de fuertes transformaciones ambientales tras el Pleistoceno."
+    },
+    {
+      "id": "topic_microlitos",
+      "name": "Microlitos",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Pequeñas piezas líticas características de tecnologías de caza y herramientas compuestas en el Mesolítico."
+    },
+    {
+      "id": "topic_arco_flecha",
+      "name": "Arco y flecha",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Tecnología de caza asociada a cambios en estrategias cinegéticas postglaciales."
+    },
+    {
+      "id": "topic_cazadores_recolectores_mesoliticos",
+      "name": "Cazadores-recolectores mesolíticos",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Comunidades humanas adaptadas a los ecosistemas postglaciales antes de la generalización de la agricultura."
+    },
+    {
+      "id": "topic_concheros",
+      "name": "Concheros",
+      "type": "archaeological_feature",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Acumulaciones de conchas y restos alimentarios asociadas a comunidades costeras prehistóricas."
+    },
+    {
+      "id": "topic_necropolis_mesoliticas",
+      "name": "Necrópolis mesolíticas",
+      "type": "archaeological_feature",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Espacios funerarios de comunidades cazadoras-recolectoras del Mesolítico."
+    },
+    {
+      "id": "topic_jaizkibel_3",
+      "name": "Jaizkibel 3",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Necrópolis mesolítica del entorno de Jaizkibel, relevante para estudiar sociedades postglaciales en Gipuzkoa."
+    },
+    {
+      "id": "topic_transicion_neolitico",
+      "name": "Transición al Neolítico",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso de cambio desde sociedades cazadoras-recolectoras hacia formas productoras agrícolas y ganaderas."
+    },
+    {
+      "id": "topic_neolitizacion_peninsula",
+      "name": "Neolitización peninsular",
+      "type": "process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Proceso de adopción o expansión de formas de vida neolíticas en la península ibérica."
+    },
+    {
+      "id": "topic_arte_levantino",
+      "name": "Arte levantino",
+      "type": "cultural_expression",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Manifestación artística prehistórica del arco mediterráneo peninsular, vinculada al mundo postpaleolítico."
     }
   ],
   "episodes": [
@@ -5422,6 +5531,271 @@ const DATA = {
         "fuego",
         "arte",
         "evolución humana"
+      ]
+    },
+    {
+      "id": "ep_pasajes_ultimos_cazadores_recolectores",
+      "podcast_id": "pod_pasajes_gipuzkoa",
+      "podcast_name": "Pasajes desconocidos de la historia de Gipuzkoa",
+      "episode_code": "",
+      "title": "Los últimos cazadores-recolectores de la Prehistoria en la Península Ibérica y en Gipuzkoa",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0109",
+      "main_topic_id": "topic_cazadores_recolectores_mesoliticos",
+      "topic_ids": [
+        "topic_cazadores_recolectores_mesoliticos",
+        "topic_mesolitico",
+        "topic_transicion_neolitico",
+        "topic_prehistoria"
+      ],
+      "people_ids": [
+        "person_maria_jose_iriarte",
+        "person_alvaro_arrizabalaga"
+      ],
+      "place_ids": [
+        "place_gipuzkoa",
+        "place_jaizkibel",
+        "place_cantabrico",
+        "place_peninsula_iberica"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "57 min",
+      "duration_minutes": 57,
+      "published": "2021-03-08",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ultimos-cazadores-recolectores-prehistoria-la-audios-mp3_rf_66475135_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "66475135",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal del subperiodo. Explica el Mesolítico como etapa de transición tras el final de la última glaciación, con cambios climáticos, expansión de bosques, transformación de la fauna y adaptación de los últimos cazadores-recolectores peninsulares. Es especialmente valioso por su enfoque en Gipuzkoa y la necrópolis de Jaizkibel 3.",
+      "learn": [
+        "Comprender el impacto del deshielo postglacial sobre el paisaje y la fauna.",
+        "Situar el Mesolítico como transición entre Paleolítico y Neolítico.",
+        "Entender cómo se adaptaron los últimos cazadores-recolectores peninsulares.",
+        "Conocer la importancia de Jaizkibel 3 y las necrópolis mesolíticas."
+      ],
+      "listen_before": [
+        "ep_historia_en_podcast_64_paleolitico"
+      ],
+      "listen_after": [
+        "ep_lhe_mesolitico_prehistoria_peninsula"
+      ],
+      "related_topics": [
+        "Mesolítico",
+        "Epipaleolítico",
+        "Cazadores-recolectores",
+        "Jaizkibel 3",
+        "Holoceno"
+      ],
+      "keywords": [
+        "mesolítico",
+        "epipaleolítico",
+        "cazadores recolectores",
+        "gipuzkoa",
+        "jaizkibel",
+        "holoceno",
+        "postglacial"
+      ]
+    },
+    {
+      "id": "ep_lhe_mesolitico_prehistoria_peninsula",
+      "podcast_id": "pod_la_historia_espana",
+      "podcast_name": "La Historia de España",
+      "episode_code": "Episodio 3",
+      "title": "Prehistoria de la península ibérica | Episodio 3",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0109",
+      "main_topic_id": "topic_prehistoria_peninsula_iberica",
+      "topic_ids": [
+        "topic_prehistoria_peninsula_iberica",
+        "topic_mesolitico",
+        "topic_transicion_neolitico",
+        "topic_prehistoria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_peninsula_iberica",
+        "place_cantabrico"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "49 min",
+      "duration_minutes": 49,
+      "published": "2020-12-13",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": "https://www.lahistoriaespana.com/prehistoria-de-la-peninsula-iberica/"
+      },
+      "platform_ids": {
+        "apple": "1000502432135",
+        "spotify": "",
+        "ivoox": "",
+        "youtube": "",
+        "web": "prehistoria-de-la-peninsula-iberica"
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "not_available",
+        "youtube": "not_available",
+        "web": "verified"
+      },
+      "summary": "Episodio panorámico que permite situar el Mesolítico dentro de la secuencia completa de la Prehistoria peninsular. No es monográfico, pero dedica un tramo claro al Mesolítico y funciona muy bien para conectar Paleolítico, Mesolítico, Neolítico y Edad de los Metales.",
+      "learn": [
+        "Ubicar el Mesolítico dentro de la Prehistoria de la península ibérica.",
+        "Diferenciar la transición mesolítica del Paleolítico y del Neolítico.",
+        "Entender el Mesolítico como una etapa de cambio, no como un simple paréntesis.",
+        "Preparar el paso hacia la neolitización peninsular."
+      ],
+      "listen_before": [
+        "ep_pasajes_ultimos_cazadores_recolectores"
+      ],
+      "listen_after": [
+        "ep_historia_en_podcast_65_neolitico"
+      ],
+      "related_topics": [
+        "Prehistoria peninsular",
+        "Mesolítico",
+        "Neolítico",
+        "Edad del Cobre"
+      ],
+      "keywords": [
+        "mesolítico",
+        "prehistoria peninsular",
+        "península ibérica",
+        "neolítico",
+        "edad del cobre",
+        "paleolítico"
+      ]
+    },
+    {
+      "id": "ep_hf16_epipaleolitico_mesolitico_neolitizacion",
+      "podcast_id": "pod_historia_ficcion",
+      "podcast_name": "Historia Ficción",
+      "episode_code": "HF.16",
+      "title": "HF.16 - Matriarcados neolíticos",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0109",
+      "main_topic_id": "topic_transicion_neolitico",
+      "topic_ids": [
+        "topic_transicion_neolitico",
+        "topic_mesolitico",
+        "topic_transicion_neolitico",
+        "topic_prehistoria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_europa",
+        "place_peninsula_iberica"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "1 h 25 min",
+      "duration_minutes": 85,
+      "published": "2019-07-28",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/hf-16-matriarcados-neoliticos-audios-mp3_rf_39024789_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "39024789",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo para trabajar la transición entre Epipaleolítico, Mesolítico y neolitización. No es una pieza estrictamente académica ni exclusivamente mesolítica, pero su cronograma incluye un tramo útil sobre el paso hacia sociedades productoras y los cambios sociales del inicio del Neolítico.",
+      "learn": [
+        "Relacionar Epipaleolítico, Mesolítico y neolitización.",
+        "Comprender el cambio desde sociedades cazadoras-recolectoras hacia sociedades productoras.",
+        "Identificar algunas hipótesis sociales sobre la transición neolítica.",
+        "Distinguir entre episodio troncal y episodio de ampliación."
+      ],
+      "listen_before": [
+        "ep_lhe_mesolitico_prehistoria_peninsula"
+      ],
+      "listen_after": [
+        "ep_historia_en_podcast_65_neolitico"
+      ],
+      "related_topics": [
+        "Epipaleolítico",
+        "Mesolítico",
+        "Neolitización",
+        "Transición al Neolítico"
+      ],
+      "keywords": [
+        "epipaleolítico",
+        "mesolítico",
+        "neolitización",
+        "neolítico",
+        "transición",
+        "prehistoria"
       ]
     }
   ]

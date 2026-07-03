@@ -1303,5 +1303,113 @@
       "phase_01"
     ],
     "summary": "Dispersión de humanos arcaicos por Europa y Asia."
+  },
+  {
+    "id": "topic_epipaleolitico",
+    "name": "Epipaleolítico",
+    "type": "period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fase postpaleolítica de sociedades cazadoras-recolectoras, frecuentemente asociada al Mesolítico en la península ibérica."
+  },
+  {
+    "id": "topic_postglacial",
+    "name": "Mundo postglacial",
+    "type": "environment",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Escenario climático posterior a la última glaciación, con expansión de bosques y cambios en fauna, paisaje y movilidad humana."
+  },
+  {
+    "id": "topic_holoceno_temprano",
+    "name": "Holoceno temprano",
+    "type": "period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Inicio del Holoceno, momento de fuertes transformaciones ambientales tras el Pleistoceno."
+  },
+  {
+    "id": "topic_microlitos",
+    "name": "Microlitos",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Pequeñas piezas líticas características de tecnologías de caza y herramientas compuestas en el Mesolítico."
+  },
+  {
+    "id": "topic_arco_flecha",
+    "name": "Arco y flecha",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Tecnología de caza asociada a cambios en estrategias cinegéticas postglaciales."
+  },
+  {
+    "id": "topic_cazadores_recolectores_mesoliticos",
+    "name": "Cazadores-recolectores mesolíticos",
+    "type": "social_model",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Comunidades humanas adaptadas a los ecosistemas postglaciales antes de la generalización de la agricultura."
+  },
+  {
+    "id": "topic_concheros",
+    "name": "Concheros",
+    "type": "archaeological_feature",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Acumulaciones de conchas y restos alimentarios asociadas a comunidades costeras prehistóricas."
+  },
+  {
+    "id": "topic_necropolis_mesoliticas",
+    "name": "Necrópolis mesolíticas",
+    "type": "archaeological_feature",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Espacios funerarios de comunidades cazadoras-recolectoras del Mesolítico."
+  },
+  {
+    "id": "topic_jaizkibel_3",
+    "name": "Jaizkibel 3",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Necrópolis mesolítica del entorno de Jaizkibel, relevante para estudiar sociedades postglaciales en Gipuzkoa."
+  },
+  {
+    "id": "topic_transicion_neolitico",
+    "name": "Transición al Neolítico",
+    "type": "process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Proceso de cambio desde sociedades cazadoras-recolectoras hacia formas productoras agrícolas y ganaderas."
+  },
+  {
+    "id": "topic_neolitizacion_peninsula",
+    "name": "Neolitización peninsular",
+    "type": "process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Proceso de adopción o expansión de formas de vida neolíticas en la península ibérica."
+  },
+  {
+    "id": "topic_arte_levantino",
+    "name": "Arte levantino",
+    "type": "cultural_expression",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Manifestación artística prehistórica del arco mediterráneo peninsular, vinculada al mundo postpaleolítico."
   }
 ]

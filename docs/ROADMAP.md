@@ -7,7 +7,8 @@
 - sub_0103: Australopithecus y primeros géneros humanos
 - sub_0104: Homo habilis y primeras herramientas
 - sub_0105: Homo erectus y expansión fuera de África
+- sub_0109: Mesolítico
 
-## Siguiente subperiodo
+## Siguiente subperiodo sugerido
 
-- sub_0106: Neandertales y humanos arcaicos
+- sub_0110: Neolítico

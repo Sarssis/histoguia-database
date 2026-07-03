@@ -790,5 +790,63 @@
     "related_episodes": [
       "ep_agora_dmanisi"
     ]
+  },
+  {
+    "id": "place_gipuzkoa",
+    "name": "Gipuzkoa",
+    "type": "region",
+    "modern_location": "País Vasco, España",
+    "summary": "Región relevante para estudiar cazadores-recolectores postglaciales, cambios climáticos y yacimientos mesolíticos como Jaizkibel 3.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_mesolitico",
+      "topic_epipaleolitico",
+      "topic_jaizkibel_3"
+    ],
+    "related_people": [
+      "person_maria_jose_iriarte",
+      "person_alvaro_arrizabalaga"
+    ],
+    "related_episodes": [
+      "ep_pasajes_ultimos_cazadores_recolectores"
+    ]
+  },
+  {
+    "id": "place_jaizkibel",
+    "name": "Jaizkibel",
+    "type": "site_area",
+    "modern_location": "Gipuzkoa, España",
+    "summary": "Entorno arqueológico asociado a ocupaciones postglaciales y a la necrópolis de Jaizkibel 3.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_jaizkibel_3",
+      "topic_necropolis_mesoliticas",
+      "topic_mesolitico"
+    ],
+    "related_people": [
+      "person_maria_jose_iriarte",
+      "person_alvaro_arrizabalaga"
+    ],
+    "related_episodes": [
+      "ep_pasajes_ultimos_cazadores_recolectores"
+    ]
+  },
+  {
+    "id": "place_cantabrico",
+    "name": "Región cantábrica",
+    "type": "region",
+    "modern_location": "Norte de la península ibérica",
+    "summary": "Área clave para estudiar la adaptación postglacial y la continuidad de sociedades cazadoras-recolectoras en el Mesolítico.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_mesolitico",
+      "topic_concheros",
+      "topic_cazadores_recolectores_mesoliticos"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_pasajes_ultimos_cazadores_recolectores",
+      "ep_lhe_mesolitico_prehistoria_peninsula"
+    ]
   }
 ]

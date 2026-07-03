@@ -871,5 +871,49 @@
     "related_episodes": [
       "ep_uned_homo_ergaster_salida_africa"
     ]
+  },
+  {
+    "id": "person_maria_jose_iriarte",
+    "name": "María José Iriarte",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Investigadora especializada en Prehistoria, paleopalinología y dinámica climática del Pleistoceno superior y Holoceno.",
+    "related_topics": [
+      "topic_mesolitico",
+      "topic_postglacial",
+      "topic_jaizkibel_3"
+    ],
+    "related_places": [
+      "place_jaizkibel",
+      "place_gipuzkoa"
+    ],
+    "related_episodes": [
+      "ep_pasajes_ultimos_cazadores_recolectores"
+    ]
+  },
+  {
+    "id": "person_alvaro_arrizabalaga",
+    "name": "Álvaro Arrizabalaga",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Catedrático de Prehistoria especializado en grupos cazadores-recolectores paleolíticos y postpaleolíticos de la península ibérica.",
+    "related_topics": [
+      "topic_cazadores_recolectores_mesoliticos",
+      "topic_mesolitico",
+      "topic_epipaleolitico"
+    ],
+    "related_places": [
+      "place_gipuzkoa",
+      "place_jaizkibel"
+    ],
+    "related_episodes": [
+      "ep_pasajes_ultimos_cazadores_recolectores"
+    ]
   }
 ]
