@@ -9,6 +9,7 @@
 - sub_0201: Mesopotamia y Sumer
 - sub_0202: Egipto predinástico y Reino Antiguo
 - sub_0203: Imperio Acadio y renacimiento sumerio
+- sub_0204: Babilonia y Hammurabi
 
 ## Siguiente subperiodo sugerido
-- sub_0204: Babilonia y Hammurabi
+- sub_0205: Asiria y los primeros grandes imperios militares

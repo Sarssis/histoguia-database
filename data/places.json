@@ -1471,5 +1471,23 @@
       "ep_v385_imperio_acadio",
       "ep_renacimiento_sumerio_ur_iii"
     ]
+  },
+  {
+    "id": "place_susa",
+    "name": "Susa",
+    "type": "city",
+    "modern_location": "Irán",
+    "summary": "Ciudad donde fue hallada la estela del Código de Hammurabi.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_codigo_hammurabi",
+      "topic_estela_hammurabi"
+    ],
+    "related_people": [
+      "person_hammurabi"
+    ],
+    "related_episodes": [
+      "ep_codigo_hammurabi_documentalia"
+    ]
   }
 ]

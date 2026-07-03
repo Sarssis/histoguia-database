@@ -215,5 +215,26 @@
       "person_ur_nammu",
       "person_shulgi"
     ]
+  },
+  {
+    "id": "civ_old_babylonian",
+    "name": "Babilonia amorrea",
+    "type": "kingdom",
+    "date_range": "c. 1894-1595 a.C.",
+    "region": "Mesopotamia",
+    "summary": "Reino mesopotámico centrado en Babilonia, elevado a potencia hegemónica durante Hammurabi.",
+    "related_topics": [
+      "topic_babilonia_amorrea",
+      "topic_hammurabi",
+      "topic_codigo_hammurabi",
+      "topic_marduk"
+    ],
+    "related_places": [
+      "place_babilonia",
+      "place_mesopotamia"
+    ],
+    "related_people": [
+      "person_hammurabi"
+    ]
   }
 ]

@@ -195,7 +195,12 @@
       "ep_sargon_akkad_primer_emperador",
       "ep_naram_sin_estela",
       "ep_caida_imperio_acadio",
-      "ep_renacimiento_sumerio_ur_iii"
+      "ep_renacimiento_sumerio_ur_iii",
+      "ep_v386_babilonia_hammurabi",
+      "ep_codigo_hammurabi_documentalia",
+      "ep_sociedad_babilonica",
+      "ep_enuma_elish_marduk",
+      "ep_babilonia_ciudad_legendaria"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -223,8 +228,15 @@
       "topic_gutis",
       "topic_renacimiento_sumerio",
       "topic_iii_dinastia_ur",
-      "topic_codigo_ur_nammu"
+      "topic_codigo_ur_nammu",
+      "topic_babilonia_amorrea",
+      "topic_hammurabi",
+      "topic_codigo_hammurabi",
+      "topic_sociedad_babilonica",
+      "topic_marduk",
+      "topic_babilonia_ciudad",
+      "topic_crisis_babilonia_antigua"
     ],
-    "status": "sub0203_active"
+    "status": "sub0204_active"
   }
 ]

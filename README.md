@@ -1,23 +1,23 @@
-# Histoguía Database · phase_02 sub_0203 v4.3
+# Histoguía Database · phase_02 sub_0204 v4.4
 
 ## Subperiodo activado
 
-**3. Imperio Acadio y renacimiento sumerio**
+**4. Babilonia y Hammurabi**
 
 ## Episodios añadidos
 
-- V385 Imperio Acadio
-- Sargón de Akkad, el primer emperador
-- Naram-Sin y la estela de la victoria
-- La caída del Imperio Acadio
-- Renacimiento sumerio y III Dinastía de Ur
+- V386 Babilonia y Hammurabi
+- El Código de Hammurabi
+- La sociedad babilónica en tiempos de Hammurabi
+- Enuma Elish, Marduk y la creación del mundo en Babilonia
+- Babilonia, la ciudad legendaria
 
 ## Totales
 
-- Episodios totales: 79
-- Episodios del subperiodo 0203: 5
-- Civilizaciones: 10
-- Temas: 248
-- Personas: 69
-- Lugares: 81
-- Relaciones: 1664
+- Episodios totales: 84
+- Episodios del subperiodo 0204: 5
+- Civilizaciones: 11
+- Temas: 261
+- Personas: 72
+- Lugares: 82
+- Relaciones: 1751

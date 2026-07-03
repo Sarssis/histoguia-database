@@ -457,5 +457,14 @@
     "spotify_show_url": "",
     "ivoox_show_url": "",
     "status": "active_secondary"
+  },
+  {
+    "id": "pod_cultura_historica",
+    "name": "Cultura Histórica",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_secondary"
   }
 ]

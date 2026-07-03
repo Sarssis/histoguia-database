@@ -269,6 +269,15 @@ const DATA = {
       "date_range": "c. 2334-2004 a.C.",
       "summary": "Sargón de Akkad, el primer imperio mesopotámico, Naram-Sin, crisis acadia, gutis, III dinastía de Ur y renacimiento sumerio.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0204",
+      "phase_id": "phase_02",
+      "order": 4,
+      "name": "Babilonia y Hammurabi",
+      "date_range": "c. 2004-1595 a.C.",
+      "summary": "Babilonia amorrea, Hammurabi, Código de Hammurabi, Marduk, sociedad, administración y religión babilónica.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -2503,6 +2512,123 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Lengua semítica escrita en cuneiforme que se convierte en lengua administrativa y diplomática del Próximo Oriente."
+    },
+    {
+      "id": "topic_babilonia_amorrea",
+      "name": "Babilonia amorrea",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Babilonia amorrea"
+    },
+    {
+      "id": "topic_hammurabi",
+      "name": "Hammurabi",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Hammurabi"
+    },
+    {
+      "id": "topic_codigo_hammurabi",
+      "name": "Código de Hammurabi",
+      "type": "legal_text",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Código de Hammurabi"
+    },
+    {
+      "id": "topic_estela_hammurabi",
+      "name": "Estela de Hammurabi",
+      "type": "object",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Estela de Hammurabi"
+    },
+    {
+      "id": "topic_shamash",
+      "name": "Shamash",
+      "type": "deity",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Shamash"
+    },
+    {
+      "id": "topic_marduk",
+      "name": "Marduk",
+      "type": "deity",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Marduk"
+    },
+    {
+      "id": "topic_sociedad_babilonica",
+      "name": "Sociedad babilónica",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sociedad babilónica"
+    },
+    {
+      "id": "topic_derecho_mesopotamico",
+      "name": "Derecho mesopotámico",
+      "type": "legal_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Derecho mesopotámico"
+    },
+    {
+      "id": "topic_babilonia_ciudad",
+      "name": "Ciudad de Babilonia",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad de Babilonia"
+    },
+    {
+      "id": "topic_primera_dinastia_babilonia",
+      "name": "Primera dinastía de Babilonia",
+      "type": "dynasty",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Primera dinastía de Babilonia"
+    },
+    {
+      "id": "topic_matematica_babilonica",
+      "name": "Matemática babilónica",
+      "type": "science",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Matemática babilónica"
+    },
+    {
+      "id": "topic_astronomia_babilonica",
+      "name": "Astronomía babilónica",
+      "type": "science",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Astronomía babilónica"
+    },
+    {
+      "id": "topic_crisis_babilonia_antigua",
+      "name": "Crisis de la Babilonia antigua",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Crisis de la Babilonia antigua"
     }
   ],
   "episodes": [
@@ -9132,6 +9258,399 @@ const DATA = {
         "shulgi",
         "código de ur-nammu"
       ]
+    },
+    {
+      "id": "ep_v386_babilonia_hammurabi",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "",
+      "title": "V386 Babilonia y Hammurabi",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0204",
+      "main_topic_id": "topic_babilonia_amorrea",
+      "topic_ids": [
+        "topic_babilonia_amorrea",
+        "topic_hammurabi",
+        "topic_primera_dinastia_babilonia",
+        "topic_codigo_hammurabi"
+      ],
+      "people_ids": [
+        "person_hammurabi"
+      ],
+      "place_ids": [
+        "place_babilonia",
+        "place_mesopotamia"
+      ],
+      "civilization_ids": [
+        "civ_old_babylonian",
+        "civ_babilonia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v386-127774-babilonia-hammurabi-audios-mp3_rf_129930586_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "129930586",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal sobre Babilonia amorrea, Hammurabi, expansión política, administración y código legal.",
+      "learn": [
+        "Comprender el ascenso de Babilonia.",
+        "Situar a Hammurabi en la primera dinastía babilónica.",
+        "Relacionar conquista, administración y legislación.",
+        "Preparar el paso hacia Asiria."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "babilonia",
+        "hammurabi",
+        "código de hammurabi"
+      ]
+    },
+    {
+      "id": "ep_codigo_hammurabi_documentalia",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "El Código de Hammurabi",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0204",
+      "main_topic_id": "topic_codigo_hammurabi",
+      "topic_ids": [
+        "topic_codigo_hammurabi",
+        "topic_estela_hammurabi",
+        "topic_shamash",
+        "topic_derecho_mesopotamico",
+        "topic_sociedad_babilonica"
+      ],
+      "people_ids": [
+        "person_hammurabi",
+        "person_shamash"
+      ],
+      "place_ids": [
+        "place_babilonia",
+        "place_susa"
+      ],
+      "civilization_ids": [
+        "civ_old_babylonian",
+        "civ_babilonia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/codigo-hammurabi-audios-mp3_rf_63899620_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "63899620",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio especializado en el Código de Hammurabi, la estela, la justicia mesopotámica y la legitimación divina.",
+      "learn": [
+        "Conocer qué es el Código de Hammurabi.",
+        "Relacionar ley, rey y divinidad.",
+        "Identificar la estela como documento político.",
+        "Comprender la sociedad babilónica a través de sus normas."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "código de hammurabi",
+        "derecho mesopotámico",
+        "estela"
+      ]
+    },
+    {
+      "id": "ep_sociedad_babilonica",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "La sociedad babilónica en tiempos de Hammurabi",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0204",
+      "main_topic_id": "topic_sociedad_babilonica",
+      "topic_ids": [
+        "topic_sociedad_babilonica",
+        "topic_codigo_hammurabi",
+        "topic_derecho_mesopotamico"
+      ],
+      "people_ids": [
+        "person_hammurabi"
+      ],
+      "place_ids": [
+        "place_babilonia"
+      ],
+      "civilization_ids": [
+        "civ_old_babylonian",
+        "civ_babilonia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/sociedad-babilonica-tiempos-hammurabi-audios-mp3_rf_4220816_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4220816",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula sobre sociedad, familia, economía, propiedad, esclavitud y contratos en Babilonia.",
+      "learn": [
+        "Distinguir grupos sociales babilónicos.",
+        "Relacionar economía, familia y derecho.",
+        "Comprender jerarquías sociales.",
+        "Reforzar el Código de Hammurabi."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "sociedad babilónica",
+        "hammurabi",
+        "derecho"
+      ]
+    },
+    {
+      "id": "ep_enuma_elish_marduk",
+      "podcast_id": "pod_desaprendiendo_historia",
+      "podcast_name": "Desaprendiendo la Historia",
+      "episode_code": "",
+      "title": "Enuma Elish, Marduk y la creación del mundo en Babilonia",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0204",
+      "main_topic_id": "topic_enuma_elish",
+      "topic_ids": [
+        "topic_enuma_elish",
+        "topic_marduk",
+        "topic_babilonia_ciudad",
+        "topic_mitologia_mesopotamica"
+      ],
+      "people_ids": [
+        "person_marduk"
+      ],
+      "place_ids": [
+        "place_babilonia"
+      ],
+      "civilization_ids": [
+        "civ_old_babylonian",
+        "civ_babilonia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2025",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/enuma-elish-marduk-creacion-del-mundo-audios-mp3_rf_139882191_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "139882191",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Contexto religioso sobre el Enuma Elish, Marduk y la ideología de Babilonia.",
+      "learn": [
+        "Comprender el papel de Marduk.",
+        "Identificar el Enuma Elish.",
+        "Relacionar teología, ciudad y poder.",
+        "Conectar Babilonia con la literatura mesopotámica."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "enuma elish",
+        "marduk",
+        "babilonia"
+      ]
+    },
+    {
+      "id": "ep_babilonia_ciudad_legendaria",
+      "podcast_id": "pod_cultura_historica",
+      "podcast_name": "Cultura Histórica",
+      "episode_code": "",
+      "title": "Babilonia, la ciudad legendaria",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0204",
+      "main_topic_id": "topic_babilonia_ciudad",
+      "topic_ids": [
+        "topic_babilonia_ciudad",
+        "topic_babilonia_amorrea",
+        "topic_marduk"
+      ],
+      "people_ids": [
+        "person_hammurabi",
+        "person_marduk"
+      ],
+      "place_ids": [
+        "place_babilonia"
+      ],
+      "civilization_ids": [
+        "civ_old_babylonian",
+        "civ_babilonia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/babilonia-ciudad-legendaria-audios-mp3_rf_5768999_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "5768999",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Ampliación sobre Babilonia como ciudad histórica y símbolo cultural de larga duración.",
+      "learn": [
+        "Comprender Babilonia como símbolo cultural.",
+        "Distinguir la Babilonia de Hammurabi de fases posteriores.",
+        "Relacionar ciudad, templo y Marduk.",
+        "Preparar el paso hacia Asiria."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "babilonia",
+        "ciudad",
+        "marduk"
+      ]
     }
   ],
   "civilizations": [
@@ -9350,6 +9869,27 @@ const DATA = {
       "related_people": [
         "person_ur_nammu",
         "person_shulgi"
+      ]
+    },
+    {
+      "id": "civ_old_babylonian",
+      "name": "Babilonia amorrea",
+      "type": "kingdom",
+      "date_range": "c. 1894-1595 a.C.",
+      "region": "Mesopotamia",
+      "summary": "Reino mesopotámico centrado en Babilonia, elevado a potencia hegemónica durante Hammurabi.",
+      "related_topics": [
+        "topic_babilonia_amorrea",
+        "topic_hammurabi",
+        "topic_codigo_hammurabi",
+        "topic_marduk"
+      ],
+      "related_places": [
+        "place_babilonia",
+        "place_mesopotamia"
+      ],
+      "related_people": [
+        "person_hammurabi"
       ]
     }
   ]

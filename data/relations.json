@@ -11646,5 +11646,614 @@
     "target_id": "topic_babilonia",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0204",
+    "source_type": "subperiod",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_babilonia_amorrea",
+    "source_type": "topic",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_hammurabi",
+    "source_type": "topic",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_primera_dinastia_babilonia",
+    "source_type": "topic",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_codigo_hammurabi",
+    "source_type": "topic",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0204",
+    "source_type": "subperiod",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_codigo_hammurabi",
+    "source_type": "topic",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_estela_hammurabi",
+    "source_type": "topic",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_shamash",
+    "source_type": "topic",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_derecho_mesopotamico",
+    "source_type": "topic",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_sociedad_babilonica",
+    "source_type": "topic",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_shamash",
+    "source_type": "person",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_susa",
+    "source_type": "place",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0204",
+    "source_type": "subperiod",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sociedad_babilonica",
+    "source_type": "topic",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_codigo_hammurabi",
+    "source_type": "topic",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_derecho_mesopotamico",
+    "source_type": "topic",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_sociedad_babilonica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0204",
+    "source_type": "subperiod",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_enuma_elish",
+    "source_type": "topic",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_marduk",
+    "source_type": "topic",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_babilonia_ciudad",
+    "source_type": "topic",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mitologia_mesopotamica",
+    "source_type": "topic",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_marduk",
+    "source_type": "person",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0204",
+    "source_type": "subperiod",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_babilonia_ciudad",
+    "source_type": "topic",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_babilonia_amorrea",
+    "source_type": "topic",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_marduk",
+    "source_type": "topic",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_marduk",
+    "source_type": "person",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_babilonia_ciudad_legendaria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "topic_babilonia_amorrea",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "topic_hammurabi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "topic_codigo_hammurabi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "topic_marduk",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "place_babilonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_old_babylonian",
+    "source_type": "civilization",
+    "target_id": "person_hammurabi",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "topic_hammurabi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "topic_codigo_hammurabi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "topic_babilonia_amorrea",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "place_babilonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "ep_v386_babilonia_hammurabi",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hammurabi",
+    "source_type": "person",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_marduk",
+    "source_type": "person",
+    "target_id": "topic_marduk",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_marduk",
+    "source_type": "person",
+    "target_id": "topic_enuma_elish",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_marduk",
+    "source_type": "person",
+    "target_id": "place_babilonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_marduk",
+    "source_type": "person",
+    "target_id": "ep_enuma_elish_marduk",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_shamash",
+    "source_type": "person",
+    "target_id": "topic_shamash",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shamash",
+    "source_type": "person",
+    "target_id": "topic_codigo_hammurabi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shamash",
+    "source_type": "person",
+    "target_id": "place_babilonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shamash",
+    "source_type": "person",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_susa",
+    "source_type": "place",
+    "target_id": "topic_codigo_hammurabi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_susa",
+    "source_type": "place",
+    "target_id": "topic_estela_hammurabi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_susa",
+    "source_type": "place",
+    "target_id": "person_hammurabi",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_susa",
+    "source_type": "place",
+    "target_id": "ep_codigo_hammurabi_documentalia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_iii_dinastia_ur",
+    "source_type": "topic",
+    "target_id": "topic_babilonia_amorrea",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_babilonia_amorrea",
+    "source_type": "topic",
+    "target_id": "topic_hammurabi",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_hammurabi",
+    "source_type": "topic",
+    "target_id": "topic_codigo_hammurabi",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_codigo_hammurabi",
+    "source_type": "topic",
+    "target_id": "topic_sociedad_babilonica",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_sociedad_babilonica",
+    "source_type": "topic",
+    "target_id": "topic_marduk",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_marduk",
+    "source_type": "topic",
+    "target_id": "topic_babilonia_ciudad",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_babilonia_ciudad",
+    "source_type": "topic",
+    "target_id": "topic_crisis_babilonia_antigua",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_crisis_babilonia_antigua",
+    "source_type": "topic",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

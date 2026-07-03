@@ -138,5 +138,14 @@
     "date_range": "c. 2334-2004 a.C.",
     "summary": "Sargón de Akkad, el primer imperio mesopotámico, Naram-Sin, crisis acadia, gutis, III dinastía de Ur y renacimiento sumerio.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0204",
+    "phase_id": "phase_02",
+    "order": 4,
+    "name": "Babilonia y Hammurabi",
+    "date_range": "c. 2004-1595 a.C.",
+    "summary": "Babilonia amorrea, Hammurabi, Código de Hammurabi, Marduk, sociedad, administración y religión babilónica.",
+    "status": "content_seeded"
   }
 ]

@@ -1444,5 +1444,68 @@
     "related_episodes": [
       "ep_renacimiento_sumerio_ur_iii"
     ]
+  },
+  {
+    "id": "person_hammurabi",
+    "name": "Hammurabi",
+    "type": "ruler",
+    "category": "mesopotamian_ruler",
+    "scientific_name": "",
+    "dates": "c. 1810-1750 a.C.",
+    "period": "Babilonia amorrea",
+    "summary": "Rey de Babilonia, célebre por su código legal y por convertir Babilonia en potencia regional.",
+    "related_topics": [
+      "topic_hammurabi",
+      "topic_codigo_hammurabi",
+      "topic_babilonia_amorrea"
+    ],
+    "related_places": [
+      "place_babilonia",
+      "place_mesopotamia"
+    ],
+    "related_episodes": [
+      "ep_v386_babilonia_hammurabi",
+      "ep_codigo_hammurabi_documentalia"
+    ]
+  },
+  {
+    "id": "person_marduk",
+    "name": "Marduk",
+    "type": "deity",
+    "category": "mesopotamian_deity",
+    "scientific_name": "",
+    "dates": "Tradición babilónica",
+    "period": "Mesopotamia antigua",
+    "summary": "Dios principal de Babilonia.",
+    "related_topics": [
+      "topic_marduk",
+      "topic_enuma_elish"
+    ],
+    "related_places": [
+      "place_babilonia"
+    ],
+    "related_episodes": [
+      "ep_enuma_elish_marduk"
+    ]
+  },
+  {
+    "id": "person_shamash",
+    "name": "Shamash",
+    "type": "deity",
+    "category": "mesopotamian_deity",
+    "scientific_name": "",
+    "dates": "Tradición mesopotámica",
+    "period": "Mesopotamia antigua",
+    "summary": "Dios solar y de la justicia, representado en la estela de Hammurabi.",
+    "related_topics": [
+      "topic_shamash",
+      "topic_codigo_hammurabi"
+    ],
+    "related_places": [
+      "place_babilonia"
+    ],
+    "related_episodes": [
+      "ep_codigo_hammurabi_documentalia"
+    ]
   }
 ]

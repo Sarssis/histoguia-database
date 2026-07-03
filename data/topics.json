@@ -2230,5 +2230,122 @@
       "phase_02"
     ],
     "summary": "Lengua semítica escrita en cuneiforme que se convierte en lengua administrativa y diplomática del Próximo Oriente."
+  },
+  {
+    "id": "topic_babilonia_amorrea",
+    "name": "Babilonia amorrea",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Babilonia amorrea"
+  },
+  {
+    "id": "topic_hammurabi",
+    "name": "Hammurabi",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Hammurabi"
+  },
+  {
+    "id": "topic_codigo_hammurabi",
+    "name": "Código de Hammurabi",
+    "type": "legal_text",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Código de Hammurabi"
+  },
+  {
+    "id": "topic_estela_hammurabi",
+    "name": "Estela de Hammurabi",
+    "type": "object",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Estela de Hammurabi"
+  },
+  {
+    "id": "topic_shamash",
+    "name": "Shamash",
+    "type": "deity",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Shamash"
+  },
+  {
+    "id": "topic_marduk",
+    "name": "Marduk",
+    "type": "deity",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Marduk"
+  },
+  {
+    "id": "topic_sociedad_babilonica",
+    "name": "Sociedad babilónica",
+    "type": "social_model",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sociedad babilónica"
+  },
+  {
+    "id": "topic_derecho_mesopotamico",
+    "name": "Derecho mesopotámico",
+    "type": "legal_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Derecho mesopotámico"
+  },
+  {
+    "id": "topic_babilonia_ciudad",
+    "name": "Ciudad de Babilonia",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad de Babilonia"
+  },
+  {
+    "id": "topic_primera_dinastia_babilonia",
+    "name": "Primera dinastía de Babilonia",
+    "type": "dynasty",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Primera dinastía de Babilonia"
+  },
+  {
+    "id": "topic_matematica_babilonica",
+    "name": "Matemática babilónica",
+    "type": "science",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Matemática babilónica"
+  },
+  {
+    "id": "topic_astronomia_babilonica",
+    "name": "Astronomía babilónica",
+    "type": "science",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Astronomía babilónica"
+  },
+  {
+    "id": "topic_crisis_babilonia_antigua",
+    "name": "Crisis de la Babilonia antigua",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Crisis de la Babilonia antigua"
   }
 ]

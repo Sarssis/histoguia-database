@@ -1,8 +1,8 @@
 {
-  "version": "4.3",
-  "description": "Periodo 02. Subperiodo 3 activo: Imperio Acadio y renacimiento sumerio.",
+  "version": "4.4",
+  "description": "Periodo 02. Subperiodo 4 activo: Babilonia y Hammurabi.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 79,
+  "episode_count": 84,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 69,
-  "places_count": 81,
-  "topics_count": 248,
-  "relations_count": 1664,
-  "status": "phase02_sub0203_active",
-  "civilizations_count": 10
+  "people_count": 72,
+  "places_count": 82,
+  "topics_count": 261,
+  "relations_count": 1751,
+  "status": "phase02_sub0204_active",
+  "civilizations_count": 11
 }
