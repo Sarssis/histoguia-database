@@ -1,28 +1,28 @@
-# Histoguía Database · sub_0112 v3.12
+# Histoguía Database · sub_0113 v3.13
 
 Actualización completa de `histoguia-database`.
 
 ## Subperiodo activado
 
-**12. Edad del Bronce**
+**13. Edad del Hierro**
 
 ## Criterio aplicado
 
-Solo se han incluido episodios con al menos un enlace directo verificado. Los episodios candidatos no verificables han quedado fuera.
+Solo se han incluido episodios con al menos un enlace directo verificado.
 
 ## Episodios añadidos
 
-- El Argar: una civilización olvidada en la Edad del Bronce
-- La Edad del Bronce en la Península Ibérica
-- TEMA 7. Motillas y Edad del Bronce
 - Prehistoria de la península ibérica | Episodio 3
-- El colapso de la Edad del Bronce
+- Los íberos
+- Los celtíberos
+- Fenicios
+- Los Celtas
 
 ## Totales
 
-- Episodios totales: 58
-- Episodios del subperiodo 12: 5
-- Personas/especies/investigadores: 48
-- Temas: 177
-- Lugares: 54
-- Relaciones: 1110
+- Episodios totales: 63
+- Episodios del subperiodo 13: 5
+- Personas/especies/investigadores: 53
+- Temas: 191
+- Lugares: 64
+- Relaciones: 1241

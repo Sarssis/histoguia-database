@@ -96,7 +96,16 @@
       "topic_bastida",
       "topic_motillas",
       "topic_bronce_final",
-      "topic_colapso_bronce"
+      "topic_colapso_bronce",
+      "topic_metalurgia_hierro",
+      "topic_protohistoria",
+      "topic_hallstatt",
+      "topic_la_tene",
+      "topic_celtas",
+      "topic_fenicios_peninsula",
+      "topic_griegos_peninsula",
+      "topic_iberos",
+      "topic_celtiberos"
     ],
     "episode_ids": [
       "ep_aparici_s05e06_sopa_primordial",
@@ -153,11 +162,16 @@
       "ep_prpi_motillas_bronce",
       "ep_lhe_bronce_peninsula",
       "ep_memorias_pez_colapso_bronce",
+      "ep_lhe_edad_hierro_peninsula",
+      "ep_historia_arqueologia_iberos",
+      "ep_antena_historia_celtiberos",
+      "ep_histocast_fenicios",
+      "ep_memorias_pez_celtas",
       "ep_historia_con_movil_neolitico",
       "ep_khulmani_neolitico_europa",
       "ep_zh_neolitico_gaditano",
       "ep_khulmani_aborigenes_australianos"
     ],
-    "status": "sub0112_active"
+    "status": "sub0113_active"
   }
 ]

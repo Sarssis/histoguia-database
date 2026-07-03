@@ -1004,5 +1004,117 @@
     "related_episodes": [
       "ep_dentro_piramide_el_argar"
     ]
+  },
+  {
+    "id": "person_celtas",
+    "name": "Celtas",
+    "type": "people_group",
+    "category": "iron_age_peoples",
+    "scientific_name": "",
+    "dates": "Edad del Hierro",
+    "period": "Edad del Hierro",
+    "summary": "Conjunto diverso de pueblos de la Europa de la Edad del Hierro, relacionados con las culturas de Hallstatt y La Tène.",
+    "related_topics": [
+      "topic_celtas",
+      "topic_hallstatt",
+      "topic_la_tene"
+    ],
+    "related_places": [
+      "place_europa_central"
+    ],
+    "related_episodes": [
+      "ep_memorias_pez_celtas"
+    ]
+  },
+  {
+    "id": "person_iberos",
+    "name": "Íberos",
+    "type": "people_group",
+    "category": "iron_age_peoples",
+    "scientific_name": "",
+    "dates": "Edad del Hierro",
+    "period": "Edad del Hierro",
+    "summary": "Pueblos prerromanos del este y sur de la península ibérica, con escritura, urbanismo, necrópolis y fuerte contacto mediterráneo.",
+    "related_topics": [
+      "topic_iberos",
+      "topic_dama_elche",
+      "topic_guerrero_moixent"
+    ],
+    "related_places": [
+      "place_levante_iberico",
+      "place_elche",
+      "place_moixent"
+    ],
+    "related_episodes": [
+      "ep_historia_arqueologia_iberos",
+      "ep_lhe_edad_hierro_peninsula"
+    ]
+  },
+  {
+    "id": "person_celtiberos",
+    "name": "Celtíberos",
+    "type": "people_group",
+    "category": "iron_age_peoples",
+    "scientific_name": "",
+    "dates": "Edad del Hierro",
+    "period": "Edad del Hierro / Protohistoria",
+    "summary": "Pueblos prerromanos de la Meseta oriental, conocidos por su cultura material, oppida, armamento y resistencia frente a Roma.",
+    "related_topics": [
+      "topic_celtiberos",
+      "topic_numancia",
+      "topic_oppida"
+    ],
+    "related_places": [
+      "place_meseta_oriental",
+      "place_numancia"
+    ],
+    "related_episodes": [
+      "ep_antena_historia_celtiberos",
+      "ep_lhe_edad_hierro_peninsula"
+    ]
+  },
+  {
+    "id": "person_fenicios",
+    "name": "Fenicios",
+    "type": "people_group",
+    "category": "iron_age_peoples",
+    "scientific_name": "",
+    "dates": "I milenio a.C.",
+    "period": "Edad del Hierro / Protohistoria",
+    "summary": "Pueblo navegante y comerciante del Mediterráneo oriental, decisivo para la formación de enclaves como Gadir y para los cambios del sur peninsular.",
+    "related_topics": [
+      "topic_fenicios_peninsula",
+      "topic_gadir",
+      "topic_tartessos_final"
+    ],
+    "related_places": [
+      "place_gadir",
+      "place_cadiz",
+      "place_mediterraneo_oriental"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios"
+    ]
+  },
+  {
+    "id": "person_griegos_colonizadores",
+    "name": "Griegos colonizadores",
+    "type": "people_group",
+    "category": "iron_age_peoples",
+    "scientific_name": "",
+    "dates": "I milenio a.C.",
+    "period": "Edad del Hierro / Protohistoria",
+    "summary": "Comunidades griegas y focenses que establecieron enclaves y redes comerciales en el Mediterráneo occidental.",
+    "related_topics": [
+      "topic_griegos_peninsula",
+      "topic_empuries"
+    ],
+    "related_places": [
+      "place_empuries",
+      "place_mediterraneo_occidental"
+    ],
+    "related_episodes": [
+      "ep_lhe_edad_hierro_peninsula"
+    ]
   }
 ]

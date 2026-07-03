@@ -10,7 +10,8 @@
 - sub_0109: Mesolítico
 - sub_0111: Edad del Cobre
 - sub_0112: Edad del Bronce
-
-## Siguiente subperiodo sugerido
-
 - sub_0113: Edad del Hierro
+
+## Siguiente paso sugerido
+
+- Revisar subperiodos pendientes de Prehistoria antes de pasar a Primeras Civilizaciones.

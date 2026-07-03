@@ -7768,5 +7768,922 @@
     "target_id": "topic_edad_hierro",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0113",
+    "source_type": "subperiod",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_prehistoria_peninsula_iberica",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_hierro",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_protohistoria",
+    "source_type": "topic",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_griegos_colonizadores",
+    "source_type": "person",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_empuries",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "sub_0113",
+    "source_type": "subperiod",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_iberos",
+    "source_type": "topic",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_hierro",
+    "source_type": "topic",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_protohistoria",
+    "source_type": "topic",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_elche",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_moixent",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "sub_0113",
+    "source_type": "subperiod",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_celtiberos",
+    "source_type": "topic",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_hierro",
+    "source_type": "topic",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_protohistoria",
+    "source_type": "topic",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_numancia",
+    "source_type": "place",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "sub_0113",
+    "source_type": "subperiod",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fenicios_peninsula",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_hierro",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_protohistoria",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cadiz",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mediterraneo_oriental",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "sub_0113",
+    "source_type": "subperiod",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_celtas",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_hierro",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_protohistoria",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_celtas",
+    "source_type": "person",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_europa_central",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_celtas",
+    "source_type": "person",
+    "target_id": "topic_celtas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtas",
+    "source_type": "person",
+    "target_id": "topic_hallstatt",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtas",
+    "source_type": "person",
+    "target_id": "topic_la_tene",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtas",
+    "source_type": "person",
+    "target_id": "place_europa_central",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtas",
+    "source_type": "person",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "topic_dama_elche",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "topic_guerrero_moixent",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "place_levante_iberico",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "place_elche",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "place_moixent",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "topic_celtiberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "topic_numancia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "topic_oppida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "place_meseta_oriental",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "place_numancia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "topic_fenicios_peninsula",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "topic_gadir",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "topic_tartessos_final",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "place_gadir",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "place_cadiz",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "place_mediterraneo_oriental",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_griegos_colonizadores",
+    "source_type": "person",
+    "target_id": "topic_griegos_peninsula",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_griegos_colonizadores",
+    "source_type": "person",
+    "target_id": "topic_empuries",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_griegos_colonizadores",
+    "source_type": "person",
+    "target_id": "place_empuries",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_griegos_colonizadores",
+    "source_type": "person",
+    "target_id": "place_mediterraneo_occidental",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_griegos_colonizadores",
+    "source_type": "person",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_europa_central",
+    "source_type": "place",
+    "target_id": "topic_hallstatt",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa_central",
+    "source_type": "place",
+    "target_id": "topic_la_tene",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa_central",
+    "source_type": "place",
+    "target_id": "topic_celtas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa_central",
+    "source_type": "place",
+    "target_id": "person_celtas",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_europa_central",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_celtas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "topic_dama_elche",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "topic_guerrero_moixent",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "person_iberos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_elche",
+    "source_type": "place",
+    "target_id": "topic_dama_elche",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_elche",
+    "source_type": "place",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_elche",
+    "source_type": "place",
+    "target_id": "person_iberos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_elche",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_moixent",
+    "source_type": "place",
+    "target_id": "topic_guerrero_moixent",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_moixent",
+    "source_type": "place",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_moixent",
+    "source_type": "place",
+    "target_id": "person_iberos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_moixent",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_iberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "topic_celtiberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "topic_numancia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "topic_oppida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "person_celtiberos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_numancia",
+    "source_type": "place",
+    "target_id": "topic_numancia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_numancia",
+    "source_type": "place",
+    "target_id": "topic_celtiberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_numancia",
+    "source_type": "place",
+    "target_id": "person_celtiberos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_numancia",
+    "source_type": "place",
+    "target_id": "ep_antena_historia_celtiberos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "topic_gadir",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "topic_fenicios_peninsula",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "topic_tartessos_final",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_cadiz",
+    "source_type": "place",
+    "target_id": "topic_gadir",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cadiz",
+    "source_type": "place",
+    "target_id": "topic_fenicios_peninsula",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cadiz",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cadiz",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_empuries",
+    "source_type": "place",
+    "target_id": "topic_empuries",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_empuries",
+    "source_type": "place",
+    "target_id": "topic_griegos_peninsula",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_empuries",
+    "source_type": "place",
+    "target_id": "person_griegos_colonizadores",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_empuries",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "topic_fenicios_peninsula",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "topic_griegos_peninsula",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "person_griegos_colonizadores",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mediterraneo_occidental",
+    "source_type": "place",
+    "target_id": "ep_lhe_edad_hierro_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_edad_hierro",
+    "source_type": "topic",
+    "target_id": "topic_metalurgia_hierro",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_metalurgia_hierro",
+    "source_type": "topic",
+    "target_id": "topic_protohistoria",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_protohistoria",
+    "source_type": "topic",
+    "target_id": "topic_hallstatt",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_hallstatt",
+    "source_type": "topic",
+    "target_id": "topic_la_tene",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_la_tene",
+    "source_type": "topic",
+    "target_id": "topic_celtas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_celtas",
+    "source_type": "topic",
+    "target_id": "topic_fenicios_peninsula",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_fenicios_peninsula",
+    "source_type": "topic",
+    "target_id": "topic_griegos_peninsula",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_griegos_peninsula",
+    "source_type": "topic",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_iberos",
+    "source_type": "topic",
+    "target_id": "topic_celtiberos",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

@@ -974,5 +974,193 @@
     "related_episodes": [
       "ep_memorias_pez_colapso_bronce"
     ]
+  },
+  {
+    "id": "place_europa_central",
+    "name": "Europa central",
+    "type": "region",
+    "modern_location": "Europa central",
+    "summary": "Región nuclear para el estudio de Hallstatt y La Tène durante la Edad del Hierro.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_hallstatt",
+      "topic_la_tene",
+      "topic_celtas"
+    ],
+    "related_people": [
+      "person_celtas"
+    ],
+    "related_episodes": [
+      "ep_memorias_pez_celtas"
+    ]
+  },
+  {
+    "id": "place_levante_iberico",
+    "name": "Levante ibérico",
+    "type": "region",
+    "modern_location": "Este de la península ibérica",
+    "summary": "Área clave para estudiar la cultura ibérica, sus asentamientos, necrópolis, escultura y contactos mediterráneos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_iberos",
+      "topic_dama_elche",
+      "topic_guerrero_moixent"
+    ],
+    "related_people": [
+      "person_iberos"
+    ],
+    "related_episodes": [
+      "ep_historia_arqueologia_iberos",
+      "ep_lhe_edad_hierro_peninsula"
+    ]
+  },
+  {
+    "id": "place_elche",
+    "name": "Elche",
+    "type": "site_area",
+    "modern_location": "Alicante, España",
+    "summary": "Lugar asociado a la Dama de Elche, obra emblemática de la cultura ibérica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_dama_elche",
+      "topic_iberos"
+    ],
+    "related_people": [
+      "person_iberos"
+    ],
+    "related_episodes": [
+      "ep_historia_arqueologia_iberos"
+    ]
+  },
+  {
+    "id": "place_moixent",
+    "name": "Moixent",
+    "type": "site_area",
+    "modern_location": "Valencia, España",
+    "summary": "Entorno asociado al Guerrero de Moixent, pieza emblemática de la cultura ibérica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_guerrero_moixent",
+      "topic_iberos"
+    ],
+    "related_people": [
+      "person_iberos"
+    ],
+    "related_episodes": [
+      "ep_historia_arqueologia_iberos"
+    ]
+  },
+  {
+    "id": "place_meseta_oriental",
+    "name": "Meseta oriental",
+    "type": "region",
+    "modern_location": "Interior oriental de la península ibérica",
+    "summary": "Área de desarrollo de pueblos celtibéricos durante la Edad del Hierro.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_celtiberos",
+      "topic_numancia",
+      "topic_oppida"
+    ],
+    "related_people": [
+      "person_celtiberos"
+    ],
+    "related_episodes": [
+      "ep_antena_historia_celtiberos"
+    ]
+  },
+  {
+    "id": "place_numancia",
+    "name": "Numancia",
+    "type": "site",
+    "modern_location": "Soria, España",
+    "summary": "Ciudad celtibérica emblemática, conocida por su resistencia frente a Roma y por su importancia protohistórica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_numancia",
+      "topic_celtiberos"
+    ],
+    "related_people": [
+      "person_celtiberos"
+    ],
+    "related_episodes": [
+      "ep_antena_historia_celtiberos"
+    ]
+  },
+  {
+    "id": "place_gadir",
+    "name": "Gadir",
+    "type": "site",
+    "modern_location": "Cádiz, España",
+    "summary": "Fundación fenicia en el suroeste peninsular, clave para estudiar la colonización mediterránea y Tartessos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_gadir",
+      "topic_fenicios_peninsula",
+      "topic_tartessos_final"
+    ],
+    "related_people": [
+      "person_fenicios"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios"
+    ]
+  },
+  {
+    "id": "place_cadiz",
+    "name": "Cádiz",
+    "type": "city",
+    "modern_location": "Andalucía, España",
+    "summary": "Ciudad vinculada a la antigua Gadir fenicia.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_gadir",
+      "topic_fenicios_peninsula"
+    ],
+    "related_people": [
+      "person_fenicios"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios"
+    ]
+  },
+  {
+    "id": "place_empuries",
+    "name": "Empúries",
+    "type": "site",
+    "modern_location": "Girona, España",
+    "summary": "Enclave griego y romano en el noreste peninsular, fundamental para estudiar contactos mediterráneos durante la Protohistoria.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_empuries",
+      "topic_griegos_peninsula"
+    ],
+    "related_people": [
+      "person_griegos_colonizadores"
+    ],
+    "related_episodes": [
+      "ep_lhe_edad_hierro_peninsula"
+    ]
+  },
+  {
+    "id": "place_mediterraneo_occidental",
+    "name": "Mediterráneo occidental",
+    "type": "region",
+    "modern_location": "Mediterráneo occidental",
+    "summary": "Espacio de contactos fenicios, griegos, indígenas e itálicos durante la Protohistoria.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_fenicios_peninsula",
+      "topic_griegos_peninsula",
+      "topic_iberos"
+    ],
+    "related_people": [
+      "person_fenicios",
+      "person_griegos_colonizadores"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios",
+      "ep_lhe_edad_hierro_peninsula"
+    ]
   }
 ]

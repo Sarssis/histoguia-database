@@ -1,8 +1,8 @@
 {
-  "version": "3.12",
-  "description": "Subperiodo 12 activo: Edad del Bronce.",
+  "version": "3.13",
+  "description": "Subperiodo 13 activo: Edad del Hierro.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 58,
+  "episode_count": 63,
   "platforms": [
     "apple",
     "spotify",
@@ -10,9 +10,9 @@
     "youtube",
     "web"
   ],
-  "people_count": 48,
-  "places_count": 54,
-  "topics_count": 177,
-  "relations_count": 1110,
-  "status": "sub0112_active"
+  "people_count": 53,
+  "places_count": 64,
+  "topics_count": 191,
+  "relations_count": 1241,
+  "status": "sub0113_active"
 }

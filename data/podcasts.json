@@ -340,5 +340,23 @@
     "spotify_show_url": "",
     "ivoox_show_url": "https://www.ivoox.com/podcast-memorias-pez_sq_f1894070_1.html",
     "status": "active"
+  },
+  {
+    "id": "pod_histoCast",
+    "name": "HistoCast",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-histocast_sq_f164618_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_antena_historia",
+    "name": "Antena Historia",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-antena-historia_sq_f1104453_1.html",
+    "status": "active"
   }
 ]

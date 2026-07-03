@@ -240,7 +240,8 @@ const DATA = {
       "order": 13,
       "name": "Edad del Hierro",
       "date_range": "c. 1200-500 a.C.",
-      "summary": "Hierro, migraciones, jefaturas e inicios estatales."
+      "summary": "Edad del Hierro, metalurgia del hierro, Protohistoria, íberos, celtíberos, fenicios, griegos, celtas y contactos mediterráneos.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -1836,6 +1837,132 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Crisis de finales del segundo milenio a.C. en el Mediterráneo oriental, con caída o transformación de varios sistemas palaciales."
+    },
+    {
+      "id": "topic_metalurgia_hierro",
+      "name": "Metalurgia del hierro",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Tecnología de producción y uso del hierro para herramientas, armas y objetos de prestigio."
+    },
+    {
+      "id": "topic_protohistoria",
+      "name": "Protohistoria",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Etapa de transición entre la Prehistoria y la Historia, con sociedades conocidas tanto por arqueología como por fuentes escritas externas."
+    },
+    {
+      "id": "topic_la_tene",
+      "name": "La Tène",
+      "type": "culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cultura de la segunda Edad del Hierro europea, asociada a grupos célticos y a una rica cultura material."
+    },
+    {
+      "id": "topic_celtiberos",
+      "name": "Celtíberos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Pueblos de la Edad del Hierro de la Meseta oriental peninsular, con rasgos célticos e ibéricos."
+    },
+    {
+      "id": "topic_tartessos_final",
+      "name": "Tartessos final",
+      "type": "regional_process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Última fase del mundo tartésico y sus transformaciones en el suroeste peninsular."
+    },
+    {
+      "id": "topic_fenicios_peninsula",
+      "name": "Fenicios en la península ibérica",
+      "type": "colonization",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Presencia y colonización fenicia en el sur y sureste peninsular, clave para la Protohistoria."
+    },
+    {
+      "id": "topic_griegos_peninsula",
+      "name": "Griegos en la península ibérica",
+      "type": "colonization",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Colonización y contactos griegos en el Mediterráneo occidental, especialmente en el noreste peninsular."
+    },
+    {
+      "id": "topic_castros_noroeste",
+      "name": "Castros del noroeste",
+      "type": "settlement",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Asentamientos fortificados característicos del noroeste peninsular durante la Edad del Hierro."
+    },
+    {
+      "id": "topic_numancia",
+      "name": "Numancia",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Ciudad celtibérica emblemática por su resistencia frente a Roma."
+    },
+    {
+      "id": "topic_empuries",
+      "name": "Empúries",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fundación griega y enclave clave para estudiar contactos mediterráneos en la península ibérica."
+    },
+    {
+      "id": "topic_gadir",
+      "name": "Gadir",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fundación fenicia en el suroeste peninsular, antecedente de Cádiz."
+    },
+    {
+      "id": "topic_dama_elche",
+      "name": "Dama de Elche",
+      "type": "art_object",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Escultura ibérica emblemática, símbolo de la cultura material ibérica."
+    },
+    {
+      "id": "topic_guerrero_moixent",
+      "name": "Guerrero de Moixent",
+      "type": "art_object",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Figura ibérica de bronce asociada a la cultura ibérica valenciana."
+    },
+    {
+      "id": "topic_oppida",
+      "name": "Oppida",
+      "type": "settlement",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Grandes asentamientos fortificados de la Edad del Hierro europea."
     }
   ],
   "episodes": [
@@ -6740,6 +6867,401 @@ const DATA = {
         "mediterráneo oriental",
         "edad del hierro",
         "pueblos del mar"
+      ]
+    },
+    {
+      "id": "ep_lhe_edad_hierro_peninsula",
+      "podcast_id": "pod_la_historia_espana",
+      "podcast_name": "La Historia de España",
+      "episode_code": "Episodio 3",
+      "title": "Prehistoria de la península ibérica | Episodio 3",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0113",
+      "main_topic_id": "topic_prehistoria_peninsula_iberica",
+      "topic_ids": [
+        "topic_prehistoria_peninsula_iberica",
+        "topic_edad_hierro",
+        "topic_protohistoria"
+      ],
+      "people_ids": [
+        "person_iberos",
+        "person_celtiberos",
+        "person_fenicios",
+        "person_griegos_colonizadores"
+      ],
+      "place_ids": [
+        "place_peninsula_iberica",
+        "place_levante_iberico",
+        "place_empuries",
+        "place_gadir"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "49 min",
+      "duration_minutes": 49,
+      "published": "2020-12-13",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/prehistoria-peninsula-iberica-episodio-3-audios-mp3_rf_62270067_1.html",
+        "youtube": "",
+        "web": "https://www.lahistoriaespana.com/prehistoria-de-la-peninsula-iberica/"
+      },
+      "platform_ids": {
+        "apple": "1000502432135",
+        "spotify": "",
+        "ivoox": "62270067",
+        "youtube": "",
+        "web": "prehistoria-de-la-peninsula-iberica"
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "verified"
+      },
+      "summary": "Episodio panorámico que sirve para cerrar la Prehistoria peninsular y abrir la Protohistoria. Permite conectar Bronce Final, Edad del Hierro, colonizaciones mediterráneas, pueblos prerromanos y romanización.",
+      "learn": [
+        "Situar la Edad del Hierro dentro de la secuencia de la Prehistoria peninsular.",
+        "Relacionar Bronce Final, Hierro y Protohistoria.",
+        "Comprender el papel de fenicios, griegos, íberos y celtíberos.",
+        "Preparar el paso hacia la Historia antigua peninsular."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "edad del hierro",
+        "prehistoria peninsular",
+        "protohistoria",
+        "íberos",
+        "celtíberos",
+        "fenicios",
+        "griegos"
+      ]
+    },
+    {
+      "id": "ep_historia_arqueologia_iberos",
+      "podcast_id": "pod_historia_arqueologia",
+      "podcast_name": "HISTORIA Y ARQUEOLOGIA",
+      "episode_code": "",
+      "title": "Los íberos",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0113",
+      "main_topic_id": "topic_iberos",
+      "topic_ids": [
+        "topic_iberos",
+        "topic_edad_hierro",
+        "topic_protohistoria"
+      ],
+      "people_ids": [
+        "person_iberos"
+      ],
+      "place_ids": [
+        "place_levante_iberico",
+        "place_elche",
+        "place_moixent"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "13 min",
+      "duration_minutes": 13,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/iberos-audios-mp3_rf_4566320_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4566320",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal para introducir la cultura ibérica: territorio, sociedad, escritura, ciudades, necrópolis, escultura, élites y contacto con fenicios, griegos y romanos.",
+      "learn": [
+        "Identificar quiénes fueron los íberos.",
+        "Comprender su localización en el este y sur peninsular.",
+        "Relacionar cultura ibérica con escritura, escultura y necrópolis.",
+        "Situar la Dama de Elche y otras piezas dentro de la Edad del Hierro."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "íberos",
+        "edad del hierro",
+        "dama de elche",
+        "guerrero de moixent",
+        "protohistoria"
+      ]
+    },
+    {
+      "id": "ep_antena_historia_celtiberos",
+      "podcast_id": "pod_antena_historia",
+      "podcast_name": "Antena Historia",
+      "episode_code": "",
+      "title": "Los celtíberos",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0113",
+      "main_topic_id": "topic_celtiberos",
+      "topic_ids": [
+        "topic_celtiberos",
+        "topic_edad_hierro",
+        "topic_protohistoria"
+      ],
+      "people_ids": [
+        "person_celtiberos"
+      ],
+      "place_ids": [
+        "place_meseta_oriental",
+        "place_numancia"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/celtiberos-audios-mp3_rf_4908378_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4908378",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre los celtíberos, útil para equilibrar el bloque con el interior peninsular. Permite introducir Meseta oriental, oppida, armas, organización social y la transición hacia los conflictos con Roma.",
+      "learn": [
+        "Identificar a los celtíberos dentro de la Edad del Hierro peninsular.",
+        "Relacionar Meseta, oppida y cultura material celtibérica.",
+        "Entender Numancia como símbolo histórico posterior.",
+        "Preparar el paso hacia la conquista romana."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "celtíberos",
+        "numancia",
+        "edad del hierro",
+        "oppida",
+        "meseta"
+      ]
+    },
+    {
+      "id": "ep_histocast_fenicios",
+      "podcast_id": "pod_histoCast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Fenicios",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0113",
+      "main_topic_id": "topic_fenicios_peninsula",
+      "topic_ids": [
+        "topic_fenicios_peninsula",
+        "topic_edad_hierro",
+        "topic_protohistoria"
+      ],
+      "people_ids": [
+        "person_fenicios"
+      ],
+      "place_ids": [
+        "place_gadir",
+        "place_cadiz",
+        "place_mediterraneo_occidental",
+        "place_mediterraneo_oriental"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2013",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/histocast-48-fenicios-audios-mp3_rf_1966725_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "1966725",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio amplio sobre los fenicios y su expansión mediterránea. Sirve para entender el contexto de Gadir, los intercambios con el suroeste peninsular, la transformación del mundo tartésico y la integración de la península en redes comerciales mediterráneas.",
+      "learn": [
+        "Comprender quiénes fueron los fenicios.",
+        "Relacionar expansión fenicia, comercio y colonización mediterránea.",
+        "Situar Gadir dentro de la Protohistoria peninsular.",
+        "Conectar Fenicia, Tartessos y los cambios de la Edad del Hierro."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "fenicios",
+        "gadir",
+        "cádiz",
+        "tartessos",
+        "colonización fenicia",
+        "protohistoria"
+      ]
+    },
+    {
+      "id": "ep_memorias_pez_celtas",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "Los Celtas",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0113",
+      "main_topic_id": "topic_celtas",
+      "topic_ids": [
+        "topic_celtas",
+        "topic_edad_hierro",
+        "topic_protohistoria"
+      ],
+      "people_ids": [
+        "person_celtas"
+      ],
+      "place_ids": [
+        "place_europa_central"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/celtas-audios-mp3_rf_58114877_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "58114877",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio divulgativo de apoyo para presentar a los celtas en sentido amplio. No es una pieza específica de la península ibérica, pero ayuda a comprender Hallstatt, La Tène, migraciones, cultura material y la imagen histórica de los pueblos célticos.",
+      "learn": [
+        "Comprender el concepto amplio de pueblos celtas.",
+        "Relacionar celtas con Hallstatt y La Tène.",
+        "Diferenciar una visión general europea de los casos peninsulares.",
+        "Usar el episodio como complemento divulgativo."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "celtas",
+        "hallstatt",
+        "la tène",
+        "edad del hierro",
+        "europa"
       ]
     }
   ]

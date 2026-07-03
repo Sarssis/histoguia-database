@@ -1591,5 +1591,131 @@
       "phase_01"
     ],
     "summary": "Crisis de finales del segundo milenio a.C. en el Mediterráneo oriental, con caída o transformación de varios sistemas palaciales."
+  },
+  {
+    "id": "topic_metalurgia_hierro",
+    "name": "Metalurgia del hierro",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Tecnología de producción y uso del hierro para herramientas, armas y objetos de prestigio."
+  },
+  {
+    "id": "topic_protohistoria",
+    "name": "Protohistoria",
+    "type": "period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Etapa de transición entre la Prehistoria y la Historia, con sociedades conocidas tanto por arqueología como por fuentes escritas externas."
+  },
+  {
+    "id": "topic_la_tene",
+    "name": "La Tène",
+    "type": "culture",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Cultura de la segunda Edad del Hierro europea, asociada a grupos célticos y a una rica cultura material."
+  },
+  {
+    "id": "topic_celtiberos",
+    "name": "Celtíberos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Pueblos de la Edad del Hierro de la Meseta oriental peninsular, con rasgos célticos e ibéricos."
+  },
+  {
+    "id": "topic_tartessos_final",
+    "name": "Tartessos final",
+    "type": "regional_process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Última fase del mundo tartésico y sus transformaciones en el suroeste peninsular."
+  },
+  {
+    "id": "topic_fenicios_peninsula",
+    "name": "Fenicios en la península ibérica",
+    "type": "colonization",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Presencia y colonización fenicia en el sur y sureste peninsular, clave para la Protohistoria."
+  },
+  {
+    "id": "topic_griegos_peninsula",
+    "name": "Griegos en la península ibérica",
+    "type": "colonization",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Colonización y contactos griegos en el Mediterráneo occidental, especialmente en el noreste peninsular."
+  },
+  {
+    "id": "topic_castros_noroeste",
+    "name": "Castros del noroeste",
+    "type": "settlement",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Asentamientos fortificados característicos del noroeste peninsular durante la Edad del Hierro."
+  },
+  {
+    "id": "topic_numancia",
+    "name": "Numancia",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Ciudad celtibérica emblemática por su resistencia frente a Roma."
+  },
+  {
+    "id": "topic_empuries",
+    "name": "Empúries",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fundación griega y enclave clave para estudiar contactos mediterráneos en la península ibérica."
+  },
+  {
+    "id": "topic_gadir",
+    "name": "Gadir",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fundación fenicia en el suroeste peninsular, antecedente de Cádiz."
+  },
+  {
+    "id": "topic_dama_elche",
+    "name": "Dama de Elche",
+    "type": "art_object",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Escultura ibérica emblemática, símbolo de la cultura material ibérica."
+  },
+  {
+    "id": "topic_guerrero_moixent",
+    "name": "Guerrero de Moixent",
+    "type": "art_object",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Figura ibérica de bronce asociada a la cultura ibérica valenciana."
+  },
+  {
+    "id": "topic_oppida",
+    "name": "Oppida",
+    "type": "settlement",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Grandes asentamientos fortificados de la Edad del Hierro europea."
   }
 ]
