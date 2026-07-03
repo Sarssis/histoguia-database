@@ -1483,5 +1483,113 @@
       "phase_01"
     ],
     "summary": "Investigadores vinculados al descubrimiento y estudio temprano de yacimientos prehistóricos del sureste peninsular."
+  },
+  {
+    "id": "topic_bronce_antiguo",
+    "name": "Bronce Antiguo",
+    "type": "period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Primera fase de la Edad del Bronce, posterior al Calcolítico."
+  },
+  {
+    "id": "topic_bronce_medio",
+    "name": "Bronce Medio",
+    "type": "period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Fase central de la Edad del Bronce, con desarrollo de redes regionales y formas sociales complejas."
+  },
+  {
+    "id": "topic_bronce_final",
+    "name": "Bronce Final",
+    "type": "period",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Última fase de la Edad del Bronce, marcada por intensificación de contactos, cambios tecnológicos y transición hacia el Hierro."
+  },
+  {
+    "id": "topic_metalurgia_bronce",
+    "name": "Metalurgia del bronce",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Producción de aleaciones de cobre y estaño para fabricar herramientas, armas y objetos de prestigio."
+  },
+  {
+    "id": "topic_cultura_argarica",
+    "name": "Cultura argárica",
+    "type": "culture",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Cultura del Bronce peninsular caracterizada por poblados en altura, enterramientos bajo las viviendas y marcada desigualdad social."
+  },
+  {
+    "id": "topic_enterramientos_argaricos",
+    "name": "Enterramientos argáricos",
+    "type": "archaeological_feature",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Prácticas funerarias de la cultura argárica, a menudo en cistas, tinajas o fosas bajo espacios domésticos."
+  },
+  {
+    "id": "topic_bastida",
+    "name": "La Bastida",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Yacimiento argárico de Murcia, clave para entender urbanismo, fortificación y poder en la Edad del Bronce."
+  },
+  {
+    "id": "topic_motillas",
+    "name": "Motillas",
+    "type": "site_type",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Asentamientos fortificados de la Edad del Bronce en La Mancha, relacionados con gestión del agua y control territorial."
+  },
+  {
+    "id": "topic_bronce_mediterraneo",
+    "name": "Bronce mediterráneo",
+    "type": "regional_process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Redes de contacto, intercambio y desarrollo cultural durante la Edad del Bronce en el Mediterráneo."
+  },
+  {
+    "id": "topic_sociedades_jerarquizadas_bronce",
+    "name": "Sociedades jerarquizadas del Bronce",
+    "type": "social_model",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Formas sociales con desigualdad marcada, élites, control de recursos y especialización productiva."
+  },
+  {
+    "id": "topic_armas_bronce",
+    "name": "Armas de bronce",
+    "type": "technology",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Espadas, puñales, puntas y otros objetos metálicos asociados a prestigio, conflicto y poder."
+  },
+  {
+    "id": "topic_colapso_bronce",
+    "name": "Colapso de la Edad del Bronce",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_01"
+    ],
+    "summary": "Crisis de finales del segundo milenio a.C. en el Mediterráneo oriental, con caída o transformación de varios sistemas palaciales."
   }
 ]

@@ -231,7 +231,8 @@ const DATA = {
       "order": 12,
       "name": "Edad del Bronce",
       "date_range": "c. 3300-1200 a.C.",
-      "summary": "Estados tempranos, comercio y armas de bronce."
+      "summary": "Edad del Bronce, metalurgia del bronce, El Argar, La Bastida, motillas, jerarquización social y transición hacia el Bronce Final.",
+      "status": "content_seeded"
     },
     {
       "id": "sub_0113",
@@ -1727,6 +1728,114 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Investigadores vinculados al descubrimiento y estudio temprano de yacimientos prehistóricos del sureste peninsular."
+    },
+    {
+      "id": "topic_bronce_antiguo",
+      "name": "Bronce Antiguo",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Primera fase de la Edad del Bronce, posterior al Calcolítico."
+    },
+    {
+      "id": "topic_bronce_medio",
+      "name": "Bronce Medio",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Fase central de la Edad del Bronce, con desarrollo de redes regionales y formas sociales complejas."
+    },
+    {
+      "id": "topic_bronce_final",
+      "name": "Bronce Final",
+      "type": "period",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Última fase de la Edad del Bronce, marcada por intensificación de contactos, cambios tecnológicos y transición hacia el Hierro."
+    },
+    {
+      "id": "topic_metalurgia_bronce",
+      "name": "Metalurgia del bronce",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Producción de aleaciones de cobre y estaño para fabricar herramientas, armas y objetos de prestigio."
+    },
+    {
+      "id": "topic_cultura_argarica",
+      "name": "Cultura argárica",
+      "type": "culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Cultura del Bronce peninsular caracterizada por poblados en altura, enterramientos bajo las viviendas y marcada desigualdad social."
+    },
+    {
+      "id": "topic_enterramientos_argaricos",
+      "name": "Enterramientos argáricos",
+      "type": "archaeological_feature",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Prácticas funerarias de la cultura argárica, a menudo en cistas, tinajas o fosas bajo espacios domésticos."
+    },
+    {
+      "id": "topic_bastida",
+      "name": "La Bastida",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Yacimiento argárico de Murcia, clave para entender urbanismo, fortificación y poder en la Edad del Bronce."
+    },
+    {
+      "id": "topic_motillas",
+      "name": "Motillas",
+      "type": "site_type",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Asentamientos fortificados de la Edad del Bronce en La Mancha, relacionados con gestión del agua y control territorial."
+    },
+    {
+      "id": "topic_bronce_mediterraneo",
+      "name": "Bronce mediterráneo",
+      "type": "regional_process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Redes de contacto, intercambio y desarrollo cultural durante la Edad del Bronce en el Mediterráneo."
+    },
+    {
+      "id": "topic_sociedades_jerarquizadas_bronce",
+      "name": "Sociedades jerarquizadas del Bronce",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Formas sociales con desigualdad marcada, élites, control de recursos y especialización productiva."
+    },
+    {
+      "id": "topic_armas_bronce",
+      "name": "Armas de bronce",
+      "type": "technology",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Espadas, puñales, puntas y otros objetos metálicos asociados a prestigio, conflicto y poder."
+    },
+    {
+      "id": "topic_colapso_bronce",
+      "name": "Colapso de la Edad del Bronce",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "summary": "Crisis de finales del segundo milenio a.C. en el Mediterráneo oriental, con caída o transformación de varios sistemas palaciales."
     }
   ],
   "episodes": [
@@ -6205,6 +6314,432 @@ const DATA = {
         "los millares",
         "edad del bronce",
         "neolítico"
+      ]
+    },
+    {
+      "id": "ep_dentro_piramide_el_argar",
+      "podcast_id": "pod_dentro_piramide",
+      "podcast_name": "Dentro de la Pirámide",
+      "episode_code": "",
+      "title": "El Argar: una civilización olvidada en la Edad del Bronce",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0112",
+      "main_topic_id": "topic_el_argar",
+      "topic_ids": [
+        "topic_el_argar",
+        "topic_edad_bronce",
+        "topic_prehistoria"
+      ],
+      "people_ids": [
+        "person_vicente_lull",
+        "person_roberto_risch"
+      ],
+      "place_ids": [
+        "place_el_argar",
+        "place_la_bastida",
+        "place_totana",
+        "place_sureste_peninsular"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/argar-civilizacion-olvidada-edad-del-audios-mp3_rf_76992520_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "76992520",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal del subperiodo. Presenta la cultura argárica como una de las sociedades más complejas de la Edad del Bronce peninsular, con jerarquización social, control territorial, metalurgia, enterramientos bajo las viviendas y asentamientos como La Bastida.",
+      "learn": [
+        "Comprender la importancia de El Argar dentro de la Edad del Bronce peninsular.",
+        "Relacionar cultura argárica, desigualdad social y metalurgia.",
+        "Identificar La Bastida como yacimiento clave.",
+        "Diferenciar la Edad del Bronce del Calcolítico anterior."
+      ],
+      "listen_before": [
+        "ep_lhe_edad_cobre_peninsula"
+      ],
+      "listen_after": [
+        "ep_historia_arqueologia_bronce_peninsula"
+      ],
+      "related_topics": [
+        "El Argar",
+        "Cultura argárica",
+        "Edad del Bronce",
+        "La Bastida"
+      ],
+      "keywords": [
+        "el argar",
+        "edad del bronce",
+        "cultura argárica",
+        "la bastida",
+        "metalurgia",
+        "desigualdad social",
+        "bronce peninsular"
+      ]
+    },
+    {
+      "id": "ep_historia_arqueologia_bronce_peninsula",
+      "podcast_id": "pod_historia_arqueologia",
+      "podcast_name": "HISTORIA Y ARQUEOLOGIA",
+      "episode_code": "",
+      "title": "La Edad del Bronce en la Península Ibérica",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0112",
+      "main_topic_id": "topic_edad_bronce",
+      "topic_ids": [
+        "topic_edad_bronce",
+        "topic_edad_bronce",
+        "topic_prehistoria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_peninsula_iberica",
+        "place_sureste_peninsular"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "14 min",
+      "duration_minutes": 14,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/edad-del-bronce-peninsula-iberica-audios-mp3_rf_4571881_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4571881",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio general para ordenar la Edad del Bronce peninsular. Funciona como marco didáctico para entender fases, regiones, cambios tecnológicos, desarrollo social y culturas arqueológicas posteriores a la Edad del Cobre.",
+      "learn": [
+        "Situar la Edad del Bronce dentro de la secuencia prehistórica peninsular.",
+        "Comprender la importancia de la metalurgia del bronce.",
+        "Relacionar el Bronce con nuevas formas de jerarquización social.",
+        "Preparar el paso hacia el Bronce Final y la Edad del Hierro."
+      ],
+      "listen_before": [
+        "ep_dentro_piramide_el_argar"
+      ],
+      "listen_after": [
+        "ep_prpi_motillas_bronce"
+      ],
+      "related_topics": [
+        "Edad del Bronce",
+        "Bronce peninsular",
+        "Metalurgia del bronce",
+        "Sociedades jerarquizadas"
+      ],
+      "keywords": [
+        "edad del bronce",
+        "península ibérica",
+        "bronce peninsular",
+        "metalurgia",
+        "jerarquización",
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "ep_prpi_motillas_bronce",
+      "podcast_id": "pod_prpi_audios_repaso",
+      "podcast_name": "PRPI AUDIOS REPASO",
+      "episode_code": "Tema 7",
+      "title": "TEMA 7. Motillas y Edad del Bronce",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0112",
+      "main_topic_id": "topic_motillas",
+      "topic_ids": [
+        "topic_motillas",
+        "topic_edad_bronce",
+        "topic_prehistoria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_la_mancha",
+        "place_peninsula_iberica"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "3 min",
+      "duration_minutes": 3,
+      "published": "2022-05-30",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/tema-7-motillas-edad-del-bronce-audios-mp3_rf_87784045_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "87784045",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula breve de repaso sobre motillas y Edad del Bronce. Sirve como pieza de apoyo para fijar una de las manifestaciones más características del Bronce manchego: asentamientos fortificados vinculados al control del agua y del territorio.",
+      "learn": [
+        "Identificar qué son las motillas.",
+        "Relacionarlas con la Edad del Bronce en La Mancha.",
+        "Comprender su posible papel en la gestión del agua.",
+        "Usar la pieza como repaso rápido."
+      ],
+      "listen_before": [
+        "ep_historia_arqueologia_bronce_peninsula"
+      ],
+      "listen_after": [
+        "ep_lhe_bronce_peninsula"
+      ],
+      "related_topics": [
+        "Motillas",
+        "Edad del Bronce",
+        "La Mancha",
+        "Gestión del agua"
+      ],
+      "keywords": [
+        "motillas",
+        "edad del bronce",
+        "la mancha",
+        "gestión del agua",
+        "bronce manchego",
+        "fortificaciones"
+      ]
+    },
+    {
+      "id": "ep_lhe_bronce_peninsula",
+      "podcast_id": "pod_la_historia_espana",
+      "podcast_name": "La Historia de España",
+      "episode_code": "Episodio 3",
+      "title": "Prehistoria de la península ibérica | Episodio 3",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0112",
+      "main_topic_id": "topic_prehistoria_peninsula_iberica",
+      "topic_ids": [
+        "topic_prehistoria_peninsula_iberica",
+        "topic_edad_bronce",
+        "topic_prehistoria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_peninsula_iberica",
+        "place_el_argar",
+        "place_sureste_peninsular"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "49 min",
+      "duration_minutes": 49,
+      "published": "2020-12-13",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "https://podcasts.apple.com/es/podcast/prehistoria-de-la-pen%C3%ADnsula-ib%C3%A9rica-episodio-3/id1544923756?i=1000502432135",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/prehistoria-peninsula-iberica-episodio-3-audios-mp3_rf_62270067_1.html",
+        "youtube": "",
+        "web": "https://www.lahistoriaespana.com/prehistoria-de-la-peninsula-iberica/"
+      },
+      "platform_ids": {
+        "apple": "1000502432135",
+        "spotify": "",
+        "ivoox": "62270067",
+        "youtube": "",
+        "web": "prehistoria-de-la-peninsula-iberica"
+      },
+      "verification": {
+        "apple": "verified",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "verified"
+      },
+      "summary": "Episodio panorámico reutilizado editorialmente para situar la Edad del Bronce dentro de la Prehistoria peninsular. Resulta útil para conectar Calcolítico, El Argar, Bronce Final y transición hacia la Edad del Hierro.",
+      "learn": [
+        "Ubicar la Edad del Bronce dentro de la Prehistoria peninsular.",
+        "Relacionar Calcolítico, Bronce y Edad del Hierro.",
+        "Entender El Argar y otros fenómenos regionales en un marco amplio.",
+        "Preparar el paso hacia el Bronce Final y la Protohistoria."
+      ],
+      "listen_before": [
+        "ep_prpi_motillas_bronce"
+      ],
+      "listen_after": [
+        "ep_memorias_pez_colapso_bronce"
+      ],
+      "related_topics": [
+        "Prehistoria peninsular",
+        "Edad del Bronce",
+        "El Argar",
+        "Edad del Hierro"
+      ],
+      "keywords": [
+        "edad del bronce",
+        "prehistoria peninsular",
+        "el argar",
+        "bronce final",
+        "edad del hierro"
+      ]
+    },
+    {
+      "id": "ep_memorias_pez_colapso_bronce",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "El colapso de la Edad del Bronce",
+      "phase_id": "phase_01",
+      "subperiod_id": "sub_0112",
+      "main_topic_id": "topic_colapso_bronce",
+      "topic_ids": [
+        "topic_colapso_bronce",
+        "topic_edad_bronce",
+        "topic_prehistoria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_mediterraneo_oriental"
+      ],
+      "civilization_ids": [],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/colapso-edad-del-bronce-audios-mp3_rf_56933108_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "56933108",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de ampliación para conectar la Edad del Bronce peninsular con el gran contexto mediterráneo. No es troncal para la Prehistoria ibérica, pero ayuda a entender el final de la Edad del Bronce en el Mediterráneo oriental y la transición hacia nuevas formas políticas y culturales.",
+      "learn": [
+        "Comprender el concepto de colapso de la Edad del Bronce.",
+        "Relacionar la Edad del Bronce peninsular con el Mediterráneo oriental.",
+        "Identificar crisis, migraciones y transformaciones de finales del segundo milenio a.C.",
+        "Preparar el paso hacia la Edad del Hierro."
+      ],
+      "listen_before": [
+        "ep_lhe_bronce_peninsula"
+      ],
+      "listen_after": [],
+      "related_topics": [
+        "Colapso de la Edad del Bronce",
+        "Bronce mediterráneo",
+        "Edad del Hierro"
+      ],
+      "keywords": [
+        "colapso edad del bronce",
+        "bronce final",
+        "mediterráneo oriental",
+        "edad del hierro",
+        "pueblos del mar"
       ]
     }
   ]

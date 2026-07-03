@@ -960,5 +960,49 @@
     "related_episodes": [
       "ep_ciudades_olvidadas_los_millares"
     ]
+  },
+  {
+    "id": "person_vicente_lull",
+    "name": "Vicente Lull",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Arqueólogo especializado en la cultura argárica y en la organización social de la Edad del Bronce peninsular.",
+    "related_topics": [
+      "topic_el_argar",
+      "topic_cultura_argarica",
+      "topic_sociedades_jerarquizadas_bronce"
+    ],
+    "related_places": [
+      "place_el_argar",
+      "place_la_bastida"
+    ],
+    "related_episodes": [
+      "ep_dentro_piramide_el_argar"
+    ]
+  },
+  {
+    "id": "person_roberto_risch",
+    "name": "Roberto Risch",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Historia de la arqueología",
+    "summary": "Arqueólogo vinculado al estudio de la cultura argárica, economía política y desigualdad social en la Prehistoria reciente.",
+    "related_topics": [
+      "topic_el_argar",
+      "topic_cultura_argarica",
+      "topic_sociedades_jerarquizadas_bronce"
+    ],
+    "related_places": [
+      "place_el_argar",
+      "place_la_bastida"
+    ],
+    "related_episodes": [
+      "ep_dentro_piramide_el_argar"
+    ]
   }
 ]

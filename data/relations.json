@@ -7222,5 +7222,551 @@
     "target_id": "topic_edad_bronce",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0112",
+    "source_type": "subperiod",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_el_argar",
+    "source_type": "topic",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_prehistoria",
+    "source_type": "topic",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_vicente_lull",
+    "source_type": "person",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_roberto_risch",
+    "source_type": "person",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_el_argar",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_totana",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_lhe_edad_cobre_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_dentro_piramide_el_argar",
+    "source_type": "episode",
+    "target_id": "ep_historia_arqueologia_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0112",
+    "source_type": "subperiod",
+    "target_id": "ep_historia_arqueologia_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "ep_historia_arqueologia_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_prehistoria",
+    "source_type": "topic",
+    "target_id": "ep_historia_arqueologia_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_historia_arqueologia_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_dentro_piramide_el_argar",
+    "source_type": "episode",
+    "target_id": "ep_historia_arqueologia_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_historia_arqueologia_bronce_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0112",
+    "source_type": "subperiod",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_motillas",
+    "source_type": "topic",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_prehistoria",
+    "source_type": "topic",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_la_mancha",
+    "source_type": "place",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_historia_arqueologia_bronce_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_prpi_motillas_bronce",
+    "source_type": "episode",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0112",
+    "source_type": "subperiod",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_prehistoria_peninsula_iberica",
+    "source_type": "topic",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_prehistoria",
+    "source_type": "topic",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_peninsula_iberica",
+    "source_type": "place",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_el_argar",
+    "source_type": "place",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sureste_peninsular",
+    "source_type": "place",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_prpi_motillas_bronce",
+    "source_type": "episode",
+    "target_id": "ep_lhe_bronce_peninsula",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_lhe_bronce_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "sub_0112",
+    "source_type": "subperiod",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_colapso_bronce",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_prehistoria",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mediterraneo_oriental",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_lhe_bronce_peninsula",
+    "source_type": "episode",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "person_vicente_lull",
+    "source_type": "person",
+    "target_id": "topic_el_argar",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_vicente_lull",
+    "source_type": "person",
+    "target_id": "topic_cultura_argarica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_vicente_lull",
+    "source_type": "person",
+    "target_id": "topic_sociedades_jerarquizadas_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_vicente_lull",
+    "source_type": "person",
+    "target_id": "place_el_argar",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_vicente_lull",
+    "source_type": "person",
+    "target_id": "place_la_bastida",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_vicente_lull",
+    "source_type": "person",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_roberto_risch",
+    "source_type": "person",
+    "target_id": "topic_el_argar",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_roberto_risch",
+    "source_type": "person",
+    "target_id": "topic_cultura_argarica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_roberto_risch",
+    "source_type": "person",
+    "target_id": "topic_sociedades_jerarquizadas_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_roberto_risch",
+    "source_type": "person",
+    "target_id": "place_el_argar",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_roberto_risch",
+    "source_type": "person",
+    "target_id": "place_la_bastida",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_roberto_risch",
+    "source_type": "person",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "topic_bastida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "topic_el_argar",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "topic_cultura_argarica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "topic_sociedades_jerarquizadas_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "person_vicente_lull",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "person_roberto_risch",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_bastida",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_totana",
+    "source_type": "place",
+    "target_id": "topic_bastida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_totana",
+    "source_type": "place",
+    "target_id": "topic_el_argar",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_totana",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_el_argar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_la_mancha",
+    "source_type": "place",
+    "target_id": "topic_motillas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_mancha",
+    "source_type": "place",
+    "target_id": "topic_edad_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_la_mancha",
+    "source_type": "place",
+    "target_id": "ep_prpi_motillas_bronce",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mediterraneo_oriental",
+    "source_type": "place",
+    "target_id": "topic_bronce_mediterraneo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mediterraneo_oriental",
+    "source_type": "place",
+    "target_id": "topic_colapso_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mediterraneo_oriental",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_colapso_bronce",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_edad_bronce",
+    "source_type": "topic",
+    "target_id": "topic_metalurgia_bronce",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_metalurgia_bronce",
+    "source_type": "topic",
+    "target_id": "topic_el_argar",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_el_argar",
+    "source_type": "topic",
+    "target_id": "topic_cultura_argarica",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_cultura_argarica",
+    "source_type": "topic",
+    "target_id": "topic_bastida",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_bastida",
+    "source_type": "topic",
+    "target_id": "topic_motillas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_motillas",
+    "source_type": "topic",
+    "target_id": "topic_bronce_final",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_bronce_final",
+    "source_type": "topic",
+    "target_id": "topic_colapso_bronce",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_colapso_bronce",
+    "source_type": "topic",
+    "target_id": "topic_edad_hierro",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

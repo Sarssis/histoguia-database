@@ -1,10 +1,10 @@
-# Histoguía Database · sub_0111 v3.11
+# Histoguía Database · sub_0112 v3.12
 
 Actualización completa de `histoguia-database`.
 
-## Subperiodio activado
+## Subperiodo activado
 
-**11. Edad del Cobre**
+**12. Edad del Bronce**
 
 ## Criterio aplicado
 
@@ -12,16 +12,17 @@ Solo se han incluido episodios con al menos un enlace directo verificado. Los ep
 
 ## Episodios añadidos
 
-- El Calcolítico en el sureste de la Península Ibérica
-- Los Millares, ciudad calcolítica, 1-I
-- TEMA 6. Poblados en Calcolítico, Los Millares
+- El Argar: una civilización olvidada en la Edad del Bronce
+- La Edad del Bronce en la Península Ibérica
+- TEMA 7. Motillas y Edad del Bronce
 - Prehistoria de la península ibérica | Episodio 3
+- El colapso de la Edad del Bronce
 
 ## Totales
 
-- Episodios totales: 53
-- Episodios del subperiodo 11: 4
-- Personas/especies/investigadores: 46
-- Temas: 165
-- Lugares: 50
-- Relaciones: 1032
+- Episodios totales: 58
+- Episodios del subperiodo 12: 5
+- Personas/especies/investigadores: 48
+- Temas: 177
+- Lugares: 54
+- Relaciones: 1110

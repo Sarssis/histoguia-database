@@ -89,7 +89,14 @@
       "topic_los_millares",
       "topic_poblados_fortificados",
       "topic_necropolis_megaliticas",
-      "topic_vaso_campaniforme"
+      "topic_vaso_campaniforme",
+      "topic_metalurgia_bronce",
+      "topic_el_argar",
+      "topic_cultura_argarica",
+      "topic_bastida",
+      "topic_motillas",
+      "topic_bronce_final",
+      "topic_colapso_bronce"
     ],
     "episode_ids": [
       "ep_aparici_s05e06_sopa_primordial",
@@ -141,11 +148,16 @@
       "ep_ciudades_olvidadas_los_millares",
       "ep_prpi_los_millares",
       "ep_lhe_edad_cobre_peninsula",
+      "ep_dentro_piramide_el_argar",
+      "ep_historia_arqueologia_bronce_peninsula",
+      "ep_prpi_motillas_bronce",
+      "ep_lhe_bronce_peninsula",
+      "ep_memorias_pez_colapso_bronce",
       "ep_historia_con_movil_neolitico",
       "ep_khulmani_neolitico_europa",
       "ep_zh_neolitico_gaditano",
       "ep_khulmani_aborigenes_australianos"
     ],
-    "status": "sub0111_active"
+    "status": "sub0112_active"
   }
 ]

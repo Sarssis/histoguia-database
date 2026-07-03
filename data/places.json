@@ -905,5 +905,74 @@
       "ep_calcolitico_sureste_peninsula",
       "ep_ciudades_olvidadas_los_millares"
     ]
+  },
+  {
+    "id": "place_la_bastida",
+    "name": "La Bastida",
+    "type": "site",
+    "modern_location": "Totana, Murcia, España",
+    "summary": "Yacimiento de la cultura argárica, clave para estudiar fortificaciones, urbanismo, poder y jerarquización durante la Edad del Bronce.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_bastida",
+      "topic_el_argar",
+      "topic_cultura_argarica",
+      "topic_sociedades_jerarquizadas_bronce"
+    ],
+    "related_people": [
+      "person_vicente_lull",
+      "person_roberto_risch"
+    ],
+    "related_episodes": [
+      "ep_dentro_piramide_el_argar"
+    ]
+  },
+  {
+    "id": "place_totana",
+    "name": "Totana",
+    "type": "municipality",
+    "modern_location": "Murcia, España",
+    "summary": "Municipio murciano donde se sitúa el yacimiento argárico de La Bastida.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_bastida",
+      "topic_el_argar"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_dentro_piramide_el_argar"
+    ]
+  },
+  {
+    "id": "place_la_mancha",
+    "name": "La Mancha",
+    "type": "region",
+    "modern_location": "Castilla-La Mancha, España",
+    "summary": "Región relevante para el estudio de las motillas y formas de ocupación de la Edad del Bronce peninsular.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_motillas",
+      "topic_edad_bronce"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_prpi_motillas_bronce"
+    ]
+  },
+  {
+    "id": "place_mediterraneo_oriental",
+    "name": "Mediterráneo oriental",
+    "type": "region",
+    "modern_location": "Mediterráneo oriental",
+    "summary": "Área clave para comprender el Bronce mediterráneo, los sistemas palaciales y el colapso de finales de la Edad del Bronce.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_bronce_mediterraneo",
+      "topic_colapso_bronce"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_memorias_pez_colapso_bronce"
+    ]
   }
 ]

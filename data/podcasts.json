@@ -322,5 +322,23 @@
     "spotify_show_url": "",
     "ivoox_show_url": "https://www.ivoox.com/podcast-prpi-audios-repaso_sq_f11652768_1.html",
     "status": "active_secondary"
+  },
+  {
+    "id": "pod_dentro_piramide",
+    "name": "Dentro de la Pirámide",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-dentro-piramide_sq_f11190068_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_memorias_pez",
+    "name": "Memorias de Pez",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-memorias-pez_sq_f1894070_1.html",
+    "status": "active"
   }
 ]
