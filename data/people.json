@@ -1378,5 +1378,71 @@
     "related_episodes": [
       "ep_biblioteca_momias_piramides_reino_antiguo"
     ]
+  },
+  {
+    "id": "person_naram_sin",
+    "name": "Naram-Sin",
+    "type": "ruler",
+    "category": "mesopotamian_ruler",
+    "scientific_name": "",
+    "dates": "c. siglo XXIII a.C.",
+    "period": "Imperio acadio",
+    "summary": "Rey acadio, nieto de Sargón, asociado a la expansión imperial y a la divinización real.",
+    "related_topics": [
+      "topic_naram_sin",
+      "topic_estela_naram_sin",
+      "topic_imperio_acadio"
+    ],
+    "related_places": [
+      "place_mesopotamia",
+      "place_akkad"
+    ],
+    "related_episodes": [
+      "ep_v385_imperio_acadio"
+    ]
+  },
+  {
+    "id": "person_ur_nammu",
+    "name": "Ur-Nammu",
+    "type": "ruler",
+    "category": "mesopotamian_ruler",
+    "scientific_name": "",
+    "dates": "c. siglo XXI a.C.",
+    "period": "III Dinastía de Ur",
+    "summary": "Fundador de la III Dinastía de Ur, asociado a la restauración sumeria y al Código de Ur-Nammu.",
+    "related_topics": [
+      "topic_ur_nammu",
+      "topic_iii_dinastia_ur",
+      "topic_codigo_ur_nammu"
+    ],
+    "related_places": [
+      "place_ur",
+      "place_mesopotamia"
+    ],
+    "related_episodes": [
+      "ep_renacimiento_sumerio_ur_iii"
+    ]
+  },
+  {
+    "id": "person_shulgi",
+    "name": "Shulgi",
+    "type": "ruler",
+    "category": "mesopotamian_ruler",
+    "scientific_name": "",
+    "dates": "c. siglo XXI a.C.",
+    "period": "III Dinastía de Ur",
+    "summary": "Rey de Ur III que consolidó la administración, las infraestructuras y la ideología real del renacimiento sumerio.",
+    "related_topics": [
+      "topic_shulgi",
+      "topic_administracion_ur_iii",
+      "topic_iii_dinastia_ur"
+    ],
+    "related_places": [
+      "place_ur",
+      "place_mesopotamia"
+    ],
+    "related_episodes": [
+      "ep_renacimiento_sumerio_ur_iii"
+    ]
   }
 ]

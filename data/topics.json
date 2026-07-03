@@ -2113,5 +2113,122 @@
       "phase_02"
     ],
     "summary": "Mastabas"
+  },
+  {
+    "id": "topic_akkad",
+    "name": "Akkad",
+    "type": "city_empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Centro político y cultural asociado al Imperio acadio."
+  },
+  {
+    "id": "topic_acadios",
+    "name": "Acadios",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Poblaciones semíticas de Mesopotamia vinculadas al Imperio acadio."
+  },
+  {
+    "id": "topic_naram_sin",
+    "name": "Naram-Sin",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey acadio que llevó la ideología imperial a una nueva escala."
+  },
+  {
+    "id": "topic_estela_naram_sin",
+    "name": "Estela de Naram-Sin",
+    "type": "object",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Monumento acadio que expresa victoria, divinización real e ideología imperial."
+  },
+  {
+    "id": "topic_gutis",
+    "name": "Gutis",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo asociado en la tradición mesopotámica a la crisis y caída del Imperio acadio."
+  },
+  {
+    "id": "topic_caida_imperio_acadio",
+    "name": "Caída del Imperio acadio",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Proceso de crisis política, ambiental y militar que desintegra el poder acadio."
+  },
+  {
+    "id": "topic_renacimiento_sumerio",
+    "name": "Renacimiento sumerio",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Reactivación política y cultural sumeria tras el periodo acadio, especialmente bajo Ur III."
+  },
+  {
+    "id": "topic_iii_dinastia_ur",
+    "name": "III Dinastía de Ur",
+    "type": "dynasty",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Dinastía mesopotámica asociada al renacimiento sumerio y a una administración centralizada."
+  },
+  {
+    "id": "topic_ur_nammu",
+    "name": "Ur-Nammu",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fundador de la III Dinastía de Ur, asociado a leyes, construcción y restauración sumeria."
+  },
+  {
+    "id": "topic_shulgi",
+    "name": "Shulgi",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey de Ur III vinculado a la consolidación administrativa y cultural del renacimiento sumerio."
+  },
+  {
+    "id": "topic_codigo_ur_nammu",
+    "name": "Código de Ur-Nammu",
+    "type": "legal_text",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Uno de los códigos legales más antiguos conocidos."
+  },
+  {
+    "id": "topic_administracion_ur_iii",
+    "name": "Administración de Ur III",
+    "type": "state_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema burocrático de la III Dinastía de Ur basado en tablillas, control y redistribución."
+  },
+  {
+    "id": "topic_lengua_acadia",
+    "name": "Lengua acadia",
+    "type": "language",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Lengua semítica escrita en cuneiforme que se convierte en lengua administrativa y diplomática del Próximo Oriente."
   }
 ]

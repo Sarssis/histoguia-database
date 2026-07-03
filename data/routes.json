@@ -190,7 +190,12 @@
       "ep_egipto_unificacion_dos_tierras",
       "ep_saqqara_primera_piramide",
       "ep_biblioteca_momias_piramides_reino_antiguo",
-      "ep_egipto_paso_a_paso_inicios"
+      "ep_egipto_paso_a_paso_inicios",
+      "ep_v385_imperio_acadio",
+      "ep_sargon_akkad_primer_emperador",
+      "ep_naram_sin_estela",
+      "ep_caida_imperio_acadio",
+      "ep_renacimiento_sumerio_ur_iii"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -211,8 +216,15 @@
       "topic_menfis",
       "topic_reino_antiguo_egipto",
       "topic_saqqara",
-      "topic_piramides_guiza"
+      "topic_piramides_guiza",
+      "topic_sargon_akkad",
+      "topic_naram_sin",
+      "topic_caida_imperio_acadio",
+      "topic_gutis",
+      "topic_renacimiento_sumerio",
+      "topic_iii_dinastia_ur",
+      "topic_codigo_ur_nammu"
     ],
-    "status": "sub0202_active"
+    "status": "sub0203_active"
   }
 ]

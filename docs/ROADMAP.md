@@ -8,6 +8,7 @@
 ### Periodo 02 · Primeras Civilizaciones
 - sub_0201: Mesopotamia y Sumer
 - sub_0202: Egipto predinástico y Reino Antiguo
+- sub_0203: Imperio Acadio y renacimiento sumerio
 
 ## Siguiente subperiodo sugerido
-- sub_0203: Imperio Acadio y renacimiento sumerio
+- sub_0204: Babilonia y Hammurabi

@@ -10841,5 +10841,810 @@
     "target_id": "topic_piramides_guiza",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0203",
+    "source_type": "subperiod",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sargon_akkad",
+    "source_type": "topic",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_naram_sin",
+    "source_type": "topic",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_akkad",
+    "source_type": "topic",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_acadios",
+    "source_type": "topic",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_lengua_acadia",
+    "source_type": "topic",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_v384_civilizacion_sumeria",
+    "source_type": "episode",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_v385_imperio_acadio",
+    "source_type": "episode",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0203",
+    "source_type": "subperiod",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sargon_akkad",
+    "source_type": "topic",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_akkad",
+    "source_type": "topic",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_v385_imperio_acadio",
+    "source_type": "episode",
+    "target_id": "ep_sargon_akkad_primer_emperador",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_sargon_akkad_primer_emperador",
+    "source_type": "episode",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0203",
+    "source_type": "subperiod",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_estela_naram_sin",
+    "source_type": "topic",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_naram_sin",
+    "source_type": "topic",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_sargon_akkad_primer_emperador",
+    "source_type": "episode",
+    "target_id": "ep_naram_sin_estela",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_naram_sin_estela",
+    "source_type": "episode",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0203",
+    "source_type": "subperiod",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_caida_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_gutis",
+    "source_type": "topic",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_naram_sin_estela",
+    "source_type": "episode",
+    "target_id": "ep_caida_imperio_acadio",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_caida_imperio_acadio",
+    "source_type": "episode",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0203",
+    "source_type": "subperiod",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_renacimiento_sumerio",
+    "source_type": "topic",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_iii_dinastia_ur",
+    "source_type": "topic",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ur_nammu",
+    "source_type": "topic",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_shulgi",
+    "source_type": "topic",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_codigo_ur_nammu",
+    "source_type": "topic",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_administracion_ur_iii",
+    "source_type": "topic",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ur_nammu",
+    "source_type": "person",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_shulgi",
+    "source_type": "person",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_caida_imperio_acadio",
+    "source_type": "episode",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_renacimiento_sumerio_ur_iii",
+    "source_type": "episode",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "topic_iii_dinastia_ur",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "topic_renacimiento_sumerio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "topic_codigo_ur_nammu",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "topic_administracion_ur_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "place_ur",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "person_ur_nammu",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ur_iii",
+    "source_type": "civilization",
+    "target_id": "person_shulgi",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "topic_naram_sin",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "topic_estela_naram_sin",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "topic_imperio_acadio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "place_akkad",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_naram_sin",
+    "source_type": "person",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ur_nammu",
+    "source_type": "person",
+    "target_id": "topic_ur_nammu",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ur_nammu",
+    "source_type": "person",
+    "target_id": "topic_iii_dinastia_ur",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ur_nammu",
+    "source_type": "person",
+    "target_id": "topic_codigo_ur_nammu",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ur_nammu",
+    "source_type": "person",
+    "target_id": "place_ur",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ur_nammu",
+    "source_type": "person",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ur_nammu",
+    "source_type": "person",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_shulgi",
+    "source_type": "person",
+    "target_id": "topic_shulgi",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shulgi",
+    "source_type": "person",
+    "target_id": "topic_administracion_ur_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shulgi",
+    "source_type": "person",
+    "target_id": "topic_iii_dinastia_ur",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shulgi",
+    "source_type": "person",
+    "target_id": "place_ur",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shulgi",
+    "source_type": "person",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_shulgi",
+    "source_type": "person",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "topic_akkad",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "topic_imperio_acadio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "topic_sargon_akkad",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "person_sargon_akkad",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "person_naram_sin",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_akkad",
+    "source_type": "place",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "topic_sumer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "topic_akkad",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "topic_imperio_acadio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "topic_renacimiento_sumerio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "person_sargon_akkad",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "person_ur_nammu",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "ep_v385_imperio_acadio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sumer_akkad",
+    "source_type": "place",
+    "target_id": "ep_renacimiento_sumerio_ur_iii",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_sumer",
+    "source_type": "topic",
+    "target_id": "topic_imperio_acadio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "topic_sargon_akkad",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_sargon_akkad",
+    "source_type": "topic",
+    "target_id": "topic_naram_sin",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_naram_sin",
+    "source_type": "topic",
+    "target_id": "topic_caida_imperio_acadio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_caida_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "topic_gutis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_gutis",
+    "source_type": "topic",
+    "target_id": "topic_renacimiento_sumerio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_renacimiento_sumerio",
+    "source_type": "topic",
+    "target_id": "topic_iii_dinastia_ur",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_iii_dinastia_ur",
+    "source_type": "topic",
+    "target_id": "topic_codigo_ur_nammu",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_codigo_ur_nammu",
+    "source_type": "topic",
+    "target_id": "topic_babilonia",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

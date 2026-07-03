@@ -193,5 +193,27 @@
       "person_imhotep",
       "person_keops"
     ]
+  },
+  {
+    "id": "civ_ur_iii",
+    "name": "III Dinastía de Ur",
+    "type": "kingdom",
+    "date_range": "c. 2112-2004 a.C.",
+    "region": "Baja Mesopotamia",
+    "summary": "Estado mesopotámico asociado al renacimiento sumerio, centralización administrativa, zigurats, leyes y uso intensivo de tablillas.",
+    "related_topics": [
+      "topic_iii_dinastia_ur",
+      "topic_renacimiento_sumerio",
+      "topic_codigo_ur_nammu",
+      "topic_administracion_ur_iii"
+    ],
+    "related_places": [
+      "place_ur",
+      "place_mesopotamia"
+    ],
+    "related_people": [
+      "person_ur_nammu",
+      "person_shulgi"
+    ]
   }
 ]

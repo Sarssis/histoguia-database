@@ -260,6 +260,15 @@ const DATA = {
       "date_range": "c. 5500-2181 a.C.",
       "summary": "Del valle del Nilo predinástico a la unificación, las primeras dinastías, Saqqara, Menfis, Guiza y la edad de las pirámides.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0203",
+      "phase_id": "phase_02",
+      "order": 3,
+      "name": "Imperio Acadio y renacimiento sumerio",
+      "date_range": "c. 2334-2004 a.C.",
+      "summary": "Sargón de Akkad, el primer imperio mesopotámico, Naram-Sin, crisis acadia, gutis, III dinastía de Ur y renacimiento sumerio.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -2377,6 +2386,123 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Mastabas"
+    },
+    {
+      "id": "topic_akkad",
+      "name": "Akkad",
+      "type": "city_empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Centro político y cultural asociado al Imperio acadio."
+    },
+    {
+      "id": "topic_acadios",
+      "name": "Acadios",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Poblaciones semíticas de Mesopotamia vinculadas al Imperio acadio."
+    },
+    {
+      "id": "topic_naram_sin",
+      "name": "Naram-Sin",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey acadio que llevó la ideología imperial a una nueva escala."
+    },
+    {
+      "id": "topic_estela_naram_sin",
+      "name": "Estela de Naram-Sin",
+      "type": "object",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Monumento acadio que expresa victoria, divinización real e ideología imperial."
+    },
+    {
+      "id": "topic_gutis",
+      "name": "Gutis",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblo asociado en la tradición mesopotámica a la crisis y caída del Imperio acadio."
+    },
+    {
+      "id": "topic_caida_imperio_acadio",
+      "name": "Caída del Imperio acadio",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Proceso de crisis política, ambiental y militar que desintegra el poder acadio."
+    },
+    {
+      "id": "topic_renacimiento_sumerio",
+      "name": "Renacimiento sumerio",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Reactivación política y cultural sumeria tras el periodo acadio, especialmente bajo Ur III."
+    },
+    {
+      "id": "topic_iii_dinastia_ur",
+      "name": "III Dinastía de Ur",
+      "type": "dynasty",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Dinastía mesopotámica asociada al renacimiento sumerio y a una administración centralizada."
+    },
+    {
+      "id": "topic_ur_nammu",
+      "name": "Ur-Nammu",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fundador de la III Dinastía de Ur, asociado a leyes, construcción y restauración sumeria."
+    },
+    {
+      "id": "topic_shulgi",
+      "name": "Shulgi",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey de Ur III vinculado a la consolidación administrativa y cultural del renacimiento sumerio."
+    },
+    {
+      "id": "topic_codigo_ur_nammu",
+      "name": "Código de Ur-Nammu",
+      "type": "legal_text",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Uno de los códigos legales más antiguos conocidos."
+    },
+    {
+      "id": "topic_administracion_ur_iii",
+      "name": "Administración de Ur III",
+      "type": "state_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema burocrático de la III Dinastía de Ur basado en tablillas, control y redistribución."
+    },
+    {
+      "id": "topic_lengua_acadia",
+      "name": "Lengua acadia",
+      "type": "language",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Lengua semítica escrita en cuneiforme que se convierte en lengua administrativa y diplomática del Próximo Oriente."
     }
   ],
   "episodes": [
@@ -8583,6 +8709,429 @@ const DATA = {
         "predinástico",
         "protodinástico"
       ]
+    },
+    {
+      "id": "ep_v385_imperio_acadio",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "V385",
+      "title": "V385 Imperio Acadio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0203",
+      "main_topic_id": "topic_imperio_acadio",
+      "topic_ids": [
+        "topic_imperio_acadio",
+        "topic_sargon_akkad",
+        "topic_naram_sin",
+        "topic_akkad",
+        "topic_acadios",
+        "topic_lengua_acadia"
+      ],
+      "people_ids": [
+        "person_sargon_akkad",
+        "person_naram_sin"
+      ],
+      "place_ids": [
+        "place_mesopotamia",
+        "place_akkad",
+        "place_sumer_akkad"
+      ],
+      "civilization_ids": [
+        "civ_akkad",
+        "civ_sumer"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v385-127774-imperio-acadio-audios-mp3_rf_129640719_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "129640719",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal para entender el paso de las ciudades sumerias al primer gran imperio mesopotámico. Introduce a Sargón de Akkad, la construcción imperial, el papel de Naram-Sin y la tensión entre Sumer y Akkad.",
+      "learn": [
+        "Comprender por qué el Imperio acadio representa un cambio de escala política.",
+        "Situar a Sargón de Akkad como fundador del primer imperio mesopotámico.",
+        "Relacionar Naram-Sin con la ideología imperial.",
+        "Entender la transición entre Sumer, Akkad y el renacimiento sumerio."
+      ],
+      "listen_before": [
+        "ep_v384_civilizacion_sumeria"
+      ],
+      "listen_after": [
+        "ep_sargon_akkad_primer_emperador"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "imperio acadio",
+        "sargón de akkad",
+        "naram-sin",
+        "mesopotamia",
+        "sumer"
+      ]
+    },
+    {
+      "id": "ep_sargon_akkad_primer_emperador",
+      "podcast_id": "pod_antiguo_oriente",
+      "podcast_name": "Antiguo Oriente",
+      "episode_code": "",
+      "title": "Sargón de Akkad, el primer emperador",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0203",
+      "main_topic_id": "topic_sargon_akkad",
+      "topic_ids": [
+        "topic_sargon_akkad",
+        "topic_imperio_acadio",
+        "topic_akkad"
+      ],
+      "people_ids": [
+        "person_sargon_akkad"
+      ],
+      "place_ids": [
+        "place_akkad",
+        "place_mesopotamia"
+      ],
+      "civilization_ids": [
+        "civ_akkad"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/sargon-akkad-primer-emperador-audios-mp3_rf_10863498_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "10863498",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo centrado en Sargón de Akkad. Refuerza su papel como figura fundacional del poder imperial en Mesopotamia y ayuda a diferenciar la ciudad-estado sumeria de la lógica territorial acadia.",
+      "learn": [
+        "Conocer la figura de Sargón de Akkad.",
+        "Distinguir leyenda, propaganda y reconstrucción histórica.",
+        "Relacionar Akkad con el nacimiento del imperio.",
+        "Comprender el cambio político posterior a las ciudades-estado sumerias."
+      ],
+      "listen_before": [
+        "ep_v385_imperio_acadio"
+      ],
+      "listen_after": [
+        "ep_naram_sin_estela"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "sargón de akkad",
+        "akkad",
+        "imperio acadio",
+        "mesopotamia"
+      ]
+    },
+    {
+      "id": "ep_naram_sin_estela",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "Naram-Sin y la estela de la victoria",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0203",
+      "main_topic_id": "topic_estela_naram_sin",
+      "topic_ids": [
+        "topic_naram_sin",
+        "topic_estela_naram_sin",
+        "topic_imperio_acadio"
+      ],
+      "people_ids": [
+        "person_naram_sin"
+      ],
+      "place_ids": [
+        "place_mesopotamia"
+      ],
+      "civilization_ids": [
+        "civ_akkad"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/naram-sin-estela-victoria-audios-mp3_rf_3574667_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3574667",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula de ampliación sobre Naram-Sin y su célebre estela. Permite explicar arte, propaganda, divinización real y representación del poder acadio.",
+      "learn": [
+        "Identificar a Naram-Sin dentro del Imperio acadio.",
+        "Analizar la estela como documento político y artístico.",
+        "Comprender la divinización del rey acadio.",
+        "Relacionar guerra, imagen y propaganda en Mesopotamia."
+      ],
+      "listen_before": [
+        "ep_sargon_akkad_primer_emperador"
+      ],
+      "listen_after": [
+        "ep_caida_imperio_acadio"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "naram-sin",
+        "estela",
+        "imperio acadio",
+        "arte mesopotámico"
+      ]
+    },
+    {
+      "id": "ep_caida_imperio_acadio",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "La caída del Imperio Acadio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0203",
+      "main_topic_id": "topic_caida_imperio_acadio",
+      "topic_ids": [
+        "topic_caida_imperio_acadio",
+        "topic_gutis",
+        "topic_imperio_acadio"
+      ],
+      "people_ids": [
+        "person_naram_sin"
+      ],
+      "place_ids": [
+        "place_mesopotamia",
+        "place_sumer_akkad"
+      ],
+      "civilization_ids": [
+        "civ_akkad"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/caida-del-imperio-acadio-audios-mp3_rf_64100556_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64100556",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de contexto sobre la crisis del Imperio acadio. Introduce factores políticos, presión exterior, tradición sobre los gutis y posibles problemas climáticos en el final del primer imperio mesopotámico.",
+      "learn": [
+        "Comprender que el Imperio acadio no desaparece por una única causa.",
+        "Relacionar crisis política, presión militar y problemas ambientales.",
+        "Introducir el papel de los gutis en la tradición mesopotámica.",
+        "Preparar la restauración sumeria de Ur III."
+      ],
+      "listen_before": [
+        "ep_naram_sin_estela"
+      ],
+      "listen_after": [
+        "ep_renacimiento_sumerio_ur_iii"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "caída del imperio acadio",
+        "gutis",
+        "mesopotamia",
+        "crisis climática"
+      ]
+    },
+    {
+      "id": "ep_renacimiento_sumerio_ur_iii",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "",
+      "title": "Renacimiento sumerio y III Dinastía de Ur",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0203",
+      "main_topic_id": "topic_renacimiento_sumerio",
+      "topic_ids": [
+        "topic_renacimiento_sumerio",
+        "topic_iii_dinastia_ur",
+        "topic_ur_nammu",
+        "topic_shulgi",
+        "topic_codigo_ur_nammu",
+        "topic_administracion_ur_iii"
+      ],
+      "people_ids": [
+        "person_ur_nammu",
+        "person_shulgi"
+      ],
+      "place_ids": [
+        "place_ur",
+        "place_mesopotamia",
+        "place_sumer_akkad"
+      ],
+      "civilization_ids": [
+        "civ_ur_iii",
+        "civ_sumer"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/renacimiento-sumerio-iii-dinastia-ur-audios-mp3_rf_130217251_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "130217251",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal para cerrar el subperiodo. Explica el renacimiento sumerio tras Akkad, la III Dinastía de Ur, Ur-Nammu, Shulgi, el sistema administrativo, la construcción monumental y el legado legal.",
+      "learn": [
+        "Comprender el renacimiento sumerio tras la crisis acadia.",
+        "Situar la III Dinastía de Ur como restauración y transformación política.",
+        "Relacionar Ur-Nammu con legislación, zigurats y administración.",
+        "Preparar el paso hacia Babilonia y Hammurabi."
+      ],
+      "listen_before": [
+        "ep_caida_imperio_acadio"
+      ],
+      "listen_after": [
+        "ep_historia_universal_primeras_civilizaciones"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "renacimiento sumerio",
+        "ur iii",
+        "ur-nammu",
+        "shulgi",
+        "código de ur-nammu"
+      ]
     }
   ],
   "civilizations": [
@@ -8779,6 +9328,28 @@ const DATA = {
         "person_djoser",
         "person_imhotep",
         "person_keops"
+      ]
+    },
+    {
+      "id": "civ_ur_iii",
+      "name": "III Dinastía de Ur",
+      "type": "kingdom",
+      "date_range": "c. 2112-2004 a.C.",
+      "region": "Baja Mesopotamia",
+      "summary": "Estado mesopotámico asociado al renacimiento sumerio, centralización administrativa, zigurats, leyes y uso intensivo de tablillas.",
+      "related_topics": [
+        "topic_iii_dinastia_ur",
+        "topic_renacimiento_sumerio",
+        "topic_codigo_ur_nammu",
+        "topic_administracion_ur_iii"
+      ],
+      "related_places": [
+        "place_ur",
+        "place_mesopotamia"
+      ],
+      "related_people": [
+        "person_ur_nammu",
+        "person_shulgi"
       ]
     }
   ]

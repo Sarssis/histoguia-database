@@ -1429,5 +1429,47 @@
     "related_episodes": [
       "ep_biblioteca_momias_piramides_reino_antiguo"
     ]
+  },
+  {
+    "id": "place_akkad",
+    "name": "Akkad",
+    "type": "city",
+    "modern_location": "Mesopotamia, localización exacta desconocida",
+    "summary": "Capital del Imperio acadio, todavía no localizada arqueológicamente con seguridad.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_akkad",
+      "topic_imperio_acadio",
+      "topic_sargon_akkad"
+    ],
+    "related_people": [
+      "person_sargon_akkad",
+      "person_naram_sin"
+    ],
+    "related_episodes": [
+      "ep_v385_imperio_acadio"
+    ]
+  },
+  {
+    "id": "place_sumer_akkad",
+    "name": "Sumer y Akkad",
+    "type": "region",
+    "modern_location": "Baja y media Mesopotamia",
+    "summary": "Espacio político y cultural de interacción entre las ciudades sumerias y el poder acadio.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_sumer",
+      "topic_akkad",
+      "topic_imperio_acadio",
+      "topic_renacimiento_sumerio"
+    ],
+    "related_people": [
+      "person_sargon_akkad",
+      "person_ur_nammu"
+    ],
+    "related_episodes": [
+      "ep_v385_imperio_acadio",
+      "ep_renacimiento_sumerio_ur_iii"
+    ]
   }
 ]
