@@ -147,5 +147,14 @@
     "date_range": "c. 2004-1595 a.C.",
     "summary": "Babilonia amorrea, Hammurabi, Código de Hammurabi, Marduk, sociedad, administración y religión babilónica.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0205",
+    "phase_id": "phase_02",
+    "order": 5,
+    "name": "Asiria y los primeros grandes imperios militares",
+    "date_range": "c. 1400-612 a.C.",
+    "summary": "Ascenso asirio, militarización imperial, Tiglat-Pileser III, Sargón II, Senaquerib, Asurbanipal, Nínive y la organización de los primeros grandes imperios militares.",
+    "status": "content_seeded"
   }
 ]

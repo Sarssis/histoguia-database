@@ -278,6 +278,15 @@ const DATA = {
       "date_range": "c. 2004-1595 a.C.",
       "summary": "Babilonia amorrea, Hammurabi, Código de Hammurabi, Marduk, sociedad, administración y religión babilónica.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0205",
+      "phase_id": "phase_02",
+      "order": 5,
+      "name": "Asiria y los primeros grandes imperios militares",
+      "date_range": "c. 1400-612 a.C.",
+      "summary": "Ascenso asirio, militarización imperial, Tiglat-Pileser III, Sargón II, Senaquerib, Asurbanipal, Nínive y la organización de los primeros grandes imperios militares.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -2629,6 +2638,168 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Crisis de la Babilonia antigua"
+    },
+    {
+      "id": "topic_imperio_asirio",
+      "name": "Imperio asirio",
+      "type": "empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Estructura imperial asiria desarrollada en Mesopotamia y Próximo Oriente."
+    },
+    {
+      "id": "topic_imperio_asirio_medio",
+      "name": "Imperio asirio medio",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fase de expansión y consolidación asiria previa al gran Imperio neoasirio."
+    },
+    {
+      "id": "topic_imperio_neoasirio",
+      "name": "Imperio neoasirio",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fase de máximo poder asirio entre los siglos X y VII a.C."
+    },
+    {
+      "id": "topic_assur",
+      "name": "Assur",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad originaria y centro religioso de Asiria."
+    },
+    {
+      "id": "topic_kalhu",
+      "name": "Kalhu / Nimrud",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital asiria renovada por Asurnasirpal II, clave para el arte y la propaganda imperial."
+    },
+    {
+      "id": "topic_ninive",
+      "name": "Nínive",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital asiria tardía, asociada a Senaquerib, Asurbanipal y su biblioteca."
+    },
+    {
+      "id": "topic_tiglat_pileser_iii",
+      "name": "Tiglat-Pileser III",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey asirio que impulsó profundas reformas militares y administrativas."
+    },
+    {
+      "id": "topic_sargon_ii",
+      "name": "Sargón II",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey neoasirio asociado a Dur-Sharrukin y a la expansión imperial."
+    },
+    {
+      "id": "topic_senaquerib",
+      "name": "Senaquerib",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey asirio asociado a Nínive, campañas militares y grandes obras."
+    },
+    {
+      "id": "topic_asurbanipal",
+      "name": "Asurbanipal",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey asirio famoso por su biblioteca de Nínive y su poder imperial."
+    },
+    {
+      "id": "topic_biblioteca_asurbanipal",
+      "name": "Biblioteca de Asurbanipal",
+      "type": "archive",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Colección de tablillas cuneiformes conservada en Nínive, esencial para la transmisión de literatura mesopotámica."
+    },
+    {
+      "id": "topic_ejercito_asirio",
+      "name": "Ejército asirio",
+      "type": "military_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema militar profesionalizado, con asedios, caballería, deportaciones y terror político."
+    },
+    {
+      "id": "topic_deportaciones_asirias",
+      "name": "Deportaciones asirias",
+      "type": "imperial_policy",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Política imperial de traslado de poblaciones para controlar territorios y recursos."
+    },
+    {
+      "id": "topic_propaganda_asiria",
+      "name": "Propaganda asiria",
+      "type": "ideology",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Uso de relieves, inscripciones y relatos de campaña para legitimar el poder real."
+    },
+    {
+      "id": "topic_asedios_asirios",
+      "name": "Asedios asirios",
+      "type": "military_technology",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Técnicas de asedio, máquinas, rampas y operaciones militares características del ejército asirio."
+    },
+    {
+      "id": "topic_caida_asiria",
+      "name": "Caída de Asiria",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Colapso del Imperio asirio ante babilonios, medos y otros enemigos a finales del siglo VII a.C."
+    },
+    {
+      "id": "topic_dur_sharrukin",
+      "name": "Dur-Sharrukin",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital fundada por Sargón II, actual Khorsabad."
+    },
+    {
+      "id": "topic_relieve_asirio",
+      "name": "Relieve asirio",
+      "type": "art",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Arte palaciego asirio usado para narrar cacerías, campañas y poder real."
     }
   ],
   "episodes": [
@@ -9651,6 +9822,410 @@ const DATA = {
         "ciudad",
         "marduk"
       ]
+    },
+    {
+      "id": "ep_v387_asiria_imperio_militar",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "V387",
+      "title": "V387 Asiria, el primer gran imperio militar",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0205",
+      "main_topic_id": "topic_imperio_neoasirio",
+      "topic_ids": [
+        "topic_imperio_neoasirio",
+        "topic_asiria",
+        "topic_ejercito_asirio",
+        "topic_deportaciones_asirias",
+        "topic_propaganda_asiria",
+        "topic_asedios_asirios"
+      ],
+      "people_ids": [
+        "person_tiglat_pileser_iii",
+        "person_sargon_ii_assyria",
+        "person_senaquerib",
+        "person_asurbanipal"
+      ],
+      "place_ids": [
+        "place_asiria",
+        "place_assur",
+        "place_kalhu",
+        "place_ninive",
+        "place_dur_sharrukin"
+      ],
+      "civilization_ids": [
+        "civ_assyria"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v387-127774-asiria-primer-gran-imperio-militar-audios-mp3_rf_130264651_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "130264651",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal del subperiodo. Explica el ascenso de Asiria, su ejército, sus capitales, sus reformas, su propaganda y el modo en que creó uno de los primeros grandes imperios militares de la historia.",
+      "learn": [
+        "Comprender por qué Asiria puede considerarse uno de los primeros grandes imperios militares.",
+        "Identificar la importancia del ejército, los asedios y las deportaciones.",
+        "Situar Assur, Kalhu y Nínive dentro de la evolución asiria.",
+        "Relacionar el poder asirio con la administración imperial y la propaganda."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "asiria",
+        "imperio neoasirio",
+        "ejército asirio",
+        "nínive",
+        "imperio militar"
+      ]
+    },
+    {
+      "id": "ep_histocast_asirios",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Los asirios",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0205",
+      "main_topic_id": "topic_asiria",
+      "topic_ids": [
+        "topic_asiria",
+        "topic_imperio_asirio",
+        "topic_imperio_neoasirio",
+        "topic_caida_asiria"
+      ],
+      "people_ids": [
+        "person_senaquerib",
+        "person_asurbanipal"
+      ],
+      "place_ids": [
+        "place_asiria",
+        "place_ninive"
+      ],
+      "civilization_ids": [
+        "civ_assyria"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/histocast-122-asirios-audios-mp3_rf_10839646_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "10839646",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio amplio de apoyo sobre los asirios. Refuerza el contexto histórico, el carácter militar y administrativo del imperio, su expansión por el Próximo Oriente y su papel entre Babilonia y los imperios posteriores.",
+      "learn": [
+        "Conocer la evolución general de Asiria.",
+        "Relacionar imperio, ejército y administración.",
+        "Comprender su papel en el Próximo Oriente antiguo.",
+        "Ubicar Asiria entre Babilonia, Egipto, Israel y Persia."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "asirios",
+        "asiria",
+        "imperio asirio",
+        "historia antigua"
+      ]
+    },
+    {
+      "id": "ep_ninive_capital_asiria",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "Nínive, capital del Imperio Asirio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0205",
+      "main_topic_id": "topic_ninive",
+      "topic_ids": [
+        "topic_ninive",
+        "topic_senaquerib",
+        "topic_relieve_asirio",
+        "topic_propaganda_asiria"
+      ],
+      "people_ids": [
+        "person_senaquerib",
+        "person_asurbanipal"
+      ],
+      "place_ids": [
+        "place_ninive",
+        "place_asiria"
+      ],
+      "civilization_ids": [
+        "civ_assyria"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ninive-capital-del-imperio-asirio-audios-mp3_rf_64103104_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64103104",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de contexto sobre Nínive como capital imperial. Sirve para trabajar urbanismo, poder real, Senaquerib, palacios, relieves, bibliotecas y la dimensión monumental del imperio.",
+      "learn": [
+        "Identificar Nínive como capital asiria tardía.",
+        "Relacionar a Senaquerib con la transformación de la ciudad.",
+        "Comprender el papel de palacios y relieves en la propaganda.",
+        "Preparar la Biblioteca de Asurbanipal."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "nínive",
+        "asiria",
+        "senaquerib",
+        "palacios asirios"
+      ]
+    },
+    {
+      "id": "ep_biblioteca_asurbanipal",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "La Biblioteca de Asurbanipal",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0205",
+      "main_topic_id": "topic_biblioteca_asurbanipal",
+      "topic_ids": [
+        "topic_biblioteca_asurbanipal",
+        "topic_asurbanipal",
+        "topic_tablillas_arcilla",
+        "topic_escritura_cuneiforme"
+      ],
+      "people_ids": [
+        "person_asurbanipal"
+      ],
+      "place_ids": [
+        "place_ninive"
+      ],
+      "civilization_ids": [
+        "civ_assyria"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/biblioteca-asurbanipal-audios-mp3_rf_3604811_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3604811",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula centrada en la Biblioteca de Asurbanipal. Es clave para mostrar que Asiria no fue solo ejército: también archivo, conocimiento, escritura cuneiforme y transmisión de la literatura mesopotámica.",
+      "learn": [
+        "Conocer la Biblioteca de Asurbanipal.",
+        "Relacionar Nínive con la conservación de tablillas cuneiformes.",
+        "Entender la importancia cultural de Asiria.",
+        "Conectar este bloque con Gilgamesh y la tradición mesopotámica."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "biblioteca de asurbanipal",
+        "nínive",
+        "tablillas",
+        "cuneiforme"
+      ]
+    },
+    {
+      "id": "ep_caida_asiria",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "La caída del Imperio Asirio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0205",
+      "main_topic_id": "topic_caida_asiria",
+      "topic_ids": [
+        "topic_caida_asiria",
+        "topic_imperio_neoasirio",
+        "topic_ninive"
+      ],
+      "people_ids": [
+        "person_asurbanipal"
+      ],
+      "place_ids": [
+        "place_ninive",
+        "place_asiria"
+      ],
+      "civilization_ids": [
+        "civ_assyria"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/caida-del-imperio-asirio-audios-mp3_rf_58412219_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "58412219",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de cierre sobre el colapso asirio. Introduce la presión de babilonios, medos y otros enemigos, la caída de Nínive y la transición hacia el mundo neobabilónico y persa.",
+      "learn": [
+        "Comprender las causas del colapso asirio.",
+        "Situar la caída de Nínive en el 612 a.C.",
+        "Relacionar Asiria con Babilonia, medos y Persia.",
+        "Preparar el paso hacia Egipto tardío, Persia y otros imperios."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "caída de asiria",
+        "nínive",
+        "medos",
+        "babilonia"
+      ]
     }
   ],
   "civilizations": [
@@ -9890,6 +10465,33 @@ const DATA = {
       ],
       "related_people": [
         "person_hammurabi"
+      ]
+    },
+    {
+      "id": "civ_assyria",
+      "name": "Asiria",
+      "type": "empire",
+      "date_range": "c. 1400-612 a.C.",
+      "region": "Alta Mesopotamia",
+      "summary": "Civilización mesopotámica del norte que desarrolló uno de los primeros grandes imperios militares de la Antigüedad.",
+      "related_topics": [
+        "topic_asiria",
+        "topic_imperio_asirio",
+        "topic_imperio_neoasirio",
+        "topic_ejercito_asirio",
+        "topic_biblioteca_asurbanipal"
+      ],
+      "related_places": [
+        "place_asiria",
+        "place_assur",
+        "place_kalhu",
+        "place_ninive"
+      ],
+      "related_people": [
+        "person_tiglat_pileser_iii",
+        "person_sargon_ii_assyria",
+        "person_senaquerib",
+        "person_asurbanipal"
       ]
     }
   ]

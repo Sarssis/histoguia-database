@@ -1,23 +1,23 @@
-# Histoguía Database · phase_02 sub_0204 v4.4
+# Histoguía Database · phase_02 sub_0205 v4.5
 
 ## Subperiodo activado
 
-**4. Babilonia y Hammurabi**
+**5. Asiria y los primeros grandes imperios militares**
 
 ## Episodios añadidos
 
-- V386 Babilonia y Hammurabi
-- El Código de Hammurabi
-- La sociedad babilónica en tiempos de Hammurabi
-- Enuma Elish, Marduk y la creación del mundo en Babilonia
-- Babilonia, la ciudad legendaria
+- V387 Asiria, el primer gran imperio militar
+- Los asirios
+- Nínive, capital del Imperio Asirio
+- La Biblioteca de Asurbanipal
+- La caída del Imperio Asirio
 
 ## Totales
 
-- Episodios totales: 84
-- Episodios del subperiodo 0204: 5
-- Civilizaciones: 11
-- Temas: 261
-- Personas: 72
-- Lugares: 82
-- Relaciones: 1751
+- Episodios totales: 89
+- Episodios del subperiodo 0205: 5
+- Civilizaciones: 12
+- Temas: 279
+- Personas: 76
+- Lugares: 85
+- Relaciones: 1866

@@ -1,8 +1,8 @@
 {
-  "version": "4.4",
-  "description": "Periodo 02. Subperiodo 4 activo: Babilonia y Hammurabi.",
+  "version": "4.5",
+  "description": "Periodo 02. Subperiodo 5 activo: Asiria y los primeros grandes imperios militares.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 84,
+  "episode_count": 89,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 72,
-  "places_count": 82,
-  "topics_count": 261,
-  "relations_count": 1751,
-  "status": "phase02_sub0204_active",
-  "civilizations_count": 11
+  "people_count": 76,
+  "places_count": 85,
+  "topics_count": 279,
+  "relations_count": 1866,
+  "status": "phase02_sub0205_active",
+  "civilizations_count": 12
 }

@@ -1489,5 +1489,57 @@
     "related_episodes": [
       "ep_codigo_hammurabi_documentalia"
     ]
+  },
+  {
+    "id": "place_assur",
+    "name": "Assur",
+    "type": "city",
+    "modern_location": "Iraq",
+    "summary": "Ciudad originaria de Asiria y centro religioso del dios Assur.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_assur",
+      "topic_asiria"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_v387_asiria_imperio_militar"
+    ]
+  },
+  {
+    "id": "place_kalhu",
+    "name": "Kalhu / Nimrud",
+    "type": "city",
+    "modern_location": "Iraq",
+    "summary": "Capital asiria de gran importancia durante Asurnasirpal II y posteriores reyes neoasirios.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_kalhu",
+      "topic_relieve_asirio",
+      "topic_imperio_neoasirio"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_v387_asiria_imperio_militar"
+    ]
+  },
+  {
+    "id": "place_dur_sharrukin",
+    "name": "Dur-Sharrukin / Khorsabad",
+    "type": "city",
+    "modern_location": "Iraq",
+    "summary": "Capital fundada por Sargón II, ejemplo de urbanismo y propaganda imperial asiria.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_dur_sharrukin",
+      "topic_sargon_ii",
+      "topic_imperio_neoasirio"
+    ],
+    "related_people": [
+      "person_sargon_ii_assyria"
+    ],
+    "related_episodes": [
+      "ep_v387_asiria_imperio_militar"
+    ]
   }
 ]

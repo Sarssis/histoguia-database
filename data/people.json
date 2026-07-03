@@ -1507,5 +1507,92 @@
     "related_episodes": [
       "ep_codigo_hammurabi_documentalia"
     ]
+  },
+  {
+    "id": "person_tiglat_pileser_iii",
+    "name": "Tiglat-Pileser III",
+    "type": "ruler",
+    "category": "assyrian_king",
+    "scientific_name": "",
+    "dates": "r. 745-727 a.C.",
+    "period": "Imperio neoasirio",
+    "summary": "Rey asirio que reforzó el ejército, la administración provincial y la expansión imperial.",
+    "related_topics": [
+      "topic_tiglat_pileser_iii",
+      "topic_imperio_neoasirio",
+      "topic_ejercito_asirio"
+    ],
+    "related_places": [
+      "place_asiria"
+    ],
+    "related_episodes": [
+      "ep_v387_asiria_imperio_militar"
+    ]
+  },
+  {
+    "id": "person_sargon_ii_assyria",
+    "name": "Sargón II",
+    "type": "ruler",
+    "category": "assyrian_king",
+    "scientific_name": "",
+    "dates": "r. 722-705 a.C.",
+    "period": "Imperio neoasirio",
+    "summary": "Rey asirio, fundador de Dur-Sharrukin y continuador de la expansión imperial.",
+    "related_topics": [
+      "topic_sargon_ii",
+      "topic_dur_sharrukin",
+      "topic_imperio_neoasirio"
+    ],
+    "related_places": [
+      "place_dur_sharrukin",
+      "place_asiria"
+    ],
+    "related_episodes": [
+      "ep_v387_asiria_imperio_militar"
+    ]
+  },
+  {
+    "id": "person_senaquerib",
+    "name": "Senaquerib",
+    "type": "ruler",
+    "category": "assyrian_king",
+    "scientific_name": "",
+    "dates": "r. 705-681 a.C.",
+    "period": "Imperio neoasirio",
+    "summary": "Rey asirio que hizo de Nínive una gran capital imperial y dirigió importantes campañas militares.",
+    "related_topics": [
+      "topic_senaquerib",
+      "topic_ninive",
+      "topic_asedios_asirios"
+    ],
+    "related_places": [
+      "place_ninive",
+      "place_asiria"
+    ],
+    "related_episodes": [
+      "ep_ninive_capital_asiria"
+    ]
+  },
+  {
+    "id": "person_asurbanipal",
+    "name": "Asurbanipal",
+    "type": "ruler",
+    "category": "assyrian_king",
+    "scientific_name": "",
+    "dates": "r. 669-631 a.C.",
+    "period": "Imperio neoasirio",
+    "summary": "Rey asirio famoso por la Biblioteca de Nínive y por el esplendor final del imperio.",
+    "related_topics": [
+      "topic_asurbanipal",
+      "topic_biblioteca_asurbanipal",
+      "topic_imperio_neoasirio"
+    ],
+    "related_places": [
+      "place_ninive",
+      "place_asiria"
+    ],
+    "related_episodes": [
+      "ep_biblioteca_asurbanipal"
+    ]
   }
 ]

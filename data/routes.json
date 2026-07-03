@@ -200,7 +200,12 @@
       "ep_codigo_hammurabi_documentalia",
       "ep_sociedad_babilonica",
       "ep_enuma_elish_marduk",
-      "ep_babilonia_ciudad_legendaria"
+      "ep_babilonia_ciudad_legendaria",
+      "ep_v387_asiria_imperio_militar",
+      "ep_histocast_asirios",
+      "ep_ninive_capital_asiria",
+      "ep_biblioteca_asurbanipal",
+      "ep_caida_asiria"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -235,8 +240,16 @@
       "topic_sociedad_babilonica",
       "topic_marduk",
       "topic_babilonia_ciudad",
-      "topic_crisis_babilonia_antigua"
+      "topic_crisis_babilonia_antigua",
+      "topic_imperio_asirio",
+      "topic_imperio_neoasirio",
+      "topic_ejercito_asirio",
+      "topic_deportaciones_asirias",
+      "topic_ninive",
+      "topic_biblioteca_asurbanipal",
+      "topic_caida_asiria",
+      "topic_persia_aquemenida"
     ],
-    "status": "sub0204_active"
+    "status": "sub0205_active"
   }
 ]

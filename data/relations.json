@@ -12255,5 +12255,810 @@
     "target_id": "topic_asiria",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0205",
+    "source_type": "subperiod",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_imperio_neoasirio",
+    "source_type": "topic",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_asiria",
+    "source_type": "topic",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ejercito_asirio",
+    "source_type": "topic",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_deportaciones_asirias",
+    "source_type": "topic",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_propaganda_asiria",
+    "source_type": "topic",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_asedios_asirios",
+    "source_type": "topic",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tiglat_pileser_iii",
+    "source_type": "person",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_sargon_ii_assyria",
+    "source_type": "person",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_assur",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_kalhu",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_dur_sharrukin",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0205",
+    "source_type": "subperiod",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_asiria",
+    "source_type": "topic",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_imperio_asirio",
+    "source_type": "topic",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imperio_neoasirio",
+    "source_type": "topic",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_caida_asiria",
+    "source_type": "topic",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "ep_histocast_asirios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0205",
+    "source_type": "subperiod",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_ninive",
+    "source_type": "topic",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_senaquerib",
+    "source_type": "topic",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_relieve_asirio",
+    "source_type": "topic",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_propaganda_asiria",
+    "source_type": "topic",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0205",
+    "source_type": "subperiod",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_biblioteca_asurbanipal",
+    "source_type": "topic",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_asurbanipal",
+    "source_type": "topic",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tablillas_arcilla",
+    "source_type": "topic",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_escritura_cuneiforme",
+    "source_type": "topic",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0205",
+    "source_type": "subperiod",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_caida_asiria",
+    "source_type": "topic",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_imperio_neoasirio",
+    "source_type": "topic",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ninive",
+    "source_type": "topic",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "ep_caida_asiria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "topic_imperio_asirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "topic_imperio_neoasirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "topic_ejercito_asirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "topic_biblioteca_asurbanipal",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "place_asiria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "place_assur",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "place_kalhu",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "place_ninive",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "person_tiglat_pileser_iii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "person_sargon_ii_assyria",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "person_senaquerib",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_assyria",
+    "source_type": "civilization",
+    "target_id": "person_asurbanipal",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tiglat_pileser_iii",
+    "source_type": "person",
+    "target_id": "topic_tiglat_pileser_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tiglat_pileser_iii",
+    "source_type": "person",
+    "target_id": "topic_imperio_neoasirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tiglat_pileser_iii",
+    "source_type": "person",
+    "target_id": "topic_ejercito_asirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tiglat_pileser_iii",
+    "source_type": "person",
+    "target_id": "place_asiria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tiglat_pileser_iii",
+    "source_type": "person",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_sargon_ii_assyria",
+    "source_type": "person",
+    "target_id": "topic_sargon_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_ii_assyria",
+    "source_type": "person",
+    "target_id": "topic_dur_sharrukin",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_ii_assyria",
+    "source_type": "person",
+    "target_id": "topic_imperio_neoasirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_ii_assyria",
+    "source_type": "person",
+    "target_id": "place_dur_sharrukin",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_ii_assyria",
+    "source_type": "person",
+    "target_id": "place_asiria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_ii_assyria",
+    "source_type": "person",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "topic_senaquerib",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "topic_ninive",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "topic_asedios_asirios",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "place_ninive",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "place_asiria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_senaquerib",
+    "source_type": "person",
+    "target_id": "ep_ninive_capital_asiria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "topic_asurbanipal",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "topic_biblioteca_asurbanipal",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "topic_imperio_neoasirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "place_ninive",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "place_asiria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asurbanipal",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_asurbanipal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_assur",
+    "source_type": "place",
+    "target_id": "topic_assur",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_assur",
+    "source_type": "place",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_assur",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_kalhu",
+    "source_type": "place",
+    "target_id": "topic_kalhu",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_kalhu",
+    "source_type": "place",
+    "target_id": "topic_relieve_asirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_kalhu",
+    "source_type": "place",
+    "target_id": "topic_imperio_neoasirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_kalhu",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_dur_sharrukin",
+    "source_type": "place",
+    "target_id": "topic_dur_sharrukin",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dur_sharrukin",
+    "source_type": "place",
+    "target_id": "topic_sargon_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dur_sharrukin",
+    "source_type": "place",
+    "target_id": "topic_imperio_neoasirio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dur_sharrukin",
+    "source_type": "place",
+    "target_id": "person_sargon_ii_assyria",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_dur_sharrukin",
+    "source_type": "place",
+    "target_id": "ep_v387_asiria_imperio_militar",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_babilonia_ciudad",
+    "source_type": "topic",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_asiria",
+    "source_type": "topic",
+    "target_id": "topic_imperio_asirio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_imperio_asirio",
+    "source_type": "topic",
+    "target_id": "topic_imperio_neoasirio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_imperio_neoasirio",
+    "source_type": "topic",
+    "target_id": "topic_ejercito_asirio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ejercito_asirio",
+    "source_type": "topic",
+    "target_id": "topic_deportaciones_asirias",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_deportaciones_asirias",
+    "source_type": "topic",
+    "target_id": "topic_ninive",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ninive",
+    "source_type": "topic",
+    "target_id": "topic_biblioteca_asurbanipal",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_biblioteca_asurbanipal",
+    "source_type": "topic",
+    "target_id": "topic_caida_asiria",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_caida_asiria",
+    "source_type": "topic",
+    "target_id": "topic_persia_aquemenida",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

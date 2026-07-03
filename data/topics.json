@@ -2347,5 +2347,167 @@
       "phase_02"
     ],
     "summary": "Crisis de la Babilonia antigua"
+  },
+  {
+    "id": "topic_imperio_asirio",
+    "name": "Imperio asirio",
+    "type": "empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Estructura imperial asiria desarrollada en Mesopotamia y Próximo Oriente."
+  },
+  {
+    "id": "topic_imperio_asirio_medio",
+    "name": "Imperio asirio medio",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fase de expansión y consolidación asiria previa al gran Imperio neoasirio."
+  },
+  {
+    "id": "topic_imperio_neoasirio",
+    "name": "Imperio neoasirio",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fase de máximo poder asirio entre los siglos X y VII a.C."
+  },
+  {
+    "id": "topic_assur",
+    "name": "Assur",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad originaria y centro religioso de Asiria."
+  },
+  {
+    "id": "topic_kalhu",
+    "name": "Kalhu / Nimrud",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital asiria renovada por Asurnasirpal II, clave para el arte y la propaganda imperial."
+  },
+  {
+    "id": "topic_ninive",
+    "name": "Nínive",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital asiria tardía, asociada a Senaquerib, Asurbanipal y su biblioteca."
+  },
+  {
+    "id": "topic_tiglat_pileser_iii",
+    "name": "Tiglat-Pileser III",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey asirio que impulsó profundas reformas militares y administrativas."
+  },
+  {
+    "id": "topic_sargon_ii",
+    "name": "Sargón II",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey neoasirio asociado a Dur-Sharrukin y a la expansión imperial."
+  },
+  {
+    "id": "topic_senaquerib",
+    "name": "Senaquerib",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey asirio asociado a Nínive, campañas militares y grandes obras."
+  },
+  {
+    "id": "topic_asurbanipal",
+    "name": "Asurbanipal",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey asirio famoso por su biblioteca de Nínive y su poder imperial."
+  },
+  {
+    "id": "topic_biblioteca_asurbanipal",
+    "name": "Biblioteca de Asurbanipal",
+    "type": "archive",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Colección de tablillas cuneiformes conservada en Nínive, esencial para la transmisión de literatura mesopotámica."
+  },
+  {
+    "id": "topic_ejercito_asirio",
+    "name": "Ejército asirio",
+    "type": "military_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema militar profesionalizado, con asedios, caballería, deportaciones y terror político."
+  },
+  {
+    "id": "topic_deportaciones_asirias",
+    "name": "Deportaciones asirias",
+    "type": "imperial_policy",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Política imperial de traslado de poblaciones para controlar territorios y recursos."
+  },
+  {
+    "id": "topic_propaganda_asiria",
+    "name": "Propaganda asiria",
+    "type": "ideology",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Uso de relieves, inscripciones y relatos de campaña para legitimar el poder real."
+  },
+  {
+    "id": "topic_asedios_asirios",
+    "name": "Asedios asirios",
+    "type": "military_technology",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Técnicas de asedio, máquinas, rampas y operaciones militares características del ejército asirio."
+  },
+  {
+    "id": "topic_caida_asiria",
+    "name": "Caída de Asiria",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Colapso del Imperio asirio ante babilonios, medos y otros enemigos a finales del siglo VII a.C."
+  },
+  {
+    "id": "topic_dur_sharrukin",
+    "name": "Dur-Sharrukin",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital fundada por Sargón II, actual Khorsabad."
+  },
+  {
+    "id": "topic_relieve_asirio",
+    "name": "Relieve asirio",
+    "type": "art",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Arte palaciego asirio usado para narrar cacerías, campañas y poder real."
   }
 ]

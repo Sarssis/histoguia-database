@@ -236,5 +236,32 @@
     "related_people": [
       "person_hammurabi"
     ]
+  },
+  {
+    "id": "civ_assyria",
+    "name": "Asiria",
+    "type": "empire",
+    "date_range": "c. 1400-612 a.C.",
+    "region": "Alta Mesopotamia",
+    "summary": "Civilización mesopotámica del norte que desarrolló uno de los primeros grandes imperios militares de la Antigüedad.",
+    "related_topics": [
+      "topic_asiria",
+      "topic_imperio_asirio",
+      "topic_imperio_neoasirio",
+      "topic_ejercito_asirio",
+      "topic_biblioteca_asurbanipal"
+    ],
+    "related_places": [
+      "place_asiria",
+      "place_assur",
+      "place_kalhu",
+      "place_ninive"
+    ],
+    "related_people": [
+      "person_tiglat_pileser_iii",
+      "person_sargon_ii_assyria",
+      "person_senaquerib",
+      "person_asurbanipal"
+    ]
   }
 ]
