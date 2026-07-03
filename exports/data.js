@@ -251,6 +251,15 @@ const DATA = {
       "date_range": "c. 3500-2000 a.C.",
       "summary": "Nacimiento de la ciudad, escritura cuneiforme, templos, reyes, estados sumerios, Akkad y primeras estructuras imperiales.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0202",
+      "phase_id": "phase_02",
+      "order": 2,
+      "name": "Egipto predinástico y Reino Antiguo",
+      "date_range": "c. 5500-2181 a.C.",
+      "summary": "Del valle del Nilo predinástico a la unificación, las primeras dinastías, Saqqara, Menfis, Guiza y la edad de las pirámides.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -2134,6 +2143,240 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Potencia mesopotámica del norte, conocida por su expansión militar, administración imperial y capitales como Nínive."
+    },
+    {
+      "id": "topic_egipto_antiguo",
+      "name": "Antiguo Egipto",
+      "type": "civilization",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Antiguo Egipto"
+    },
+    {
+      "id": "topic_egipto_predinastico",
+      "name": "Egipto predinástico",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Egipto predinástico"
+    },
+    {
+      "id": "topic_periodo_protodinamico",
+      "name": "Periodo protodinástico",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Periodo protodinástico"
+    },
+    {
+      "id": "topic_periodo_dinastico_temprano",
+      "name": "Periodo dinástico temprano",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Periodo dinástico temprano"
+    },
+    {
+      "id": "topic_reino_antiguo_egipto",
+      "name": "Reino Antiguo de Egipto",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Reino Antiguo de Egipto"
+    },
+    {
+      "id": "topic_valle_nilo",
+      "name": "Valle del Nilo",
+      "type": "region_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Valle del Nilo"
+    },
+    {
+      "id": "topic_alto_bajo_egipto",
+      "name": "Alto y Bajo Egipto",
+      "type": "political_geography",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Alto y Bajo Egipto"
+    },
+    {
+      "id": "topic_unificacion_egipto",
+      "name": "Unificación de Egipto",
+      "type": "process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Unificación de Egipto"
+    },
+    {
+      "id": "topic_narmer",
+      "name": "Narmer",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Narmer"
+    },
+    {
+      "id": "topic_paleta_narmer",
+      "name": "Paleta de Narmer",
+      "type": "object",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Paleta de Narmer"
+    },
+    {
+      "id": "topic_nagada",
+      "name": "Nagada",
+      "type": "archaeological_culture",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Nagada"
+    },
+    {
+      "id": "topic_hieracompolis",
+      "name": "Hieracómpolis",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Hieracómpolis"
+    },
+    {
+      "id": "topic_abidos",
+      "name": "Abidos",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Abidos"
+    },
+    {
+      "id": "topic_menfis",
+      "name": "Menfis",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Menfis"
+    },
+    {
+      "id": "topic_saqqara",
+      "name": "Saqqara",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Saqqara"
+    },
+    {
+      "id": "topic_piramide_escalonada",
+      "name": "Pirámide escalonada de Djoser",
+      "type": "monument",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pirámide escalonada de Djoser"
+    },
+    {
+      "id": "topic_djoser",
+      "name": "Djoser",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Djoser"
+    },
+    {
+      "id": "topic_imhotep",
+      "name": "Imhotep",
+      "type": "historical_figure",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Imhotep"
+    },
+    {
+      "id": "topic_guiza",
+      "name": "Guiza",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Guiza"
+    },
+    {
+      "id": "topic_piramides_guiza",
+      "name": "Pirámides de Guiza",
+      "type": "monument_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pirámides de Guiza"
+    },
+    {
+      "id": "topic_keops",
+      "name": "Keops / Jufu",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Keops / Jufu"
+    },
+    {
+      "id": "topic_kefren",
+      "name": "Kefrén / Jafra",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Kefrén / Jafra"
+    },
+    {
+      "id": "topic_micerino",
+      "name": "Micerino / Menkaura",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Micerino / Menkaura"
+    },
+    {
+      "id": "topic_esfinge_guiza",
+      "name": "Gran Esfinge de Guiza",
+      "type": "monument",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Gran Esfinge de Guiza"
+    },
+    {
+      "id": "topic_momificacion_reino_antiguo",
+      "name": "Momificación en el Reino Antiguo",
+      "type": "funerary_practice",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Momificación en el Reino Antiguo"
+    },
+    {
+      "id": "topic_mastabas",
+      "name": "Mastabas",
+      "type": "architecture",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Mastabas"
     }
   ],
   "episodes": [
@@ -7779,6 +8022,567 @@ const DATA = {
         "india",
         "china"
       ]
+    },
+    {
+      "id": "ep_dentro_piramide_origen_egipto",
+      "podcast_id": "pod_dentro_piramide",
+      "podcast_name": "Dentro de la Pirámide",
+      "episode_code": "",
+      "title": "El misterioso origen de Egipto",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0202",
+      "main_topic_id": "topic_egipto_predinastico",
+      "topic_ids": [
+        "topic_egipto_predinastico",
+        "topic_valle_nilo",
+        "topic_nagada"
+      ],
+      "people_ids": [
+        "person_nacho_ares"
+      ],
+      "place_ids": [
+        "place_egipto",
+        "place_valle_nilo",
+        "place_nagada"
+      ],
+      "civilization_ids": [
+        "civ_egypt_old_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/misterioso-origen-egipto-audios-mp3_rf_127841139_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "127841139",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Apertura del bloque egipcio: valle del Nilo, desertización, Badariense, Nagada y formación de la cultura faraónica.",
+      "learn": [
+        "Comprender el papel del Nilo.",
+        "Situar el Predinástico.",
+        "Identificar Badariense y Nagada.",
+        "Preparar la unificación."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "egipto predinástico",
+        "nilo",
+        "nagada"
+      ]
+    },
+    {
+      "id": "ep_lfdlc_predinastico_egipto",
+      "podcast_id": "pod_lfdlc",
+      "podcast_name": "La Fábrica de la Ciencia",
+      "episode_code": "",
+      "title": "Egipto. Periodo Predinástico: la transición hacia la unificación de las dos tierras",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0202",
+      "main_topic_id": "topic_unificacion_egipto",
+      "topic_ids": [
+        "topic_unificacion_egipto",
+        "topic_nagada",
+        "topic_hieracompolis",
+        "topic_abidos"
+      ],
+      "people_ids": [
+        "person_narmer"
+      ],
+      "place_ids": [
+        "place_hieracompolis",
+        "place_abidos",
+        "place_nagada"
+      ],
+      "civilization_ids": [
+        "civ_egypt_old_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/egipto-periodo-predinastico-transicion-hacia-unificacion-audios-mp3_rf_8994391_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "8994391",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio clave sobre Nagada, Hieracómpolis, Abidos y la transición hacia la unificación de Egipto.",
+      "learn": [
+        "Entender la unificación.",
+        "Relacionar Nagada, Hieracómpolis y Abidos.",
+        "Identificar jerarquización.",
+        "Conectar con las primeras dinastías."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "predinástico",
+        "unificación",
+        "nagada",
+        "hieracómpolis"
+      ]
+    },
+    {
+      "id": "ep_egipto_desde_prehistoria_primera_dinastia",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Egipto: Desde la Prehistoria hasta la Primera Dinastía con Josep Cervelló",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0202",
+      "main_topic_id": "topic_periodo_dinastico_temprano",
+      "topic_ids": [
+        "topic_periodo_dinastico_temprano",
+        "topic_egipto_predinastico",
+        "topic_unificacion_egipto"
+      ],
+      "people_ids": [
+        "person_josep_cervello",
+        "person_narmer"
+      ],
+      "place_ids": [
+        "place_egipto",
+        "place_valle_nilo",
+        "place_abidos"
+      ],
+      "civilization_ids": [
+        "civ_egypt_old_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/egipto-desde-prehistoria-hasta-primera-dinastia-audios-mp3_rf_9991192_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "9991192",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Entrevista académica sobre los orígenes egipcios, desde asentamientos previos al Predinástico hasta la Primera Dinastía.",
+      "learn": [
+        "Seguir el proceso hasta la Primera Dinastía.",
+        "Distinguir Predinástico y Dinástico temprano.",
+        "Conectar arqueología y Estado.",
+        "Preparar Menfis y Saqqara."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "egipto",
+        "primera dinastía",
+        "josep cervelló"
+      ]
+    },
+    {
+      "id": "ep_egipto_unificacion_dos_tierras",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Egipto. Unificación de las Dos Tierras, era de las pirámides y Reino Antiguo",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0202",
+      "main_topic_id": "topic_reino_antiguo_egipto",
+      "topic_ids": [
+        "topic_reino_antiguo_egipto",
+        "topic_unificacion_egipto",
+        "topic_narmer",
+        "topic_piramides_guiza"
+      ],
+      "people_ids": [
+        "person_juan_carlos_moreno",
+        "person_narmer",
+        "person_djoser",
+        "person_keops"
+      ],
+      "place_ids": [
+        "place_egipto",
+        "place_menfis",
+        "place_saqqara",
+        "place_guiza"
+      ],
+      "civilization_ids": [
+        "civ_egypt_old_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/egipto-unificacion-dos-tierras-era-de-audios-mp3_rf_71421705_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "71421705",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Columna vertebral del subperiodo: unificación, primeras dinastías, edad de las pirámides, V dinastía y ocaso del Reino Antiguo.",
+      "learn": [
+        "Conectar unificación y Reino Antiguo.",
+        "Comprender Narmer y primeras dinastías.",
+        "Entender la edad de las pirámides.",
+        "Relacionar Estado y arquitectura."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "egipto",
+        "unificación",
+        "reino antiguo",
+        "pirámides"
+      ]
+    },
+    {
+      "id": "ep_saqqara_primera_piramide",
+      "podcast_id": "pod_documentales_sonoros",
+      "podcast_name": "Documentales Sonoros",
+      "episode_code": "",
+      "title": "Saqqara, la primera pirámide",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0202",
+      "main_topic_id": "topic_saqqara",
+      "topic_ids": [
+        "topic_saqqara",
+        "topic_piramide_escalonada",
+        "topic_djoser",
+        "topic_imhotep",
+        "topic_mastabas"
+      ],
+      "people_ids": [
+        "person_djoser",
+        "person_imhotep"
+      ],
+      "place_ids": [
+        "place_saqqara",
+        "place_menfis"
+      ],
+      "civilization_ids": [
+        "civ_egypt_old_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/saqqara-primera-piramide-audios-mp3_rf_63873058_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "63873058",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Documental de apoyo sobre Saqqara, Djoser, Imhotep y la primera gran arquitectura piramidal.",
+      "learn": [
+        "Conocer Saqqara.",
+        "Relacionar Djoser e Imhotep.",
+        "Entender la evolución arquitectónica.",
+        "Preparar Guiza."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "saqqara",
+        "djoser",
+        "imhotep",
+        "primera pirámide"
+      ]
+    },
+    {
+      "id": "ep_biblioteca_momias_piramides_reino_antiguo",
+      "podcast_id": "pod_biblioteca_perdida",
+      "podcast_name": "La Biblioteca Perdida",
+      "episode_code": "",
+      "title": "493 - Las momias de las pirámides del Reino Antiguo egipcio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0202",
+      "main_topic_id": "topic_momificacion_reino_antiguo",
+      "topic_ids": [
+        "topic_momificacion_reino_antiguo",
+        "topic_piramides_guiza",
+        "topic_reino_antiguo_egipto"
+      ],
+      "people_ids": [
+        "person_isabel_garcia_troccoli",
+        "person_keops",
+        "person_kefren",
+        "person_micerino"
+      ],
+      "place_ids": [
+        "place_guiza",
+        "place_egipto"
+      ],
+      "civilization_ids": [
+        "civ_egypt_old_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "2 h 15 min",
+      "duration_minutes": 135,
+      "published": "2023-09-16",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "verified",
+        "published": "verified",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/493-las-momias-piramides-del-audios-mp3_rf_116123665_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "116123665",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Ampliación sobre momias, pirámides, Guiza y prácticas funerarias del Reino Antiguo.",
+      "learn": [
+        "Comprender la dimensión funeraria.",
+        "Relacionar momificación y realeza.",
+        "Reforzar Guiza y dinastías IV-VI.",
+        "Preparar etapas posteriores."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "momias",
+        "pirámides",
+        "reino antiguo",
+        "guiza"
+      ]
+    },
+    {
+      "id": "ep_egipto_paso_a_paso_inicios",
+      "podcast_id": "pod_egipto_paso_a_paso",
+      "podcast_name": "Egipto Antiguo paso a paso",
+      "episode_code": "",
+      "title": "01 Egipto Antiguo paso a paso: Los inicios",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0202",
+      "main_topic_id": "topic_periodo_protodinamico",
+      "topic_ids": [
+        "topic_periodo_protodinamico",
+        "topic_egipto_predinastico",
+        "topic_unificacion_egipto"
+      ],
+      "people_ids": [
+        "person_narmer"
+      ],
+      "place_ids": [
+        "place_egipto",
+        "place_valle_nilo"
+      ],
+      "civilization_ids": [
+        "civ_egypt_old_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/01-egipto-antiguo-paso-a-paso-los-inicios-audios-mp3_rf_67152303_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "67152303",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula breve de repaso sobre aldeas del Nilo, Predinástico, Protodinástico y nacimiento del Egipto faraónico.",
+      "learn": [
+        "Repasar los inicios.",
+        "Relacionar aldeas del Nilo y Predinástico.",
+        "Entender la unificación.",
+        "Usar como resumen de apoyo."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "egipto",
+        "nilo",
+        "predinástico",
+        "protodinástico"
+      ]
     }
   ],
   "civilizations": [
@@ -7949,6 +8753,33 @@ const DATA = {
         "place_ninive"
       ],
       "related_people": []
+    },
+    {
+      "id": "civ_egypt_old_kingdom",
+      "name": "Egipto predinástico y Reino Antiguo",
+      "type": "civilization_period",
+      "date_range": "c. 5500-2181 a.C.",
+      "region": "Valle del Nilo",
+      "summary": "Formación de la civilización faraónica, unificación política, primeras dinastías, Menfis, Saqqara y grandes pirámides de Guiza.",
+      "related_topics": [
+        "topic_egipto_predinastico",
+        "topic_unificacion_egipto",
+        "topic_reino_antiguo_egipto",
+        "topic_piramides_guiza"
+      ],
+      "related_places": [
+        "place_valle_nilo",
+        "place_hieracompolis",
+        "place_abidos",
+        "place_saqqara",
+        "place_guiza"
+      ],
+      "related_people": [
+        "person_narmer",
+        "person_djoser",
+        "person_imhotep",
+        "person_keops"
+      ]
     }
   ]
 };

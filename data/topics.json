@@ -1879,5 +1879,239 @@
       "phase_02"
     ],
     "summary": "Potencia mesopotámica del norte, conocida por su expansión militar, administración imperial y capitales como Nínive."
+  },
+  {
+    "id": "topic_egipto_antiguo",
+    "name": "Antiguo Egipto",
+    "type": "civilization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Antiguo Egipto"
+  },
+  {
+    "id": "topic_egipto_predinastico",
+    "name": "Egipto predinástico",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Egipto predinástico"
+  },
+  {
+    "id": "topic_periodo_protodinamico",
+    "name": "Periodo protodinástico",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Periodo protodinástico"
+  },
+  {
+    "id": "topic_periodo_dinastico_temprano",
+    "name": "Periodo dinástico temprano",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Periodo dinástico temprano"
+  },
+  {
+    "id": "topic_reino_antiguo_egipto",
+    "name": "Reino Antiguo de Egipto",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Reino Antiguo de Egipto"
+  },
+  {
+    "id": "topic_valle_nilo",
+    "name": "Valle del Nilo",
+    "type": "region_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Valle del Nilo"
+  },
+  {
+    "id": "topic_alto_bajo_egipto",
+    "name": "Alto y Bajo Egipto",
+    "type": "political_geography",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Alto y Bajo Egipto"
+  },
+  {
+    "id": "topic_unificacion_egipto",
+    "name": "Unificación de Egipto",
+    "type": "process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Unificación de Egipto"
+  },
+  {
+    "id": "topic_narmer",
+    "name": "Narmer",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Narmer"
+  },
+  {
+    "id": "topic_paleta_narmer",
+    "name": "Paleta de Narmer",
+    "type": "object",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Paleta de Narmer"
+  },
+  {
+    "id": "topic_nagada",
+    "name": "Nagada",
+    "type": "archaeological_culture",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Nagada"
+  },
+  {
+    "id": "topic_hieracompolis",
+    "name": "Hieracómpolis",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Hieracómpolis"
+  },
+  {
+    "id": "topic_abidos",
+    "name": "Abidos",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Abidos"
+  },
+  {
+    "id": "topic_menfis",
+    "name": "Menfis",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Menfis"
+  },
+  {
+    "id": "topic_saqqara",
+    "name": "Saqqara",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Saqqara"
+  },
+  {
+    "id": "topic_piramide_escalonada",
+    "name": "Pirámide escalonada de Djoser",
+    "type": "monument",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pirámide escalonada de Djoser"
+  },
+  {
+    "id": "topic_djoser",
+    "name": "Djoser",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Djoser"
+  },
+  {
+    "id": "topic_imhotep",
+    "name": "Imhotep",
+    "type": "historical_figure",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Imhotep"
+  },
+  {
+    "id": "topic_guiza",
+    "name": "Guiza",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Guiza"
+  },
+  {
+    "id": "topic_piramides_guiza",
+    "name": "Pirámides de Guiza",
+    "type": "monument_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pirámides de Guiza"
+  },
+  {
+    "id": "topic_keops",
+    "name": "Keops / Jufu",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Keops / Jufu"
+  },
+  {
+    "id": "topic_kefren",
+    "name": "Kefrén / Jafra",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Kefrén / Jafra"
+  },
+  {
+    "id": "topic_micerino",
+    "name": "Micerino / Menkaura",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Micerino / Menkaura"
+  },
+  {
+    "id": "topic_esfinge_guiza",
+    "name": "Gran Esfinge de Guiza",
+    "type": "monument",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Gran Esfinge de Guiza"
+  },
+  {
+    "id": "topic_momificacion_reino_antiguo",
+    "name": "Momificación en el Reino Antiguo",
+    "type": "funerary_practice",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Momificación en el Reino Antiguo"
+  },
+  {
+    "id": "topic_mastabas",
+    "name": "Mastabas",
+    "type": "architecture",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Mastabas"
   }
 ]

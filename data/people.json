@@ -1179,5 +1179,204 @@
     "related_episodes": [
       "ep_mesopotamia_leyendas_creacion"
     ]
+  },
+  {
+    "id": "person_narmer",
+    "name": "Narmer",
+    "type": "ruler",
+    "category": "egyptian_pharaoh",
+    "scientific_name": "",
+    "dates": "c. siglo XXXI a.C.",
+    "period": "Protodinástico",
+    "summary": "Rey asociado a la unificación de Egipto.",
+    "related_topics": [
+      "topic_narmer",
+      "topic_unificacion_egipto",
+      "topic_paleta_narmer"
+    ],
+    "related_places": [
+      "place_hieracompolis",
+      "place_abidos"
+    ],
+    "related_episodes": [
+      "ep_egipto_unificacion_dos_tierras",
+      "ep_lfdlc_predinastico_egipto"
+    ]
+  },
+  {
+    "id": "person_djoser",
+    "name": "Djoser",
+    "type": "ruler",
+    "category": "egyptian_pharaoh",
+    "scientific_name": "",
+    "dates": "III dinastía",
+    "period": "Reino Antiguo",
+    "summary": "Faraón asociado a la pirámide escalonada de Saqqara.",
+    "related_topics": [
+      "topic_djoser",
+      "topic_piramide_escalonada"
+    ],
+    "related_places": [
+      "place_saqqara"
+    ],
+    "related_episodes": [
+      "ep_saqqara_primera_piramide"
+    ]
+  },
+  {
+    "id": "person_imhotep",
+    "name": "Imhotep",
+    "type": "official",
+    "category": "architect_scribe",
+    "scientific_name": "",
+    "dates": "III dinastía",
+    "period": "Reino Antiguo",
+    "summary": "Funcionario y arquitecto asociado a Djoser.",
+    "related_topics": [
+      "topic_imhotep",
+      "topic_piramide_escalonada"
+    ],
+    "related_places": [
+      "place_saqqara"
+    ],
+    "related_episodes": [
+      "ep_saqqara_primera_piramide"
+    ]
+  },
+  {
+    "id": "person_keops",
+    "name": "Keops / Jufu",
+    "type": "ruler",
+    "category": "egyptian_pharaoh",
+    "scientific_name": "",
+    "dates": "IV dinastía",
+    "period": "Reino Antiguo",
+    "summary": "Faraón asociado a la Gran Pirámide.",
+    "related_topics": [
+      "topic_keops",
+      "topic_piramides_guiza"
+    ],
+    "related_places": [
+      "place_guiza"
+    ],
+    "related_episodes": [
+      "ep_biblioteca_momias_piramides_reino_antiguo"
+    ]
+  },
+  {
+    "id": "person_kefren",
+    "name": "Kefrén / Jafra",
+    "type": "ruler",
+    "category": "egyptian_pharaoh",
+    "scientific_name": "",
+    "dates": "IV dinastía",
+    "period": "Reino Antiguo",
+    "summary": "Faraón asociado a Guiza y la Esfinge.",
+    "related_topics": [
+      "topic_kefren",
+      "topic_esfinge_guiza"
+    ],
+    "related_places": [
+      "place_guiza"
+    ],
+    "related_episodes": [
+      "ep_biblioteca_momias_piramides_reino_antiguo"
+    ]
+  },
+  {
+    "id": "person_micerino",
+    "name": "Micerino / Menkaura",
+    "type": "ruler",
+    "category": "egyptian_pharaoh",
+    "scientific_name": "",
+    "dates": "IV dinastía",
+    "period": "Reino Antiguo",
+    "summary": "Faraón asociado a la tercera pirámide de Guiza.",
+    "related_topics": [
+      "topic_micerino",
+      "topic_piramides_guiza"
+    ],
+    "related_places": [
+      "place_guiza"
+    ],
+    "related_episodes": [
+      "ep_biblioteca_momias_piramides_reino_antiguo"
+    ]
+  },
+  {
+    "id": "person_josep_cervello",
+    "name": "Josep Cervelló Autuori",
+    "type": "researcher",
+    "category": "egyptologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Egiptología",
+    "summary": "Egiptólogo especializado en los orígenes de Egipto.",
+    "related_topics": [
+      "topic_egipto_predinastico"
+    ],
+    "related_places": [
+      "place_valle_nilo"
+    ],
+    "related_episodes": [
+      "ep_egipto_desde_prehistoria_primera_dinastia"
+    ]
+  },
+  {
+    "id": "person_juan_carlos_moreno",
+    "name": "Juan Carlos Moreno García",
+    "type": "researcher",
+    "category": "egyptologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Egiptología",
+    "summary": "Egiptólogo especializado en historia social y económica de Egipto.",
+    "related_topics": [
+      "topic_reino_antiguo_egipto"
+    ],
+    "related_places": [
+      "place_guiza"
+    ],
+    "related_episodes": [
+      "ep_egipto_unificacion_dos_tierras"
+    ]
+  },
+  {
+    "id": "person_nacho_ares",
+    "name": "Nacho Ares",
+    "type": "researcher",
+    "category": "historian_communicator",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Divulgación histórica",
+    "summary": "Divulgador especializado en Egipto antiguo.",
+    "related_topics": [
+      "topic_egipto_antiguo"
+    ],
+    "related_places": [
+      "place_valle_nilo"
+    ],
+    "related_episodes": [
+      "ep_dentro_piramide_origen_egipto"
+    ]
+  },
+  {
+    "id": "person_isabel_garcia_troccoli",
+    "name": "Isabel García Trócoli",
+    "type": "researcher",
+    "category": "archaeologist",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Divulgación histórica",
+    "summary": "Arqueóloga y divulgadora sobre Egipto faraónico.",
+    "related_topics": [
+      "topic_momificacion_reino_antiguo"
+    ],
+    "related_places": [
+      "place_guiza"
+    ],
+    "related_episodes": [
+      "ep_biblioteca_momias_piramides_reino_antiguo"
+    ]
   }
 ]

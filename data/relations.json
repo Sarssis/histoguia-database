@@ -9651,5 +9651,1195 @@
     "target_id": "topic_asiria",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0202",
+    "source_type": "subperiod",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_egipto_predinastico",
+    "source_type": "topic",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_valle_nilo",
+    "source_type": "topic",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_nagada",
+    "source_type": "topic",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_nacho_ares",
+    "source_type": "person",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_nagada",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0202",
+    "source_type": "subperiod",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_unificacion_egipto",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_nagada",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hieracompolis",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_abidos",
+    "source_type": "topic",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_hieracompolis",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_abidos",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_nagada",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0202",
+    "source_type": "subperiod",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_periodo_dinastico_temprano",
+    "source_type": "topic",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_egipto_predinastico",
+    "source_type": "topic",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_unificacion_egipto",
+    "source_type": "topic",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_josep_cervello",
+    "source_type": "person",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_abidos",
+    "source_type": "place",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0202",
+    "source_type": "subperiod",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reino_antiguo_egipto",
+    "source_type": "topic",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_unificacion_egipto",
+    "source_type": "topic",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_narmer",
+    "source_type": "topic",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_piramides_guiza",
+    "source_type": "topic",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_juan_carlos_moreno",
+    "source_type": "person",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_djoser",
+    "source_type": "person",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_keops",
+    "source_type": "person",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_menfis",
+    "source_type": "place",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_saqqara",
+    "source_type": "place",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0202",
+    "source_type": "subperiod",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_saqqara",
+    "source_type": "topic",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_piramide_escalonada",
+    "source_type": "topic",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_djoser",
+    "source_type": "topic",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imhotep",
+    "source_type": "topic",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mastabas",
+    "source_type": "topic",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_djoser",
+    "source_type": "person",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_imhotep",
+    "source_type": "person",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_saqqara",
+    "source_type": "place",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_menfis",
+    "source_type": "place",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0202",
+    "source_type": "subperiod",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_momificacion_reino_antiguo",
+    "source_type": "topic",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_piramides_guiza",
+    "source_type": "topic",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_antiguo_egipto",
+    "source_type": "topic",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_isabel_garcia_troccoli",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_keops",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_kefren",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_micerino",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0202",
+    "source_type": "subperiod",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_periodo_protodinamico",
+    "source_type": "topic",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_egipto_predinastico",
+    "source_type": "topic",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_unificacion_egipto",
+    "source_type": "topic",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_egipto_paso_a_paso_inicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_egipto_predinastico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_unificacion_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_reino_antiguo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_piramides_guiza",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_valle_nilo",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_hieracompolis",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_abidos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_saqqara",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_guiza",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_narmer",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_djoser",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_imhotep",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_old_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_keops",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "topic_narmer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "topic_unificacion_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "topic_paleta_narmer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "place_hieracompolis",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "place_abidos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_narmer",
+    "source_type": "person",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_djoser",
+    "source_type": "person",
+    "target_id": "topic_djoser",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_djoser",
+    "source_type": "person",
+    "target_id": "topic_piramide_escalonada",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_djoser",
+    "source_type": "person",
+    "target_id": "place_saqqara",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_djoser",
+    "source_type": "person",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_imhotep",
+    "source_type": "person",
+    "target_id": "topic_imhotep",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_imhotep",
+    "source_type": "person",
+    "target_id": "topic_piramide_escalonada",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_imhotep",
+    "source_type": "person",
+    "target_id": "place_saqqara",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_imhotep",
+    "source_type": "person",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_keops",
+    "source_type": "person",
+    "target_id": "topic_keops",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_keops",
+    "source_type": "person",
+    "target_id": "topic_piramides_guiza",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_keops",
+    "source_type": "person",
+    "target_id": "place_guiza",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_keops",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_kefren",
+    "source_type": "person",
+    "target_id": "topic_kefren",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_kefren",
+    "source_type": "person",
+    "target_id": "topic_esfinge_guiza",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_kefren",
+    "source_type": "person",
+    "target_id": "place_guiza",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_kefren",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_micerino",
+    "source_type": "person",
+    "target_id": "topic_micerino",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_micerino",
+    "source_type": "person",
+    "target_id": "topic_piramides_guiza",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_micerino",
+    "source_type": "person",
+    "target_id": "place_guiza",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_micerino",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_josep_cervello",
+    "source_type": "person",
+    "target_id": "topic_egipto_predinastico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_josep_cervello",
+    "source_type": "person",
+    "target_id": "place_valle_nilo",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_josep_cervello",
+    "source_type": "person",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_juan_carlos_moreno",
+    "source_type": "person",
+    "target_id": "topic_reino_antiguo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_carlos_moreno",
+    "source_type": "person",
+    "target_id": "place_guiza",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_juan_carlos_moreno",
+    "source_type": "person",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_nacho_ares",
+    "source_type": "person",
+    "target_id": "topic_egipto_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nacho_ares",
+    "source_type": "person",
+    "target_id": "place_valle_nilo",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nacho_ares",
+    "source_type": "person",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_isabel_garcia_troccoli",
+    "source_type": "person",
+    "target_id": "topic_momificacion_reino_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_isabel_garcia_troccoli",
+    "source_type": "person",
+    "target_id": "place_guiza",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_isabel_garcia_troccoli",
+    "source_type": "person",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "topic_egipto_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "person_narmer",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_egipto",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "topic_valle_nilo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "topic_egipto_predinastico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "person_narmer",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "ep_dentro_piramide_origen_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_hieracompolis",
+    "source_type": "place",
+    "target_id": "topic_hieracompolis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hieracompolis",
+    "source_type": "place",
+    "target_id": "person_narmer",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hieracompolis",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_abidos",
+    "source_type": "place",
+    "target_id": "topic_abidos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_abidos",
+    "source_type": "place",
+    "target_id": "person_narmer",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_abidos",
+    "source_type": "place",
+    "target_id": "ep_egipto_desde_prehistoria_primera_dinastia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_nagada",
+    "source_type": "place",
+    "target_id": "topic_nagada",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nagada",
+    "source_type": "place",
+    "target_id": "ep_lfdlc_predinastico_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_menfis",
+    "source_type": "place",
+    "target_id": "topic_menfis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_menfis",
+    "source_type": "place",
+    "target_id": "person_djoser",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_menfis",
+    "source_type": "place",
+    "target_id": "ep_egipto_unificacion_dos_tierras",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_saqqara",
+    "source_type": "place",
+    "target_id": "topic_saqqara",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_saqqara",
+    "source_type": "place",
+    "target_id": "topic_piramide_escalonada",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_saqqara",
+    "source_type": "place",
+    "target_id": "person_djoser",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_saqqara",
+    "source_type": "place",
+    "target_id": "person_imhotep",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_saqqara",
+    "source_type": "place",
+    "target_id": "ep_saqqara_primera_piramide",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "topic_guiza",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "topic_piramides_guiza",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "person_keops",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "person_kefren",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "person_micerino",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guiza",
+    "source_type": "place",
+    "target_id": "ep_biblioteca_momias_piramides_reino_antiguo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mesopotamia",
+    "source_type": "topic",
+    "target_id": "topic_egipto_antiguo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_egipto_antiguo",
+    "source_type": "topic",
+    "target_id": "topic_valle_nilo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_valle_nilo",
+    "source_type": "topic",
+    "target_id": "topic_egipto_predinastico",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_egipto_predinastico",
+    "source_type": "topic",
+    "target_id": "topic_unificacion_egipto",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_unificacion_egipto",
+    "source_type": "topic",
+    "target_id": "topic_periodo_dinastico_temprano",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_periodo_dinastico_temprano",
+    "source_type": "topic",
+    "target_id": "topic_menfis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_menfis",
+    "source_type": "topic",
+    "target_id": "topic_reino_antiguo_egipto",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_reino_antiguo_egipto",
+    "source_type": "topic",
+    "target_id": "topic_saqqara",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_saqqara",
+    "source_type": "topic",
+    "target_id": "topic_piramides_guiza",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

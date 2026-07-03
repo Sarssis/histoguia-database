@@ -183,7 +183,14 @@
       "ep_v384_civilizacion_sumeria",
       "ep_ignacio_monzon_sumeria",
       "ep_mesopotamia_leyendas_creacion",
-      "ep_historia_universal_primeras_civilizaciones"
+      "ep_historia_universal_primeras_civilizaciones",
+      "ep_dentro_piramide_origen_egipto",
+      "ep_lfdlc_predinastico_egipto",
+      "ep_egipto_desde_prehistoria_primera_dinastia",
+      "ep_egipto_unificacion_dos_tierras",
+      "ep_saqqara_primera_piramide",
+      "ep_biblioteca_momias_piramides_reino_antiguo",
+      "ep_egipto_paso_a_paso_inicios"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -195,8 +202,17 @@
       "topic_ciudad_estado",
       "topic_imperio_acadio",
       "topic_babilonia",
-      "topic_asiria"
+      "topic_asiria",
+      "topic_egipto_antiguo",
+      "topic_valle_nilo",
+      "topic_egipto_predinastico",
+      "topic_unificacion_egipto",
+      "topic_periodo_dinastico_temprano",
+      "topic_menfis",
+      "topic_reino_antiguo_egipto",
+      "topic_saqqara",
+      "topic_piramides_guiza"
     ],
-    "status": "sub0201_active"
+    "status": "sub0202_active"
   }
 ]

@@ -1289,5 +1289,145 @@
     "related_episodes": [
       "ep_historia_universal_primeras_civilizaciones"
     ]
+  },
+  {
+    "id": "place_egipto",
+    "name": "Egipto",
+    "type": "region",
+    "modern_location": "Egipto",
+    "summary": "Territorio del valle y delta del Nilo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_egipto_antiguo"
+    ],
+    "related_people": [
+      "person_narmer"
+    ],
+    "related_episodes": [
+      "ep_dentro_piramide_origen_egipto"
+    ]
+  },
+  {
+    "id": "place_valle_nilo",
+    "name": "Valle del Nilo",
+    "type": "region",
+    "modern_location": "Egipto y Sudán",
+    "summary": "Eje geográfico de la civilización egipcia.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_valle_nilo",
+      "topic_egipto_predinastico"
+    ],
+    "related_people": [
+      "person_narmer"
+    ],
+    "related_episodes": [
+      "ep_dentro_piramide_origen_egipto"
+    ]
+  },
+  {
+    "id": "place_hieracompolis",
+    "name": "Hieracómpolis",
+    "type": "site",
+    "modern_location": "Alto Egipto",
+    "summary": "Yacimiento predinástico clave.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_hieracompolis"
+    ],
+    "related_people": [
+      "person_narmer"
+    ],
+    "related_episodes": [
+      "ep_lfdlc_predinastico_egipto"
+    ]
+  },
+  {
+    "id": "place_abidos",
+    "name": "Abidos",
+    "type": "site",
+    "modern_location": "Alto Egipto",
+    "summary": "Centro funerario y religioso de las primeras dinastías.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_abidos"
+    ],
+    "related_people": [
+      "person_narmer"
+    ],
+    "related_episodes": [
+      "ep_egipto_desde_prehistoria_primera_dinastia"
+    ]
+  },
+  {
+    "id": "place_nagada",
+    "name": "Nagada",
+    "type": "site_area",
+    "modern_location": "Alto Egipto",
+    "summary": "Área asociada a la secuencia cultural predinástica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_nagada"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_lfdlc_predinastico_egipto"
+    ]
+  },
+  {
+    "id": "place_menfis",
+    "name": "Menfis",
+    "type": "city",
+    "modern_location": "Egipto",
+    "summary": "Capital tradicional del Egipto unificado.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_menfis"
+    ],
+    "related_people": [
+      "person_djoser"
+    ],
+    "related_episodes": [
+      "ep_egipto_unificacion_dos_tierras"
+    ]
+  },
+  {
+    "id": "place_saqqara",
+    "name": "Saqqara",
+    "type": "site",
+    "modern_location": "Egipto",
+    "summary": "Necrópolis de Menfis y lugar de la pirámide escalonada de Djoser.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_saqqara",
+      "topic_piramide_escalonada"
+    ],
+    "related_people": [
+      "person_djoser",
+      "person_imhotep"
+    ],
+    "related_episodes": [
+      "ep_saqqara_primera_piramide"
+    ]
+  },
+  {
+    "id": "place_guiza",
+    "name": "Guiza",
+    "type": "site",
+    "modern_location": "Egipto",
+    "summary": "Necrópolis con las grandes pirámides de la IV dinastía.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_guiza",
+      "topic_piramides_guiza"
+    ],
+    "related_people": [
+      "person_keops",
+      "person_kefren",
+      "person_micerino"
+    ],
+    "related_episodes": [
+      "ep_biblioteca_momias_piramides_reino_antiguo"
+    ]
   }
 ]

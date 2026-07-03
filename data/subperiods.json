@@ -120,5 +120,14 @@
     "date_range": "c. 3500-2000 a.C.",
     "summary": "Nacimiento de la ciudad, escritura cuneiforme, templos, reyes, estados sumerios, Akkad y primeras estructuras imperiales.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0202",
+    "phase_id": "phase_02",
+    "order": 2,
+    "name": "Egipto predinástico y Reino Antiguo",
+    "date_range": "c. 5500-2181 a.C.",
+    "summary": "Del valle del Nilo predinástico a la unificación, las primeras dinastías, Saqqara, Menfis, Guiza y la edad de las pirámides.",
+    "status": "content_seeded"
   }
 ]

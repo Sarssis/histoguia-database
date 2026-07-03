@@ -166,5 +166,32 @@
       "place_ninive"
     ],
     "related_people": []
+  },
+  {
+    "id": "civ_egypt_old_kingdom",
+    "name": "Egipto predinástico y Reino Antiguo",
+    "type": "civilization_period",
+    "date_range": "c. 5500-2181 a.C.",
+    "region": "Valle del Nilo",
+    "summary": "Formación de la civilización faraónica, unificación política, primeras dinastías, Menfis, Saqqara y grandes pirámides de Guiza.",
+    "related_topics": [
+      "topic_egipto_predinastico",
+      "topic_unificacion_egipto",
+      "topic_reino_antiguo_egipto",
+      "topic_piramides_guiza"
+    ],
+    "related_places": [
+      "place_valle_nilo",
+      "place_hieracompolis",
+      "place_abidos",
+      "place_saqqara",
+      "place_guiza"
+    ],
+    "related_people": [
+      "person_narmer",
+      "person_djoser",
+      "person_imhotep",
+      "person_keops"
+    ]
   }
 ]

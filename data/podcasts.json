@@ -394,5 +394,41 @@
     "spotify_show_url": "",
     "ivoox_show_url": "https://www.ivoox.com/podcast-ignacio-monzon_sq_f174127_1.html",
     "status": "active_legacy"
+  },
+  {
+    "id": "pod_histocast",
+    "name": "HistoCast",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-histocast_sq_f164618_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_documentales_sonoros",
+    "name": "Documentales Sonoros",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-documentales-sonoros_sq_f1878_1.html",
+    "status": "active_secondary"
+  },
+  {
+    "id": "pod_biblioteca_perdida",
+    "name": "La Biblioteca Perdida",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-biblioteca-perdida_sq_f12522_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_egipto_paso_a_paso",
+    "name": "Egipto Antiguo paso a paso",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_secondary"
   }
 ]

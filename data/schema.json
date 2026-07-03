@@ -1,8 +1,8 @@
 {
-  "version": "4.1",
-  "description": "Periodo 02 iniciado. Subperiodo 1 activo: Mesopotamia y Sumer.",
+  "version": "4.2",
+  "description": "Periodo 02. Subperiodo 2 activo: Egipto predinástico y Reino Antiguo.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 67,
+  "episode_count": 74,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 56,
-  "places_count": 71,
-  "topics_count": 209,
-  "relations_count": 1379,
-  "status": "phase02_sub0201_active",
-  "civilizations_count": 8
+  "people_count": 66,
+  "places_count": 79,
+  "topics_count": 235,
+  "relations_count": 1549,
+  "status": "phase02_sub0202_active",
+  "civilizations_count": 9
 }
