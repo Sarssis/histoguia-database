@@ -90,5 +90,81 @@
     "episode_ids": [
       "ep_lhe_prehistoria_peninsula"
     ]
+  },
+  {
+    "id": "civ_sumer",
+    "name": "Sumer",
+    "type": "civilization",
+    "date_range": "c. 3500-2000 a.C.",
+    "region": "Baja Mesopotamia",
+    "summary": "Una de las primeras civilizaciones urbanas, asociada a ciudades-estado, escritura cuneiforme, templos, administración y literatura.",
+    "related_topics": [
+      "topic_sumer",
+      "topic_escritura_cuneiforme",
+      "topic_ciudad_estado",
+      "topic_gilgamesh"
+    ],
+    "related_places": [
+      "place_mesopotamia",
+      "place_uruk",
+      "place_ur",
+      "place_lagash"
+    ],
+    "related_people": [
+      "person_gilgamesh"
+    ]
+  },
+  {
+    "id": "civ_akkad",
+    "name": "Akkad",
+    "type": "empire",
+    "date_range": "c. 2334-2154 a.C.",
+    "region": "Mesopotamia",
+    "summary": "Imperio mesopotámico asociado a Sargón de Akkad y a la primera gran integración política regional.",
+    "related_topics": [
+      "topic_imperio_acadio",
+      "topic_sargon_akkad",
+      "topic_mesopotamia"
+    ],
+    "related_places": [
+      "place_mesopotamia"
+    ],
+    "related_people": [
+      "person_sargon_akkad"
+    ]
+  },
+  {
+    "id": "civ_babilonia",
+    "name": "Babilonia",
+    "type": "kingdom_empire",
+    "date_range": "II-I milenio a.C.",
+    "region": "Mesopotamia",
+    "summary": "Civilización mesopotámica centrada en Babilonia, destacada por su política, derecho, astronomía, literatura y religión.",
+    "related_topics": [
+      "topic_babilonia",
+      "topic_enuma_elish",
+      "topic_mitologia_mesopotamica"
+    ],
+    "related_places": [
+      "place_babilonia"
+    ],
+    "related_people": []
+  },
+  {
+    "id": "civ_asiria",
+    "name": "Asiria",
+    "type": "empire",
+    "date_range": "II-I milenio a.C.",
+    "region": "Alta Mesopotamia",
+    "summary": "Potencia imperial mesopotámica caracterizada por militarismo, administración centralizada y grandes capitales como Nínive.",
+    "related_topics": [
+      "topic_asiria",
+      "topic_mesopotamia"
+    ],
+    "related_places": [
+      "place_asiria",
+      "place_ninive"
+    ],
+    "related_people": []
   }
 ]

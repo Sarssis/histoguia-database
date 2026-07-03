@@ -111,5 +111,14 @@
     "date_range": "c. 1200-500 a.C.",
     "summary": "Edad del Hierro, metalurgia del hierro, Protohistoria, íberos, celtíberos, fenicios, griegos, celtas y contactos mediterráneos.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0201",
+    "phase_id": "phase_02",
+    "order": 1,
+    "name": "Mesopotamia y Sumer",
+    "date_range": "c. 3500-2000 a.C.",
+    "summary": "Nacimiento de la ciudad, escritura cuneiforme, templos, reyes, estados sumerios, Akkad y primeras estructuras imperiales.",
+    "status": "content_seeded"
   }
 ]

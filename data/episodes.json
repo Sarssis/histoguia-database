@@ -5296,5 +5296,350 @@
       "edad del hierro",
       "europa"
     ]
+  },
+  {
+    "id": "ep_v384_civilizacion_sumeria",
+    "podcast_id": "pod_victoria_historia",
+    "podcast_name": "Victoria Podcast Historia",
+    "episode_code": "V384",
+    "title": "V384 Civilización Sumeria",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0201",
+    "main_topic_id": "topic_sumer",
+    "topic_ids": [
+      "topic_sumer",
+      "topic_sumerios",
+      "topic_mesopotamia",
+      "topic_ciudad_estado",
+      "topic_escritura_cuneiforme",
+      "topic_imperio_acadio"
+    ],
+    "people_ids": [
+      "person_sargon_akkad"
+    ],
+    "place_ids": [
+      "place_mesopotamia",
+      "place_uruk",
+      "place_ur",
+      "place_lagash"
+    ],
+    "civilization_ids": [
+      "civ_sumer",
+      "civ_akkad"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2024",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/v384-127774-civilizacion-sumeria-audios-mp3_rf_129463624_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "129463624",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio troncal para abrir el periodo de Primeras Civilizaciones. Presenta Sumer como una de las primeras civilizaciones urbanas complejas y plantea los grandes ejes del bloque: ciudades, templos, escritura, poder, comercio y memoria histórica.",
+    "learn": [
+      "Comprender por qué Sumer es una de las primeras civilizaciones complejas.",
+      "Identificar las ciudades sumerias como centros políticos, religiosos y económicos.",
+      "Relacionar escritura, administración y urbanización.",
+      "Abrir el paso hacia Akkad, Babilonia y Asiria."
+    ],
+    "listen_before": [],
+    "listen_after": [
+      "ep_ignacio_monzon_sumeria"
+    ],
+    "related_topics": [],
+    "keywords": [
+      "sumer",
+      "sumerios",
+      "mesopotamia",
+      "ciudades-estado",
+      "escritura cuneiforme"
+    ]
+  },
+  {
+    "id": "ep_ignacio_monzon_sumeria",
+    "podcast_id": "pod_ignacio_monzon",
+    "podcast_name": "IGNACIO MONZÓN",
+    "episode_code": "Audio 177",
+    "title": "Ignacio Monzón. Audio 177. La civilización Sumeria",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0201",
+    "main_topic_id": "topic_sumerios",
+    "topic_ids": [
+      "topic_sumerios",
+      "topic_sumer",
+      "topic_mesopotamia",
+      "topic_uruk",
+      "topic_ur"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_mesopotamia",
+      "place_uruk",
+      "place_ur"
+    ],
+    "civilization_ids": [
+      "civ_sumer"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2012",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/ignacio-monzon-audio-177-la-civilizacion-sumeria-audios-mp3_rf_1654369_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "1654369",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Entrevista de apoyo sobre la civilización sumeria. Es útil para reforzar la idea de Sumer como punto de arranque de la civilización urbana, con énfasis en tradición, religión, cultura material y memoria histórica.",
+    "learn": [
+      "Reforzar la importancia histórica de la civilización sumeria.",
+      "Relacionar Sumer con religión, arte, ciudades y tradiciones antiguas.",
+      "Entender el interés historiográfico por la primera urbanización.",
+      "Complementar el episodio troncal sobre Sumer."
+    ],
+    "listen_before": [
+      "ep_v384_civilizacion_sumeria"
+    ],
+    "listen_after": [
+      "ep_mesopotamia_leyendas_creacion"
+    ],
+    "related_topics": [],
+    "keywords": [
+      "sumeria",
+      "sumerios",
+      "civilización",
+      "uruk",
+      "ur",
+      "mesopotamia"
+    ]
+  },
+  {
+    "id": "ep_mesopotamia_leyendas_creacion",
+    "podcast_id": "pod_desaprendiendo_historia",
+    "podcast_name": "Desaprendiendo la Historia",
+    "episode_code": "",
+    "title": "Mesopotamia y sus leyendas, el origen del mundo y la creación del hombre",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0201",
+    "main_topic_id": "topic_mitologia_mesopotamica",
+    "topic_ids": [
+      "topic_mitologia_mesopotamica",
+      "topic_enuma_elish",
+      "topic_gilgamesh",
+      "topic_babilonia",
+      "topic_mesopotamia"
+    ],
+    "people_ids": [
+      "person_eva_tobalina",
+      "person_gilgamesh"
+    ],
+    "place_ids": [
+      "place_mesopotamia",
+      "place_babilonia",
+      "place_uruk"
+    ],
+    "civilization_ids": [
+      "civ_sumer",
+      "civ_babilonia"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2025",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/mesopotamia-sus-leyendas-origen-del-mundo-audios-mp3_rf_139882191_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "139882191",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio especializado en mitología mesopotámica. Introduce cosmogonía, dioses, relatos de creación, Enuma Elish y la forma en que sumerios y babilonios explicaban el origen del mundo y del ser humano.",
+    "learn": [
+      "Comprender la mitología mesopotámica como parte de la cultura de las primeras civilizaciones.",
+      "Relacionar Sumer y Babilonia con relatos de creación.",
+      "Identificar el Enuma Elish y la figura de Gilgamesh dentro del universo mesopotámico.",
+      "Diferenciar historia política y tradición mítica."
+    ],
+    "listen_before": [
+      "ep_ignacio_monzon_sumeria"
+    ],
+    "listen_after": [
+      "ep_historia_universal_primeras_civilizaciones"
+    ],
+    "related_topics": [],
+    "keywords": [
+      "mesopotamia",
+      "mitología",
+      "enuma elish",
+      "gilgamesh",
+      "sumerios",
+      "babilonia"
+    ]
+  },
+  {
+    "id": "ep_historia_universal_primeras_civilizaciones",
+    "podcast_id": "pod_historia_documentales",
+    "podcast_name": "Audio-documentales",
+    "episode_code": "1",
+    "title": "Historia Universal 1",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0201",
+    "main_topic_id": "topic_primeras_civilizaciones",
+    "topic_ids": [
+      "topic_primeras_civilizaciones",
+      "topic_mesopotamia",
+      "topic_babilonia",
+      "topic_asiria"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_mesopotamia",
+      "place_babilonia",
+      "place_asiria"
+    ],
+    "civilization_ids": [
+      "civ_sumer",
+      "civ_babilonia",
+      "civ_asiria"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 1,
+    "difficulty": 1,
+    "depth": 1,
+    "editor_rating": 3,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/historia-universal-1-audios-mp3_rf_236158_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "236158",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio panorámico de apoyo para situar Mesopotamia junto a Egipto, hititas, India, China, fenicios y otros focos civilizatorios. Funciona como cierre del subperiodo y puente hacia el resto del periodo 02.",
+    "learn": [
+      "Ubicar Mesopotamia dentro del mapa global de primeras civilizaciones.",
+      "Relacionar Sumer, Egipto, hititas, India y China como focos tempranos de complejidad.",
+      "Preparar el paso hacia Egipto y otros subperiodos del periodo 02.",
+      "Entender la diferencia entre bloque monográfico y visión panorámica."
+    ],
+    "listen_before": [
+      "ep_mesopotamia_leyendas_creacion"
+    ],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "primeras civilizaciones",
+      "mesopotamia",
+      "egipto",
+      "hititas",
+      "india",
+      "china"
+    ]
   }
 ]

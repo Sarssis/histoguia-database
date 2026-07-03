@@ -8685,5 +8685,971 @@
     "target_id": "topic_celtiberos",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0201",
+    "source_type": "subperiod",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sumer",
+    "source_type": "topic",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sumerios",
+    "source_type": "topic",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mesopotamia",
+    "source_type": "topic",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ciudad_estado",
+    "source_type": "topic",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_escritura_cuneiforme",
+    "source_type": "topic",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_lagash",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_v384_civilizacion_sumeria",
+    "source_type": "episode",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0201",
+    "source_type": "subperiod",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sumerios",
+    "source_type": "topic",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sumer",
+    "source_type": "topic",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mesopotamia",
+    "source_type": "topic",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_uruk",
+    "source_type": "topic",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ur",
+    "source_type": "topic",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_v384_civilizacion_sumeria",
+    "source_type": "episode",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_ignacio_monzon_sumeria",
+    "source_type": "episode",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0201",
+    "source_type": "subperiod",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_mitologia_mesopotamica",
+    "source_type": "topic",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_enuma_elish",
+    "source_type": "topic",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_gilgamesh",
+    "source_type": "topic",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_babilonia",
+    "source_type": "topic",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mesopotamia",
+    "source_type": "topic",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_eva_tobalina",
+    "source_type": "person",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_gilgamesh",
+    "source_type": "person",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_ignacio_monzon_sumeria",
+    "source_type": "episode",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "ep_mesopotamia_leyendas_creacion",
+    "source_type": "episode",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "listen_after"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0201",
+    "source_type": "subperiod",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primeras_civilizaciones",
+    "source_type": "topic",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_mesopotamia",
+    "source_type": "topic",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_babilonia",
+    "source_type": "topic",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_asiria",
+    "source_type": "topic",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_asiria",
+    "source_type": "civilization",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "ep_mesopotamia_leyendas_creacion",
+    "source_type": "episode",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "listen_before"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "topic_sumer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "topic_escritura_cuneiforme",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "topic_ciudad_estado",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "topic_gilgamesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "place_uruk",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "place_ur",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "place_lagash",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sumer",
+    "source_type": "civilization",
+    "target_id": "person_gilgamesh",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "topic_imperio_acadio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "topic_sargon_akkad",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "topic_mesopotamia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_akkad",
+    "source_type": "civilization",
+    "target_id": "person_sargon_akkad",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "topic_babilonia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "topic_enuma_elish",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "topic_mitologia_mesopotamica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "place_babilonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_asiria",
+    "source_type": "civilization",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_asiria",
+    "source_type": "civilization",
+    "target_id": "topic_mesopotamia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_asiria",
+    "source_type": "civilization",
+    "target_id": "place_asiria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_asiria",
+    "source_type": "civilization",
+    "target_id": "place_ninive",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_gilgamesh",
+    "source_type": "person",
+    "target_id": "topic_gilgamesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_gilgamesh",
+    "source_type": "person",
+    "target_id": "topic_uruk",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_gilgamesh",
+    "source_type": "person",
+    "target_id": "topic_mitologia_mesopotamica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_gilgamesh",
+    "source_type": "person",
+    "target_id": "place_uruk",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_gilgamesh",
+    "source_type": "person",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "topic_sargon_akkad",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "topic_imperio_acadio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "topic_mesopotamia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sargon_akkad",
+    "source_type": "person",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_eva_tobalina",
+    "source_type": "person",
+    "target_id": "topic_mitologia_mesopotamica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eva_tobalina",
+    "source_type": "person",
+    "target_id": "topic_enuma_elish",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eva_tobalina",
+    "source_type": "person",
+    "target_id": "topic_gilgamesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eva_tobalina",
+    "source_type": "person",
+    "target_id": "place_mesopotamia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_eva_tobalina",
+    "source_type": "person",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "topic_mesopotamia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "topic_sumer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "topic_babilonia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "person_gilgamesh",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "person_sargon_akkad",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mesopotamia",
+    "source_type": "place",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "topic_uruk",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "topic_sumer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "topic_gilgamesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "person_gilgamesh",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_uruk",
+    "source_type": "place",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "topic_ur",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "topic_sumer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "topic_zigurat",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_ur",
+    "source_type": "place",
+    "target_id": "ep_ignacio_monzon_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_lagash",
+    "source_type": "place",
+    "target_id": "topic_lagash",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lagash",
+    "source_type": "place",
+    "target_id": "topic_ciudad_estado",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lagash",
+    "source_type": "place",
+    "target_id": "topic_sumer",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lagash",
+    "source_type": "place",
+    "target_id": "ep_v384_civilizacion_sumeria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "topic_babilonia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "topic_enuma_elish",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "topic_mitologia_mesopotamica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_mesopotamia_leyendas_creacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "topic_mesopotamia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_asiria",
+    "source_type": "place",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "topic_tablillas_arcilla",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ninive",
+    "source_type": "place",
+    "target_id": "ep_historia_universal_primeras_civilizaciones",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_edad_hierro",
+    "source_type": "topic",
+    "target_id": "topic_primeras_civilizaciones",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_primeras_civilizaciones",
+    "source_type": "topic",
+    "target_id": "topic_mesopotamia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_mesopotamia",
+    "source_type": "topic",
+    "target_id": "topic_sumer",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_sumer",
+    "source_type": "topic",
+    "target_id": "topic_uruk",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_uruk",
+    "source_type": "topic",
+    "target_id": "topic_escritura_cuneiforme",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_escritura_cuneiforme",
+    "source_type": "topic",
+    "target_id": "topic_ciudad_estado",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ciudad_estado",
+    "source_type": "topic",
+    "target_id": "topic_imperio_acadio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_imperio_acadio",
+    "source_type": "topic",
+    "target_id": "topic_babilonia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_babilonia",
+    "source_type": "topic",
+    "target_id": "topic_asiria",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

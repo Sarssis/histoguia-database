@@ -1717,5 +1717,167 @@
       "phase_01"
     ],
     "summary": "Grandes asentamientos fortificados de la Edad del Hierro europea."
+  },
+  {
+    "id": "topic_mesopotamia",
+    "name": "Mesopotamia",
+    "type": "region_civilization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Región entre el Tigris y el Éufrates donde surgen algunas de las primeras ciudades, estados y escrituras."
+  },
+  {
+    "id": "topic_sumer",
+    "name": "Sumer",
+    "type": "civilization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Civilización del sur de Mesopotamia asociada a ciudades-estado, templos, escritura cuneiforme y formas tempranas de organización urbana."
+  },
+  {
+    "id": "topic_sumerios",
+    "name": "Sumerios",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Población de la baja Mesopotamia vinculada al desarrollo de la civilización sumeria."
+  },
+  {
+    "id": "topic_uruk",
+    "name": "Uruk",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad sumeria fundamental para estudiar urbanización, escritura temprana y poder templario."
+  },
+  {
+    "id": "topic_ur",
+    "name": "Ur",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad sumeria destacada, conocida por sus tumbas reales y por su importancia política y religiosa."
+  },
+  {
+    "id": "topic_lagash",
+    "name": "Lagash",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad-estado sumeria relevante para estudiar política, guerra, administración y reformas sociales."
+  },
+  {
+    "id": "topic_escritura_cuneiforme",
+    "name": "Escritura cuneiforme",
+    "type": "technology",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema de escritura mesopotámico realizado con signos en forma de cuña sobre tablillas de arcilla."
+  },
+  {
+    "id": "topic_tablillas_arcilla",
+    "name": "Tablillas de arcilla",
+    "type": "object_type",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Soporte documental característico de Mesopotamia, clave para administración, literatura, leyes y comercio."
+  },
+  {
+    "id": "topic_zigurat",
+    "name": "Zigurat",
+    "type": "architecture",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Estructura monumental escalonada vinculada a templos y centros religiosos mesopotámicos."
+  },
+  {
+    "id": "topic_ciudad_estado",
+    "name": "Ciudad-estado",
+    "type": "political_model",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Forma política urbana con autoridad propia, territorio, templos y administración."
+  },
+  {
+    "id": "topic_reyes_sumerios",
+    "name": "Reyes sumerios",
+    "type": "political_model",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Figuras de poder vinculadas a guerra, religión, obras públicas y legitimación mítica."
+  },
+  {
+    "id": "topic_gilgamesh",
+    "name": "Gilgamesh",
+    "type": "literature_figure",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey legendario de Uruk y protagonista de una de las grandes epopeyas de la literatura mesopotámica."
+  },
+  {
+    "id": "topic_enuma_elish",
+    "name": "Enuma Elish",
+    "type": "mythology",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Poema babilónico de la creación que refleja cosmogonía, poder divino y orden del mundo."
+  },
+  {
+    "id": "topic_mitologia_mesopotamica",
+    "name": "Mitología mesopotámica",
+    "type": "mythology",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conjunto de relatos, dioses y cosmogonías de las culturas sumeria, acadia, babilónica y asiria."
+  },
+  {
+    "id": "topic_imperio_acadio",
+    "name": "Imperio acadio",
+    "type": "empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Primer gran imperio mesopotámico, asociado a Sargón de Akkad y a la expansión semítica en la región."
+  },
+  {
+    "id": "topic_sargon_akkad",
+    "name": "Sargón de Akkad",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fundador del Imperio acadio y figura clave para entender el paso de ciudades-estado a estructuras imperiales."
+  },
+  {
+    "id": "topic_babilonia",
+    "name": "Babilonia",
+    "type": "city_empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad y reino mesopotámico de enorme importancia política, cultural y religiosa."
+  },
+  {
+    "id": "topic_asiria",
+    "name": "Asiria",
+    "type": "empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Potencia mesopotámica del norte, conocida por su expansión militar, administración imperial y capitales como Nínive."
   }
 ]

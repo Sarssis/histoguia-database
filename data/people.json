@@ -1116,5 +1116,68 @@
     "related_episodes": [
       "ep_lhe_edad_hierro_peninsula"
     ]
+  },
+  {
+    "id": "person_gilgamesh",
+    "name": "Gilgamesh",
+    "type": "legendary_king",
+    "category": "mesopotamian_figure",
+    "scientific_name": "",
+    "dates": "Tradición sumeria, III milenio a.C.",
+    "period": "Primeras civilizaciones",
+    "summary": "Rey legendario de Uruk y protagonista de la Epopeya de Gilgamesh.",
+    "related_topics": [
+      "topic_gilgamesh",
+      "topic_uruk",
+      "topic_mitologia_mesopotamica"
+    ],
+    "related_places": [
+      "place_uruk"
+    ],
+    "related_episodes": [
+      "ep_mesopotamia_leyendas_creacion"
+    ]
+  },
+  {
+    "id": "person_sargon_akkad",
+    "name": "Sargón de Akkad",
+    "type": "ruler",
+    "category": "mesopotamian_ruler",
+    "scientific_name": "",
+    "dates": "c. siglo XXIV a.C.",
+    "period": "Imperio acadio",
+    "summary": "Fundador del Imperio acadio y una de las primeras grandes figuras imperiales de la historia.",
+    "related_topics": [
+      "topic_sargon_akkad",
+      "topic_imperio_acadio",
+      "topic_mesopotamia"
+    ],
+    "related_places": [
+      "place_mesopotamia"
+    ],
+    "related_episodes": [
+      "ep_v384_civilizacion_sumeria"
+    ]
+  },
+  {
+    "id": "person_eva_tobalina",
+    "name": "Eva Tobalina",
+    "type": "researcher",
+    "category": "historian",
+    "scientific_name": "",
+    "dates": "",
+    "period": "Divulgación histórica",
+    "summary": "Profesora y divulgadora de historia antigua, asociada a conferencias sobre Mesopotamia y mitología antigua.",
+    "related_topics": [
+      "topic_mitologia_mesopotamica",
+      "topic_enuma_elish",
+      "topic_gilgamesh"
+    ],
+    "related_places": [
+      "place_mesopotamia"
+    ],
+    "related_episodes": [
+      "ep_mesopotamia_leyendas_creacion"
+    ]
   }
 ]

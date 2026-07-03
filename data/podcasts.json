@@ -358,5 +358,41 @@
     "spotify_show_url": "",
     "ivoox_show_url": "https://www.ivoox.com/podcast-antena-historia_sq_f1104453_1.html",
     "status": "active"
+  },
+  {
+    "id": "pod_victoria_historia",
+    "name": "Victoria Podcast Historia",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-victoria-podcast-historia_sq_f1135328_1.html",
+    "status": "active"
+  },
+  {
+    "id": "pod_historia_documentales",
+    "name": "Audio-documentales",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-audio-documentales_sq_f11850_1.html",
+    "status": "active_legacy"
+  },
+  {
+    "id": "pod_desaprendiendo_historia",
+    "name": "Desaprendiendo la Historia",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "",
+    "status": "active_secondary"
+  },
+  {
+    "id": "pod_ignacio_monzon",
+    "name": "IGNACIO MONZÓN",
+    "language": "es",
+    "apple_show_url": "",
+    "spotify_show_url": "",
+    "ivoox_show_url": "https://www.ivoox.com/podcast-ignacio-monzon_sq_f174127_1.html",
+    "status": "active_legacy"
   }
 ]

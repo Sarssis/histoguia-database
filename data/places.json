@@ -1162,5 +1162,132 @@
       "ep_histocast_fenicios",
       "ep_lhe_edad_hierro_peninsula"
     ]
+  },
+  {
+    "id": "place_mesopotamia",
+    "name": "Mesopotamia",
+    "type": "region",
+    "modern_location": "Iraq, Siria oriental y áreas próximas",
+    "summary": "Región entre el Tigris y el Éufrates donde surgen Sumer, Akkad, Babilonia y Asiria.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_mesopotamia",
+      "topic_sumer",
+      "topic_babilonia",
+      "topic_asiria"
+    ],
+    "related_people": [
+      "person_gilgamesh",
+      "person_sargon_akkad"
+    ],
+    "related_episodes": [
+      "ep_v384_civilizacion_sumeria",
+      "ep_mesopotamia_leyendas_creacion",
+      "ep_ignacio_monzon_sumeria"
+    ]
+  },
+  {
+    "id": "place_uruk",
+    "name": "Uruk",
+    "type": "city",
+    "modern_location": "Iraq",
+    "summary": "Ciudad sumeria clave para estudiar urbanización temprana, templos, escritura y la tradición de Gilgamesh.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_uruk",
+      "topic_sumer",
+      "topic_gilgamesh"
+    ],
+    "related_people": [
+      "person_gilgamesh"
+    ],
+    "related_episodes": [
+      "ep_v384_civilizacion_sumeria",
+      "ep_ignacio_monzon_sumeria"
+    ]
+  },
+  {
+    "id": "place_ur",
+    "name": "Ur",
+    "type": "city",
+    "modern_location": "Iraq",
+    "summary": "Ciudad sumeria destacada, asociada a tumbas reales, religión y poder político.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_ur",
+      "topic_sumer",
+      "topic_zigurat"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_v384_civilizacion_sumeria",
+      "ep_ignacio_monzon_sumeria"
+    ]
+  },
+  {
+    "id": "place_lagash",
+    "name": "Lagash",
+    "type": "city_state",
+    "modern_location": "Iraq",
+    "summary": "Ciudad-estado sumeria relevante para la historia política y social de Mesopotamia.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_lagash",
+      "topic_ciudad_estado",
+      "topic_sumer"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_v384_civilizacion_sumeria"
+    ]
+  },
+  {
+    "id": "place_babilonia",
+    "name": "Babilonia",
+    "type": "city",
+    "modern_location": "Iraq",
+    "summary": "Ciudad mesopotámica central para la historia de Babilonia, su religión, ciencia y poder político.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_babilonia",
+      "topic_enuma_elish",
+      "topic_mitologia_mesopotamica"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_mesopotamia_leyendas_creacion"
+    ]
+  },
+  {
+    "id": "place_asiria",
+    "name": "Asiria",
+    "type": "region",
+    "modern_location": "Norte de Iraq y áreas próximas",
+    "summary": "Región de la alta Mesopotamia asociada al desarrollo del Imperio asirio.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_asiria",
+      "topic_mesopotamia"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_historia_universal_primeras_civilizaciones"
+    ]
+  },
+  {
+    "id": "place_ninive",
+    "name": "Nínive",
+    "type": "city",
+    "modern_location": "Mosul, Iraq",
+    "summary": "Capital asiria tardía, asociada a bibliotecas, poder imperial y tradición mesopotámica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_asiria",
+      "topic_tablillas_arcilla"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_historia_universal_primeras_civilizaciones"
+    ]
   }
 ]

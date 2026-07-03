@@ -13,8 +13,8 @@ const DATA = {
       "order": 2,
       "name": "Primeras Civilizaciones",
       "date_range": "c. 3500-500 a.C.",
-      "summary": "Mesopotamia, Egipto, Persia, Fenicios, Hebreos, Cartago, Tartessos e Íberos.",
-      "status": "planned"
+      "summary": "Mesopotamia, Sumer, Akkad, Babilonia, Asiria, Egipto, Persia, Fenicios, Hebreos, Cartago y primeras civilizaciones urbanas.",
+      "status": "content_seeded"
     },
     {
       "id": "phase_03",
@@ -241,6 +241,15 @@ const DATA = {
       "name": "Edad del Hierro",
       "date_range": "c. 1200-500 a.C.",
       "summary": "Edad del Hierro, metalurgia del hierro, Protohistoria, íberos, celtíberos, fenicios, griegos, celtas y contactos mediterráneos.",
+      "status": "content_seeded"
+    },
+    {
+      "id": "sub_0201",
+      "phase_id": "phase_02",
+      "order": 1,
+      "name": "Mesopotamia y Sumer",
+      "date_range": "c. 3500-2000 a.C.",
+      "summary": "Nacimiento de la ciudad, escritura cuneiforme, templos, reyes, estados sumerios, Akkad y primeras estructuras imperiales.",
       "status": "content_seeded"
     }
   ],
@@ -1963,6 +1972,168 @@ const DATA = {
         "phase_01"
       ],
       "summary": "Grandes asentamientos fortificados de la Edad del Hierro europea."
+    },
+    {
+      "id": "topic_mesopotamia",
+      "name": "Mesopotamia",
+      "type": "region_civilization",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Región entre el Tigris y el Éufrates donde surgen algunas de las primeras ciudades, estados y escrituras."
+    },
+    {
+      "id": "topic_sumer",
+      "name": "Sumer",
+      "type": "civilization",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Civilización del sur de Mesopotamia asociada a ciudades-estado, templos, escritura cuneiforme y formas tempranas de organización urbana."
+    },
+    {
+      "id": "topic_sumerios",
+      "name": "Sumerios",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Población de la baja Mesopotamia vinculada al desarrollo de la civilización sumeria."
+    },
+    {
+      "id": "topic_uruk",
+      "name": "Uruk",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad sumeria fundamental para estudiar urbanización, escritura temprana y poder templario."
+    },
+    {
+      "id": "topic_ur",
+      "name": "Ur",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad sumeria destacada, conocida por sus tumbas reales y por su importancia política y religiosa."
+    },
+    {
+      "id": "topic_lagash",
+      "name": "Lagash",
+      "type": "city_state",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad-estado sumeria relevante para estudiar política, guerra, administración y reformas sociales."
+    },
+    {
+      "id": "topic_escritura_cuneiforme",
+      "name": "Escritura cuneiforme",
+      "type": "technology",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema de escritura mesopotámico realizado con signos en forma de cuña sobre tablillas de arcilla."
+    },
+    {
+      "id": "topic_tablillas_arcilla",
+      "name": "Tablillas de arcilla",
+      "type": "object_type",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Soporte documental característico de Mesopotamia, clave para administración, literatura, leyes y comercio."
+    },
+    {
+      "id": "topic_zigurat",
+      "name": "Zigurat",
+      "type": "architecture",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Estructura monumental escalonada vinculada a templos y centros religiosos mesopotámicos."
+    },
+    {
+      "id": "topic_ciudad_estado",
+      "name": "Ciudad-estado",
+      "type": "political_model",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Forma política urbana con autoridad propia, territorio, templos y administración."
+    },
+    {
+      "id": "topic_reyes_sumerios",
+      "name": "Reyes sumerios",
+      "type": "political_model",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Figuras de poder vinculadas a guerra, religión, obras públicas y legitimación mítica."
+    },
+    {
+      "id": "topic_gilgamesh",
+      "name": "Gilgamesh",
+      "type": "literature_figure",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey legendario de Uruk y protagonista de una de las grandes epopeyas de la literatura mesopotámica."
+    },
+    {
+      "id": "topic_enuma_elish",
+      "name": "Enuma Elish",
+      "type": "mythology",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Poema babilónico de la creación que refleja cosmogonía, poder divino y orden del mundo."
+    },
+    {
+      "id": "topic_mitologia_mesopotamica",
+      "name": "Mitología mesopotámica",
+      "type": "mythology",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conjunto de relatos, dioses y cosmogonías de las culturas sumeria, acadia, babilónica y asiria."
+    },
+    {
+      "id": "topic_imperio_acadio",
+      "name": "Imperio acadio",
+      "type": "empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Primer gran imperio mesopotámico, asociado a Sargón de Akkad y a la expansión semítica en la región."
+    },
+    {
+      "id": "topic_sargon_akkad",
+      "name": "Sargón de Akkad",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fundador del Imperio acadio y figura clave para entender el paso de ciudades-estado a estructuras imperiales."
+    },
+    {
+      "id": "topic_babilonia",
+      "name": "Babilonia",
+      "type": "city_empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad y reino mesopotámico de enorme importancia política, cultural y religiosa."
+    },
+    {
+      "id": "topic_asiria",
+      "name": "Asiria",
+      "type": "empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Potencia mesopotámica del norte, conocida por su expansión militar, administración imperial y capitales como Nínive."
     }
   ],
   "episodes": [
@@ -7263,6 +7434,521 @@ const DATA = {
         "edad del hierro",
         "europa"
       ]
+    },
+    {
+      "id": "ep_v384_civilizacion_sumeria",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "V384",
+      "title": "V384 Civilización Sumeria",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0201",
+      "main_topic_id": "topic_sumer",
+      "topic_ids": [
+        "topic_sumer",
+        "topic_sumerios",
+        "topic_mesopotamia",
+        "topic_ciudad_estado",
+        "topic_escritura_cuneiforme",
+        "topic_imperio_acadio"
+      ],
+      "people_ids": [
+        "person_sargon_akkad"
+      ],
+      "place_ids": [
+        "place_mesopotamia",
+        "place_uruk",
+        "place_ur",
+        "place_lagash"
+      ],
+      "civilization_ids": [
+        "civ_sumer",
+        "civ_akkad"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v384-127774-civilizacion-sumeria-audios-mp3_rf_129463624_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "129463624",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal para abrir el periodo de Primeras Civilizaciones. Presenta Sumer como una de las primeras civilizaciones urbanas complejas y plantea los grandes ejes del bloque: ciudades, templos, escritura, poder, comercio y memoria histórica.",
+      "learn": [
+        "Comprender por qué Sumer es una de las primeras civilizaciones complejas.",
+        "Identificar las ciudades sumerias como centros políticos, religiosos y económicos.",
+        "Relacionar escritura, administración y urbanización.",
+        "Abrir el paso hacia Akkad, Babilonia y Asiria."
+      ],
+      "listen_before": [],
+      "listen_after": [
+        "ep_ignacio_monzon_sumeria"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "sumer",
+        "sumerios",
+        "mesopotamia",
+        "ciudades-estado",
+        "escritura cuneiforme"
+      ]
+    },
+    {
+      "id": "ep_ignacio_monzon_sumeria",
+      "podcast_id": "pod_ignacio_monzon",
+      "podcast_name": "IGNACIO MONZÓN",
+      "episode_code": "Audio 177",
+      "title": "Ignacio Monzón. Audio 177. La civilización Sumeria",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0201",
+      "main_topic_id": "topic_sumerios",
+      "topic_ids": [
+        "topic_sumerios",
+        "topic_sumer",
+        "topic_mesopotamia",
+        "topic_uruk",
+        "topic_ur"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_mesopotamia",
+        "place_uruk",
+        "place_ur"
+      ],
+      "civilization_ids": [
+        "civ_sumer"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2012",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ignacio-monzon-audio-177-la-civilizacion-sumeria-audios-mp3_rf_1654369_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "1654369",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Entrevista de apoyo sobre la civilización sumeria. Es útil para reforzar la idea de Sumer como punto de arranque de la civilización urbana, con énfasis en tradición, religión, cultura material y memoria histórica.",
+      "learn": [
+        "Reforzar la importancia histórica de la civilización sumeria.",
+        "Relacionar Sumer con religión, arte, ciudades y tradiciones antiguas.",
+        "Entender el interés historiográfico por la primera urbanización.",
+        "Complementar el episodio troncal sobre Sumer."
+      ],
+      "listen_before": [
+        "ep_v384_civilizacion_sumeria"
+      ],
+      "listen_after": [
+        "ep_mesopotamia_leyendas_creacion"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "sumeria",
+        "sumerios",
+        "civilización",
+        "uruk",
+        "ur",
+        "mesopotamia"
+      ]
+    },
+    {
+      "id": "ep_mesopotamia_leyendas_creacion",
+      "podcast_id": "pod_desaprendiendo_historia",
+      "podcast_name": "Desaprendiendo la Historia",
+      "episode_code": "",
+      "title": "Mesopotamia y sus leyendas, el origen del mundo y la creación del hombre",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0201",
+      "main_topic_id": "topic_mitologia_mesopotamica",
+      "topic_ids": [
+        "topic_mitologia_mesopotamica",
+        "topic_enuma_elish",
+        "topic_gilgamesh",
+        "topic_babilonia",
+        "topic_mesopotamia"
+      ],
+      "people_ids": [
+        "person_eva_tobalina",
+        "person_gilgamesh"
+      ],
+      "place_ids": [
+        "place_mesopotamia",
+        "place_babilonia",
+        "place_uruk"
+      ],
+      "civilization_ids": [
+        "civ_sumer",
+        "civ_babilonia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2025",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/mesopotamia-sus-leyendas-origen-del-mundo-audios-mp3_rf_139882191_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "139882191",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio especializado en mitología mesopotámica. Introduce cosmogonía, dioses, relatos de creación, Enuma Elish y la forma en que sumerios y babilonios explicaban el origen del mundo y del ser humano.",
+      "learn": [
+        "Comprender la mitología mesopotámica como parte de la cultura de las primeras civilizaciones.",
+        "Relacionar Sumer y Babilonia con relatos de creación.",
+        "Identificar el Enuma Elish y la figura de Gilgamesh dentro del universo mesopotámico.",
+        "Diferenciar historia política y tradición mítica."
+      ],
+      "listen_before": [
+        "ep_ignacio_monzon_sumeria"
+      ],
+      "listen_after": [
+        "ep_historia_universal_primeras_civilizaciones"
+      ],
+      "related_topics": [],
+      "keywords": [
+        "mesopotamia",
+        "mitología",
+        "enuma elish",
+        "gilgamesh",
+        "sumerios",
+        "babilonia"
+      ]
+    },
+    {
+      "id": "ep_historia_universal_primeras_civilizaciones",
+      "podcast_id": "pod_historia_documentales",
+      "podcast_name": "Audio-documentales",
+      "episode_code": "1",
+      "title": "Historia Universal 1",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0201",
+      "main_topic_id": "topic_primeras_civilizaciones",
+      "topic_ids": [
+        "topic_primeras_civilizaciones",
+        "topic_mesopotamia",
+        "topic_babilonia",
+        "topic_asiria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_mesopotamia",
+        "place_babilonia",
+        "place_asiria"
+      ],
+      "civilization_ids": [
+        "civ_sumer",
+        "civ_babilonia",
+        "civ_asiria"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/historia-universal-1-audios-mp3_rf_236158_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "236158",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio panorámico de apoyo para situar Mesopotamia junto a Egipto, hititas, India, China, fenicios y otros focos civilizatorios. Funciona como cierre del subperiodo y puente hacia el resto del periodo 02.",
+      "learn": [
+        "Ubicar Mesopotamia dentro del mapa global de primeras civilizaciones.",
+        "Relacionar Sumer, Egipto, hititas, India y China como focos tempranos de complejidad.",
+        "Preparar el paso hacia Egipto y otros subperiodos del periodo 02.",
+        "Entender la diferencia entre bloque monográfico y visión panorámica."
+      ],
+      "listen_before": [
+        "ep_mesopotamia_leyendas_creacion"
+      ],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "primeras civilizaciones",
+        "mesopotamia",
+        "egipto",
+        "hititas",
+        "india",
+        "china"
+      ]
+    }
+  ],
+  "civilizations": [
+    {
+      "id": "civ_cazadores_recolectores",
+      "name": "Sociedades cazadoras-recolectoras",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "date_range": "Paleolítico y pervivencias posteriores",
+      "summary": "Sociedades basadas en movilidad, caza, pesca, recolección y conocimiento ecológico del entorno.",
+      "topic_ids": [
+        "topic_cazadores_recolectores",
+        "topic_paleolitico"
+      ],
+      "place_ids": [
+        "place_africa",
+        "place_europa",
+        "place_australia"
+      ],
+      "episode_ids": [
+        "ep_historia_en_podcast_64_paleolitico",
+        "ep_mujeres_historia_prehistoria",
+        "ep_khulmani_aborigenes_australianos"
+      ]
+    },
+    {
+      "id": "civ_primeros_agricultores",
+      "name": "Primeros agricultores neolíticos",
+      "type": "social_model",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "date_range": "Neolítico",
+      "summary": "Comunidades agrícolas y ganaderas que desarrollaron sedentarismo, aldeas, cerámica y nuevas formas de organización social.",
+      "topic_ids": [
+        "topic_neolitico",
+        "topic_agricultura",
+        "topic_ganaderia",
+        "topic_sedentarismo"
+      ],
+      "place_ids": [
+        "place_gobekli_tepe",
+        "place_jerico",
+        "place_catalhoyuk",
+        "place_lago_bracciano"
+      ],
+      "episode_ids": [
+        "ep_historia_en_podcast_65_neolitico",
+        "ep_khulmani_neolitico_europa"
+      ]
+    },
+    {
+      "id": "civ_los_millares",
+      "name": "Los Millares",
+      "type": "archaeological_culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "date_range": "Edad del Cobre",
+      "summary": "Cultura calcolítica del sureste peninsular asociada a fortificaciones, metalurgia y complejidad social.",
+      "topic_ids": [
+        "topic_los_millares",
+        "topic_edad_cobre",
+        "topic_metalurgia"
+      ],
+      "place_ids": [
+        "place_los_millares"
+      ],
+      "episode_ids": [
+        "ep_lhe_prehistoria_peninsula"
+      ]
+    },
+    {
+      "id": "civ_el_argar",
+      "name": "El Argar",
+      "type": "archaeological_culture",
+      "phase_ids": [
+        "phase_01"
+      ],
+      "date_range": "Edad del Bronce",
+      "summary": "Cultura de la Edad del Bronce del sureste peninsular con fuerte jerarquización social y desarrollo metalúrgico.",
+      "topic_ids": [
+        "topic_el_argar",
+        "topic_edad_bronce",
+        "topic_jerarquias_sociales"
+      ],
+      "place_ids": [
+        "place_el_argar"
+      ],
+      "episode_ids": [
+        "ep_lhe_prehistoria_peninsula"
+      ]
+    },
+    {
+      "id": "civ_sumer",
+      "name": "Sumer",
+      "type": "civilization",
+      "date_range": "c. 3500-2000 a.C.",
+      "region": "Baja Mesopotamia",
+      "summary": "Una de las primeras civilizaciones urbanas, asociada a ciudades-estado, escritura cuneiforme, templos, administración y literatura.",
+      "related_topics": [
+        "topic_sumer",
+        "topic_escritura_cuneiforme",
+        "topic_ciudad_estado",
+        "topic_gilgamesh"
+      ],
+      "related_places": [
+        "place_mesopotamia",
+        "place_uruk",
+        "place_ur",
+        "place_lagash"
+      ],
+      "related_people": [
+        "person_gilgamesh"
+      ]
+    },
+    {
+      "id": "civ_akkad",
+      "name": "Akkad",
+      "type": "empire",
+      "date_range": "c. 2334-2154 a.C.",
+      "region": "Mesopotamia",
+      "summary": "Imperio mesopotámico asociado a Sargón de Akkad y a la primera gran integración política regional.",
+      "related_topics": [
+        "topic_imperio_acadio",
+        "topic_sargon_akkad",
+        "topic_mesopotamia"
+      ],
+      "related_places": [
+        "place_mesopotamia"
+      ],
+      "related_people": [
+        "person_sargon_akkad"
+      ]
+    },
+    {
+      "id": "civ_babilonia",
+      "name": "Babilonia",
+      "type": "kingdom_empire",
+      "date_range": "II-I milenio a.C.",
+      "region": "Mesopotamia",
+      "summary": "Civilización mesopotámica centrada en Babilonia, destacada por su política, derecho, astronomía, literatura y religión.",
+      "related_topics": [
+        "topic_babilonia",
+        "topic_enuma_elish",
+        "topic_mitologia_mesopotamica"
+      ],
+      "related_places": [
+        "place_babilonia"
+      ],
+      "related_people": []
+    },
+    {
+      "id": "civ_asiria",
+      "name": "Asiria",
+      "type": "empire",
+      "date_range": "II-I milenio a.C.",
+      "region": "Alta Mesopotamia",
+      "summary": "Potencia imperial mesopotámica caracterizada por militarismo, administración centralizada y grandes capitales como Nínive.",
+      "related_topics": [
+        "topic_asiria",
+        "topic_mesopotamia"
+      ],
+      "related_places": [
+        "place_asiria",
+        "place_ninive"
+      ],
+      "related_people": []
     }
   ]
 };
