@@ -2509,5 +2509,221 @@
       "phase_02"
     ],
     "summary": "Arte palaciego asirio usado para narrar cacerías, campañas y poder real."
+  },
+  {
+    "id": "topic_reino_medio_egipto",
+    "name": "Reino Medio de Egipto",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Etapa de reunificación y consolidación del Estado egipcio tras el Primer Periodo Intermedio."
+  },
+  {
+    "id": "topic_mentuhotep_ii",
+    "name": "Mentuhotep II",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Faraón asociado a la reunificación de Egipto y al inicio del Reino Medio."
+  },
+  {
+    "id": "topic_dinastia_xii",
+    "name": "Dinastía XII",
+    "type": "dynasty",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Dinastía del Reino Medio asociada al fortalecimiento administrativo y a faraones como Sesostris III y Amenemhat III."
+  },
+  {
+    "id": "topic_sesostris_iii",
+    "name": "Sesostris III",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Faraón de la XII dinastía, vinculado a expansión nubia y reorganización del poder."
+  },
+  {
+    "id": "topic_literatura_reino_medio",
+    "name": "Literatura del Reino Medio",
+    "type": "literature",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tradición literaria egipcia que alcanza gran relevancia en el Reino Medio."
+  },
+  {
+    "id": "topic_segundo_periodo_intermedio",
+    "name": "Segundo Periodo Intermedio",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fase de fragmentación entre el Reino Medio y el Reino Nuevo, marcada por la presencia hicsa."
+  },
+  {
+    "id": "topic_hicsos",
+    "name": "Hicsos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Poderes de origen asiático occidental asentados en el delta oriental durante el Segundo Periodo Intermedio."
+  },
+  {
+    "id": "topic_avarís",
+    "name": "Avaris",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital asociada al poder hicso en el delta oriental egipcio."
+  },
+  {
+    "id": "topic_reino_nuevo_egipto",
+    "name": "Reino Nuevo de Egipto",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Etapa imperial egipcia, especialmente durante las dinastías XVIII, XIX y XX."
+  },
+  {
+    "id": "topic_dinastia_xviii",
+    "name": "Dinastía XVIII",
+    "type": "dynasty",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Dinastía del Reino Nuevo con faraones como Hatshepsut, Tutmosis III, Akhenatón y Tutankhamón."
+  },
+  {
+    "id": "topic_hatshepsut",
+    "name": "Hatshepsut",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Faraona de la XVIII dinastía, asociada a Deir el-Bahari y al comercio con Punt."
+  },
+  {
+    "id": "topic_tutmosis_iii",
+    "name": "Tutmosis III",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Faraón guerrero de la XVIII dinastía, clave para el Egipto imperial."
+  },
+  {
+    "id": "topic_akhenaton",
+    "name": "Akhenatón",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Faraón de la XVIII dinastía impulsor de la reforma amarniense centrada en Atón."
+  },
+  {
+    "id": "topic_atonismo",
+    "name": "Atonismo",
+    "type": "religious_reform",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Reforma religiosa vinculada a Akhenatón y al culto de Atón."
+  },
+  {
+    "id": "topic_amarna",
+    "name": "Amarna / Akhetatón",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital fundada por Akhenatón durante la reforma religiosa amarniense."
+  },
+  {
+    "id": "topic_tutankhamon",
+    "name": "Tutankhamón",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Faraón de la XVIII dinastía célebre por el hallazgo casi intacto de su tumba."
+  },
+  {
+    "id": "topic_valle_reyes",
+    "name": "Valle de los Reyes",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Necrópolis real del Reino Nuevo en Tebas occidental."
+  },
+  {
+    "id": "topic_ramses_ii",
+    "name": "Ramsés II",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Faraón de la XIX dinastía, asociado a Qadesh, Abu Simbel y el esplendor ramésida."
+  },
+  {
+    "id": "topic_qadesh",
+    "name": "Batalla de Qadesh",
+    "type": "battle",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Enfrentamiento entre Egipto e hititas durante el reinado de Ramsés II."
+  },
+  {
+    "id": "topic_abu_simbel",
+    "name": "Abu Simbel",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Complejo monumental de Ramsés II en Nubia."
+  },
+  {
+    "id": "topic_karnak",
+    "name": "Karnak",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Gran complejo templario de Tebas dedicado principalmente a Amón."
+  },
+  {
+    "id": "topic_tebas_egipto",
+    "name": "Tebas egipcia",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital religiosa y política clave durante el Reino Medio y Reino Nuevo."
+  },
+  {
+    "id": "topic_nubia_egipto",
+    "name": "Nubia y Egipto",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Relaciones militares, comerciales y culturales entre Egipto y Nubia."
+  },
+  {
+    "id": "topic_pueblos_mar_egipto",
+    "name": "Pueblos del Mar y Egipto",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conflictos del final del Reino Nuevo vinculados a Ramsés III y la crisis del Bronce Final."
   }
 ]

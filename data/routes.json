@@ -205,7 +205,14 @@
       "ep_histocast_asirios",
       "ep_ninive_capital_asiria",
       "ep_biblioteca_asurbanipal",
-      "ep_caida_asiria"
+      "ep_caida_asiria",
+      "ep_egipto_reino_medio",
+      "ep_reino_nuevo_imperio_egipcio",
+      "ep_hatshepsut_faraona",
+      "ep_akhenaton_revolucion_amarna",
+      "ep_tutankhamon_tumba",
+      "ep_ramses_ii_gran_faraon",
+      "ep_pueblos_mar_egipto"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -248,8 +255,18 @@
       "topic_ninive",
       "topic_biblioteca_asurbanipal",
       "topic_caida_asiria",
-      "topic_persia_aquemenida"
+      "topic_persia_aquemenida",
+      "topic_reino_medio_egipto",
+      "topic_segundo_periodo_intermedio",
+      "topic_hicsos",
+      "topic_reino_nuevo_egipto",
+      "topic_dinastia_xviii",
+      "topic_akhenaton",
+      "topic_tutankhamon",
+      "topic_ramses_ii",
+      "topic_pueblos_mar_egipto",
+      "topic_hititas"
     ],
-    "status": "sub0205_active"
+    "status": "sub0206_active"
   }
 ]

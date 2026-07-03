@@ -287,6 +287,15 @@ const DATA = {
       "date_range": "c. 1400-612 a.C.",
       "summary": "Ascenso asirio, militarización imperial, Tiglat-Pileser III, Sargón II, Senaquerib, Asurbanipal, Nínive y la organización de los primeros grandes imperios militares.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0206",
+      "phase_id": "phase_02",
+      "order": 6,
+      "name": "Egipto: Reino Medio y Reino Nuevo",
+      "date_range": "c. 2055-1069 a.C.",
+      "summary": "Reunificación del Reino Medio, esplendor administrativo, Segundo Periodo Intermedio, hicsos, XVIII dinastía, Hatshepsut, Akhenatón, Tutankhamón, Ramsés II y el Egipto imperial del Reino Nuevo.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -2800,6 +2809,222 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Arte palaciego asirio usado para narrar cacerías, campañas y poder real."
+    },
+    {
+      "id": "topic_reino_medio_egipto",
+      "name": "Reino Medio de Egipto",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Etapa de reunificación y consolidación del Estado egipcio tras el Primer Periodo Intermedio."
+    },
+    {
+      "id": "topic_mentuhotep_ii",
+      "name": "Mentuhotep II",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Faraón asociado a la reunificación de Egipto y al inicio del Reino Medio."
+    },
+    {
+      "id": "topic_dinastia_xii",
+      "name": "Dinastía XII",
+      "type": "dynasty",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Dinastía del Reino Medio asociada al fortalecimiento administrativo y a faraones como Sesostris III y Amenemhat III."
+    },
+    {
+      "id": "topic_sesostris_iii",
+      "name": "Sesostris III",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Faraón de la XII dinastía, vinculado a expansión nubia y reorganización del poder."
+    },
+    {
+      "id": "topic_literatura_reino_medio",
+      "name": "Literatura del Reino Medio",
+      "type": "literature",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tradición literaria egipcia que alcanza gran relevancia en el Reino Medio."
+    },
+    {
+      "id": "topic_segundo_periodo_intermedio",
+      "name": "Segundo Periodo Intermedio",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fase de fragmentación entre el Reino Medio y el Reino Nuevo, marcada por la presencia hicsa."
+    },
+    {
+      "id": "topic_hicsos",
+      "name": "Hicsos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Poderes de origen asiático occidental asentados en el delta oriental durante el Segundo Periodo Intermedio."
+    },
+    {
+      "id": "topic_avarís",
+      "name": "Avaris",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital asociada al poder hicso en el delta oriental egipcio."
+    },
+    {
+      "id": "topic_reino_nuevo_egipto",
+      "name": "Reino Nuevo de Egipto",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Etapa imperial egipcia, especialmente durante las dinastías XVIII, XIX y XX."
+    },
+    {
+      "id": "topic_dinastia_xviii",
+      "name": "Dinastía XVIII",
+      "type": "dynasty",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Dinastía del Reino Nuevo con faraones como Hatshepsut, Tutmosis III, Akhenatón y Tutankhamón."
+    },
+    {
+      "id": "topic_hatshepsut",
+      "name": "Hatshepsut",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Faraona de la XVIII dinastía, asociada a Deir el-Bahari y al comercio con Punt."
+    },
+    {
+      "id": "topic_tutmosis_iii",
+      "name": "Tutmosis III",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Faraón guerrero de la XVIII dinastía, clave para el Egipto imperial."
+    },
+    {
+      "id": "topic_akhenaton",
+      "name": "Akhenatón",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Faraón de la XVIII dinastía impulsor de la reforma amarniense centrada en Atón."
+    },
+    {
+      "id": "topic_atonismo",
+      "name": "Atonismo",
+      "type": "religious_reform",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Reforma religiosa vinculada a Akhenatón y al culto de Atón."
+    },
+    {
+      "id": "topic_amarna",
+      "name": "Amarna / Akhetatón",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital fundada por Akhenatón durante la reforma religiosa amarniense."
+    },
+    {
+      "id": "topic_tutankhamon",
+      "name": "Tutankhamón",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Faraón de la XVIII dinastía célebre por el hallazgo casi intacto de su tumba."
+    },
+    {
+      "id": "topic_valle_reyes",
+      "name": "Valle de los Reyes",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Necrópolis real del Reino Nuevo en Tebas occidental."
+    },
+    {
+      "id": "topic_ramses_ii",
+      "name": "Ramsés II",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Faraón de la XIX dinastía, asociado a Qadesh, Abu Simbel y el esplendor ramésida."
+    },
+    {
+      "id": "topic_qadesh",
+      "name": "Batalla de Qadesh",
+      "type": "battle",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Enfrentamiento entre Egipto e hititas durante el reinado de Ramsés II."
+    },
+    {
+      "id": "topic_abu_simbel",
+      "name": "Abu Simbel",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Complejo monumental de Ramsés II en Nubia."
+    },
+    {
+      "id": "topic_karnak",
+      "name": "Karnak",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Gran complejo templario de Tebas dedicado principalmente a Amón."
+    },
+    {
+      "id": "topic_tebas_egipto",
+      "name": "Tebas egipcia",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital religiosa y política clave durante el Reino Medio y Reino Nuevo."
+    },
+    {
+      "id": "topic_nubia_egipto",
+      "name": "Nubia y Egipto",
+      "type": "region_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Relaciones militares, comerciales y culturales entre Egipto y Nubia."
+    },
+    {
+      "id": "topic_pueblos_mar_egipto",
+      "name": "Pueblos del Mar y Egipto",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conflictos del final del Reino Nuevo vinculados a Ramsés III y la crisis del Bronce Final."
     }
   ],
   "episodes": [
@@ -10226,6 +10451,566 @@ const DATA = {
         "medos",
         "babilonia"
       ]
+    },
+    {
+      "id": "ep_egipto_reino_medio",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Egipto: Reino Medio y Segundo Periodo Intermedio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0206",
+      "main_topic_id": "topic_reino_medio_egipto",
+      "topic_ids": [
+        "topic_reino_medio_egipto",
+        "topic_mentuhotep_ii",
+        "topic_dinastia_xii",
+        "topic_sesostris_iii",
+        "topic_segundo_periodo_intermedio",
+        "topic_hicsos"
+      ],
+      "people_ids": [
+        "person_mentuhotep_ii",
+        "person_sesostris_iii"
+      ],
+      "place_ids": [
+        "place_tebas",
+        "place_nubia",
+        "place_valle_nilo"
+      ],
+      "civilization_ids": [
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/egipto-reino-medio-segundo-periodo-intermedio-audios-mp3_rf_71693226_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "71693226",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal para enlazar el Reino Antiguo con la reunificación tebana, el Reino Medio, la XII dinastía, Nubia y el Segundo Periodo Intermedio.",
+      "learn": [
+        "Comprender la reunificación del Reino Medio.",
+        "Situar Mentuhotep II y la XII dinastía.",
+        "Relacionar Egipto y Nubia.",
+        "Preparar la llegada de los hicsos y el Reino Nuevo."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "reino medio",
+        "egipto",
+        "mentuhotep",
+        "sesostris",
+        "hicsos"
+      ]
+    },
+    {
+      "id": "ep_reino_nuevo_imperio_egipcio",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Egipto: Reino Nuevo, el imperio egipcio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0206",
+      "main_topic_id": "topic_reino_nuevo_egipto",
+      "topic_ids": [
+        "topic_reino_nuevo_egipto",
+        "topic_dinastia_xviii",
+        "topic_hatshepsut",
+        "topic_tutmosis_iii",
+        "topic_karnak",
+        "topic_valle_reyes"
+      ],
+      "people_ids": [
+        "person_hatshepsut",
+        "person_tutmosis_iii"
+      ],
+      "place_ids": [
+        "place_tebas",
+        "place_karnak",
+        "place_valle_reyes"
+      ],
+      "civilization_ids": [
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/egipto-reino-nuevo-imperio-egipcio-audios-mp3_rf_72059168_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "72059168",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio central del subperiodo. Recorre la expulsión hicsa, la XVIII dinastía, la expansión imperial, Karnak, Tebas y los grandes faraones del Reino Nuevo.",
+      "learn": [
+        "Comprender el nacimiento del Egipto imperial.",
+        "Relacionar Tebas, Karnak y la XVIII dinastía.",
+        "Situar a Hatshepsut y Tutmosis III.",
+        "Preparar Amarna, Tutankhamón y Ramsés II."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "reino nuevo",
+        "egipto imperial",
+        "tebas",
+        "karnak",
+        "tutmosis"
+      ]
+    },
+    {
+      "id": "ep_hatshepsut_faraona",
+      "podcast_id": "pod_dentro_piramide",
+      "podcast_name": "Dentro de la Pirámide",
+      "episode_code": "",
+      "title": "Hatshepsut, la faraona que gobernó Egipto",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0206",
+      "main_topic_id": "topic_hatshepsut",
+      "topic_ids": [
+        "topic_hatshepsut",
+        "topic_dinastia_xviii",
+        "topic_reino_nuevo_egipto"
+      ],
+      "people_ids": [
+        "person_hatshepsut"
+      ],
+      "place_ids": [
+        "place_deir_el_bahari",
+        "place_tebas"
+      ],
+      "civilization_ids": [
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/hatshepsut-faraona-goberno-egipto-audios-mp3_rf_122358532_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "122358532",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre Hatshepsut, su legitimidad, su templo en Deir el-Bahari y el papel de una mujer faraón en la XVIII dinastía.",
+      "learn": [
+        "Conocer a Hatshepsut.",
+        "Relacionar poder, legitimidad y representación real.",
+        "Situar Deir el-Bahari.",
+        "Comprender la complejidad política de la XVIII dinastía."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "hatshepsut",
+        "faraona",
+        "deir el-bahari",
+        "reino nuevo"
+      ]
+    },
+    {
+      "id": "ep_akhenaton_revolucion_amarna",
+      "podcast_id": "pod_biblioteca_perdida",
+      "podcast_name": "La Biblioteca Perdida",
+      "episode_code": "",
+      "title": "Akhenatón y la revolución de Amarna",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0206",
+      "main_topic_id": "topic_akhenaton",
+      "topic_ids": [
+        "topic_akhenaton",
+        "topic_atonismo",
+        "topic_amarna",
+        "topic_dinastia_xviii"
+      ],
+      "people_ids": [
+        "person_akhenaton",
+        "person_nefertiti"
+      ],
+      "place_ids": [
+        "place_amarna"
+      ],
+      "civilization_ids": [
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2023",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/akhenaton-revolucion-amarna-audios-mp3_rf_108227647_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "108227647",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio dedicado a Akhenatón, Atón, Nefertiti y la fundación de Amarna. Es clave para explicar la mayor crisis religiosa del Reino Nuevo.",
+      "learn": [
+        "Comprender la reforma de Amarna.",
+        "Relacionar Akhenatón, Nefertiti y Atón.",
+        "Situar Akhetatón/Amarna.",
+        "Diferenciar la religión tradicional de la reforma atonista."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "akhenatón",
+        "amarna",
+        "atón",
+        "nefertiti"
+      ]
+    },
+    {
+      "id": "ep_tutankhamon_tumba",
+      "podcast_id": "pod_documentales_sonoros",
+      "podcast_name": "Documentales Sonoros",
+      "episode_code": "",
+      "title": "Tutankhamón, la tumba del faraón niño",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0206",
+      "main_topic_id": "topic_tutankhamon",
+      "topic_ids": [
+        "topic_tutankhamon",
+        "topic_valle_reyes",
+        "topic_reino_nuevo_egipto"
+      ],
+      "people_ids": [
+        "person_tutankhamon",
+        "person_howard_carter"
+      ],
+      "place_ids": [
+        "place_valle_reyes"
+      ],
+      "civilization_ids": [
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2021",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/tutankhamon-tumba-del-faraon-nino-audios-mp3_rf_76903719_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "76903719",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre Tutankhamón, el Valle de los Reyes y el descubrimiento de Howard Carter, útil para cerrar el episodio amarniense y su restauración posterior.",
+      "learn": [
+        "Conocer a Tutankhamón.",
+        "Entender la importancia de su tumba.",
+        "Relacionar arqueología moderna y Reino Nuevo.",
+        "Situar el Valle de los Reyes."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "tutankhamón",
+        "howard carter",
+        "valle de los reyes",
+        "tumba"
+      ]
+    },
+    {
+      "id": "ep_ramses_ii_gran_faraon",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "Ramsés II, el gran faraón de Egipto",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0206",
+      "main_topic_id": "topic_ramses_ii",
+      "topic_ids": [
+        "topic_ramses_ii",
+        "topic_qadesh",
+        "topic_abu_simbel",
+        "topic_reino_nuevo_egipto"
+      ],
+      "people_ids": [
+        "person_ramses_ii"
+      ],
+      "place_ids": [
+        "place_abu_simbel",
+        "place_karnak",
+        "place_nubia"
+      ],
+      "civilization_ids": [
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ramses-ii-gran-faraon-egipto-audios-mp3_rf_57385424_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "57385424",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre Ramsés II, Qadesh, Abu Simbel y la imagen del faraón constructor y guerrero del periodo ramésida.",
+      "learn": [
+        "Conocer a Ramsés II.",
+        "Relacionar Qadesh con Egipto e hititas.",
+        "Situar Abu Simbel y la monumentalidad ramésida.",
+        "Preparar el final del Reino Nuevo."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "ramsés ii",
+        "qadesh",
+        "abu simbel",
+        "reino nuevo"
+      ]
+    },
+    {
+      "id": "ep_pueblos_mar_egipto",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "Ramsés III y los Pueblos del Mar",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0206",
+      "main_topic_id": "topic_pueblos_mar_egipto",
+      "topic_ids": [
+        "topic_pueblos_mar_egipto",
+        "topic_reino_nuevo_egipto"
+      ],
+      "people_ids": [
+        "person_ramses_iii"
+      ],
+      "place_ids": [
+        "place_medinet_habu",
+        "place_tebas"
+      ],
+      "civilization_ids": [
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 1,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 3,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ramses-iii-pueblos-del-mar-audios-mp3_rf_3604867_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3604867",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula de cierre sobre Ramsés III, Medinet Habu y los Pueblos del Mar, conectando el final del Reino Nuevo con la crisis del Bronce Final.",
+      "learn": [
+        "Situar a Ramsés III.",
+        "Relacionar Egipto con los Pueblos del Mar.",
+        "Conocer Medinet Habu.",
+        "Conectar el final del Reino Nuevo con la crisis del Bronce Final."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "ramsés iii",
+        "pueblos del mar",
+        "medinet habu",
+        "bronce final"
+      ]
     }
   ],
   "civilizations": [
@@ -10492,6 +11277,35 @@ const DATA = {
         "person_sargon_ii_assyria",
         "person_senaquerib",
         "person_asurbanipal"
+      ]
+    },
+    {
+      "id": "civ_egypt_middle_new_kingdom",
+      "name": "Egipto: Reino Medio y Reino Nuevo",
+      "type": "civilization_period",
+      "date_range": "c. 2055-1069 a.C.",
+      "region": "Valle del Nilo",
+      "summary": "Etapas de reunificación, expansión imperial, esplendor religioso, reforma amarniense y periodo ramésida del Egipto antiguo.",
+      "related_topics": [
+        "topic_reino_medio_egipto",
+        "topic_reino_nuevo_egipto",
+        "topic_dinastia_xviii",
+        "topic_akhenaton",
+        "topic_ramses_ii"
+      ],
+      "related_places": [
+        "place_tebas",
+        "place_karnak",
+        "place_valle_reyes",
+        "place_amarna",
+        "place_abu_simbel"
+      ],
+      "related_people": [
+        "person_mentuhotep_ii",
+        "person_hatshepsut",
+        "person_akhenaton",
+        "person_tutankhamon",
+        "person_ramses_ii"
       ]
     }
   ]

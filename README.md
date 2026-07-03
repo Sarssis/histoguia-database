@@ -1,23 +1,25 @@
-# Histoguía Database · phase_02 sub_0205 v4.5
+# Histoguía Database · phase_02 sub_0206 v4.6
 
 ## Subperiodo activado
 
-**5. Asiria y los primeros grandes imperios militares**
+**6. Egipto: Reino Medio y Reino Nuevo**
 
 ## Episodios añadidos
 
-- V387 Asiria, el primer gran imperio militar
-- Los asirios
-- Nínive, capital del Imperio Asirio
-- La Biblioteca de Asurbanipal
-- La caída del Imperio Asirio
+- Egipto: Reino Medio y Segundo Periodo Intermedio
+- Egipto: Reino Nuevo, el imperio egipcio
+- Hatshepsut, la faraona que gobernó Egipto
+- Akhenatón y la revolución de Amarna
+- Tutankhamón, la tumba del faraón niño
+- Ramsés II, el gran faraón de Egipto
+- Ramsés III y los Pueblos del Mar
 
 ## Totales
 
-- Episodios totales: 89
-- Episodios del subperiodo 0205: 5
-- Civilizaciones: 12
-- Temas: 279
-- Personas: 76
-- Lugares: 85
-- Relaciones: 1866
+- Episodios totales: 96
+- Episodios del subperiodo 0206: 7
+- Civilizaciones: 13
+- Temas: 303
+- Personas: 86
+- Lugares: 93
+- Relaciones: 2050

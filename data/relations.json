@@ -13060,5 +13060,1293 @@
     "target_id": "topic_persia_aquemenida",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0206",
+    "source_type": "subperiod",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reino_medio_egipto",
+    "source_type": "topic",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_mentuhotep_ii",
+    "source_type": "topic",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_dinastia_xii",
+    "source_type": "topic",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_sesostris_iii",
+    "source_type": "topic",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_segundo_periodo_intermedio",
+    "source_type": "topic",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hicsos",
+    "source_type": "topic",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_mentuhotep_ii",
+    "source_type": "person",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_sesostris_iii",
+    "source_type": "person",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_nubia",
+    "source_type": "place",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_valle_nilo",
+    "source_type": "place",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0206",
+    "source_type": "subperiod",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reino_nuevo_egipto",
+    "source_type": "topic",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_dinastia_xviii",
+    "source_type": "topic",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hatshepsut",
+    "source_type": "topic",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tutmosis_iii",
+    "source_type": "topic",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_karnak",
+    "source_type": "topic",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_valle_reyes",
+    "source_type": "topic",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hatshepsut",
+    "source_type": "person",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_tutmosis_iii",
+    "source_type": "person",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_karnak",
+    "source_type": "place",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_valle_reyes",
+    "source_type": "place",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0206",
+    "source_type": "subperiod",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_hatshepsut",
+    "source_type": "topic",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_dinastia_xviii",
+    "source_type": "topic",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_nuevo_egipto",
+    "source_type": "topic",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hatshepsut",
+    "source_type": "person",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_deir_el_bahari",
+    "source_type": "place",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0206",
+    "source_type": "subperiod",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_akhenaton",
+    "source_type": "topic",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_atonismo",
+    "source_type": "topic",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_amarna",
+    "source_type": "topic",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_dinastia_xviii",
+    "source_type": "topic",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_akhenaton",
+    "source_type": "person",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_nefertiti",
+    "source_type": "person",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_amarna",
+    "source_type": "place",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0206",
+    "source_type": "subperiod",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_tutankhamon",
+    "source_type": "topic",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_valle_reyes",
+    "source_type": "topic",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_nuevo_egipto",
+    "source_type": "topic",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tutankhamon",
+    "source_type": "person",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_howard_carter",
+    "source_type": "person",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_valle_reyes",
+    "source_type": "place",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0206",
+    "source_type": "subperiod",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_ramses_ii",
+    "source_type": "topic",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_qadesh",
+    "source_type": "topic",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_abu_simbel",
+    "source_type": "topic",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_nuevo_egipto",
+    "source_type": "topic",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_abu_simbel",
+    "source_type": "place",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_karnak",
+    "source_type": "place",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_nubia",
+    "source_type": "place",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0206",
+    "source_type": "subperiod",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_pueblos_mar_egipto",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reino_nuevo_egipto",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ramses_iii",
+    "source_type": "person",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_medinet_habu",
+    "source_type": "place",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_reino_medio_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_reino_nuevo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_dinastia_xviii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_akhenaton",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_ramses_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_tebas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_karnak",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_valle_reyes",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_amarna",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_abu_simbel",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_mentuhotep_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_hatshepsut",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_akhenaton",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_tutankhamon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "person_ramses_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mentuhotep_ii",
+    "source_type": "person",
+    "target_id": "topic_mentuhotep_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mentuhotep_ii",
+    "source_type": "person",
+    "target_id": "topic_reino_medio_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mentuhotep_ii",
+    "source_type": "person",
+    "target_id": "place_tebas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_mentuhotep_ii",
+    "source_type": "person",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_sesostris_iii",
+    "source_type": "person",
+    "target_id": "topic_sesostris_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sesostris_iii",
+    "source_type": "person",
+    "target_id": "topic_dinastia_xii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sesostris_iii",
+    "source_type": "person",
+    "target_id": "topic_nubia_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sesostris_iii",
+    "source_type": "person",
+    "target_id": "place_nubia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sesostris_iii",
+    "source_type": "person",
+    "target_id": "place_tebas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_sesostris_iii",
+    "source_type": "person",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hatshepsut",
+    "source_type": "person",
+    "target_id": "topic_hatshepsut",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hatshepsut",
+    "source_type": "person",
+    "target_id": "topic_dinastia_xviii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hatshepsut",
+    "source_type": "person",
+    "target_id": "place_deir_el_bahari",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hatshepsut",
+    "source_type": "person",
+    "target_id": "place_tebas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hatshepsut",
+    "source_type": "person",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tutmosis_iii",
+    "source_type": "person",
+    "target_id": "topic_tutmosis_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tutmosis_iii",
+    "source_type": "person",
+    "target_id": "topic_reino_nuevo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tutmosis_iii",
+    "source_type": "person",
+    "target_id": "place_karnak",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tutmosis_iii",
+    "source_type": "person",
+    "target_id": "place_tebas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tutmosis_iii",
+    "source_type": "person",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_akhenaton",
+    "source_type": "person",
+    "target_id": "topic_akhenaton",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_akhenaton",
+    "source_type": "person",
+    "target_id": "topic_atonismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_akhenaton",
+    "source_type": "person",
+    "target_id": "topic_amarna",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_akhenaton",
+    "source_type": "person",
+    "target_id": "place_amarna",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_akhenaton",
+    "source_type": "person",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_nefertiti",
+    "source_type": "person",
+    "target_id": "topic_akhenaton",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nefertiti",
+    "source_type": "person",
+    "target_id": "topic_atonismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nefertiti",
+    "source_type": "person",
+    "target_id": "place_amarna",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nefertiti",
+    "source_type": "person",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tutankhamon",
+    "source_type": "person",
+    "target_id": "topic_tutankhamon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tutankhamon",
+    "source_type": "person",
+    "target_id": "topic_valle_reyes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tutankhamon",
+    "source_type": "person",
+    "target_id": "place_valle_reyes",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tutankhamon",
+    "source_type": "person",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_howard_carter",
+    "source_type": "person",
+    "target_id": "topic_tutankhamon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_howard_carter",
+    "source_type": "person",
+    "target_id": "topic_valle_reyes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_howard_carter",
+    "source_type": "person",
+    "target_id": "place_valle_reyes",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_howard_carter",
+    "source_type": "person",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "topic_ramses_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "topic_qadesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "topic_abu_simbel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "place_abu_simbel",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "place_karnak",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ramses_iii",
+    "source_type": "person",
+    "target_id": "topic_pueblos_mar_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_iii",
+    "source_type": "person",
+    "target_id": "topic_reino_nuevo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_iii",
+    "source_type": "person",
+    "target_id": "place_medinet_habu",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ramses_iii",
+    "source_type": "person",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "topic_tebas_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "topic_reino_nuevo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "person_mentuhotep_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "person_hatshepsut",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tebas",
+    "source_type": "place",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_karnak",
+    "source_type": "place",
+    "target_id": "topic_karnak",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_karnak",
+    "source_type": "place",
+    "target_id": "topic_reino_nuevo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_karnak",
+    "source_type": "place",
+    "target_id": "person_tutmosis_iii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_karnak",
+    "source_type": "place",
+    "target_id": "person_ramses_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_karnak",
+    "source_type": "place",
+    "target_id": "ep_reino_nuevo_imperio_egipcio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_valle_reyes",
+    "source_type": "place",
+    "target_id": "topic_valle_reyes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_valle_reyes",
+    "source_type": "place",
+    "target_id": "topic_tutankhamon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_valle_reyes",
+    "source_type": "place",
+    "target_id": "person_tutankhamon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_valle_reyes",
+    "source_type": "place",
+    "target_id": "person_howard_carter",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_valle_reyes",
+    "source_type": "place",
+    "target_id": "ep_tutankhamon_tumba",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_amarna",
+    "source_type": "place",
+    "target_id": "topic_amarna",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_amarna",
+    "source_type": "place",
+    "target_id": "topic_atonismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_amarna",
+    "source_type": "place",
+    "target_id": "topic_akhenaton",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_amarna",
+    "source_type": "place",
+    "target_id": "person_akhenaton",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_amarna",
+    "source_type": "place",
+    "target_id": "person_nefertiti",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_amarna",
+    "source_type": "place",
+    "target_id": "ep_akhenaton_revolucion_amarna",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_deir_el_bahari",
+    "source_type": "place",
+    "target_id": "topic_hatshepsut",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_deir_el_bahari",
+    "source_type": "place",
+    "target_id": "topic_reino_nuevo_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_deir_el_bahari",
+    "source_type": "place",
+    "target_id": "person_hatshepsut",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_deir_el_bahari",
+    "source_type": "place",
+    "target_id": "ep_hatshepsut_faraona",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_abu_simbel",
+    "source_type": "place",
+    "target_id": "topic_abu_simbel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_abu_simbel",
+    "source_type": "place",
+    "target_id": "topic_ramses_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_abu_simbel",
+    "source_type": "place",
+    "target_id": "person_ramses_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_abu_simbel",
+    "source_type": "place",
+    "target_id": "ep_ramses_ii_gran_faraon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_nubia",
+    "source_type": "place",
+    "target_id": "topic_nubia_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nubia",
+    "source_type": "place",
+    "target_id": "person_sesostris_iii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nubia",
+    "source_type": "place",
+    "target_id": "person_ramses_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_nubia",
+    "source_type": "place",
+    "target_id": "ep_egipto_reino_medio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_medinet_habu",
+    "source_type": "place",
+    "target_id": "topic_pueblos_mar_egipto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_medinet_habu",
+    "source_type": "place",
+    "target_id": "person_ramses_iii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_medinet_habu",
+    "source_type": "place",
+    "target_id": "ep_pueblos_mar_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_antiguo_egipto",
+    "source_type": "topic",
+    "target_id": "topic_reino_medio_egipto",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_reino_medio_egipto",
+    "source_type": "topic",
+    "target_id": "topic_segundo_periodo_intermedio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_segundo_periodo_intermedio",
+    "source_type": "topic",
+    "target_id": "topic_hicsos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_hicsos",
+    "source_type": "topic",
+    "target_id": "topic_reino_nuevo_egipto",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_reino_nuevo_egipto",
+    "source_type": "topic",
+    "target_id": "topic_dinastia_xviii",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_dinastia_xviii",
+    "source_type": "topic",
+    "target_id": "topic_akhenaton",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_akhenaton",
+    "source_type": "topic",
+    "target_id": "topic_tutankhamon",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_tutankhamon",
+    "source_type": "topic",
+    "target_id": "topic_ramses_ii",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ramses_ii",
+    "source_type": "topic",
+    "target_id": "topic_pueblos_mar_egipto",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_pueblos_mar_egipto",
+    "source_type": "topic",
+    "target_id": "topic_hititas",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

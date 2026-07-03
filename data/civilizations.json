@@ -263,5 +263,34 @@
       "person_senaquerib",
       "person_asurbanipal"
     ]
+  },
+  {
+    "id": "civ_egypt_middle_new_kingdom",
+    "name": "Egipto: Reino Medio y Reino Nuevo",
+    "type": "civilization_period",
+    "date_range": "c. 2055-1069 a.C.",
+    "region": "Valle del Nilo",
+    "summary": "Etapas de reunificación, expansión imperial, esplendor religioso, reforma amarniense y periodo ramésida del Egipto antiguo.",
+    "related_topics": [
+      "topic_reino_medio_egipto",
+      "topic_reino_nuevo_egipto",
+      "topic_dinastia_xviii",
+      "topic_akhenaton",
+      "topic_ramses_ii"
+    ],
+    "related_places": [
+      "place_tebas",
+      "place_karnak",
+      "place_valle_reyes",
+      "place_amarna",
+      "place_abu_simbel"
+    ],
+    "related_people": [
+      "person_mentuhotep_ii",
+      "person_hatshepsut",
+      "person_akhenaton",
+      "person_tutankhamon",
+      "person_ramses_ii"
+    ]
   }
 ]

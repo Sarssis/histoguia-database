@@ -1541,5 +1541,154 @@
     "related_episodes": [
       "ep_v387_asiria_imperio_militar"
     ]
+  },
+  {
+    "id": "place_tebas",
+    "name": "Tebas",
+    "type": "city",
+    "modern_location": "Luxor, Egipto",
+    "summary": "Centro político y religioso clave en el Reino Medio y Reino Nuevo.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_tebas_egipto",
+      "topic_reino_nuevo_egipto"
+    ],
+    "related_people": [
+      "person_mentuhotep_ii",
+      "person_hatshepsut"
+    ],
+    "related_episodes": [
+      "ep_egipto_reino_medio",
+      "ep_reino_nuevo_imperio_egipcio"
+    ]
+  },
+  {
+    "id": "place_karnak",
+    "name": "Karnak",
+    "type": "site",
+    "modern_location": "Luxor, Egipto",
+    "summary": "Gran complejo templario tebano dedicado principalmente a Amón.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_karnak",
+      "topic_reino_nuevo_egipto"
+    ],
+    "related_people": [
+      "person_tutmosis_iii",
+      "person_ramses_ii"
+    ],
+    "related_episodes": [
+      "ep_reino_nuevo_imperio_egipcio"
+    ]
+  },
+  {
+    "id": "place_valle_reyes",
+    "name": "Valle de los Reyes",
+    "type": "site",
+    "modern_location": "Tebas occidental, Egipto",
+    "summary": "Necrópolis real del Reino Nuevo, donde se encontró la tumba de Tutankhamón.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_valle_reyes",
+      "topic_tutankhamon"
+    ],
+    "related_people": [
+      "person_tutankhamon",
+      "person_howard_carter"
+    ],
+    "related_episodes": [
+      "ep_tutankhamon_tumba"
+    ]
+  },
+  {
+    "id": "place_amarna",
+    "name": "Amarna / Akhetatón",
+    "type": "site",
+    "modern_location": "Egipto Medio",
+    "summary": "Capital fundada por Akhenatón durante la reforma atonista.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_amarna",
+      "topic_atonismo",
+      "topic_akhenaton"
+    ],
+    "related_people": [
+      "person_akhenaton",
+      "person_nefertiti"
+    ],
+    "related_episodes": [
+      "ep_akhenaton_revolucion_amarna"
+    ]
+  },
+  {
+    "id": "place_deir_el_bahari",
+    "name": "Deir el-Bahari",
+    "type": "site",
+    "modern_location": "Tebas occidental, Egipto",
+    "summary": "Complejo funerario asociado a Hatshepsut y otros reyes tebanos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_hatshepsut",
+      "topic_reino_nuevo_egipto"
+    ],
+    "related_people": [
+      "person_hatshepsut"
+    ],
+    "related_episodes": [
+      "ep_hatshepsut_faraona"
+    ]
+  },
+  {
+    "id": "place_abu_simbel",
+    "name": "Abu Simbel",
+    "type": "site",
+    "modern_location": "Nubia, Egipto",
+    "summary": "Complejo monumental construido por Ramsés II en Nubia.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_abu_simbel",
+      "topic_ramses_ii"
+    ],
+    "related_people": [
+      "person_ramses_ii"
+    ],
+    "related_episodes": [
+      "ep_ramses_ii_gran_faraon"
+    ]
+  },
+  {
+    "id": "place_nubia",
+    "name": "Nubia",
+    "type": "region",
+    "modern_location": "Sur de Egipto y Sudán",
+    "summary": "Región al sur de Egipto, fundamental en la expansión y comercio egipcio.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_nubia_egipto"
+    ],
+    "related_people": [
+      "person_sesostris_iii",
+      "person_ramses_ii"
+    ],
+    "related_episodes": [
+      "ep_egipto_reino_medio"
+    ]
+  },
+  {
+    "id": "place_medinet_habu",
+    "name": "Medinet Habu",
+    "type": "site",
+    "modern_location": "Tebas occidental, Egipto",
+    "summary": "Templo funerario de Ramsés III, importante por sus relieves sobre los Pueblos del Mar.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_pueblos_mar_egipto"
+    ],
+    "related_people": [
+      "person_ramses_iii"
+    ],
+    "related_episodes": [
+      "ep_pueblos_mar_egipto"
+    ]
   }
 ]

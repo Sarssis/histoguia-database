@@ -1,8 +1,8 @@
 {
-  "version": "4.5",
-  "description": "Periodo 02. Subperiodo 5 activo: Asiria y los primeros grandes imperios militares.",
+  "version": "4.6",
+  "description": "Periodo 02. Subperiodo 6 activo: Egipto: Reino Medio y Reino Nuevo.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 89,
+  "episode_count": 96,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 76,
-  "places_count": 85,
-  "topics_count": 279,
-  "relations_count": 1866,
-  "status": "phase02_sub0205_active",
-  "civilizations_count": 12
+  "people_count": 86,
+  "places_count": 93,
+  "topics_count": 303,
+  "relations_count": 2050,
+  "status": "phase02_sub0206_active",
+  "civilizations_count": 13
 }

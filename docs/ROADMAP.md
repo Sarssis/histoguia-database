@@ -11,6 +11,7 @@
 - sub_0203: Imperio Acadio y renacimiento sumerio
 - sub_0204: Babilonia y Hammurabi
 - sub_0205: Asiria y los primeros grandes imperios militares
+- sub_0206: Egipto: Reino Medio y Reino Nuevo
 
 ## Siguiente subperiodo sugerido
-- sub_0206: Egipto: Reino Medio y Reino Nuevo
+- sub_0207: Hititas, Mitanni y otros reinos de Anatolia y Siria

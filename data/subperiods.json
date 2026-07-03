@@ -156,5 +156,14 @@
     "date_range": "c. 1400-612 a.C.",
     "summary": "Ascenso asirio, militarización imperial, Tiglat-Pileser III, Sargón II, Senaquerib, Asurbanipal, Nínive y la organización de los primeros grandes imperios militares.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0206",
+    "phase_id": "phase_02",
+    "order": 6,
+    "name": "Egipto: Reino Medio y Reino Nuevo",
+    "date_range": "c. 2055-1069 a.C.",
+    "summary": "Reunificación del Reino Medio, esplendor administrativo, Segundo Periodo Intermedio, hicsos, XVIII dinastía, Hatshepsut, Akhenatón, Tutankhamón, Ramsés II y el Egipto imperial del Reino Nuevo.",
+    "status": "content_seeded"
   }
 ]
