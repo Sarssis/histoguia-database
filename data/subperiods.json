@@ -165,5 +165,14 @@
     "date_range": "c. 2055-1069 a.C.",
     "summary": "Reunificación del Reino Medio, esplendor administrativo, Segundo Periodo Intermedio, hicsos, XVIII dinastía, Hatshepsut, Akhenatón, Tutankhamón, Ramsés II y el Egipto imperial del Reino Nuevo.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0207",
+    "phase_id": "phase_02",
+    "order": 7,
+    "name": "Hititas, Mitanni y otros reinos de Anatolia y Siria",
+    "date_range": "c. 1700-1180 a.C.",
+    "summary": "Hititas, Mitanni, hurritas, Ugarit, Hattusa, diplomacia internacional, Qadesh y crisis del Bronce Final.",
+    "status": "content_seeded"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "version": "4.6",
-  "description": "Periodo 02. Subperiodo 6 activo: Egipto: Reino Medio y Reino Nuevo.",
+  "version": "4.7",
+  "description": "Periodo 02. Subperiodo 7 activo: Hititas, Mitanni y otros reinos de Anatolia y Siria.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 96,
+  "episode_count": 102,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 86,
-  "places_count": 93,
-  "topics_count": 303,
-  "relations_count": 2050,
-  "status": "phase02_sub0206_active",
-  "civilizations_count": 13
+  "people_count": 90,
+  "places_count": 99,
+  "topics_count": 323,
+  "relations_count": 2193,
+  "status": "phase02_sub0207_active",
+  "civilizations_count": 16
 }

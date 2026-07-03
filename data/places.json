@@ -1690,5 +1690,112 @@
     "related_episodes": [
       "ep_pueblos_mar_egipto"
     ]
+  },
+  {
+    "id": "place_anatolia",
+    "name": "Anatolia",
+    "type": "region",
+    "modern_location": "Turquía",
+    "summary": "Región nuclear del mundo hitita durante el Bronce Final.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_anatolia_bronce",
+      "topic_hititas"
+    ],
+    "related_people": [
+      "person_suppiluliuma_i"
+    ],
+    "related_episodes": [
+      "ep_histocast_hititas",
+      "ep_v388_hititas"
+    ]
+  },
+  {
+    "id": "place_hattusa",
+    "name": "Hattusa",
+    "type": "city",
+    "modern_location": "Boğazkale, Turquía",
+    "summary": "Capital del Imperio hitita.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_hattusa",
+      "topic_imperio_hitita"
+    ],
+    "related_people": [
+      "person_suppiluliuma_i",
+      "person_hattusili_iii"
+    ],
+    "related_episodes": [
+      "ep_histocast_hititas",
+      "ep_v388_hititas"
+    ]
+  },
+  {
+    "id": "place_qadesh",
+    "name": "Qadesh",
+    "type": "site",
+    "modern_location": "Siria occidental",
+    "summary": "Lugar de la batalla entre egipcios e hititas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_qadesh_hititas",
+      "topic_tratado_qadesh"
+    ],
+    "related_people": [
+      "person_muwatalli_ii"
+    ],
+    "related_episodes": [
+      "ep_qadesh_hititas_egipto"
+    ]
+  },
+  {
+    "id": "place_mitanni",
+    "name": "Mitanni",
+    "type": "region",
+    "modern_location": "Alta Mesopotamia y Siria",
+    "summary": "Área aproximada del reino de Mitanni.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_mitanni",
+      "topic_hurritas"
+    ],
+    "related_people": [
+      "person_tushratta"
+    ],
+    "related_episodes": [
+      "ep_mitanni_hurritas"
+    ]
+  },
+  {
+    "id": "place_siria_bronce",
+    "name": "Siria del Bronce Final",
+    "type": "region",
+    "modern_location": "Siria y Levante norte",
+    "summary": "Espacio de disputa diplomática y militar entre hititas, egipcios, Mitanni, Asiria y ciudades locales.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_siria_bronce_final"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_mitanni_hurritas",
+      "ep_ugarit_bronce_final"
+    ]
+  },
+  {
+    "id": "place_ugarit",
+    "name": "Ugarit",
+    "type": "city",
+    "modern_location": "Ras Shamra, Siria",
+    "summary": "Ciudad-estado siria del Bronce Final, famosa por archivos, comercio y alfabeto ugarítico.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_ugarit",
+      "topic_archivos_ugarit"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_ugarit_bronce_final"
+    ]
   }
 ]

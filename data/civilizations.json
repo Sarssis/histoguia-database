@@ -292,5 +292,68 @@
       "person_tutankhamon",
       "person_ramses_ii"
     ]
+  },
+  {
+    "id": "civ_hittites",
+    "name": "Hititas / Hatti",
+    "type": "empire",
+    "date_range": "c. 1650-1180 a.C.",
+    "region": "Anatolia",
+    "summary": "Potencia anatolia del Bronce Final con capital en Hattusa.",
+    "related_topics": [
+      "topic_hititas",
+      "topic_imperio_hitita",
+      "topic_hattusa",
+      "topic_qadesh_hititas",
+      "topic_tratado_qadesh"
+    ],
+    "related_places": [
+      "place_anatolia",
+      "place_hattusa",
+      "place_qadesh"
+    ],
+    "related_people": [
+      "person_suppiluliuma_i",
+      "person_muwatalli_ii",
+      "person_hattusili_iii"
+    ]
+  },
+  {
+    "id": "civ_mitanni",
+    "name": "Mitanni",
+    "type": "kingdom",
+    "date_range": "c. 1550-1260 a.C.",
+    "region": "Alta Mesopotamia y Siria",
+    "summary": "Reino hurrita de Alta Mesopotamia y Siria, actor diplomático clave del Bronce Final.",
+    "related_topics": [
+      "topic_mitanni",
+      "topic_hurritas",
+      "topic_tushratta",
+      "topic_cartas_amarna"
+    ],
+    "related_places": [
+      "place_mitanni",
+      "place_siria_bronce"
+    ],
+    "related_people": [
+      "person_tushratta"
+    ]
+  },
+  {
+    "id": "civ_ugarit",
+    "name": "Ugarit",
+    "type": "city_kingdom",
+    "date_range": "c. 1450-1180 a.C.",
+    "region": "Siria costera",
+    "summary": "Ciudad-estado del Bronce Final, famosa por sus archivos, alfabeto y redes comerciales.",
+    "related_topics": [
+      "topic_ugarit",
+      "topic_archivos_ugarit",
+      "topic_alfabeto_ugaritico"
+    ],
+    "related_places": [
+      "place_ugarit"
+    ],
+    "related_people": []
   }
 ]

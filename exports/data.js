@@ -296,6 +296,15 @@ const DATA = {
       "date_range": "c. 2055-1069 a.C.",
       "summary": "Reunificación del Reino Medio, esplendor administrativo, Segundo Periodo Intermedio, hicsos, XVIII dinastía, Hatshepsut, Akhenatón, Tutankhamón, Ramsés II y el Egipto imperial del Reino Nuevo.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0207",
+      "phase_id": "phase_02",
+      "order": 7,
+      "name": "Hititas, Mitanni y otros reinos de Anatolia y Siria",
+      "date_range": "c. 1700-1180 a.C.",
+      "summary": "Hititas, Mitanni, hurritas, Ugarit, Hattusa, diplomacia internacional, Qadesh y crisis del Bronce Final.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -3025,6 +3034,186 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Conflictos del final del Reino Nuevo vinculados a Ramsés III y la crisis del Bronce Final."
+    },
+    {
+      "id": "topic_hititas",
+      "name": "Hititas",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Hititas"
+    },
+    {
+      "id": "topic_imperio_hitita",
+      "name": "Imperio hitita",
+      "type": "empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Imperio hitita"
+    },
+    {
+      "id": "topic_anatolia_bronce",
+      "name": "Anatolia del Bronce",
+      "type": "region_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Anatolia del Bronce"
+    },
+    {
+      "id": "topic_hattusa",
+      "name": "Hattusa",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Hattusa"
+    },
+    {
+      "id": "topic_hatti",
+      "name": "Hatti",
+      "type": "region_culture",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Hatti"
+    },
+    {
+      "id": "topic_hattusili_iii",
+      "name": "Hattusili III",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Hattusili III"
+    },
+    {
+      "id": "topic_suppiluliuma_i",
+      "name": "Suppiluliuma I",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Suppiluliuma I"
+    },
+    {
+      "id": "topic_muwatalli_ii",
+      "name": "Muwatalli II",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Muwatalli II"
+    },
+    {
+      "id": "topic_mitanni",
+      "name": "Mitanni",
+      "type": "kingdom",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Mitanni"
+    },
+    {
+      "id": "topic_hurritas",
+      "name": "Hurritas",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Hurritas"
+    },
+    {
+      "id": "topic_tushratta",
+      "name": "Tushratta",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tushratta"
+    },
+    {
+      "id": "topic_ugarit",
+      "name": "Ugarit",
+      "type": "city_kingdom",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ugarit"
+    },
+    {
+      "id": "topic_archivos_ugarit",
+      "name": "Archivos de Ugarit",
+      "type": "archive",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Archivos de Ugarit"
+    },
+    {
+      "id": "topic_alfabeto_ugaritico",
+      "name": "Alfabeto ugarítico",
+      "type": "writing_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Alfabeto ugarítico"
+    },
+    {
+      "id": "topic_siria_bronce_final",
+      "name": "Siria del Bronce Final",
+      "type": "region_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Siria del Bronce Final"
+    },
+    {
+      "id": "topic_relaciones_internacionales_bronce",
+      "name": "Sistema internacional del Bronce Final",
+      "type": "diplomacy",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema internacional del Bronce Final"
+    },
+    {
+      "id": "topic_cartas_amarna",
+      "name": "Cartas de Amarna",
+      "type": "archive",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Cartas de Amarna"
+    },
+    {
+      "id": "topic_qadesh_hititas",
+      "name": "Qadesh hitita-egipcio",
+      "type": "battle",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Qadesh hitita-egipcio"
+    },
+    {
+      "id": "topic_tratado_qadesh",
+      "name": "Tratado de Qadesh",
+      "type": "treaty",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tratado de Qadesh"
+    },
+    {
+      "id": "topic_colapso_bronce_final_oriente",
+      "name": "Colapso del Bronce Final en Oriente",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Colapso del Bronce Final en Oriente"
     }
   ],
   "episodes": [
@@ -11011,6 +11200,481 @@ const DATA = {
         "medinet habu",
         "bronce final"
       ]
+    },
+    {
+      "id": "ep_histocast_hititas",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Los hititas",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0207",
+      "main_topic_id": "topic_imperio_hitita",
+      "topic_ids": [
+        "topic_imperio_hitita",
+        "topic_hititas",
+        "topic_hattusa",
+        "topic_anatolia_bronce",
+        "topic_siria_bronce_final"
+      ],
+      "people_ids": [
+        "person_suppiluliuma_i",
+        "person_hattusili_iii"
+      ],
+      "place_ids": [
+        "place_anatolia",
+        "place_hattusa",
+        "place_siria_bronce"
+      ],
+      "civilization_ids": [
+        "civ_hittites"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/histocast-89-hititas-audios-mp3_rf_6667818_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "6667818",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal sobre el mundo hitita: Anatolia, Hattusa, expansión imperial, Siria, diplomacia, guerra y relación con Egipto.",
+      "learn": [
+        "Comprender quiénes fueron los hititas.",
+        "Situar Anatolia y Hattusa.",
+        "Relacionar Hatti con Siria y Egipto.",
+        "Preparar Qadesh y el colapso del Bronce Final."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "hititas",
+        "hattusa",
+        "anatolia",
+        "hatti"
+      ]
+    },
+    {
+      "id": "ep_v388_hititas",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "",
+      "title": "V388 Hititas, el imperio de Anatolia",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0207",
+      "main_topic_id": "topic_hititas",
+      "topic_ids": [
+        "topic_hititas",
+        "topic_imperio_hitita",
+        "topic_hattusa",
+        "topic_relaciones_internacionales_bronce"
+      ],
+      "people_ids": [
+        "person_suppiluliuma_i"
+      ],
+      "place_ids": [
+        "place_anatolia",
+        "place_hattusa"
+      ],
+      "civilization_ids": [
+        "civ_hittites"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v388-127774-hititas-imperio-anatolia-audios-mp3_rf_130626347_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "130626347",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de refuerzo sobre los hititas como gran potencia anatolia del Bronce Final.",
+      "learn": [
+        "Reforzar la importancia de los hititas.",
+        "Entender Hattusa como centro político.",
+        "Relacionar ejército, archivos y diplomacia.",
+        "Conectar con Mitanni y Egipto."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "hititas",
+        "anatolia",
+        "hattusa"
+      ]
+    },
+    {
+      "id": "ep_mitanni_hurritas",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "Mitanni y los hurritas",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0207",
+      "main_topic_id": "topic_mitanni",
+      "topic_ids": [
+        "topic_mitanni",
+        "topic_hurritas",
+        "topic_tushratta",
+        "topic_cartas_amarna"
+      ],
+      "people_ids": [
+        "person_tushratta"
+      ],
+      "place_ids": [
+        "place_mitanni",
+        "place_siria_bronce"
+      ],
+      "civilization_ids": [
+        "civ_mitanni"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/mitanni-hurritas-audios-mp3_rf_64214177_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64214177",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre Mitanni y los hurritas, clave para no reducir el Bronce Final a Egipto, Babilonia e Hititas.",
+      "learn": [
+        "Identificar Mitanni como potencia del Bronce Final.",
+        "Comprender el papel de los hurritas.",
+        "Relacionar Mitanni con Egipto, Hatti y Asiria.",
+        "Situar Siria y Alta Mesopotamia."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "mitanni",
+        "hurritas",
+        "siria"
+      ]
+    },
+    {
+      "id": "ep_qadesh_hititas_egipto",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "La batalla de Qadesh: Egipto contra los hititas",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0207",
+      "main_topic_id": "topic_qadesh_hititas",
+      "topic_ids": [
+        "topic_qadesh_hititas",
+        "topic_tratado_qadesh",
+        "topic_muwatalli_ii",
+        "topic_hattusili_iii",
+        "topic_ramses_ii"
+      ],
+      "people_ids": [
+        "person_muwatalli_ii",
+        "person_hattusili_iii",
+        "person_ramses_ii"
+      ],
+      "place_ids": [
+        "place_qadesh",
+        "place_anatolia"
+      ],
+      "civilization_ids": [
+        "civ_hittites",
+        "civ_egypt_middle_new_kingdom"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/batalla-qadesh-egipto-contra-hititas-audios-mp3_rf_56933777_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "56933777",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio centrado en Qadesh, el gran choque entre Egipto e hititas.",
+      "learn": [
+        "Comprender la importancia de Qadesh.",
+        "Relacionar Egipto e Hititas.",
+        "Diferenciar batalla, propaganda y tratado.",
+        "Situar el primer gran tratado internacional conservado."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "qadesh",
+        "ramsés ii",
+        "hititas"
+      ]
+    },
+    {
+      "id": "ep_ugarit_bronce_final",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "Ugarit y los archivos del Bronce Final",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0207",
+      "main_topic_id": "topic_ugarit",
+      "topic_ids": [
+        "topic_ugarit",
+        "topic_archivos_ugarit",
+        "topic_alfabeto_ugaritico",
+        "topic_colapso_bronce_final_oriente"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_ugarit",
+        "place_siria_bronce"
+      ],
+      "civilization_ids": [
+        "civ_ugarit"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ugarit-archivos-del-bronce-final-audios-mp3_rf_3604904_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3604904",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula sobre Ugarit, sus archivos y su alfabeto.",
+      "learn": [
+        "Conocer Ugarit.",
+        "Relacionar archivos y diplomacia.",
+        "Identificar el alfabeto ugarítico.",
+        "Preparar el colapso del Bronce Final."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "ugarit",
+        "archivos",
+        "alfabeto ugarítico"
+      ]
+    },
+    {
+      "id": "ep_colapso_bronce_anatolia_siria",
+      "podcast_id": "pod_desaprendiendo_historia",
+      "podcast_name": "Desaprendiendo la Historia",
+      "episode_code": "",
+      "title": "El colapso del Bronce Final en Anatolia y Siria",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0207",
+      "main_topic_id": "topic_colapso_bronce_final_oriente",
+      "topic_ids": [
+        "topic_colapso_bronce_final_oriente",
+        "topic_colapso_bronce",
+        "topic_pueblos_mar_egipto",
+        "topic_ugarit",
+        "topic_imperio_hitita"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_anatolia",
+        "place_ugarit",
+        "place_siria_bronce"
+      ],
+      "civilization_ids": [
+        "civ_hittites",
+        "civ_ugarit"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2025",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/colapso-del-bronce-final-anatolia-siria-audios-mp3_rf_139882184_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "139882184",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de cierre sobre la crisis que afecta a Hatti, Ugarit y otros reinos del Mediterráneo oriental.",
+      "learn": [
+        "Entender la crisis del Bronce Final.",
+        "Relacionar Hatti, Ugarit y Siria.",
+        "Conectar colapso, migraciones y cambios políticos.",
+        "Preparar Fenicios y expansión mediterránea."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "colapso bronce final",
+        "hititas",
+        "ugarit"
+      ]
     }
   ],
   "civilizations": [
@@ -11307,6 +11971,69 @@ const DATA = {
         "person_tutankhamon",
         "person_ramses_ii"
       ]
+    },
+    {
+      "id": "civ_hittites",
+      "name": "Hititas / Hatti",
+      "type": "empire",
+      "date_range": "c. 1650-1180 a.C.",
+      "region": "Anatolia",
+      "summary": "Potencia anatolia del Bronce Final con capital en Hattusa.",
+      "related_topics": [
+        "topic_hititas",
+        "topic_imperio_hitita",
+        "topic_hattusa",
+        "topic_qadesh_hititas",
+        "topic_tratado_qadesh"
+      ],
+      "related_places": [
+        "place_anatolia",
+        "place_hattusa",
+        "place_qadesh"
+      ],
+      "related_people": [
+        "person_suppiluliuma_i",
+        "person_muwatalli_ii",
+        "person_hattusili_iii"
+      ]
+    },
+    {
+      "id": "civ_mitanni",
+      "name": "Mitanni",
+      "type": "kingdom",
+      "date_range": "c. 1550-1260 a.C.",
+      "region": "Alta Mesopotamia y Siria",
+      "summary": "Reino hurrita de Alta Mesopotamia y Siria, actor diplomático clave del Bronce Final.",
+      "related_topics": [
+        "topic_mitanni",
+        "topic_hurritas",
+        "topic_tushratta",
+        "topic_cartas_amarna"
+      ],
+      "related_places": [
+        "place_mitanni",
+        "place_siria_bronce"
+      ],
+      "related_people": [
+        "person_tushratta"
+      ]
+    },
+    {
+      "id": "civ_ugarit",
+      "name": "Ugarit",
+      "type": "city_kingdom",
+      "date_range": "c. 1450-1180 a.C.",
+      "region": "Siria costera",
+      "summary": "Ciudad-estado del Bronce Final, famosa por sus archivos, alfabeto y redes comerciales.",
+      "related_topics": [
+        "topic_ugarit",
+        "topic_archivos_ugarit",
+        "topic_alfabeto_ugaritico"
+      ],
+      "related_places": [
+        "place_ugarit"
+      ],
+      "related_people": []
     }
   ]
 };

@@ -212,7 +212,13 @@
       "ep_akhenaton_revolucion_amarna",
       "ep_tutankhamon_tumba",
       "ep_ramses_ii_gran_faraon",
-      "ep_pueblos_mar_egipto"
+      "ep_pueblos_mar_egipto",
+      "ep_histocast_hititas",
+      "ep_v388_hititas",
+      "ep_mitanni_hurritas",
+      "ep_qadesh_hititas_egipto",
+      "ep_ugarit_bronce_final",
+      "ep_colapso_bronce_anatolia_siria"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -265,8 +271,16 @@
       "topic_tutankhamon",
       "topic_ramses_ii",
       "topic_pueblos_mar_egipto",
-      "topic_hititas"
+      "topic_hititas",
+      "topic_imperio_hitita",
+      "topic_mitanni",
+      "topic_siria_bronce_final",
+      "topic_qadesh_hititas",
+      "topic_tratado_qadesh",
+      "topic_ugarit",
+      "topic_colapso_bronce_final_oriente",
+      "topic_fenicios_peninsula"
     ],
-    "status": "sub0206_active"
+    "status": "sub0207_active"
   }
 ]

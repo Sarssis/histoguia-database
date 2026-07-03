@@ -14348,5 +14348,1006 @@
     "target_id": "topic_hititas",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0207",
+    "source_type": "subperiod",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_imperio_hitita",
+    "source_type": "topic",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_hititas",
+    "source_type": "topic",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hattusa",
+    "source_type": "topic",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_anatolia_bronce",
+    "source_type": "topic",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_siria_bronce_final",
+    "source_type": "topic",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_suppiluliuma_i",
+    "source_type": "person",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_hattusili_iii",
+    "source_type": "person",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_siria_bronce",
+    "source_type": "place",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0207",
+    "source_type": "subperiod",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_hititas",
+    "source_type": "topic",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_imperio_hitita",
+    "source_type": "topic",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hattusa",
+    "source_type": "topic",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_relaciones_internacionales_bronce",
+    "source_type": "topic",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_suppiluliuma_i",
+    "source_type": "person",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0207",
+    "source_type": "subperiod",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_mitanni",
+    "source_type": "topic",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_hurritas",
+    "source_type": "topic",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tushratta",
+    "source_type": "topic",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_cartas_amarna",
+    "source_type": "topic",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tushratta",
+    "source_type": "person",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mitanni",
+    "source_type": "place",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_siria_bronce",
+    "source_type": "place",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0207",
+    "source_type": "subperiod",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_qadesh_hititas",
+    "source_type": "topic",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_tratado_qadesh",
+    "source_type": "topic",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_muwatalli_ii",
+    "source_type": "topic",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hattusili_iii",
+    "source_type": "topic",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ramses_ii",
+    "source_type": "topic",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_muwatalli_ii",
+    "source_type": "person",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_hattusili_iii",
+    "source_type": "person",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_ramses_ii",
+    "source_type": "person",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_qadesh",
+    "source_type": "place",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0207",
+    "source_type": "subperiod",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_ugarit",
+    "source_type": "topic",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_archivos_ugarit",
+    "source_type": "topic",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_alfabeto_ugaritico",
+    "source_type": "topic",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_colapso_bronce_final_oriente",
+    "source_type": "topic",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_ugarit",
+    "source_type": "place",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_siria_bronce",
+    "source_type": "place",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ugarit",
+    "source_type": "civilization",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0207",
+    "source_type": "subperiod",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_colapso_bronce_final_oriente",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_colapso_bronce",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_pueblos_mar_egipto",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ugarit",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imperio_hitita",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ugarit",
+    "source_type": "place",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_siria_bronce",
+    "source_type": "place",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ugarit",
+    "source_type": "civilization",
+    "target_id": "ep_colapso_bronce_anatolia_siria",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "topic_hititas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "topic_imperio_hitita",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "topic_hattusa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "topic_qadesh_hititas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "topic_tratado_qadesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "place_anatolia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "place_hattusa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "place_qadesh",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "person_suppiluliuma_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "person_muwatalli_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "person_hattusili_iii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "topic_mitanni",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "topic_hurritas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "topic_tushratta",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "topic_cartas_amarna",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "place_mitanni",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "place_siria_bronce",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mitanni",
+    "source_type": "civilization",
+    "target_id": "person_tushratta",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ugarit",
+    "source_type": "civilization",
+    "target_id": "topic_ugarit",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ugarit",
+    "source_type": "civilization",
+    "target_id": "topic_archivos_ugarit",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ugarit",
+    "source_type": "civilization",
+    "target_id": "topic_alfabeto_ugaritico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ugarit",
+    "source_type": "civilization",
+    "target_id": "place_ugarit",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_suppiluliuma_i",
+    "source_type": "person",
+    "target_id": "topic_suppiluliuma_i",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_suppiluliuma_i",
+    "source_type": "person",
+    "target_id": "topic_imperio_hitita",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_suppiluliuma_i",
+    "source_type": "person",
+    "target_id": "place_hattusa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_suppiluliuma_i",
+    "source_type": "person",
+    "target_id": "place_anatolia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_suppiluliuma_i",
+    "source_type": "person",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_muwatalli_ii",
+    "source_type": "person",
+    "target_id": "topic_muwatalli_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_muwatalli_ii",
+    "source_type": "person",
+    "target_id": "topic_qadesh_hititas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_muwatalli_ii",
+    "source_type": "person",
+    "target_id": "place_qadesh",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_muwatalli_ii",
+    "source_type": "person",
+    "target_id": "place_hattusa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_muwatalli_ii",
+    "source_type": "person",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hattusili_iii",
+    "source_type": "person",
+    "target_id": "topic_hattusili_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hattusili_iii",
+    "source_type": "person",
+    "target_id": "topic_tratado_qadesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hattusili_iii",
+    "source_type": "person",
+    "target_id": "place_hattusa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hattusili_iii",
+    "source_type": "person",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tushratta",
+    "source_type": "person",
+    "target_id": "topic_tushratta",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tushratta",
+    "source_type": "person",
+    "target_id": "topic_mitanni",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tushratta",
+    "source_type": "person",
+    "target_id": "topic_cartas_amarna",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tushratta",
+    "source_type": "person",
+    "target_id": "place_mitanni",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tushratta",
+    "source_type": "person",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "topic_anatolia_bronce",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "topic_hititas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "person_suppiluliuma_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "topic_hattusa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "topic_imperio_hitita",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "person_suppiluliuma_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "person_hattusili_iii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "ep_histocast_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_hattusa",
+    "source_type": "place",
+    "target_id": "ep_v388_hititas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_qadesh",
+    "source_type": "place",
+    "target_id": "topic_qadesh_hititas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_qadesh",
+    "source_type": "place",
+    "target_id": "topic_tratado_qadesh",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_qadesh",
+    "source_type": "place",
+    "target_id": "person_muwatalli_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_qadesh",
+    "source_type": "place",
+    "target_id": "ep_qadesh_hititas_egipto",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mitanni",
+    "source_type": "place",
+    "target_id": "topic_mitanni",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mitanni",
+    "source_type": "place",
+    "target_id": "topic_hurritas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mitanni",
+    "source_type": "place",
+    "target_id": "person_tushratta",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mitanni",
+    "source_type": "place",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_siria_bronce",
+    "source_type": "place",
+    "target_id": "topic_siria_bronce_final",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_siria_bronce",
+    "source_type": "place",
+    "target_id": "ep_mitanni_hurritas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_siria_bronce",
+    "source_type": "place",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_ugarit",
+    "source_type": "place",
+    "target_id": "topic_ugarit",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ugarit",
+    "source_type": "place",
+    "target_id": "topic_archivos_ugarit",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ugarit",
+    "source_type": "place",
+    "target_id": "ep_ugarit_bronce_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_nuevo_egipto",
+    "source_type": "topic",
+    "target_id": "topic_hititas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_hititas",
+    "source_type": "topic",
+    "target_id": "topic_imperio_hitita",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_imperio_hitita",
+    "source_type": "topic",
+    "target_id": "topic_mitanni",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_mitanni",
+    "source_type": "topic",
+    "target_id": "topic_siria_bronce_final",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_siria_bronce_final",
+    "source_type": "topic",
+    "target_id": "topic_qadesh_hititas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_qadesh_hititas",
+    "source_type": "topic",
+    "target_id": "topic_tratado_qadesh",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_tratado_qadesh",
+    "source_type": "topic",
+    "target_id": "topic_ugarit",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ugarit",
+    "source_type": "topic",
+    "target_id": "topic_colapso_bronce_final_oriente",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_colapso_bronce_final_oriente",
+    "source_type": "topic",
+    "target_id": "topic_fenicios_peninsula",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

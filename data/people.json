@@ -1801,5 +1801,88 @@
     "related_episodes": [
       "ep_pueblos_mar_egipto"
     ]
+  },
+  {
+    "id": "person_suppiluliuma_i",
+    "name": "Suppiluliuma I",
+    "type": "ruler",
+    "category": "hittite_king",
+    "scientific_name": "",
+    "dates": "c. siglo XIV a.C.",
+    "period": "Imperio hitita",
+    "summary": "Rey hitita que expandió Hatti y transformó el equilibrio de poder en Siria.",
+    "related_topics": [
+      "topic_suppiluliuma_i",
+      "topic_imperio_hitita"
+    ],
+    "related_places": [
+      "place_hattusa",
+      "place_anatolia"
+    ],
+    "related_episodes": [
+      "ep_histocast_hititas"
+    ]
+  },
+  {
+    "id": "person_muwatalli_ii",
+    "name": "Muwatalli II",
+    "type": "ruler",
+    "category": "hittite_king",
+    "scientific_name": "",
+    "dates": "c. siglo XIII a.C.",
+    "period": "Imperio hitita",
+    "summary": "Rey hitita enfrentado a Ramsés II en Qadesh.",
+    "related_topics": [
+      "topic_muwatalli_ii",
+      "topic_qadesh_hititas"
+    ],
+    "related_places": [
+      "place_qadesh",
+      "place_hattusa"
+    ],
+    "related_episodes": [
+      "ep_qadesh_hititas_egipto"
+    ]
+  },
+  {
+    "id": "person_hattusili_iii",
+    "name": "Hattusili III",
+    "type": "ruler",
+    "category": "hittite_king",
+    "scientific_name": "",
+    "dates": "c. siglo XIII a.C.",
+    "period": "Imperio hitita",
+    "summary": "Rey hitita vinculado al tratado de paz con Egipto tras Qadesh.",
+    "related_topics": [
+      "topic_hattusili_iii",
+      "topic_tratado_qadesh"
+    ],
+    "related_places": [
+      "place_hattusa"
+    ],
+    "related_episodes": [
+      "ep_qadesh_hititas_egipto"
+    ]
+  },
+  {
+    "id": "person_tushratta",
+    "name": "Tushratta",
+    "type": "ruler",
+    "category": "mitanni_king",
+    "scientific_name": "",
+    "dates": "c. siglo XIV a.C.",
+    "period": "Mitanni",
+    "summary": "Rey de Mitanni conocido por su correspondencia diplomática con Egipto.",
+    "related_topics": [
+      "topic_tushratta",
+      "topic_mitanni",
+      "topic_cartas_amarna"
+    ],
+    "related_places": [
+      "place_mitanni"
+    ],
+    "related_episodes": [
+      "ep_mitanni_hurritas"
+    ]
   }
 ]

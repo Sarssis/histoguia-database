@@ -2725,5 +2725,185 @@
       "phase_02"
     ],
     "summary": "Conflictos del final del Reino Nuevo vinculados a Ramsés III y la crisis del Bronce Final."
+  },
+  {
+    "id": "topic_hititas",
+    "name": "Hititas",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Hititas"
+  },
+  {
+    "id": "topic_imperio_hitita",
+    "name": "Imperio hitita",
+    "type": "empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Imperio hitita"
+  },
+  {
+    "id": "topic_anatolia_bronce",
+    "name": "Anatolia del Bronce",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Anatolia del Bronce"
+  },
+  {
+    "id": "topic_hattusa",
+    "name": "Hattusa",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Hattusa"
+  },
+  {
+    "id": "topic_hatti",
+    "name": "Hatti",
+    "type": "region_culture",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Hatti"
+  },
+  {
+    "id": "topic_hattusili_iii",
+    "name": "Hattusili III",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Hattusili III"
+  },
+  {
+    "id": "topic_suppiluliuma_i",
+    "name": "Suppiluliuma I",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Suppiluliuma I"
+  },
+  {
+    "id": "topic_muwatalli_ii",
+    "name": "Muwatalli II",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Muwatalli II"
+  },
+  {
+    "id": "topic_mitanni",
+    "name": "Mitanni",
+    "type": "kingdom",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Mitanni"
+  },
+  {
+    "id": "topic_hurritas",
+    "name": "Hurritas",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Hurritas"
+  },
+  {
+    "id": "topic_tushratta",
+    "name": "Tushratta",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tushratta"
+  },
+  {
+    "id": "topic_ugarit",
+    "name": "Ugarit",
+    "type": "city_kingdom",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ugarit"
+  },
+  {
+    "id": "topic_archivos_ugarit",
+    "name": "Archivos de Ugarit",
+    "type": "archive",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Archivos de Ugarit"
+  },
+  {
+    "id": "topic_alfabeto_ugaritico",
+    "name": "Alfabeto ugarítico",
+    "type": "writing_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Alfabeto ugarítico"
+  },
+  {
+    "id": "topic_siria_bronce_final",
+    "name": "Siria del Bronce Final",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Siria del Bronce Final"
+  },
+  {
+    "id": "topic_relaciones_internacionales_bronce",
+    "name": "Sistema internacional del Bronce Final",
+    "type": "diplomacy",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema internacional del Bronce Final"
+  },
+  {
+    "id": "topic_cartas_amarna",
+    "name": "Cartas de Amarna",
+    "type": "archive",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Cartas de Amarna"
+  },
+  {
+    "id": "topic_qadesh_hititas",
+    "name": "Qadesh hitita-egipcio",
+    "type": "battle",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Qadesh hitita-egipcio"
+  },
+  {
+    "id": "topic_tratado_qadesh",
+    "name": "Tratado de Qadesh",
+    "type": "treaty",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tratado de Qadesh"
+  },
+  {
+    "id": "topic_colapso_bronce_final_oriente",
+    "name": "Colapso del Bronce Final en Oriente",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Colapso del Bronce Final en Oriente"
   }
 ]
