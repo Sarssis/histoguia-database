@@ -2045,5 +2045,170 @@
     "related_episodes": [
       "ep_saul_david_salomon"
     ]
+  },
+  {
+    "id": "place_persia",
+    "name": "Persia / Fars",
+    "type": "region",
+    "modern_location": "Irán",
+    "summary": "Región nuclear del poder persa aqueménida.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_persia_aquemenida",
+      "topic_persas"
+    ],
+    "related_people": [
+      "person_ciro_grande",
+      "person_dario_i"
+    ],
+    "related_episodes": [
+      "ep_histocast_persia_aquemenida"
+    ]
+  },
+  {
+    "id": "place_iran",
+    "name": "Irán",
+    "type": "region",
+    "modern_location": "Irán",
+    "summary": "Marco geográfico amplio de las culturas iranias antiguas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_persas",
+      "topic_zoroastrismo"
+    ],
+    "related_people": [
+      "person_zoroastro"
+    ],
+    "related_episodes": [
+      "ep_zoroastrismo_persia"
+    ]
+  },
+  {
+    "id": "place_pasargada",
+    "name": "Pasargada",
+    "type": "site",
+    "modern_location": "Irán",
+    "summary": "Capital temprana de Ciro el Grande y lugar de su tumba.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_pasargada",
+      "topic_ciro_grande"
+    ],
+    "related_people": [
+      "person_ciro_grande"
+    ],
+    "related_episodes": [
+      "ep_ciro_grande_imperio_persa"
+    ]
+  },
+  {
+    "id": "place_persepolis",
+    "name": "Persépolis",
+    "type": "site",
+    "modern_location": "Irán",
+    "summary": "Capital ceremonial aqueménida asociada a Darío I y Jerjes.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_persepolis",
+      "topic_dario_i",
+      "topic_jerjes_i"
+    ],
+    "related_people": [
+      "person_dario_i",
+      "person_jerjes_i"
+    ],
+    "related_episodes": [
+      "ep_dario_i_organizacion_imperio",
+      "ep_alejandro_conquista_persia"
+    ]
+  },
+  {
+    "id": "place_susa_persa",
+    "name": "Susa aqueménida",
+    "type": "city",
+    "modern_location": "Irán",
+    "summary": "Capital administrativa del Imperio aqueménida.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_susa_persa",
+      "topic_satrapias"
+    ],
+    "related_people": [
+      "person_dario_i"
+    ],
+    "related_episodes": [
+      "ep_dario_i_organizacion_imperio"
+    ]
+  },
+  {
+    "id": "place_media",
+    "name": "Media",
+    "type": "region",
+    "modern_location": "Noroeste de Irán",
+    "summary": "Reino iranio incorporado por Ciro al Imperio persa.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_media",
+      "topic_ciro_grande"
+    ],
+    "related_people": [
+      "person_ciro_grande"
+    ],
+    "related_episodes": [
+      "ep_ciro_grande_imperio_persa"
+    ]
+  },
+  {
+    "id": "place_grecia",
+    "name": "Grecia",
+    "type": "region",
+    "modern_location": "Grecia",
+    "summary": "Espacio de las polis griegas enfrentadas a Persia durante las Guerras Médicas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_guerras_medicas"
+    ],
+    "related_people": [
+      "person_jerjes_i"
+    ],
+    "related_episodes": [
+      "ep_guerras_medicas_persia_grecia"
+    ]
+  },
+  {
+    "id": "place_termopilas",
+    "name": "Termópilas",
+    "type": "site",
+    "modern_location": "Grecia",
+    "summary": "Paso donde se produjo la batalla de las Termópilas durante la invasión de Jerjes.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_termopilas",
+      "topic_guerras_medicas"
+    ],
+    "related_people": [
+      "person_jerjes_i"
+    ],
+    "related_episodes": [
+      "ep_guerras_medicas_persia_grecia"
+    ]
+  },
+  {
+    "id": "place_salamina",
+    "name": "Salamina",
+    "type": "site",
+    "modern_location": "Grecia",
+    "summary": "Lugar de la victoria naval griega frente a la flota persa en 480 a.C.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_salamina",
+      "topic_guerras_medicas"
+    ],
+    "related_people": [
+      "person_jerjes_i"
+    ],
+    "related_episodes": [
+      "ep_guerras_medicas_persia_grecia"
+    ]
   }
 ]

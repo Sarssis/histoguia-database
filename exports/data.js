@@ -323,6 +323,15 @@ const DATA = {
       "date_range": "c. 1200-586 a.C.",
       "summary": "Orígenes israelitas, Canaán, monarquía unida, Saúl, David, Salomón, Jerusalén, Primer Templo, división de Israel y Judá, profetas, Asiria, Babilonia y exilio.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0210",
+      "phase_id": "phase_02",
+      "order": 10,
+      "name": "Persia aqueménida",
+      "date_range": "c. 550-330 a.C.",
+      "summary": "Ciro el Grande, Cambises II, Darío I, Jerjes, el Imperio aqueménida, satrapías, Camino Real, Persépolis, zoroastrismo, guerras médicas y conquista de Alejandro.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -3601,6 +3610,222 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Campo de estudio sobre el Levante antiguo y los contextos históricos de los textos bíblicos."
+    },
+    {
+      "id": "topic_persia_aquemenida",
+      "name": "Persia aqueménida",
+      "type": "empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Imperio fundado por Ciro el Grande y expandido por sus sucesores hasta convertirse en una potencia imperial eurasiática."
+    },
+    {
+      "id": "topic_aquemenidas",
+      "name": "Aqueménidas",
+      "type": "dynasty",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Dinastía persa que gobernó el gran imperio iranio entre Ciro y Darío III."
+    },
+    {
+      "id": "topic_persas",
+      "name": "Persas",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblo iranio de Fars que creó el Imperio aqueménida."
+    },
+    {
+      "id": "topic_media",
+      "name": "Media",
+      "type": "kingdom",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Reino iranio absorbido por Ciro en el proceso de formación imperial persa."
+    },
+    {
+      "id": "topic_ciro_grande",
+      "name": "Ciro el Grande",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fundador del Imperio aqueménida y conquistador de Media, Lidia y Babilonia."
+    },
+    {
+      "id": "topic_cilindro_ciro",
+      "name": "Cilindro de Ciro",
+      "type": "object",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Inscripción babilónica asociada a la conquista persa de Babilonia y la propaganda real de Ciro."
+    },
+    {
+      "id": "topic_cambises_ii",
+      "name": "Cambises II",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey persa que conquistó Egipto y lo integró en el Imperio aqueménida."
+    },
+    {
+      "id": "topic_dario_i",
+      "name": "Darío I",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey aqueménida que reorganizó el imperio, las satrapías, moneda, administración y Persépolis."
+    },
+    {
+      "id": "topic_jerjes_i",
+      "name": "Jerjes I",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey persa conocido por las campañas contra Grecia durante las guerras médicas."
+    },
+    {
+      "id": "topic_dario_iii",
+      "name": "Darío III",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Último gran rey aqueménida derrotado por Alejandro Magno."
+    },
+    {
+      "id": "topic_satrapias",
+      "name": "Satrapías persas",
+      "type": "administration",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema provincial del Imperio aqueménida administrado por sátrapas."
+    },
+    {
+      "id": "topic_camino_real_persa",
+      "name": "Camino Real persa",
+      "type": "infrastructure",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Red de comunicaciones imperial que conectaba regiones clave del imperio."
+    },
+    {
+      "id": "topic_inmortales_persas",
+      "name": "Inmortales persas",
+      "type": "military_unit",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Unidad de élite del ejército aqueménida."
+    },
+    {
+      "id": "topic_persepolis",
+      "name": "Persépolis",
+      "type": "city_site",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital ceremonial aqueménida asociada a Darío I y Jerjes."
+    },
+    {
+      "id": "topic_pasargada",
+      "name": "Pasargada",
+      "type": "city_site",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital temprana de Ciro el Grande y lugar de su tumba."
+    },
+    {
+      "id": "topic_susa_persa",
+      "name": "Susa persa",
+      "type": "city_site",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital administrativa aqueménida en Elam."
+    },
+    {
+      "id": "topic_zoroastrismo",
+      "name": "Zoroastrismo",
+      "type": "religion",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tradición religiosa irania vinculada a Ahura Mazda y al mundo persa."
+    },
+    {
+      "id": "topic_ahura_mazda",
+      "name": "Ahura Mazda",
+      "type": "deity",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Divinidad central del zoroastrismo y de la ideología real aqueménida."
+    },
+    {
+      "id": "topic_guerras_medicas",
+      "name": "Guerras Médicas",
+      "type": "war",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conflictos entre ciudades griegas y el Imperio persa en los siglos VI-V a.C."
+    },
+    {
+      "id": "topic_maratón",
+      "name": "Batalla de Maratón",
+      "type": "battle",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Batalla de 490 a.C. entre persas y atenienses."
+    },
+    {
+      "id": "topic_termopilas",
+      "name": "Batalla de las Termópilas",
+      "type": "battle",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Batalla de 480 a.C. entre el ejército de Jerjes y una coalición griega."
+    },
+    {
+      "id": "topic_salamina",
+      "name": "Batalla de Salamina",
+      "type": "battle",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Victoria naval griega frente a la flota persa en 480 a.C."
+    },
+    {
+      "id": "topic_conquista_alejandro_persia",
+      "name": "Conquista de Persia por Alejandro",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Derrota del Imperio aqueménida por Alejandro Magno entre 334 y 330 a.C."
+    },
+    {
+      "id": "topic_imperio_multietnico",
+      "name": "Imperio multiétnico aqueménida",
+      "type": "state_model",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Modelo imperial de integración de pueblos, lenguas, elites locales y redes administrativas."
     }
   ],
   "episodes": [
@@ -13117,6 +13342,495 @@ const DATA = {
         "nabucodonosor",
         "judá"
       ]
+    },
+    {
+      "id": "ep_histocast_persia_aquemenida",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Persia aqueménida",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0210",
+      "main_topic_id": "topic_persia_aquemenida",
+      "topic_ids": [
+        "topic_persia_aquemenida",
+        "topic_aquemenidas",
+        "topic_ciro_grande",
+        "topic_dario_i",
+        "topic_satrapias",
+        "topic_camino_real_persa",
+        "topic_imperio_multietnico"
+      ],
+      "people_ids": [
+        "person_ciro_grande",
+        "person_cambises_ii",
+        "person_dario_i",
+        "person_jerjes_i"
+      ],
+      "place_ids": [
+        "place_persia",
+        "place_pasargada",
+        "place_persepolis",
+        "place_susa_persa"
+      ],
+      "civilization_ids": [
+        "civ_achaemenid_persia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/histocast-135-persia-aquemenida-audios-mp3_rf_12939625_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "12939625",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal sobre el Imperio persa aqueménida: orígenes iranios, Ciro, Darío, satrapías, ejército, administración y grandes capitales.",
+      "learn": [
+        "Comprender el ascenso de Persia.",
+        "Situar a Ciro, Cambises, Darío y Jerjes.",
+        "Relacionar satrapías, comunicaciones y administración.",
+        "Preparar las Guerras Médicas y la conquista de Alejandro."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "persia aqueménida",
+        "ciro",
+        "darío",
+        "satrapías"
+      ]
+    },
+    {
+      "id": "ep_ciro_grande_imperio_persa",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "Ciro el Grande y el nacimiento del Imperio persa",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0210",
+      "main_topic_id": "topic_ciro_grande",
+      "topic_ids": [
+        "topic_ciro_grande",
+        "topic_media",
+        "topic_cilindro_ciro",
+        "topic_persia_aquemenida"
+      ],
+      "people_ids": [
+        "person_ciro_grande"
+      ],
+      "place_ids": [
+        "place_persia",
+        "place_media",
+        "place_pasargada",
+        "place_babilonia"
+      ],
+      "civilization_ids": [
+        "civ_achaemenid_persia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/ciro-grande-nacimiento-del-imperio-persa-audios-mp3_rf_58412482_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "58412482",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre Ciro el Grande, la conquista de Media, Lidia y Babilonia, y el nacimiento del modelo imperial persa.",
+      "learn": [
+        "Conocer a Ciro el Grande.",
+        "Relacionar Persia, Media y Babilonia.",
+        "Entender la construcción del imperio.",
+        "Conectar el Cilindro de Ciro con propaganda real."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "ciro el grande",
+        "persia",
+        "media",
+        "babilonia"
+      ]
+    },
+    {
+      "id": "ep_dario_i_organizacion_imperio",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "Darío I y la organización del Imperio persa",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0210",
+      "main_topic_id": "topic_dario_i",
+      "topic_ids": [
+        "topic_dario_i",
+        "topic_satrapias",
+        "topic_camino_real_persa",
+        "topic_persepolis",
+        "topic_susa_persa",
+        "topic_imperio_multietnico"
+      ],
+      "people_ids": [
+        "person_dario_i"
+      ],
+      "place_ids": [
+        "place_persepolis",
+        "place_susa_persa",
+        "place_persia"
+      ],
+      "civilization_ids": [
+        "civ_achaemenid_persia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/dario-i-organizacion-del-imperio-persa-audios-mp3_rf_64105792_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64105792",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio centrado en Darío I, las satrapías, el Camino Real, la moneda, la administración y Persépolis.",
+      "learn": [
+        "Comprender la reorganización imperial de Darío.",
+        "Identificar satrapías y Camino Real.",
+        "Relacionar Persépolis y Susa con el poder aqueménida.",
+        "Entender cómo se gobierna un imperio multiétnico."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "darío i",
+        "satrapías",
+        "camino real",
+        "persépolis"
+      ]
+    },
+    {
+      "id": "ep_zoroastrismo_persia",
+      "podcast_id": "pod_desaprendiendo_historia",
+      "podcast_name": "Desaprendiendo la Historia",
+      "episode_code": "",
+      "title": "Zoroastrismo y religión en la Persia antigua",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0210",
+      "main_topic_id": "topic_zoroastrismo",
+      "topic_ids": [
+        "topic_zoroastrismo",
+        "topic_ahura_mazda",
+        "topic_persia_aquemenida"
+      ],
+      "people_ids": [
+        "person_zoroastro"
+      ],
+      "place_ids": [
+        "place_iran",
+        "place_persia"
+      ],
+      "civilization_ids": [
+        "civ_achaemenid_persia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2025",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/zoroastrismo-religion-persia-antigua-audios-mp3_rf_139882196_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "139882196",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de contexto religioso sobre Zoroastro, Ahura Mazda, el dualismo moral y la relación entre religión irania e ideología real aqueménida.",
+      "learn": [
+        "Conocer los elementos básicos del zoroastrismo.",
+        "Relacionar Ahura Mazda con la realeza persa.",
+        "Distinguir religión irania y administración imperial.",
+        "Preparar el mundo persa posterior."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "zoroastrismo",
+        "ahura mazda",
+        "zoroastro",
+        "persia"
+      ]
+    },
+    {
+      "id": "ep_guerras_medicas_persia_grecia",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "Las Guerras Médicas: Persia contra Grecia",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0210",
+      "main_topic_id": "topic_guerras_medicas",
+      "topic_ids": [
+        "topic_guerras_medicas",
+        "topic_maratón",
+        "topic_termopilas",
+        "topic_salamina",
+        "topic_jerjes_i"
+      ],
+      "people_ids": [
+        "person_dario_i",
+        "person_jerjes_i"
+      ],
+      "place_ids": [
+        "place_grecia",
+        "place_termopilas",
+        "place_salamina"
+      ],
+      "civilization_ids": [
+        "civ_achaemenid_persia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/guerras-medicas-persia-contra-grecia-audios-mp3_rf_3605038_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3605038",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de contexto sobre el choque entre el Imperio persa y las polis griegas, con Maratón, Termópilas y Salamina como hitos.",
+      "learn": [
+        "Comprender las Guerras Médicas desde la perspectiva imperial persa.",
+        "Situar a Darío y Jerjes.",
+        "Relacionar Maratón, Termópilas y Salamina.",
+        "Conectar Persia con el mundo clásico griego."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "guerras médicas",
+        "persia",
+        "grecia",
+        "jerjes"
+      ]
+    },
+    {
+      "id": "ep_alejandro_conquista_persia",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "",
+      "title": "Alejandro Magno y la conquista de Persia",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0210",
+      "main_topic_id": "topic_conquista_alejandro_persia",
+      "topic_ids": [
+        "topic_conquista_alejandro_persia",
+        "topic_dario_iii",
+        "topic_persepolis"
+      ],
+      "people_ids": [
+        "person_dario_iii",
+        "person_alejandro_magno"
+      ],
+      "place_ids": [
+        "place_persia",
+        "place_persepolis"
+      ],
+      "civilization_ids": [
+        "civ_achaemenid_persia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v390-127774-alejandro-magno-conquista-persia-audios-mp3_rf_131260104_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "131260104",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de cierre sobre el final del Imperio aqueménida ante Alejandro Magno y la transición hacia el mundo helenístico.",
+      "learn": [
+        "Comprender la caída del Imperio aqueménida.",
+        "Relacionar Darío III y Alejandro.",
+        "Situar Persépolis como símbolo imperial.",
+        "Preparar el paso hacia el mundo clásico y helenístico."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "alejandro magno",
+        "darío iii",
+        "persia",
+        "persépolis"
+      ]
     }
   ],
   "civilizations": [
@@ -13586,6 +14300,33 @@ const DATA = {
         "place_israel_antiguo"
       ],
       "related_people": []
+    },
+    {
+      "id": "civ_achaemenid_persia",
+      "name": "Persia aqueménida",
+      "type": "empire",
+      "date_range": "c. 550-330 a.C.",
+      "region": "Irán, Próximo Oriente, Anatolia, Egipto y Asia Central",
+      "summary": "Imperio iranio fundado por Ciro el Grande y organizado por Darío I, con capitales como Pasargada, Susa y Persépolis.",
+      "related_topics": [
+        "topic_persia_aquemenida",
+        "topic_aquemenidas",
+        "topic_ciro_grande",
+        "topic_dario_i",
+        "topic_satrapias",
+        "topic_persepolis"
+      ],
+      "related_places": [
+        "place_persia",
+        "place_pasargada",
+        "place_persepolis",
+        "place_susa_persa"
+      ],
+      "related_people": [
+        "person_ciro_grande",
+        "person_dario_i",
+        "person_jerjes_i"
+      ]
     }
   ]
 };

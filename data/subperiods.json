@@ -192,5 +192,14 @@
     "date_range": "c. 1200-586 a.C.",
     "summary": "Orígenes israelitas, Canaán, monarquía unida, Saúl, David, Salomón, Jerusalén, Primer Templo, división de Israel y Judá, profetas, Asiria, Babilonia y exilio.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0210",
+    "phase_id": "phase_02",
+    "order": 10,
+    "name": "Persia aqueménida",
+    "date_range": "c. 550-330 a.C.",
+    "summary": "Ciro el Grande, Cambises II, Darío I, Jerjes, el Imperio aqueménida, satrapías, Camino Real, Persépolis, zoroastrismo, guerras médicas y conquista de Alejandro.",
+    "status": "content_seeded"
   }
 ]

@@ -3274,5 +3274,221 @@
       "phase_02"
     ],
     "summary": "Campo de estudio sobre el Levante antiguo y los contextos históricos de los textos bíblicos."
+  },
+  {
+    "id": "topic_persia_aquemenida",
+    "name": "Persia aqueménida",
+    "type": "empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Imperio fundado por Ciro el Grande y expandido por sus sucesores hasta convertirse en una potencia imperial eurasiática."
+  },
+  {
+    "id": "topic_aquemenidas",
+    "name": "Aqueménidas",
+    "type": "dynasty",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Dinastía persa que gobernó el gran imperio iranio entre Ciro y Darío III."
+  },
+  {
+    "id": "topic_persas",
+    "name": "Persas",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo iranio de Fars que creó el Imperio aqueménida."
+  },
+  {
+    "id": "topic_media",
+    "name": "Media",
+    "type": "kingdom",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Reino iranio absorbido por Ciro en el proceso de formación imperial persa."
+  },
+  {
+    "id": "topic_ciro_grande",
+    "name": "Ciro el Grande",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fundador del Imperio aqueménida y conquistador de Media, Lidia y Babilonia."
+  },
+  {
+    "id": "topic_cilindro_ciro",
+    "name": "Cilindro de Ciro",
+    "type": "object",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Inscripción babilónica asociada a la conquista persa de Babilonia y la propaganda real de Ciro."
+  },
+  {
+    "id": "topic_cambises_ii",
+    "name": "Cambises II",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey persa que conquistó Egipto y lo integró en el Imperio aqueménida."
+  },
+  {
+    "id": "topic_dario_i",
+    "name": "Darío I",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey aqueménida que reorganizó el imperio, las satrapías, moneda, administración y Persépolis."
+  },
+  {
+    "id": "topic_jerjes_i",
+    "name": "Jerjes I",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey persa conocido por las campañas contra Grecia durante las guerras médicas."
+  },
+  {
+    "id": "topic_dario_iii",
+    "name": "Darío III",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Último gran rey aqueménida derrotado por Alejandro Magno."
+  },
+  {
+    "id": "topic_satrapias",
+    "name": "Satrapías persas",
+    "type": "administration",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema provincial del Imperio aqueménida administrado por sátrapas."
+  },
+  {
+    "id": "topic_camino_real_persa",
+    "name": "Camino Real persa",
+    "type": "infrastructure",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Red de comunicaciones imperial que conectaba regiones clave del imperio."
+  },
+  {
+    "id": "topic_inmortales_persas",
+    "name": "Inmortales persas",
+    "type": "military_unit",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Unidad de élite del ejército aqueménida."
+  },
+  {
+    "id": "topic_persepolis",
+    "name": "Persépolis",
+    "type": "city_site",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital ceremonial aqueménida asociada a Darío I y Jerjes."
+  },
+  {
+    "id": "topic_pasargada",
+    "name": "Pasargada",
+    "type": "city_site",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital temprana de Ciro el Grande y lugar de su tumba."
+  },
+  {
+    "id": "topic_susa_persa",
+    "name": "Susa persa",
+    "type": "city_site",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital administrativa aqueménida en Elam."
+  },
+  {
+    "id": "topic_zoroastrismo",
+    "name": "Zoroastrismo",
+    "type": "religion",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tradición religiosa irania vinculada a Ahura Mazda y al mundo persa."
+  },
+  {
+    "id": "topic_ahura_mazda",
+    "name": "Ahura Mazda",
+    "type": "deity",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Divinidad central del zoroastrismo y de la ideología real aqueménida."
+  },
+  {
+    "id": "topic_guerras_medicas",
+    "name": "Guerras Médicas",
+    "type": "war",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conflictos entre ciudades griegas y el Imperio persa en los siglos VI-V a.C."
+  },
+  {
+    "id": "topic_maratón",
+    "name": "Batalla de Maratón",
+    "type": "battle",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Batalla de 490 a.C. entre persas y atenienses."
+  },
+  {
+    "id": "topic_termopilas",
+    "name": "Batalla de las Termópilas",
+    "type": "battle",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Batalla de 480 a.C. entre el ejército de Jerjes y una coalición griega."
+  },
+  {
+    "id": "topic_salamina",
+    "name": "Batalla de Salamina",
+    "type": "battle",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Victoria naval griega frente a la flota persa en 480 a.C."
+  },
+  {
+    "id": "topic_conquista_alejandro_persia",
+    "name": "Conquista de Persia por Alejandro",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Derrota del Imperio aqueménida por Alejandro Magno entre 334 y 330 a.C."
+  },
+  {
+    "id": "topic_imperio_multietnico",
+    "name": "Imperio multiétnico aqueménida",
+    "type": "state_model",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Modelo imperial de integración de pueblos, lenguas, elites locales y redes administrativas."
   }
 ]

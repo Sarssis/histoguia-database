@@ -465,5 +465,32 @@
       "place_israel_antiguo"
     ],
     "related_people": []
+  },
+  {
+    "id": "civ_achaemenid_persia",
+    "name": "Persia aqueménida",
+    "type": "empire",
+    "date_range": "c. 550-330 a.C.",
+    "region": "Irán, Próximo Oriente, Anatolia, Egipto y Asia Central",
+    "summary": "Imperio iranio fundado por Ciro el Grande y organizado por Darío I, con capitales como Pasargada, Susa y Persépolis.",
+    "related_topics": [
+      "topic_persia_aquemenida",
+      "topic_aquemenidas",
+      "topic_ciro_grande",
+      "topic_dario_i",
+      "topic_satrapias",
+      "topic_persepolis"
+    ],
+    "related_places": [
+      "place_persia",
+      "place_pasargada",
+      "place_persepolis",
+      "place_susa_persa"
+    ],
+    "related_people": [
+      "person_ciro_grande",
+      "person_dario_i",
+      "person_jerjes_i"
+    ]
   }
 ]

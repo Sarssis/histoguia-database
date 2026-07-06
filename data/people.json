@@ -2076,5 +2076,158 @@
     "related_episodes": [
       "ep_caida_jerusalen_exilio"
     ]
+  },
+  {
+    "id": "person_ciro_grande",
+    "name": "Ciro el Grande",
+    "type": "ruler",
+    "category": "persian_king",
+    "scientific_name": "",
+    "dates": "c. 600-530 a.C.",
+    "period": "Persia aqueménida",
+    "summary": "Fundador del Imperio aqueménida, conquistador de Media, Lidia y Babilonia.",
+    "related_topics": [
+      "topic_ciro_grande",
+      "topic_cilindro_ciro",
+      "topic_persia_aquemenida"
+    ],
+    "related_places": [
+      "place_pasargada",
+      "place_babilonia",
+      "place_persia"
+    ],
+    "related_episodes": [
+      "ep_ciro_grande_imperio_persa"
+    ]
+  },
+  {
+    "id": "person_cambises_ii",
+    "name": "Cambises II",
+    "type": "ruler",
+    "category": "persian_king",
+    "scientific_name": "",
+    "dates": "r. 530-522 a.C.",
+    "period": "Persia aqueménida",
+    "summary": "Rey persa que conquistó Egipto y extendió el imperio hacia el valle del Nilo.",
+    "related_topics": [
+      "topic_cambises_ii",
+      "topic_persia_aquemenida"
+    ],
+    "related_places": [
+      "place_egipto",
+      "place_persia"
+    ],
+    "related_episodes": [
+      "ep_histocast_persia_aquemenida"
+    ]
+  },
+  {
+    "id": "person_dario_i",
+    "name": "Darío I",
+    "type": "ruler",
+    "category": "persian_king",
+    "scientific_name": "",
+    "dates": "r. 522-486 a.C.",
+    "period": "Persia aqueménida",
+    "summary": "Rey persa que reorganizó el imperio, desarrolló satrapías, moneda, comunicaciones y Persépolis.",
+    "related_topics": [
+      "topic_dario_i",
+      "topic_satrapias",
+      "topic_persepolis"
+    ],
+    "related_places": [
+      "place_persepolis",
+      "place_susa_persa",
+      "place_persia"
+    ],
+    "related_episodes": [
+      "ep_dario_i_organizacion_imperio"
+    ]
+  },
+  {
+    "id": "person_jerjes_i",
+    "name": "Jerjes I",
+    "type": "ruler",
+    "category": "persian_king",
+    "scientific_name": "",
+    "dates": "r. 486-465 a.C.",
+    "period": "Persia aqueménida",
+    "summary": "Rey aqueménida conocido por la segunda invasión persa de Grecia.",
+    "related_topics": [
+      "topic_jerjes_i",
+      "topic_guerras_medicas",
+      "topic_termopilas",
+      "topic_salamina"
+    ],
+    "related_places": [
+      "place_persepolis",
+      "place_grecia",
+      "place_termopilas",
+      "place_salamina"
+    ],
+    "related_episodes": [
+      "ep_guerras_medicas_persia_grecia"
+    ]
+  },
+  {
+    "id": "person_dario_iii",
+    "name": "Darío III",
+    "type": "ruler",
+    "category": "persian_king",
+    "scientific_name": "",
+    "dates": "r. 336-330 a.C.",
+    "period": "Final del Imperio aqueménida",
+    "summary": "Último rey aqueménida derrotado por Alejandro Magno.",
+    "related_topics": [
+      "topic_dario_iii",
+      "topic_conquista_alejandro_persia"
+    ],
+    "related_places": [
+      "place_persia"
+    ],
+    "related_episodes": [
+      "ep_alejandro_conquista_persia"
+    ]
+  },
+  {
+    "id": "person_zoroastro",
+    "name": "Zoroastro / Zaratustra",
+    "type": "religious_figure",
+    "category": "iranian_religion",
+    "scientific_name": "",
+    "dates": "Cronología discutida",
+    "period": "Tradición irania antigua",
+    "summary": "Figura religiosa asociada a la tradición zoroástrica.",
+    "related_topics": [
+      "topic_zoroastrismo",
+      "topic_ahura_mazda"
+    ],
+    "related_places": [
+      "place_iran"
+    ],
+    "related_episodes": [
+      "ep_zoroastrismo_persia"
+    ]
+  },
+  {
+    "id": "person_alejandro_magno",
+    "name": "Alejandro Magno",
+    "type": "ruler",
+    "category": "macedonian_king",
+    "scientific_name": "",
+    "dates": "356-323 a.C.",
+    "period": "Conquista de Persia",
+    "summary": "Rey macedonio que derrotó al Imperio aqueménida y abrió la etapa helenística.",
+    "related_topics": [
+      "topic_conquista_alejandro_persia",
+      "topic_dario_iii"
+    ],
+    "related_places": [
+      "place_persia",
+      "place_persepolis"
+    ],
+    "related_episodes": [
+      "ep_alejandro_conquista_persia"
+    ]
   }
 ]

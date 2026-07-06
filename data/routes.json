@@ -231,7 +231,13 @@
       "ep_templo_salomon",
       "ep_division_israel_juda",
       "ep_profetas_israel",
-      "ep_caida_jerusalen_exilio"
+      "ep_caida_jerusalen_exilio",
+      "ep_histocast_persia_aquemenida",
+      "ep_ciro_grande_imperio_persa",
+      "ep_dario_i_organizacion_imperio",
+      "ep_zoroastrismo_persia",
+      "ep_guerras_medicas_persia_grecia",
+      "ep_alejandro_conquista_persia"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -311,8 +317,15 @@
       "topic_primer_templo",
       "topic_reino_israel",
       "topic_reino_juda",
-      "topic_exilio_babilonico"
+      "topic_exilio_babilonico",
+      "topic_ciro_grande",
+      "topic_dario_i",
+      "topic_satrapias",
+      "topic_persepolis",
+      "topic_zoroastrismo",
+      "topic_guerras_medicas",
+      "topic_conquista_alejandro_persia"
     ],
-    "status": "sub0209_active"
+    "status": "sub0210_active"
   }
 ]

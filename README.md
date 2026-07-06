@@ -1,25 +1,24 @@
-# Histoguía Database · phase_02 sub_0209 v4.9
+# Histoguía Database · phase_02 sub_0210 v4.10
 
 ## Subperiodo activado
 
-**9. Hebreos e Israel antiguo**
+**10. Persia aqueménida**
 
 ## Episodios añadidos
 
-- Los orígenes de Israel y los hebreos
-- Saúl, David y Salomón: los reyes de Israel
-- David y Jerusalén
-- Salomón y el Primer Templo de Jerusalén
-- La división de Israel y Judá
-- Los profetas de Israel
-- La caída de Jerusalén y el exilio de Babilonia
+- Persia aqueménida
+- Ciro el Grande y el nacimiento del Imperio persa
+- Darío I y la organización del Imperio persa
+- Zoroastrismo y religión en la Persia antigua
+- Las Guerras Médicas: Persia contra Grecia
+- Alejandro Magno y la conquista de Persia
 
 ## Totales
 
-- Episodios totales: 115
-- Episodios del subperiodo 0209: 7
-- Civilizaciones: 21
-- Temas: 364
-- Personas: 99
-- Lugares: 112
-- Relaciones: 2526
+- Episodios totales: 121
+- Episodios del subperiodo 0210: 6
+- Civilizaciones: 22
+- Temas: 388
+- Personas: 106
+- Lugares: 121
+- Relaciones: 2702

@@ -17680,5 +17680,1237 @@
     "target_id": "topic_persia_aquemenida",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0210",
+    "source_type": "subperiod",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_persia_aquemenida",
+    "source_type": "topic",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_aquemenidas",
+    "source_type": "topic",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ciro_grande",
+    "source_type": "topic",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_dario_i",
+    "source_type": "topic",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_satrapias",
+    "source_type": "topic",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_camino_real_persa",
+    "source_type": "topic",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imperio_multietnico",
+    "source_type": "topic",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_cambises_ii",
+    "source_type": "person",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_pasargada",
+    "source_type": "place",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_susa_persa",
+    "source_type": "place",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0210",
+    "source_type": "subperiod",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_ciro_grande",
+    "source_type": "topic",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_media",
+    "source_type": "topic",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_cilindro_ciro",
+    "source_type": "topic",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persia_aquemenida",
+    "source_type": "topic",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_media",
+    "source_type": "place",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_pasargada",
+    "source_type": "place",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0210",
+    "source_type": "subperiod",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_dario_i",
+    "source_type": "topic",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_satrapias",
+    "source_type": "topic",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_camino_real_persa",
+    "source_type": "topic",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persepolis",
+    "source_type": "topic",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_susa_persa",
+    "source_type": "topic",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_imperio_multietnico",
+    "source_type": "topic",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_susa_persa",
+    "source_type": "place",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0210",
+    "source_type": "subperiod",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_zoroastrismo",
+    "source_type": "topic",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_ahura_mazda",
+    "source_type": "topic",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persia_aquemenida",
+    "source_type": "topic",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_zoroastro",
+    "source_type": "person",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_iran",
+    "source_type": "place",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0210",
+    "source_type": "subperiod",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_guerras_medicas",
+    "source_type": "topic",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_maratón",
+    "source_type": "topic",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_termopilas",
+    "source_type": "topic",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_salamina",
+    "source_type": "topic",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_jerjes_i",
+    "source_type": "topic",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia",
+    "source_type": "place",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_termopilas",
+    "source_type": "place",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_salamina",
+    "source_type": "place",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0210",
+    "source_type": "subperiod",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_conquista_alejandro_persia",
+    "source_type": "topic",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_dario_iii",
+    "source_type": "topic",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persepolis",
+    "source_type": "topic",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_dario_iii",
+    "source_type": "person",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_alejandro_magno",
+    "source_type": "person",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "topic_persia_aquemenida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "topic_aquemenidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "topic_ciro_grande",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "topic_dario_i",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "topic_satrapias",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "topic_persepolis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "place_persia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "place_pasargada",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "place_persepolis",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "place_susa_persa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "person_ciro_grande",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "person_dario_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_achaemenid_persia",
+    "source_type": "civilization",
+    "target_id": "person_jerjes_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "topic_ciro_grande",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "topic_cilindro_ciro",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "topic_persia_aquemenida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "place_pasargada",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "place_babilonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "place_persia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_ciro_grande",
+    "source_type": "person",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_cambises_ii",
+    "source_type": "person",
+    "target_id": "topic_cambises_ii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cambises_ii",
+    "source_type": "person",
+    "target_id": "topic_persia_aquemenida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cambises_ii",
+    "source_type": "person",
+    "target_id": "place_egipto",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cambises_ii",
+    "source_type": "person",
+    "target_id": "place_persia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cambises_ii",
+    "source_type": "person",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "topic_dario_i",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "topic_satrapias",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "topic_persepolis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "place_persepolis",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "place_susa_persa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "place_persia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_i",
+    "source_type": "person",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "topic_jerjes_i",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "topic_guerras_medicas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "topic_termopilas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "topic_salamina",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "place_persepolis",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "place_grecia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "place_termopilas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "place_salamina",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jerjes_i",
+    "source_type": "person",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_dario_iii",
+    "source_type": "person",
+    "target_id": "topic_dario_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_iii",
+    "source_type": "person",
+    "target_id": "topic_conquista_alejandro_persia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_iii",
+    "source_type": "person",
+    "target_id": "place_persia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dario_iii",
+    "source_type": "person",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_zoroastro",
+    "source_type": "person",
+    "target_id": "topic_zoroastrismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_zoroastro",
+    "source_type": "person",
+    "target_id": "topic_ahura_mazda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_zoroastro",
+    "source_type": "person",
+    "target_id": "place_iran",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_zoroastro",
+    "source_type": "person",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_alejandro_magno",
+    "source_type": "person",
+    "target_id": "topic_conquista_alejandro_persia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_alejandro_magno",
+    "source_type": "person",
+    "target_id": "topic_dario_iii",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_alejandro_magno",
+    "source_type": "person",
+    "target_id": "place_persia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_alejandro_magno",
+    "source_type": "person",
+    "target_id": "place_persepolis",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_alejandro_magno",
+    "source_type": "person",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "topic_persia_aquemenida",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "topic_persas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "person_ciro_grande",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "person_dario_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persia",
+    "source_type": "place",
+    "target_id": "ep_histocast_persia_aquemenida",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_iran",
+    "source_type": "place",
+    "target_id": "topic_persas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iran",
+    "source_type": "place",
+    "target_id": "topic_zoroastrismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iran",
+    "source_type": "place",
+    "target_id": "person_zoroastro",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iran",
+    "source_type": "place",
+    "target_id": "ep_zoroastrismo_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_pasargada",
+    "source_type": "place",
+    "target_id": "topic_pasargada",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_pasargada",
+    "source_type": "place",
+    "target_id": "topic_ciro_grande",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_pasargada",
+    "source_type": "place",
+    "target_id": "person_ciro_grande",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_pasargada",
+    "source_type": "place",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "topic_persepolis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "topic_dario_i",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "topic_jerjes_i",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "person_dario_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "person_jerjes_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_persepolis",
+    "source_type": "place",
+    "target_id": "ep_alejandro_conquista_persia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_susa_persa",
+    "source_type": "place",
+    "target_id": "topic_susa_persa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_susa_persa",
+    "source_type": "place",
+    "target_id": "topic_satrapias",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_susa_persa",
+    "source_type": "place",
+    "target_id": "person_dario_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_susa_persa",
+    "source_type": "place",
+    "target_id": "ep_dario_i_organizacion_imperio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_media",
+    "source_type": "place",
+    "target_id": "topic_media",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_media",
+    "source_type": "place",
+    "target_id": "topic_ciro_grande",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_media",
+    "source_type": "place",
+    "target_id": "person_ciro_grande",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_media",
+    "source_type": "place",
+    "target_id": "ep_ciro_grande_imperio_persa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_grecia",
+    "source_type": "place",
+    "target_id": "topic_guerras_medicas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_grecia",
+    "source_type": "place",
+    "target_id": "person_jerjes_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_grecia",
+    "source_type": "place",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_termopilas",
+    "source_type": "place",
+    "target_id": "topic_termopilas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_termopilas",
+    "source_type": "place",
+    "target_id": "topic_guerras_medicas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_termopilas",
+    "source_type": "place",
+    "target_id": "person_jerjes_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_termopilas",
+    "source_type": "place",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_salamina",
+    "source_type": "place",
+    "target_id": "topic_salamina",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_salamina",
+    "source_type": "place",
+    "target_id": "topic_guerras_medicas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_salamina",
+    "source_type": "place",
+    "target_id": "person_jerjes_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_salamina",
+    "source_type": "place",
+    "target_id": "ep_guerras_medicas_persia_grecia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persia_aquemenida",
+    "source_type": "topic",
+    "target_id": "topic_ciro_grande",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ciro_grande",
+    "source_type": "topic",
+    "target_id": "topic_dario_i",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_dario_i",
+    "source_type": "topic",
+    "target_id": "topic_satrapias",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_satrapias",
+    "source_type": "topic",
+    "target_id": "topic_persepolis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_persepolis",
+    "source_type": "topic",
+    "target_id": "topic_zoroastrismo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_zoroastrismo",
+    "source_type": "topic",
+    "target_id": "topic_guerras_medicas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_guerras_medicas",
+    "source_type": "topic",
+    "target_id": "topic_conquista_alejandro_persia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_conquista_alejandro_persia",
+    "source_type": "topic",
+    "target_id": "topic_cartago_fundacion",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

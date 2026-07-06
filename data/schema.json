@@ -1,8 +1,8 @@
 {
-  "version": "4.9",
-  "description": "Periodo 02. Subperiodo 9 activo: Hebreos e Israel antiguo.",
+  "version": "4.10",
+  "description": "Periodo 02. Subperiodo 10 activo: Persia aqueménida.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 115,
+  "episode_count": 121,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 99,
-  "places_count": 112,
-  "topics_count": 364,
-  "relations_count": 2526,
-  "status": "phase02_sub0209_active",
-  "civilizations_count": 21
+  "people_count": 106,
+  "places_count": 121,
+  "topics_count": 388,
+  "relations_count": 2702,
+  "status": "phase02_sub0210_active",
+  "civilizations_count": 22
 }
