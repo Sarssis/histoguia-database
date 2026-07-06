@@ -251,7 +251,15 @@
       "ep_iberos_prerromanos",
       "ep_celtiberos_numancia",
       "ep_pueblos_prerromanos_iberia",
-      "ep_griegos_iberia_empuries"
+      "ep_griegos_iberia_empuries",
+      "ep_colapso_bronce_final_troncal",
+      "ep_pueblos_mar_colapso",
+      "ep_colapso_micenico",
+      "ep_homero_iliada_odisea",
+      "ep_grecia_arcaica_polis",
+      "ep_colonizacion_griega",
+      "ep_etruscos_roma_arcaica",
+      "ep_roma_arcaica_fundacion"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -357,8 +365,18 @@
       "topic_iberos",
       "topic_celtiberos",
       "topic_pueblos_prerromanos",
-      "topic_griegos_iberia"
+      "topic_griegos_iberia",
+      "topic_colapso_bronce_final",
+      "topic_pueblos_mar",
+      "topic_micenas_colapso",
+      "topic_edades_oscuras_griegas",
+      "topic_grecia_arcaica",
+      "topic_polis_griega",
+      "topic_colonizacion_griega",
+      "topic_etruscos",
+      "topic_roma_arcaica",
+      "topic_mundo_clasico"
     ],
-    "status": "sub0212_active"
+    "status": "sub0213_active"
   }
 ]

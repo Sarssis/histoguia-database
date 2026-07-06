@@ -1,8 +1,8 @@
 {
-  "version": "4.12",
-  "description": "Periodo 02. Subperiodo 12 activo: Tartessos e Iberia protohistórica.",
+  "version": "4.13",
+  "description": "Periodo 02. Subperiodo 13 activo: El colapso de la Edad del Bronce y el nacimiento del mundo clásico.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 135,
+  "episode_count": 143,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 117,
-  "places_count": 135,
-  "topics_count": 434,
-  "relations_count": 3048,
-  "status": "phase02_sub0212_active",
-  "civilizations_count": 27
+  "people_count": 123,
+  "places_count": 144,
+  "topics_count": 458,
+  "relations_count": 3229,
+  "status": "phase02_sub0213_active",
+  "civilizations_count": 31
 }

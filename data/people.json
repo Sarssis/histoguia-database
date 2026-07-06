@@ -2462,5 +2462,127 @@
     "related_episodes": [
       "ep_pueblos_prerromanos_iberia"
     ]
+  },
+  {
+    "id": "person_homero",
+    "name": "Homero",
+    "type": "literary_figure",
+    "category": "greek_tradition",
+    "scientific_name": "",
+    "dates": "Tradición arcaica",
+    "period": "Grecia arcaica",
+    "summary": "Poeta tradicionalmente asociado a la Ilíada y la Odisea.",
+    "related_topics": [
+      "topic_homero",
+      "topic_iliada_odisea",
+      "topic_grecia_arcaica"
+    ],
+    "related_places": [
+      "place_grecia"
+    ],
+    "related_episodes": [
+      "ep_homero_iliada_odisea"
+    ]
+  },
+  {
+    "id": "person_solon",
+    "name": "Solón",
+    "type": "lawgiver",
+    "category": "athenian_statesman",
+    "scientific_name": "",
+    "dates": "c. 638-558 a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Legislador ateniense de época arcaica.",
+    "related_topics": [
+      "topic_solon",
+      "topic_atenas_arcaica"
+    ],
+    "related_places": [
+      "place_atenas"
+    ],
+    "related_episodes": [
+      "ep_grecia_arcaica_polis"
+    ]
+  },
+  {
+    "id": "person_romulo",
+    "name": "Rómulo",
+    "type": "legendary_founder",
+    "category": "roman_legend",
+    "scientific_name": "",
+    "dates": "Tradición fundacional romana",
+    "period": "Roma arcaica",
+    "summary": "Fundador legendario de Roma.",
+    "related_topics": [
+      "topic_romulo_remo",
+      "topic_fundacion_roma",
+      "topic_roma_arcaica"
+    ],
+    "related_places": [
+      "place_roma"
+    ],
+    "related_episodes": [
+      "ep_roma_arcaica_fundacion"
+    ]
+  },
+  {
+    "id": "person_remo",
+    "name": "Remo",
+    "type": "legendary_founder",
+    "category": "roman_legend",
+    "scientific_name": "",
+    "dates": "Tradición fundacional romana",
+    "period": "Roma arcaica",
+    "summary": "Hermano legendario de Rómulo en la tradición fundacional romana.",
+    "related_topics": [
+      "topic_romulo_remo",
+      "topic_fundacion_roma"
+    ],
+    "related_places": [
+      "place_roma"
+    ],
+    "related_episodes": [
+      "ep_roma_arcaica_fundacion"
+    ]
+  },
+  {
+    "id": "person_tarquino_soberbio",
+    "name": "Tarquino el Soberbio",
+    "type": "ruler",
+    "category": "roman_king",
+    "scientific_name": "",
+    "dates": "Tradición romana, siglo VI a.C.",
+    "period": "Roma monárquica",
+    "summary": "Último rey de Roma según la tradición, expulsado en el paso a la república.",
+    "related_topics": [
+      "topic_roma_arcaica",
+      "topic_etruscos"
+    ],
+    "related_places": [
+      "place_roma"
+    ],
+    "related_episodes": [
+      "ep_roma_arcaica_fundacion"
+    ]
+  },
+  {
+    "id": "person_pueblos_mar",
+    "name": "Pueblos del Mar",
+    "type": "people_group",
+    "category": "bronze_age_collapse",
+    "scientific_name": "",
+    "dates": "c. 1200 a.C.",
+    "period": "Colapso del Bronce Final",
+    "summary": "Grupos mencionados en fuentes egipcias durante la crisis del Bronce Final.",
+    "related_topics": [
+      "topic_pueblos_mar",
+      "topic_crisis_1200_ac"
+    ],
+    "related_places": [
+      "place_mediterraneo_oriental"
+    ],
+    "related_episodes": [
+      "ep_pueblos_mar_colapso"
+    ]
   }
 ]

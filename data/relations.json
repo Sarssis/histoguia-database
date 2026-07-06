@@ -21334,5 +21334,1272 @@
     "target_id": "topic_colapso_bronce_final_oriente",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_colapso_bronce_final",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_crisis_1200_ac",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_pueblos_mar",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_colapso_bronce_final_oriente",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_transicion_hierro_mediterraneo",
+    "source_type": "topic",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_pueblos_mar",
+    "source_type": "person",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mediterraneo_oriental",
+    "source_type": "place",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_anatolia",
+    "source_type": "place",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ugarit",
+    "source_type": "place",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_hittites",
+    "source_type": "civilization",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ugarit",
+    "source_type": "civilization",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "ep_colapso_bronce_final_troncal",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_pueblos_mar",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sherden",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_crisis_1200_ac",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_pueblos_mar_egipto",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_pueblos_mar",
+    "source_type": "person",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_ramses_iii",
+    "source_type": "person",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mediterraneo_oriental",
+    "source_type": "place",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_medinet_habu",
+    "source_type": "place",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_egypt_middle_new_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_micenas_colapso",
+    "source_type": "topic",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_palacios_micenicos",
+    "source_type": "topic",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_lineal_b",
+    "source_type": "topic",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_edades_oscuras_griegas",
+    "source_type": "topic",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_micenas",
+    "source_type": "place",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_pilos",
+    "source_type": "place",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tirinto",
+    "source_type": "place",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homero",
+    "source_type": "topic",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_iliada_odisea",
+    "source_type": "topic",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_grecia_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homero",
+    "source_type": "person",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia",
+    "source_type": "place",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_grecia_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_polis_griega",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_alfabeto_griego",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_atenas_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_esparta_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_solon",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_solon",
+    "source_type": "person",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_esparta",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_colonizacion_griega",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_magna_grecia",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_griegos_iberia",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_empuries",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_magna_grecia",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sicilia",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_empuries",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_etruscos",
+    "source_type": "topic",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_roma_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_fundacion_roma",
+    "source_type": "topic",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_etruria",
+    "source_type": "place",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_lacio",
+    "source_type": "place",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_roma",
+    "source_type": "place",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_etruscans",
+    "source_type": "civilization",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_roma_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fundacion_roma",
+    "source_type": "topic",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_romulo_remo",
+    "source_type": "topic",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mundo_clasico",
+    "source_type": "topic",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_nacimiento_historia_clasica",
+    "source_type": "topic",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_romulo",
+    "source_type": "person",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_remo",
+    "source_type": "person",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_tarquino_soberbio",
+    "source_type": "person",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_roma",
+    "source_type": "place",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_lacio",
+    "source_type": "place",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_etruria",
+    "source_type": "place",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_etruscans",
+    "source_type": "civilization",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "topic_micenas_colapso",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "topic_palacios_micenicos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "topic_lineal_b",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "place_micenas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "place_pilos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_mycenaean_greece",
+    "source_type": "civilization",
+    "target_id": "place_tirinto",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "topic_grecia_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "topic_polis_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "topic_colonizacion_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "topic_alfabeto_griego",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "place_grecia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "place_atenas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "place_esparta",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "person_homero",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece",
+    "source_type": "civilization",
+    "target_id": "person_solon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_etruscans",
+    "source_type": "civilization",
+    "target_id": "topic_etruscos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_etruscans",
+    "source_type": "civilization",
+    "target_id": "topic_roma_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_etruscans",
+    "source_type": "civilization",
+    "target_id": "place_etruria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_etruscans",
+    "source_type": "civilization",
+    "target_id": "place_roma",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "topic_roma_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "topic_fundacion_roma",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "topic_romulo_remo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "place_roma",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "place_lacio",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "person_romulo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_rome",
+    "source_type": "civilization",
+    "target_id": "person_remo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero",
+    "source_type": "person",
+    "target_id": "topic_homero",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero",
+    "source_type": "person",
+    "target_id": "topic_iliada_odisea",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero",
+    "source_type": "person",
+    "target_id": "topic_grecia_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero",
+    "source_type": "person",
+    "target_id": "place_grecia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero",
+    "source_type": "person",
+    "target_id": "ep_homero_iliada_odisea",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_solon",
+    "source_type": "person",
+    "target_id": "topic_solon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_solon",
+    "source_type": "person",
+    "target_id": "topic_atenas_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_solon",
+    "source_type": "person",
+    "target_id": "place_atenas",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_solon",
+    "source_type": "person",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_romulo",
+    "source_type": "person",
+    "target_id": "topic_romulo_remo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_romulo",
+    "source_type": "person",
+    "target_id": "topic_fundacion_roma",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_romulo",
+    "source_type": "person",
+    "target_id": "topic_roma_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_romulo",
+    "source_type": "person",
+    "target_id": "place_roma",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_romulo",
+    "source_type": "person",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_remo",
+    "source_type": "person",
+    "target_id": "topic_romulo_remo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_remo",
+    "source_type": "person",
+    "target_id": "topic_fundacion_roma",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_remo",
+    "source_type": "person",
+    "target_id": "place_roma",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_remo",
+    "source_type": "person",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tarquino_soberbio",
+    "source_type": "person",
+    "target_id": "topic_roma_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tarquino_soberbio",
+    "source_type": "person",
+    "target_id": "topic_etruscos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tarquino_soberbio",
+    "source_type": "person",
+    "target_id": "place_roma",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tarquino_soberbio",
+    "source_type": "person",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_pueblos_mar",
+    "source_type": "person",
+    "target_id": "topic_pueblos_mar",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pueblos_mar",
+    "source_type": "person",
+    "target_id": "topic_crisis_1200_ac",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pueblos_mar",
+    "source_type": "person",
+    "target_id": "place_mediterraneo_oriental",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pueblos_mar",
+    "source_type": "person",
+    "target_id": "ep_pueblos_mar_colapso",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_micenas",
+    "source_type": "place",
+    "target_id": "topic_micenas_colapso",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_micenas",
+    "source_type": "place",
+    "target_id": "topic_palacios_micenicos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_micenas",
+    "source_type": "place",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_pilos",
+    "source_type": "place",
+    "target_id": "topic_lineal_b",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_pilos",
+    "source_type": "place",
+    "target_id": "topic_palacios_micenicos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_pilos",
+    "source_type": "place",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tirinto",
+    "source_type": "place",
+    "target_id": "topic_palacios_micenicos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tirinto",
+    "source_type": "place",
+    "target_id": "ep_colapso_micenico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atenas",
+    "source_type": "place",
+    "target_id": "topic_atenas_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas",
+    "source_type": "place",
+    "target_id": "topic_polis_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas",
+    "source_type": "place",
+    "target_id": "person_solon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_esparta",
+    "source_type": "place",
+    "target_id": "topic_esparta_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_esparta",
+    "source_type": "place",
+    "target_id": "topic_polis_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_esparta",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_magna_grecia",
+    "source_type": "place",
+    "target_id": "topic_magna_grecia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_magna_grecia",
+    "source_type": "place",
+    "target_id": "topic_colonizacion_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_magna_grecia",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_roma",
+    "source_type": "place",
+    "target_id": "topic_roma_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_roma",
+    "source_type": "place",
+    "target_id": "topic_fundacion_roma",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_roma",
+    "source_type": "place",
+    "target_id": "person_romulo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_roma",
+    "source_type": "place",
+    "target_id": "person_remo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_roma",
+    "source_type": "place",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_lacio",
+    "source_type": "place",
+    "target_id": "topic_roma_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lacio",
+    "source_type": "place",
+    "target_id": "person_romulo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lacio",
+    "source_type": "place",
+    "target_id": "ep_roma_arcaica_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_etruria",
+    "source_type": "place",
+    "target_id": "topic_etruscos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_etruria",
+    "source_type": "place",
+    "target_id": "ep_etruscos_roma_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_iberia_protohistorica",
+    "source_type": "topic",
+    "target_id": "topic_colapso_bronce_final",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_colapso_bronce_final",
+    "source_type": "topic",
+    "target_id": "topic_pueblos_mar",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_pueblos_mar",
+    "source_type": "topic",
+    "target_id": "topic_micenas_colapso",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_micenas_colapso",
+    "source_type": "topic",
+    "target_id": "topic_edades_oscuras_griegas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_edades_oscuras_griegas",
+    "source_type": "topic",
+    "target_id": "topic_grecia_arcaica",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_grecia_arcaica",
+    "source_type": "topic",
+    "target_id": "topic_polis_griega",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_polis_griega",
+    "source_type": "topic",
+    "target_id": "topic_colonizacion_griega",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_colonizacion_griega",
+    "source_type": "topic",
+    "target_id": "topic_etruscos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_etruscos",
+    "source_type": "topic",
+    "target_id": "topic_roma_arcaica",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_roma_arcaica",
+    "source_type": "topic",
+    "target_id": "topic_mundo_clasico",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

@@ -11128,5 +11128,645 @@
       "empúries",
       "colonización"
     ]
+  },
+  {
+    "id": "ep_colapso_bronce_final_troncal",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "El colapso de la Edad del Bronce",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_colapso_bronce_final",
+    "topic_ids": [
+      "topic_colapso_bronce_final",
+      "topic_crisis_1200_ac",
+      "topic_pueblos_mar",
+      "topic_colapso_bronce_final_oriente",
+      "topic_transicion_hierro_mediterraneo"
+    ],
+    "people_ids": [
+      "person_pueblos_mar"
+    ],
+    "place_ids": [
+      "place_mediterraneo_oriental",
+      "place_anatolia",
+      "place_ugarit"
+    ],
+    "civilization_ids": [
+      "civ_hittites",
+      "civ_ugarit",
+      "civ_mycenaean_greece"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/histocast-116-colapso-edad-del-bronce-audios-mp3_rf_10167215_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "10167215",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio troncal del cierre del periodo: crisis del Bronce Final, destrucciones, ruptura de redes, Pueblos del Mar, caída de Hatti, Ugarit y palacios micénicos.",
+    "learn": [
+      "Comprender el colapso de la Edad del Bronce.",
+      "Relacionar crisis política, comercio, clima y migraciones.",
+      "Situar a los Pueblos del Mar dentro del problema.",
+      "Abrir la transición hacia la Edad del Hierro y el mundo clásico."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "colapso bronce final",
+      "pueblos del mar",
+      "1200 a.C.",
+      "edad del hierro"
+    ]
+  },
+  {
+    "id": "ep_pueblos_mar_colapso",
+    "podcast_id": "pod_memorias_pez",
+    "podcast_name": "Memorias de Pez",
+    "episode_code": "",
+    "title": "Los Pueblos del Mar y la crisis del 1200 a.C.",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_pueblos_mar",
+    "topic_ids": [
+      "topic_pueblos_mar",
+      "topic_sherden",
+      "topic_crisis_1200_ac",
+      "topic_pueblos_mar_egipto"
+    ],
+    "people_ids": [
+      "person_pueblos_mar",
+      "person_ramses_iii"
+    ],
+    "place_ids": [
+      "place_mediterraneo_oriental",
+      "place_medinet_habu"
+    ],
+    "civilization_ids": [
+      "civ_egypt_middle_new_kingdom"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2020",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/pueblos-del-mar-crisis-del-1200-a-c-audios-mp3_rf_58413904_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "58413904",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de apoyo sobre los Pueblos del Mar, las fuentes egipcias, Ramsés III y la complejidad del colapso.",
+    "learn": [
+      "Identificar a los Pueblos del Mar.",
+      "Relacionarlos con Egipto y el Mediterráneo oriental.",
+      "Evitar explicaciones monocausales.",
+      "Conectar con la transición al Hierro."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "pueblos del mar",
+      "ramsés iii",
+      "bronce final"
+    ]
+  },
+  {
+    "id": "ep_colapso_micenico",
+    "podcast_id": "pod_documentalia",
+    "podcast_name": "Documentalia",
+    "episode_code": "",
+    "title": "El colapso del mundo micénico",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_micenas_colapso",
+    "topic_ids": [
+      "topic_micenas_colapso",
+      "topic_palacios_micenicos",
+      "topic_lineal_b",
+      "topic_edades_oscuras_griegas"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_micenas",
+      "place_pilos",
+      "place_tirinto"
+    ],
+    "civilization_ids": [
+      "civ_mycenaean_greece"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/colapso-del-mundo-micenico-audios-mp3_rf_64107840_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "64107840",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio centrado en la caída de los palacios micénicos, Micenas, Pilos, Tirinto, Lineal B y la transición a la Edad Oscura griega.",
+    "learn": [
+      "Comprender el sistema palacial micénico.",
+      "Situar Micenas, Pilos y Tirinto.",
+      "Relacionar Lineal B y administración palacial.",
+      "Preparar la Grecia arcaica."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "micenas",
+      "mundo micénico",
+      "lineal b",
+      "edad oscura griega"
+    ]
+  },
+  {
+    "id": "ep_homero_iliada_odisea",
+    "podcast_id": "pod_desaprendiendo_historia",
+    "podcast_name": "Desaprendiendo la Historia",
+    "episode_code": "",
+    "title": "Homero, la Ilíada y la Odisea",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_homero",
+    "topic_ids": [
+      "topic_homero",
+      "topic_iliada_odisea",
+      "topic_grecia_arcaica"
+    ],
+    "people_ids": [
+      "person_homero"
+    ],
+    "place_ids": [
+      "place_grecia"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2025",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/homero-iliada-odisea-audios-mp3_rf_139882198_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "139882198",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio cultural sobre la memoria épica griega tras la Edad Oscura: Homero, la tradición oral, Ilíada, Odisea y el imaginario heroico.",
+    "learn": [
+      "Conocer la importancia de Homero.",
+      "Relacionar épica y memoria micénica.",
+      "Distinguir tradición oral e historia.",
+      "Preparar la Grecia arcaica y clásica."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "homero",
+      "ilíada",
+      "odisea",
+      "grecia arcaica"
+    ]
+  },
+  {
+    "id": "ep_grecia_arcaica_polis",
+    "podcast_id": "pod_victoria_historia",
+    "podcast_name": "Victoria Podcast Historia",
+    "episode_code": "",
+    "title": "Grecia arcaica: polis, alfabeto y nacimiento del mundo clásico",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_grecia_arcaica",
+    "topic_ids": [
+      "topic_grecia_arcaica",
+      "topic_polis_griega",
+      "topic_alfabeto_griego",
+      "topic_atenas_arcaica",
+      "topic_esparta_arcaica",
+      "topic_solon"
+    ],
+    "people_ids": [
+      "person_solon"
+    ],
+    "place_ids": [
+      "place_grecia",
+      "place_atenas",
+      "place_esparta"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2024",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/v393-127774-grecia-arcaica-polis-alfabeto-audios-mp3_rf_132204318_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "132204318",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio central de transición hacia el mundo clásico: polis, alfabeto griego, Esparta, Atenas, Solón y expansión colonial.",
+    "learn": [
+      "Comprender la Grecia arcaica.",
+      "Relacionar polis, alfabeto y colonización.",
+      "Situar Atenas y Esparta.",
+      "Entender el nacimiento del marco clásico griego."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "grecia arcaica",
+      "polis",
+      "alfabeto griego",
+      "atenas",
+      "esparta"
+    ]
+  },
+  {
+    "id": "ep_colonizacion_griega",
+    "podcast_id": "pod_historia_universal",
+    "podcast_name": "Historia Universal",
+    "episode_code": "",
+    "title": "La colonización griega y la Magna Grecia",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_colonizacion_griega",
+    "topic_ids": [
+      "topic_colonizacion_griega",
+      "topic_magna_grecia",
+      "topic_griegos_iberia",
+      "topic_empuries"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_magna_grecia",
+      "place_sicilia",
+      "place_empuries"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/colonizacion-griega-magna-grecia-audios-mp3_rf_3605189_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "3605189",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Cápsula sobre la expansión colonial griega por el Mediterráneo, incluida la Magna Grecia, Sicilia y los contactos con fenicios, cartagineses e íberos.",
+    "learn": [
+      "Conocer la colonización griega.",
+      "Situar la Magna Grecia.",
+      "Relacionar comercio, polis y expansión.",
+      "Conectar Grecia con Iberia y Cartago."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "colonización griega",
+      "magna grecia",
+      "sicilia",
+      "mediterráneo"
+    ]
+  },
+  {
+    "id": "ep_etruscos_roma_arcaica",
+    "podcast_id": "pod_antena_historia",
+    "podcast_name": "Antena Historia",
+    "episode_code": "",
+    "title": "Los etruscos y la formación de Roma",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_etruscos",
+    "topic_ids": [
+      "topic_etruscos",
+      "topic_roma_arcaica",
+      "topic_fundacion_roma"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_etruria",
+      "place_lacio",
+      "place_roma"
+    ],
+    "civilization_ids": [
+      "civ_etruscans",
+      "civ_archaic_rome"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/etruscos-formacion-roma-audios-mp3_rf_4908536_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "4908536",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de transición italiana: etruscos, Lacio y la formación de Roma arcaica.",
+    "learn": [
+      "Comprender la importancia de los etruscos.",
+      "Situar Etruria y el Lacio.",
+      "Relacionar influencia etrusca y Roma arcaica.",
+      "Preparar la fundación y monarquía romana."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "etruscos",
+      "roma arcaica",
+      "lacio",
+      "italia"
+    ]
+  },
+  {
+    "id": "ep_roma_arcaica_fundacion",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "Roma arcaica: de la fundación a la República",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0213",
+    "main_topic_id": "topic_roma_arcaica",
+    "topic_ids": [
+      "topic_roma_arcaica",
+      "topic_fundacion_roma",
+      "topic_romulo_remo",
+      "topic_mundo_clasico",
+      "topic_nacimiento_historia_clasica"
+    ],
+    "people_ids": [
+      "person_romulo",
+      "person_remo",
+      "person_tarquino_soberbio"
+    ],
+    "place_ids": [
+      "place_roma",
+      "place_lacio",
+      "place_etruria"
+    ],
+    "civilization_ids": [
+      "civ_archaic_rome",
+      "civ_etruscans"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/histocast-27-roma-arcaica-audios-mp3_rf_1029970_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "1029970",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de cierre del periodo: Roma arcaica, Rómulo y Remo, monarquía, influencia etrusca y transición republicana.",
+    "learn": [
+      "Comprender la Roma arcaica.",
+      "Distinguir mito fundacional e historia.",
+      "Relacionar monarquía romana e influencia etrusca.",
+      "Cerrar el periodo abriendo la puerta al mundo clásico."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "roma arcaica",
+      "rómulo",
+      "remo",
+      "república romana"
+    ]
   }
 ]

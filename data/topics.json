@@ -3904,5 +3904,221 @@
       "phase_02"
     ],
     "summary": "Presencia de grupos y lenguas indoeuropeas en áreas del interior y oeste peninsular."
+  },
+  {
+    "id": "topic_colapso_bronce_final",
+    "name": "Colapso de la Edad del Bronce",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Crisis sistémica del Mediterráneo oriental y Próximo Oriente hacia 1200 a.C."
+  },
+  {
+    "id": "topic_crisis_1200_ac",
+    "name": "Crisis de 1200 a.C.",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Periodo de destrucciones, migraciones, interrupciones comerciales y cambios políticos al final del Bronce Final."
+  },
+  {
+    "id": "topic_pueblos_mar",
+    "name": "Pueblos del Mar",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conjunto de grupos mencionados en fuentes egipcias y relacionados con la crisis del Bronce Final."
+  },
+  {
+    "id": "topic_sherden",
+    "name": "Sherden",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Grupo incluido en las fuentes egipcias dentro de los Pueblos del Mar."
+  },
+  {
+    "id": "topic_micenas_colapso",
+    "name": "Colapso micénico",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fin del sistema palacial micénico en Grecia continental."
+  },
+  {
+    "id": "topic_palacios_micenicos",
+    "name": "Palacios micénicos",
+    "type": "political_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Centros palaciales del Bronce Final griego como Micenas, Pilos y Tirinto."
+  },
+  {
+    "id": "topic_lineal_b",
+    "name": "Lineal B",
+    "type": "writing_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema de escritura silábico utilizado en los palacios micénicos."
+  },
+  {
+    "id": "topic_edades_oscuras_griegas",
+    "name": "Edad Oscura griega",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Periodo posterior al colapso micénico, previo a la Grecia arcaica."
+  },
+  {
+    "id": "topic_grecia_arcaica",
+    "name": "Grecia arcaica",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Etapa de formación de la polis, expansión colonial y consolidación de rasgos clásicos."
+  },
+  {
+    "id": "topic_polis_griega",
+    "name": "Polis griega",
+    "type": "political_model",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad-estado griega, núcleo del mundo clásico."
+  },
+  {
+    "id": "topic_homero",
+    "name": "Homero",
+    "type": "literary_figure",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Figura tradicional vinculada a la Ilíada y la Odisea."
+  },
+  {
+    "id": "topic_iliada_odisea",
+    "name": "Ilíada y Odisea",
+    "type": "literature",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Poemas épicos atribuidos a Homero y fundamentales para la memoria griega."
+  },
+  {
+    "id": "topic_alfabeto_griego",
+    "name": "Alfabeto griego",
+    "type": "writing_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema de escritura adaptado del alfabeto fenicio, con vocales."
+  },
+  {
+    "id": "topic_magna_grecia",
+    "name": "Magna Grecia",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Áreas coloniales griegas del sur de Italia y Sicilia."
+  },
+  {
+    "id": "topic_esparta_arcaica",
+    "name": "Esparta arcaica",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Polis griega de fuerte organización militar y social."
+  },
+  {
+    "id": "topic_atenas_arcaica",
+    "name": "Atenas arcaica",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Polis griega en proceso de transformación política antes de la democracia clásica."
+  },
+  {
+    "id": "topic_solon",
+    "name": "Solón",
+    "type": "lawgiver",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Legislador ateniense de la época arcaica."
+  },
+  {
+    "id": "topic_roma_arcaica",
+    "name": "Roma arcaica",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Etapa de formación de Roma, desde la tradición monárquica hasta la república temprana."
+  },
+  {
+    "id": "topic_fundacion_roma",
+    "name": "Fundación de Roma",
+    "type": "foundation_myth",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tradición fundacional de Roma asociada a Rómulo y Remo."
+  },
+  {
+    "id": "topic_romulo_remo",
+    "name": "Rómulo y Remo",
+    "type": "legendary_figures",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Figuras legendarias de la fundación de Roma."
+  },
+  {
+    "id": "topic_etruscos",
+    "name": "Etruscos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo de Italia central con fuerte influencia sobre la Roma arcaica."
+  },
+  {
+    "id": "topic_mundo_clasico",
+    "name": "Mundo clásico",
+    "type": "period_concept",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Horizonte histórico de Grecia y Roma que emerge tras la transición de la Edad del Bronce al Hierro."
+  },
+  {
+    "id": "topic_transicion_hierro_mediterraneo",
+    "name": "Transición al Hierro mediterránea",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Transformaciones tecnológicas, políticas y culturales entre el Bronce Final y la Edad del Hierro."
+  },
+  {
+    "id": "topic_nacimiento_historia_clasica",
+    "name": "Nacimiento de la historia clásica",
+    "type": "historiography",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Aparición del marco griego y romano que dominará la Antigüedad clásica."
   }
 ]

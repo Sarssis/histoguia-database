@@ -609,5 +609,85 @@
     "related_people": [
       "person_celtiberos"
     ]
+  },
+  {
+    "id": "civ_mycenaean_greece",
+    "name": "Grecia micénica",
+    "type": "palatial_civilization",
+    "date_range": "c. 1600-1100 a.C.",
+    "region": "Grecia continental y Egeo",
+    "summary": "Civilización palacial del Bronce Final griego, afectada por el colapso hacia 1200 a.C.",
+    "related_topics": [
+      "topic_micenas_colapso",
+      "topic_palacios_micenicos",
+      "topic_lineal_b"
+    ],
+    "related_places": [
+      "place_micenas",
+      "place_pilos",
+      "place_tirinto"
+    ],
+    "related_people": []
+  },
+  {
+    "id": "civ_archaic_greece",
+    "name": "Grecia arcaica",
+    "type": "city_state_culture",
+    "date_range": "c. 800-500 a.C.",
+    "region": "Grecia y Mediterráneo",
+    "summary": "Periodo de formación de la polis, colonización griega, alfabeto y cultura literaria arcaica.",
+    "related_topics": [
+      "topic_grecia_arcaica",
+      "topic_polis_griega",
+      "topic_colonizacion_griega",
+      "topic_alfabeto_griego"
+    ],
+    "related_places": [
+      "place_grecia",
+      "place_atenas",
+      "place_esparta"
+    ],
+    "related_people": [
+      "person_homero",
+      "person_solon"
+    ]
+  },
+  {
+    "id": "civ_etruscans",
+    "name": "Etruscos",
+    "type": "people_group_culture",
+    "date_range": "c. siglo IX-I a.C.",
+    "region": "Italia central",
+    "summary": "Civilización de Italia central, clave para la formación de la Roma arcaica.",
+    "related_topics": [
+      "topic_etruscos",
+      "topic_roma_arcaica"
+    ],
+    "related_places": [
+      "place_etruria",
+      "place_roma"
+    ],
+    "related_people": []
+  },
+  {
+    "id": "civ_archaic_rome",
+    "name": "Roma arcaica",
+    "type": "city_state",
+    "date_range": "c. 753-509 a.C.",
+    "region": "Lacio",
+    "summary": "Etapa de formación de Roma, con tradiciones monárquicas, influencia etrusca y transición hacia la república.",
+    "related_topics": [
+      "topic_roma_arcaica",
+      "topic_fundacion_roma",
+      "topic_romulo_remo"
+    ],
+    "related_places": [
+      "place_roma",
+      "place_lacio"
+    ],
+    "related_people": [
+      "person_romulo",
+      "person_remo"
+    ]
   }
 ]

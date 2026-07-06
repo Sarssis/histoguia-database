@@ -219,5 +219,14 @@
     "date_range": "c. 1200-218 a.C.",
     "summary": "Tartessos, Huelva, valle del Guadalquivir, Carambolo, Cancho Roano, contactos fenicios y griegos, minería, íberos, celtíberos y pueblos prerromanos de Iberia.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0213",
+    "phase_id": "phase_02",
+    "order": 13,
+    "name": "El colapso de la Edad del Bronce y el nacimiento del mundo clásico",
+    "date_range": "c. 1200-500 a.C.",
+    "summary": "Crisis del Bronce Final, Pueblos del Mar, caída de palacios micénicos e hititas, transición a la Edad del Hierro, Grecia arcaica, polis, alfabeto, colonización griega, Roma arcaica y nacimiento del mundo clásico.",
+    "status": "content_seeded"
   }
 ]

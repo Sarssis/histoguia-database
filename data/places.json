@@ -2464,5 +2464,153 @@
     "related_episodes": [
       "ep_pueblos_prerromanos_iberia"
     ]
+  },
+  {
+    "id": "place_micenas",
+    "name": "Micenas",
+    "type": "site",
+    "modern_location": "Grecia",
+    "summary": "Centro palacial micénico emblemático.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_micenas_colapso",
+      "topic_palacios_micenicos"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_colapso_micenico"
+    ]
+  },
+  {
+    "id": "place_pilos",
+    "name": "Pilos",
+    "type": "site",
+    "modern_location": "Grecia",
+    "summary": "Centro palacial micénico conocido por tablillas en Lineal B.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_lineal_b",
+      "topic_palacios_micenicos"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_colapso_micenico"
+    ]
+  },
+  {
+    "id": "place_tirinto",
+    "name": "Tirinto",
+    "type": "site",
+    "modern_location": "Grecia",
+    "summary": "Centro fortificado micénico del Peloponeso.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_palacios_micenicos"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_colapso_micenico"
+    ]
+  },
+  {
+    "id": "place_atenas",
+    "name": "Atenas",
+    "type": "city",
+    "modern_location": "Grecia",
+    "summary": "Polis griega clave desde época arcaica hasta clásica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_atenas_arcaica",
+      "topic_polis_griega"
+    ],
+    "related_people": [
+      "person_solon"
+    ],
+    "related_episodes": [
+      "ep_grecia_arcaica_polis"
+    ]
+  },
+  {
+    "id": "place_esparta",
+    "name": "Esparta",
+    "type": "city",
+    "modern_location": "Grecia",
+    "summary": "Polis griega de fuerte organización militar y social.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_esparta_arcaica",
+      "topic_polis_griega"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_grecia_arcaica_polis"
+    ]
+  },
+  {
+    "id": "place_magna_grecia",
+    "name": "Magna Grecia",
+    "type": "region",
+    "modern_location": "Sur de Italia y Sicilia",
+    "summary": "Área de colonización griega en el Mediterráneo central.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_magna_grecia",
+      "topic_colonizacion_griega"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_colonizacion_griega"
+    ]
+  },
+  {
+    "id": "place_roma",
+    "name": "Roma",
+    "type": "city",
+    "modern_location": "Roma, Italia",
+    "summary": "Ciudad del Lacio cuyo periodo arcaico marca el nacimiento de Roma.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_roma_arcaica",
+      "topic_fundacion_roma"
+    ],
+    "related_people": [
+      "person_romulo",
+      "person_remo"
+    ],
+    "related_episodes": [
+      "ep_roma_arcaica_fundacion"
+    ]
+  },
+  {
+    "id": "place_lacio",
+    "name": "Lacio",
+    "type": "region",
+    "modern_location": "Italia central",
+    "summary": "Región de Italia central donde surge Roma.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_roma_arcaica"
+    ],
+    "related_people": [
+      "person_romulo"
+    ],
+    "related_episodes": [
+      "ep_roma_arcaica_fundacion"
+    ]
+  },
+  {
+    "id": "place_etruria",
+    "name": "Etruria",
+    "type": "region",
+    "modern_location": "Toscana y Lacio norte, Italia",
+    "summary": "Área cultural de los etruscos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_etruscos"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_etruscos_roma_arcaica"
+    ]
   }
 ]
