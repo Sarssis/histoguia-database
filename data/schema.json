@@ -1,8 +1,8 @@
 {
-  "version": "4.10",
-  "description": "Periodo 02. Subperiodo 10 activo: Persia aqueménida.",
+  "version": "4.11",
+  "description": "Periodo 02. Subperiodo 11 activo: Cartago.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 121,
+  "episode_count": 128,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 106,
-  "places_count": 121,
-  "topics_count": 388,
-  "relations_count": 2702,
-  "status": "phase02_sub0210_active",
-  "civilizations_count": 22
+  "people_count": 114,
+  "places_count": 129,
+  "topics_count": 417,
+  "relations_count": 2897,
+  "status": "phase02_sub0211_active",
+  "civilizations_count": 24
 }

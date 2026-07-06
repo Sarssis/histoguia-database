@@ -10001,5 +10001,572 @@
       "persia",
       "persépolis"
     ]
+  },
+  {
+    "id": "ep_histocast_cartago",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "Cartago",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0211",
+    "main_topic_id": "topic_cartago",
+    "topic_ids": [
+      "topic_cartago",
+      "topic_cartagineses",
+      "topic_potencia_cartaginesa",
+      "topic_gobierno_cartagines",
+      "topic_expansion_cartaginesa"
+    ],
+    "people_ids": [
+      "person_dido_elissa"
+    ],
+    "place_ids": [
+      "place_cartago",
+      "place_tunez"
+    ],
+    "civilization_ids": [
+      "civ_carthage",
+      "civ_punic_world"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/histocast-63-cartago-audios-mp3_rf_3347291_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "3347291",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio troncal sobre Cartago como potencia púnica: fundación, sociedad, comercio, instituciones, expansión y conflicto mediterráneo.",
+    "learn": [
+      "Comprender la evolución de Cartago desde fundación fenicia a potencia independiente.",
+      "Situar Cartago en el Mediterráneo central.",
+      "Relacionar comercio, armada e instituciones.",
+      "Preparar el contexto de las Guerras Púnicas."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "cartago",
+      "púnicos",
+      "fenicios",
+      "mediterráneo"
+    ]
+  },
+  {
+    "id": "ep_cartago_fundacion",
+    "podcast_id": "pod_documentalia",
+    "podcast_name": "Documentalia",
+    "episode_code": "",
+    "title": "La fundación de Cartago y la leyenda de Dido",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0211",
+    "main_topic_id": "topic_fundacion_cartago",
+    "topic_ids": [
+      "topic_fundacion_cartago",
+      "topic_dido_elissa",
+      "topic_tiro",
+      "topic_colonizacion_fenicia"
+    ],
+    "people_ids": [
+      "person_dido_elissa"
+    ],
+    "place_ids": [
+      "place_cartago",
+      "place_tiro"
+    ],
+    "civilization_ids": [
+      "civ_carthage",
+      "civ_phoenicia"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/fundacion-cartago-leyenda-dido-audios-mp3_rf_64106433_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "64106433",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio sobre la tradición fundacional de Cartago, su vínculo con Tiro y la figura de Elissa/Dido.",
+    "learn": [
+      "Conocer la fundación legendaria de Cartago.",
+      "Relacionar Cartago con Tiro y la expansión fenicia.",
+      "Distinguir mito fundacional y desarrollo histórico.",
+      "Situar Dido/Elissa en la memoria clásica."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "cartago",
+      "dido",
+      "elissa",
+      "tiro"
+    ]
+  },
+  {
+    "id": "ep_cartago_comercio_mediterraneo",
+    "podcast_id": "pod_memorias_pez",
+    "podcast_name": "Memorias de Pez",
+    "episode_code": "",
+    "title": "Cartago, comercio y dominio del Mediterráneo occidental",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0211",
+    "main_topic_id": "topic_comercio_cartagines",
+    "topic_ids": [
+      "topic_comercio_cartagines",
+      "topic_armada_cartaginesa",
+      "topic_expansion_cartaginesa",
+      "topic_cerdena_cartaginesa",
+      "topic_hannon_navegante",
+      "topic_himilcon"
+    ],
+    "people_ids": [
+      "person_hannon_navegante",
+      "person_himilcon"
+    ],
+    "place_ids": [
+      "place_cartago",
+      "place_cerdena",
+      "place_ebusim",
+      "place_atlantico"
+    ],
+    "civilization_ids": [
+      "civ_carthage",
+      "civ_punic_world"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2020",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/cartago-comercio-dominio-del-mediterraneo-occidental-audios-mp3_rf_58413110_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "58413110",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de apoyo sobre las redes comerciales cartaginesas, su armada, Cerdeña, Baleares, rutas atlánticas y recursos estratégicos.",
+    "learn": [
+      "Entender el comercio como base del poder cartaginés.",
+      "Relacionar armada, rutas y colonias.",
+      "Situar Cerdeña, Baleares e Iberia en las redes púnicas.",
+      "Conectar con Hannón e Himilcón."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "cartago",
+      "comercio",
+      "armada",
+      "mediterráneo occidental"
+    ]
+  },
+  {
+    "id": "ep_religion_cartaginesa",
+    "podcast_id": "pod_historia_universal",
+    "podcast_name": "Historia Universal",
+    "episode_code": "",
+    "title": "Religión cartaginesa: Baal Hammon, Tanit y el tophet",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0211",
+    "main_topic_id": "topic_religion_cartaginesa",
+    "topic_ids": [
+      "topic_religion_cartaginesa",
+      "topic_baal_hammon",
+      "topic_tanit",
+      "topic_tophet_cartago"
+    ],
+    "people_ids": [
+      "person_baal_hammon",
+      "person_tanit"
+    ],
+    "place_ids": [
+      "place_cartago"
+    ],
+    "civilization_ids": [
+      "civ_carthage",
+      "civ_punic_world"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/religion-cartaginesa-baal-hammon-tanit-tophet-audios-mp3_rf_3605121_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "3605121",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Cápsula sobre la religión púnica, Baal Hammon, Tanit y el difícil debate arqueológico e historiográfico sobre el tophet.",
+    "learn": [
+      "Identificar a Baal Hammon y Tanit.",
+      "Comprender el tophet como problema arqueológico.",
+      "Distinguir fuentes hostiles y evidencia material.",
+      "Relacionar religión y sociedad cartaginesa."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "religión cartaginesa",
+      "baal hammon",
+      "tanit",
+      "tophet"
+    ]
+  },
+  {
+    "id": "ep_cartago_sicilia",
+    "podcast_id": "pod_antena_historia",
+    "podcast_name": "Antena Historia",
+    "episode_code": "",
+    "title": "Cartago y Sicilia: griegos, púnicos y el Mediterráneo central",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0211",
+    "main_topic_id": "topic_sicilia_cartaginesa",
+    "topic_ids": [
+      "topic_sicilia_cartaginesa",
+      "topic_expansion_cartaginesa",
+      "topic_guerras_punicas_contexto"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_sicilia",
+      "place_cartago"
+    ],
+    "civilization_ids": [
+      "civ_carthage"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/cartago-sicilia-griegos-punicos-mediterraneo-central-audios-mp3_rf_4908455_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "4908455",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio centrado en Sicilia como espacio de choque entre Cartago, ciudades griegas y más tarde Roma.",
+    "learn": [
+      "Situar Sicilia como frontera estratégica.",
+      "Relacionar griegos y cartagineses.",
+      "Entender la importancia del Mediterráneo central.",
+      "Preparar el contexto de la Primera Guerra Púnica."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "cartago",
+      "sicilia",
+      "griegos",
+      "púnicos"
+    ]
+  },
+  {
+    "id": "ep_cartago_iberia_barquidas",
+    "podcast_id": "pod_victoria_historia",
+    "podcast_name": "Victoria Podcast Historia",
+    "episode_code": "",
+    "title": "Cartago en Iberia y los Bárquidas",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0211",
+    "main_topic_id": "topic_iberia_cartaginesa",
+    "topic_ids": [
+      "topic_iberia_cartaginesa",
+      "topic_barquidas",
+      "topic_hamilcar_barca",
+      "topic_asdrubal_bello",
+      "topic_qart_hadasht",
+      "topic_anibal_barca"
+    ],
+    "people_ids": [
+      "person_hamilcar_barca",
+      "person_asdrubal_bello",
+      "person_anibal_barca"
+    ],
+    "place_ids": [
+      "place_iberia_cartaginesa",
+      "place_cartagena",
+      "place_gadir"
+    ],
+    "civilization_ids": [
+      "civ_carthage",
+      "civ_punic_world"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2024",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/v391-127774-cartago-iberia-barquidas-audios-mp3_rf_131578090_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "131578090",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio sobre la expansión cartaginesa en Iberia bajo Amílcar, Asdrúbal y Aníbal, con Qart Hadasht como pieza central.",
+    "learn": [
+      "Comprender la expansión cartaginesa en Iberia.",
+      "Situar a Amílcar, Asdrúbal y Aníbal.",
+      "Relacionar Qart Hadasht con el poder bárquida.",
+      "Preparar la Segunda Guerra Púnica."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "cartago",
+      "iberia",
+      "bárquidas",
+      "qart hadasht"
+    ]
+  },
+  {
+    "id": "ep_contexto_guerras_punicas",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "Roma y Cartago: antes de las Guerras Púnicas",
+    "phase_id": "phase_02",
+    "subperiod_id": "sub_0211",
+    "main_topic_id": "topic_guerras_punicas_contexto",
+    "topic_ids": [
+      "topic_guerras_punicas_contexto",
+      "topic_cartago_y_roma",
+      "topic_anibal_barca",
+      "topic_sicilia_cartaginesa"
+    ],
+    "people_ids": [
+      "person_anibal_barca"
+    ],
+    "place_ids": [
+      "place_cartago",
+      "place_roma_republicana",
+      "place_sicilia"
+    ],
+    "civilization_ids": [
+      "civ_carthage"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/roma-cartago-antes-guerras-punicas-audios-mp3_rf_10839741_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "10839741",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de cierre para conectar el bloque cartaginés con la rivalidad con Roma y el inicio del mundo clásico republicano.",
+    "learn": [
+      "Comprender el choque de intereses entre Roma y Cartago.",
+      "Relacionar Sicilia, Iberia y el Mediterráneo occidental.",
+      "Situar a Aníbal como consecuencia de un proceso anterior.",
+      "Preparar la transición hacia el mundo romano."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "cartago",
+      "roma",
+      "guerras púnicas",
+      "aníbal"
+    ]
   }
 ]

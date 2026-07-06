@@ -237,7 +237,14 @@
       "ep_dario_i_organizacion_imperio",
       "ep_zoroastrismo_persia",
       "ep_guerras_medicas_persia_grecia",
-      "ep_alejandro_conquista_persia"
+      "ep_alejandro_conquista_persia",
+      "ep_histocast_cartago",
+      "ep_cartago_fundacion",
+      "ep_cartago_comercio_mediterraneo",
+      "ep_religion_cartaginesa",
+      "ep_cartago_sicilia",
+      "ep_cartago_iberia_barquidas",
+      "ep_contexto_guerras_punicas"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -324,8 +331,18 @@
       "topic_persepolis",
       "topic_zoroastrismo",
       "topic_guerras_medicas",
-      "topic_conquista_alejandro_persia"
+      "topic_conquista_alejandro_persia",
+      "topic_cartago",
+      "topic_fundacion_cartago",
+      "topic_potencia_cartaginesa",
+      "topic_comercio_cartagines",
+      "topic_religion_cartaginesa",
+      "topic_expansion_cartaginesa",
+      "topic_sicilia_cartaginesa",
+      "topic_iberia_cartaginesa",
+      "topic_guerras_punicas_contexto",
+      "topic_tartessos_final"
     ],
-    "status": "sub0210_active"
+    "status": "sub0211_active"
   }
 ]

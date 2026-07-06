@@ -492,5 +492,56 @@
       "person_dario_i",
       "person_jerjes_i"
     ]
+  },
+  {
+    "id": "civ_carthage",
+    "name": "Cartago",
+    "type": "city_state_empire",
+    "date_range": "c. 814-146 a.C.",
+    "region": "Norte de África y Mediterráneo occidental",
+    "summary": "Potencia púnica surgida de la expansión fenicia, con hegemonía comercial y naval en el Mediterráneo central y occidental.",
+    "related_topics": [
+      "topic_cartago",
+      "topic_cartagineses",
+      "topic_potencia_cartaginesa",
+      "topic_expansion_cartaginesa",
+      "topic_religion_cartaginesa"
+    ],
+    "related_places": [
+      "place_cartago",
+      "place_sicilia",
+      "place_cerdena",
+      "place_cartagena"
+    ],
+    "related_people": [
+      "person_dido_elissa",
+      "person_hamilcar_barca",
+      "person_anibal_barca"
+    ]
+  },
+  {
+    "id": "civ_punic_world",
+    "name": "Mundo púnico",
+    "type": "cultural_network",
+    "date_range": "I milenio a.C.",
+    "region": "Mediterráneo central y occidental",
+    "summary": "Red cultural fenicio-occidental vinculada a Cartago y a comunidades púnicas en África, Sicilia, Cerdeña, Baleares e Iberia.",
+    "related_topics": [
+      "topic_punicos",
+      "topic_comercio_cartagines",
+      "topic_religion_cartaginesa",
+      "topic_iberia_cartaginesa"
+    ],
+    "related_places": [
+      "place_cartago",
+      "place_gadir",
+      "place_malaka",
+      "place_ebusim",
+      "place_cartagena"
+    ],
+    "related_people": [
+      "person_hannon_navegante",
+      "person_himilcon"
+    ]
   }
 ]

@@ -201,5 +201,14 @@
     "date_range": "c. 550-330 a.C.",
     "summary": "Ciro el Grande, Cambises II, Darío I, Jerjes, el Imperio aqueménida, satrapías, Camino Real, Persépolis, zoroastrismo, guerras médicas y conquista de Alejandro.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0211",
+    "phase_id": "phase_02",
+    "order": 11,
+    "name": "Cartago",
+    "date_range": "c. 814-146 a.C.",
+    "summary": "De fundación fenicia a potencia mediterránea: Dido/Elissa, comercio, aristocracia, religión, expansión norteafricana, Sicilia, Cerdeña, Iberia, Barca y contexto previo a las Guerras Púnicas.",
+    "status": "content_seeded"
   }
 ]

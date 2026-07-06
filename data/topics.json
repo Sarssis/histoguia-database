@@ -3490,5 +3490,266 @@
       "phase_02"
     ],
     "summary": "Modelo imperial de integración de pueblos, lenguas, elites locales y redes administrativas."
+  },
+  {
+    "id": "topic_cartago",
+    "name": "Cartago",
+    "type": "city_state_empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad fenicia del norte de África que llegó a convertirse en una de las grandes potencias mediterráneas."
+  },
+  {
+    "id": "topic_cartagineses",
+    "name": "Cartagineses",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Población púnica de Cartago y sus territorios mediterráneos."
+  },
+  {
+    "id": "topic_punicos",
+    "name": "Púnicos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Comunidades fenicio-occidentales del Mediterráneo central y occidental."
+  },
+  {
+    "id": "topic_fundacion_cartago",
+    "name": "Fundación de Cartago",
+    "type": "foundation",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tradición fundacional de Cartago vinculada a Tiro y a Elissa/Dido."
+  },
+  {
+    "id": "topic_dido_elissa",
+    "name": "Dido / Elissa",
+    "type": "legendary_figure",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Figura legendaria asociada a la fundación de Cartago."
+  },
+  {
+    "id": "topic_potencia_cartaginesa",
+    "name": "Potencia cartaginesa",
+    "type": "political_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Proceso por el que Cartago pasa de colonia fenicia a potencia marítima independiente."
+  },
+  {
+    "id": "topic_gobierno_cartagines",
+    "name": "Gobierno cartaginés",
+    "type": "political_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema político cartaginés con sufetes, consejo, aristocracia y asamblea."
+  },
+  {
+    "id": "topic_sufetes",
+    "name": "Sufetes",
+    "type": "office",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Magistrados superiores de Cartago, comparables parcialmente a jueces o cónsules."
+  },
+  {
+    "id": "topic_comercio_cartagines",
+    "name": "Comercio cartaginés",
+    "type": "economy",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Redes comerciales púnicas en el Mediterráneo y el Atlántico."
+  },
+  {
+    "id": "topic_armada_cartaginesa",
+    "name": "Armada cartaginesa",
+    "type": "navy",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Poder naval cartaginés, clave para su expansión y defensa."
+  },
+  {
+    "id": "topic_ejercito_cartagines",
+    "name": "Ejército cartaginés",
+    "type": "military_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fuerzas militares de Cartago, con ciudadanos, aliados, libios, númidas, íberos y mercenarios."
+  },
+  {
+    "id": "topic_mercenarios_cartagineses",
+    "name": "Mercenarios cartagineses",
+    "type": "military_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tropas contratadas por Cartago procedentes de distintos territorios mediterráneos."
+  },
+  {
+    "id": "topic_religion_cartaginesa",
+    "name": "Religión cartaginesa",
+    "type": "religion",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema religioso púnico con divinidades como Baal Hammon y Tanit."
+  },
+  {
+    "id": "topic_baal_hammon",
+    "name": "Baal Hammon",
+    "type": "deity",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Divinidad principal del panteón cartaginés."
+  },
+  {
+    "id": "topic_tanit",
+    "name": "Tanit",
+    "type": "deity",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Divinidad púnica de gran importancia en Cartago."
+  },
+  {
+    "id": "topic_tophet_cartago",
+    "name": "Tophet de Cartago",
+    "type": "archaeological_feature",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Área ritual y funeraria vinculada al debate sobre sacrificios infantiles y prácticas religiosas púnicas."
+  },
+  {
+    "id": "topic_expansion_cartaginesa",
+    "name": "Expansión cartaginesa",
+    "type": "colonization_empire",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Expansión de Cartago por el norte de África, Sicilia, Cerdeña, Baleares e Iberia."
+  },
+  {
+    "id": "topic_sicilia_cartaginesa",
+    "name": "Sicilia cartaginesa",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Presencia y conflicto cartaginés en Sicilia frente a griegos y, más tarde, romanos."
+  },
+  {
+    "id": "topic_cerdena_cartaginesa",
+    "name": "Cerdeña cartaginesa",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Control e influencia cartaginesa en Cerdeña."
+  },
+  {
+    "id": "topic_iberia_cartaginesa",
+    "name": "Iberia cartaginesa",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Expansión cartaginesa en la península ibérica, especialmente tras la Primera Guerra Púnica."
+  },
+  {
+    "id": "topic_hannon_navegante",
+    "name": "Hannón el Navegante",
+    "type": "explorer",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Figura cartaginesa asociada a exploraciones atlánticas."
+  },
+  {
+    "id": "topic_himilcon",
+    "name": "Himilcón",
+    "type": "explorer",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Navegante cartaginés asociado a exploraciones hacia el Atlántico norte según la tradición."
+  },
+  {
+    "id": "topic_barquidas",
+    "name": "Bárquidas",
+    "type": "family_dynasty",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Familia cartaginesa protagonista de la expansión en Iberia y de la guerra contra Roma."
+  },
+  {
+    "id": "topic_hamilcar_barca",
+    "name": "Amílcar Barca",
+    "type": "general",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "General cartaginés y padre de Aníbal, impulsor de la expansión en Iberia."
+  },
+  {
+    "id": "topic_asdrubal_bello",
+    "name": "Asdrúbal el Bello",
+    "type": "general",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Líder cartaginés en Iberia y fundador de Qart Hadasht."
+  },
+  {
+    "id": "topic_anibal_barca",
+    "name": "Aníbal Barca",
+    "type": "general",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "General cartaginés célebre por la Segunda Guerra Púnica."
+  },
+  {
+    "id": "topic_guerras_punicas_contexto",
+    "name": "Contexto de las Guerras Púnicas",
+    "type": "historical_context",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rivalidad entre Cartago y Roma por el dominio del Mediterráneo occidental."
+  },
+  {
+    "id": "topic_qart_hadasht",
+    "name": "Qart Hadasht / Cartagena",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fundación cartaginesa en Iberia, actual Cartagena."
+  },
+  {
+    "id": "topic_cartago_y_roma",
+    "name": "Cartago y Roma",
+    "type": "conflict_relation",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Relación de competencia entre Cartago y Roma que culmina en las Guerras Púnicas."
   }
 ]

@@ -18912,5 +18912,1370 @@
     "target_id": "topic_cartago_fundacion",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0211",
+    "source_type": "subperiod",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_cartago",
+    "source_type": "topic",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_cartagineses",
+    "source_type": "topic",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_potencia_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_gobierno_cartagines",
+    "source_type": "topic",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_expansion_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_dido_elissa",
+    "source_type": "person",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tunez",
+    "source_type": "place",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0211",
+    "source_type": "subperiod",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fundacion_cartago",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_dido_elissa",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tiro",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_colonizacion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_dido_elissa",
+    "source_type": "person",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0211",
+    "source_type": "subperiod",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_comercio_cartagines",
+    "source_type": "topic",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_armada_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_expansion_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_cerdena_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hannon_navegante",
+    "source_type": "topic",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_himilcon",
+    "source_type": "topic",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hannon_navegante",
+    "source_type": "person",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_himilcon",
+    "source_type": "person",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cerdena",
+    "source_type": "place",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_ebusim",
+    "source_type": "place",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atlantico",
+    "source_type": "place",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0211",
+    "source_type": "subperiod",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_religion_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_baal_hammon",
+    "source_type": "topic",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tanit",
+    "source_type": "topic",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tophet_cartago",
+    "source_type": "topic",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_baal_hammon",
+    "source_type": "person",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_tanit",
+    "source_type": "person",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0211",
+    "source_type": "subperiod",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_sicilia_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_expansion_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_guerras_punicas_contexto",
+    "source_type": "topic",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sicilia",
+    "source_type": "place",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0211",
+    "source_type": "subperiod",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_iberia_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_barquidas",
+    "source_type": "topic",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hamilcar_barca",
+    "source_type": "topic",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_asdrubal_bello",
+    "source_type": "topic",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_qart_hadasht",
+    "source_type": "topic",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_anibal_barca",
+    "source_type": "topic",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hamilcar_barca",
+    "source_type": "person",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_asdrubal_bello",
+    "source_type": "person",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_iberia_cartaginesa",
+    "source_type": "place",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartagena",
+    "source_type": "place",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0211",
+    "source_type": "subperiod",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_guerras_punicas_contexto",
+    "source_type": "topic",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_cartago_y_roma",
+    "source_type": "topic",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_anibal_barca",
+    "source_type": "topic",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_sicilia_cartaginesa",
+    "source_type": "topic",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_roma_republicana",
+    "source_type": "place",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sicilia",
+    "source_type": "place",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "topic_cartago",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "topic_cartagineses",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "topic_potencia_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "topic_expansion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "topic_religion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "place_sicilia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "place_cerdena",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "place_cartagena",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "person_dido_elissa",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "person_hamilcar_barca",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_carthage",
+    "source_type": "civilization",
+    "target_id": "person_anibal_barca",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "topic_punicos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "topic_comercio_cartagines",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "topic_religion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "topic_iberia_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "place_gadir",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "place_malaka",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "place_ebusim",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "place_cartagena",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "person_hannon_navegante",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_punic_world",
+    "source_type": "civilization",
+    "target_id": "person_himilcon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dido_elissa",
+    "source_type": "person",
+    "target_id": "topic_dido_elissa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dido_elissa",
+    "source_type": "person",
+    "target_id": "topic_fundacion_cartago",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dido_elissa",
+    "source_type": "person",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dido_elissa",
+    "source_type": "person",
+    "target_id": "place_tiro",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_dido_elissa",
+    "source_type": "person",
+    "target_id": "ep_cartago_fundacion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hannon_navegante",
+    "source_type": "person",
+    "target_id": "topic_hannon_navegante",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hannon_navegante",
+    "source_type": "person",
+    "target_id": "topic_comercio_cartagines",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hannon_navegante",
+    "source_type": "person",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hannon_navegante",
+    "source_type": "person",
+    "target_id": "place_atlantico",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hannon_navegante",
+    "source_type": "person",
+    "target_id": "ep_hannon_navegante",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_himilcon",
+    "source_type": "person",
+    "target_id": "topic_himilcon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_himilcon",
+    "source_type": "person",
+    "target_id": "topic_comercio_cartagines",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_himilcon",
+    "source_type": "person",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_himilcon",
+    "source_type": "person",
+    "target_id": "place_atlantico",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_himilcon",
+    "source_type": "person",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hamilcar_barca",
+    "source_type": "person",
+    "target_id": "topic_hamilcar_barca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hamilcar_barca",
+    "source_type": "person",
+    "target_id": "topic_barquidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hamilcar_barca",
+    "source_type": "person",
+    "target_id": "topic_iberia_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hamilcar_barca",
+    "source_type": "person",
+    "target_id": "place_cartagena",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hamilcar_barca",
+    "source_type": "person",
+    "target_id": "place_iberia_cartaginesa",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hamilcar_barca",
+    "source_type": "person",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_asdrubal_bello",
+    "source_type": "person",
+    "target_id": "topic_asdrubal_bello",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asdrubal_bello",
+    "source_type": "person",
+    "target_id": "topic_qart_hadasht",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asdrubal_bello",
+    "source_type": "person",
+    "target_id": "topic_iberia_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asdrubal_bello",
+    "source_type": "person",
+    "target_id": "place_cartagena",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_asdrubal_bello",
+    "source_type": "person",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "topic_anibal_barca",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "topic_guerras_punicas_contexto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "topic_cartago_y_roma",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "place_cartagena",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_anibal_barca",
+    "source_type": "person",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_baal_hammon",
+    "source_type": "person",
+    "target_id": "topic_baal_hammon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_baal_hammon",
+    "source_type": "person",
+    "target_id": "topic_religion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_baal_hammon",
+    "source_type": "person",
+    "target_id": "topic_tophet_cartago",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_baal_hammon",
+    "source_type": "person",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_baal_hammon",
+    "source_type": "person",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tanit",
+    "source_type": "person",
+    "target_id": "topic_tanit",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tanit",
+    "source_type": "person",
+    "target_id": "topic_religion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tanit",
+    "source_type": "person",
+    "target_id": "topic_tophet_cartago",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tanit",
+    "source_type": "person",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tanit",
+    "source_type": "person",
+    "target_id": "ep_religion_cartaginesa",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tunez",
+    "source_type": "place",
+    "target_id": "topic_cartago",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tunez",
+    "source_type": "place",
+    "target_id": "topic_expansion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tunez",
+    "source_type": "place",
+    "target_id": "person_dido_elissa",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tunez",
+    "source_type": "place",
+    "target_id": "ep_histocast_cartago",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sicilia",
+    "source_type": "place",
+    "target_id": "topic_sicilia_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sicilia",
+    "source_type": "place",
+    "target_id": "topic_guerras_punicas_contexto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sicilia",
+    "source_type": "place",
+    "target_id": "person_hamilcar_barca",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sicilia",
+    "source_type": "place",
+    "target_id": "ep_cartago_sicilia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_cerdena",
+    "source_type": "place",
+    "target_id": "topic_cerdena_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cerdena",
+    "source_type": "place",
+    "target_id": "topic_expansion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cerdena",
+    "source_type": "place",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_ebusim",
+    "source_type": "place",
+    "target_id": "topic_expansion_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ebusim",
+    "source_type": "place",
+    "target_id": "topic_punicos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_ebusim",
+    "source_type": "place",
+    "target_id": "ep_cartago_comercio_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_iberia_cartaginesa",
+    "source_type": "place",
+    "target_id": "topic_iberia_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iberia_cartaginesa",
+    "source_type": "place",
+    "target_id": "topic_barquidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iberia_cartaginesa",
+    "source_type": "place",
+    "target_id": "person_hamilcar_barca",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iberia_cartaginesa",
+    "source_type": "place",
+    "target_id": "person_asdrubal_bello",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iberia_cartaginesa",
+    "source_type": "place",
+    "target_id": "person_anibal_barca",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_iberia_cartaginesa",
+    "source_type": "place",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_cartagena",
+    "source_type": "place",
+    "target_id": "topic_qart_hadasht",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartagena",
+    "source_type": "place",
+    "target_id": "topic_iberia_cartaginesa",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartagena",
+    "source_type": "place",
+    "target_id": "person_asdrubal_bello",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartagena",
+    "source_type": "place",
+    "target_id": "person_anibal_barca",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartagena",
+    "source_type": "place",
+    "target_id": "ep_cartago_iberia_barquidas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atlantico",
+    "source_type": "place",
+    "target_id": "topic_hannon_navegante",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atlantico",
+    "source_type": "place",
+    "target_id": "topic_himilcon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atlantico",
+    "source_type": "place",
+    "target_id": "topic_comercio_cartagines",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atlantico",
+    "source_type": "place",
+    "target_id": "person_hannon_navegante",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atlantico",
+    "source_type": "place",
+    "target_id": "person_himilcon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atlantico",
+    "source_type": "place",
+    "target_id": "ep_hannon_navegante",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_roma_republicana",
+    "source_type": "place",
+    "target_id": "topic_cartago_y_roma",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_roma_republicana",
+    "source_type": "place",
+    "target_id": "topic_guerras_punicas_contexto",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_roma_republicana",
+    "source_type": "place",
+    "target_id": "person_anibal_barca",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_roma_republicana",
+    "source_type": "place",
+    "target_id": "ep_contexto_guerras_punicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persia_aquemenida",
+    "source_type": "topic",
+    "target_id": "topic_cartago",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_cartago",
+    "source_type": "topic",
+    "target_id": "topic_fundacion_cartago",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_fundacion_cartago",
+    "source_type": "topic",
+    "target_id": "topic_potencia_cartaginesa",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_potencia_cartaginesa",
+    "source_type": "topic",
+    "target_id": "topic_comercio_cartagines",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_comercio_cartagines",
+    "source_type": "topic",
+    "target_id": "topic_religion_cartaginesa",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_religion_cartaginesa",
+    "source_type": "topic",
+    "target_id": "topic_expansion_cartaginesa",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_expansion_cartaginesa",
+    "source_type": "topic",
+    "target_id": "topic_sicilia_cartaginesa",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_sicilia_cartaginesa",
+    "source_type": "topic",
+    "target_id": "topic_iberia_cartaginesa",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_iberia_cartaginesa",
+    "source_type": "topic",
+    "target_id": "topic_guerras_punicas_contexto",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_guerras_punicas_contexto",
+    "source_type": "topic",
+    "target_id": "topic_tartessos_final",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

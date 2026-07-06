@@ -2210,5 +2210,150 @@
     "related_episodes": [
       "ep_guerras_medicas_persia_grecia"
     ]
+  },
+  {
+    "id": "place_tunez",
+    "name": "Túnez / África púnica",
+    "type": "region",
+    "modern_location": "Túnez",
+    "summary": "Núcleo territorial norteafricano de Cartago.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_cartago",
+      "topic_expansion_cartaginesa"
+    ],
+    "related_people": [
+      "person_dido_elissa"
+    ],
+    "related_episodes": [
+      "ep_histocast_cartago"
+    ]
+  },
+  {
+    "id": "place_sicilia",
+    "name": "Sicilia",
+    "type": "island_region",
+    "modern_location": "Italia",
+    "summary": "Isla estratégica para Cartago y escenario de conflictos con griegos y Roma.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_sicilia_cartaginesa",
+      "topic_guerras_punicas_contexto"
+    ],
+    "related_people": [
+      "person_hamilcar_barca"
+    ],
+    "related_episodes": [
+      "ep_cartago_sicilia"
+    ]
+  },
+  {
+    "id": "place_cerdena",
+    "name": "Cerdeña",
+    "type": "island_region",
+    "modern_location": "Italia",
+    "summary": "Isla mediterránea bajo fuerte influencia y control cartaginés.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_cerdena_cartaginesa",
+      "topic_expansion_cartaginesa"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_cartago_comercio_mediterraneo"
+    ]
+  },
+  {
+    "id": "place_ebusim",
+    "name": "Ebusim / Ibiza",
+    "type": "island_site",
+    "modern_location": "Ibiza, España",
+    "summary": "Enclave fenicio-púnico de las Baleares vinculado a redes comerciales cartaginesas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_expansion_cartaginesa",
+      "topic_punicos"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_cartago_comercio_mediterraneo"
+    ]
+  },
+  {
+    "id": "place_iberia_cartaginesa",
+    "name": "Iberia cartaginesa",
+    "type": "region",
+    "modern_location": "Sur y sureste de la península ibérica",
+    "summary": "Área de expansión cartaginesa en Iberia, especialmente bajo los Bárquidas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_iberia_cartaginesa",
+      "topic_barquidas"
+    ],
+    "related_people": [
+      "person_hamilcar_barca",
+      "person_asdrubal_bello",
+      "person_anibal_barca"
+    ],
+    "related_episodes": [
+      "ep_cartago_iberia_barquidas"
+    ]
+  },
+  {
+    "id": "place_cartagena",
+    "name": "Qart Hadasht / Cartagena",
+    "type": "city",
+    "modern_location": "Cartagena, España",
+    "summary": "Ciudad cartaginesa de Iberia fundada por Asdrúbal el Bello según la tradición.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_qart_hadasht",
+      "topic_iberia_cartaginesa"
+    ],
+    "related_people": [
+      "person_asdrubal_bello",
+      "person_anibal_barca"
+    ],
+    "related_episodes": [
+      "ep_cartago_iberia_barquidas"
+    ]
+  },
+  {
+    "id": "place_atlantico",
+    "name": "Atlántico explorado por Cartago",
+    "type": "maritime_region",
+    "modern_location": "Atlántico oriental",
+    "summary": "Ámbito de exploración y navegación atribuido a expediciones cartaginesas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_hannon_navegante",
+      "topic_himilcon",
+      "topic_comercio_cartagines"
+    ],
+    "related_people": [
+      "person_hannon_navegante",
+      "person_himilcon"
+    ],
+    "related_episodes": [
+      "ep_hannon_navegante"
+    ]
+  },
+  {
+    "id": "place_roma_republicana",
+    "name": "Roma republicana",
+    "type": "city_state",
+    "modern_location": "Roma, Italia",
+    "summary": "Potencia italiana que entró en conflicto con Cartago por el dominio del Mediterráneo occidental.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_cartago_y_roma",
+      "topic_guerras_punicas_contexto"
+    ],
+    "related_people": [
+      "person_anibal_barca"
+    ],
+    "related_episodes": [
+      "ep_contexto_guerras_punicas"
+    ]
   }
 ]

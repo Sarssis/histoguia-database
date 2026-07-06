@@ -332,6 +332,15 @@ const DATA = {
       "date_range": "c. 550-330 a.C.",
       "summary": "Ciro el Grande, Cambises II, Darío I, Jerjes, el Imperio aqueménida, satrapías, Camino Real, Persépolis, zoroastrismo, guerras médicas y conquista de Alejandro.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0211",
+      "phase_id": "phase_02",
+      "order": 11,
+      "name": "Cartago",
+      "date_range": "c. 814-146 a.C.",
+      "summary": "De fundación fenicia a potencia mediterránea: Dido/Elissa, comercio, aristocracia, religión, expansión norteafricana, Sicilia, Cerdeña, Iberia, Barca y contexto previo a las Guerras Púnicas.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -3826,6 +3835,267 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Modelo imperial de integración de pueblos, lenguas, elites locales y redes administrativas."
+    },
+    {
+      "id": "topic_cartago",
+      "name": "Cartago",
+      "type": "city_state_empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad fenicia del norte de África que llegó a convertirse en una de las grandes potencias mediterráneas."
+    },
+    {
+      "id": "topic_cartagineses",
+      "name": "Cartagineses",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Población púnica de Cartago y sus territorios mediterráneos."
+    },
+    {
+      "id": "topic_punicos",
+      "name": "Púnicos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Comunidades fenicio-occidentales del Mediterráneo central y occidental."
+    },
+    {
+      "id": "topic_fundacion_cartago",
+      "name": "Fundación de Cartago",
+      "type": "foundation",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tradición fundacional de Cartago vinculada a Tiro y a Elissa/Dido."
+    },
+    {
+      "id": "topic_dido_elissa",
+      "name": "Dido / Elissa",
+      "type": "legendary_figure",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Figura legendaria asociada a la fundación de Cartago."
+    },
+    {
+      "id": "topic_potencia_cartaginesa",
+      "name": "Potencia cartaginesa",
+      "type": "political_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Proceso por el que Cartago pasa de colonia fenicia a potencia marítima independiente."
+    },
+    {
+      "id": "topic_gobierno_cartagines",
+      "name": "Gobierno cartaginés",
+      "type": "political_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema político cartaginés con sufetes, consejo, aristocracia y asamblea."
+    },
+    {
+      "id": "topic_sufetes",
+      "name": "Sufetes",
+      "type": "office",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Magistrados superiores de Cartago, comparables parcialmente a jueces o cónsules."
+    },
+    {
+      "id": "topic_comercio_cartagines",
+      "name": "Comercio cartaginés",
+      "type": "economy",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Redes comerciales púnicas en el Mediterráneo y el Atlántico."
+    },
+    {
+      "id": "topic_armada_cartaginesa",
+      "name": "Armada cartaginesa",
+      "type": "navy",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Poder naval cartaginés, clave para su expansión y defensa."
+    },
+    {
+      "id": "topic_ejercito_cartagines",
+      "name": "Ejército cartaginés",
+      "type": "military_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fuerzas militares de Cartago, con ciudadanos, aliados, libios, númidas, íberos y mercenarios."
+    },
+    {
+      "id": "topic_mercenarios_cartagineses",
+      "name": "Mercenarios cartagineses",
+      "type": "military_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tropas contratadas por Cartago procedentes de distintos territorios mediterráneos."
+    },
+    {
+      "id": "topic_religion_cartaginesa",
+      "name": "Religión cartaginesa",
+      "type": "religion",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema religioso púnico con divinidades como Baal Hammon y Tanit."
+    },
+    {
+      "id": "topic_baal_hammon",
+      "name": "Baal Hammon",
+      "type": "deity",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Divinidad principal del panteón cartaginés."
+    },
+    {
+      "id": "topic_tanit",
+      "name": "Tanit",
+      "type": "deity",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Divinidad púnica de gran importancia en Cartago."
+    },
+    {
+      "id": "topic_tophet_cartago",
+      "name": "Tophet de Cartago",
+      "type": "archaeological_feature",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Área ritual y funeraria vinculada al debate sobre sacrificios infantiles y prácticas religiosas púnicas."
+    },
+    {
+      "id": "topic_expansion_cartaginesa",
+      "name": "Expansión cartaginesa",
+      "type": "colonization_empire",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Expansión de Cartago por el norte de África, Sicilia, Cerdeña, Baleares e Iberia."
+    },
+    {
+      "id": "topic_sicilia_cartaginesa",
+      "name": "Sicilia cartaginesa",
+      "type": "region_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Presencia y conflicto cartaginés en Sicilia frente a griegos y, más tarde, romanos."
+    },
+    {
+      "id": "topic_cerdena_cartaginesa",
+      "name": "Cerdeña cartaginesa",
+      "type": "region_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Control e influencia cartaginesa en Cerdeña."
+    },
+    {
+      "id": "topic_iberia_cartaginesa",
+      "name": "Iberia cartaginesa",
+      "type": "region_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Expansión cartaginesa en la península ibérica, especialmente tras la Primera Guerra Púnica."
+    },
+    {
+      "id": "topic_hannon_navegante",
+      "name": "Hannón el Navegante",
+      "type": "explorer",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Figura cartaginesa asociada a exploraciones atlánticas."
+    },
+    {
+      "id": "topic_himilcon",
+      "name": "Himilcón",
+      "type": "explorer",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Navegante cartaginés asociado a exploraciones hacia el Atlántico norte según la tradición."
+    },
+    {
+      "id": "topic_barquidas",
+      "name": "Bárquidas",
+      "type": "family_dynasty",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Familia cartaginesa protagonista de la expansión en Iberia y de la guerra contra Roma."
+    },
+    {
+      "id": "topic_hamilcar_barca",
+      "name": "Amílcar Barca",
+      "type": "general",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "General cartaginés y padre de Aníbal, impulsor de la expansión en Iberia."
+    },
+    {
+      "id": "topic_asdrubal_bello",
+      "name": "Asdrúbal el Bello",
+      "type": "general",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Líder cartaginés en Iberia y fundador de Qart Hadasht."
+    },
+    {
+      "id": "topic_anibal_barca",
+      "name": "Aníbal Barca",
+      "type": "general",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "General cartaginés célebre por la Segunda Guerra Púnica."
+    },
+    {
+      "id": "topic_guerras_punicas_contexto",
+      "name": "Contexto de las Guerras Púnicas",
+      "type": "historical_context",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rivalidad entre Cartago y Roma por el dominio del Mediterráneo occidental."
+    },
+    {
+      "id": "topic_qart_hadasht",
+      "name": "Qart Hadasht / Cartagena",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fundación cartaginesa en Iberia, actual Cartagena."
+    },
+    {
+      "id": "topic_cartago_y_roma",
+      "name": "Cartago y Roma",
+      "type": "conflict_relation",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Relación de competencia entre Cartago y Roma que culmina en las Guerras Púnicas."
     }
   ],
   "episodes": [
@@ -13831,6 +14101,573 @@ const DATA = {
         "persia",
         "persépolis"
       ]
+    },
+    {
+      "id": "ep_histocast_cartago",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Cartago",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0211",
+      "main_topic_id": "topic_cartago",
+      "topic_ids": [
+        "topic_cartago",
+        "topic_cartagineses",
+        "topic_potencia_cartaginesa",
+        "topic_gobierno_cartagines",
+        "topic_expansion_cartaginesa"
+      ],
+      "people_ids": [
+        "person_dido_elissa"
+      ],
+      "place_ids": [
+        "place_cartago",
+        "place_tunez"
+      ],
+      "civilization_ids": [
+        "civ_carthage",
+        "civ_punic_world"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/histocast-63-cartago-audios-mp3_rf_3347291_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3347291",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal sobre Cartago como potencia púnica: fundación, sociedad, comercio, instituciones, expansión y conflicto mediterráneo.",
+      "learn": [
+        "Comprender la evolución de Cartago desde fundación fenicia a potencia independiente.",
+        "Situar Cartago en el Mediterráneo central.",
+        "Relacionar comercio, armada e instituciones.",
+        "Preparar el contexto de las Guerras Púnicas."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cartago",
+        "púnicos",
+        "fenicios",
+        "mediterráneo"
+      ]
+    },
+    {
+      "id": "ep_cartago_fundacion",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "La fundación de Cartago y la leyenda de Dido",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0211",
+      "main_topic_id": "topic_fundacion_cartago",
+      "topic_ids": [
+        "topic_fundacion_cartago",
+        "topic_dido_elissa",
+        "topic_tiro",
+        "topic_colonizacion_fenicia"
+      ],
+      "people_ids": [
+        "person_dido_elissa"
+      ],
+      "place_ids": [
+        "place_cartago",
+        "place_tiro"
+      ],
+      "civilization_ids": [
+        "civ_carthage",
+        "civ_phoenicia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/fundacion-cartago-leyenda-dido-audios-mp3_rf_64106433_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64106433",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio sobre la tradición fundacional de Cartago, su vínculo con Tiro y la figura de Elissa/Dido.",
+      "learn": [
+        "Conocer la fundación legendaria de Cartago.",
+        "Relacionar Cartago con Tiro y la expansión fenicia.",
+        "Distinguir mito fundacional y desarrollo histórico.",
+        "Situar Dido/Elissa en la memoria clásica."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cartago",
+        "dido",
+        "elissa",
+        "tiro"
+      ]
+    },
+    {
+      "id": "ep_cartago_comercio_mediterraneo",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "Cartago, comercio y dominio del Mediterráneo occidental",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0211",
+      "main_topic_id": "topic_comercio_cartagines",
+      "topic_ids": [
+        "topic_comercio_cartagines",
+        "topic_armada_cartaginesa",
+        "topic_expansion_cartaginesa",
+        "topic_cerdena_cartaginesa",
+        "topic_hannon_navegante",
+        "topic_himilcon"
+      ],
+      "people_ids": [
+        "person_hannon_navegante",
+        "person_himilcon"
+      ],
+      "place_ids": [
+        "place_cartago",
+        "place_cerdena",
+        "place_ebusim",
+        "place_atlantico"
+      ],
+      "civilization_ids": [
+        "civ_carthage",
+        "civ_punic_world"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/cartago-comercio-dominio-del-mediterraneo-occidental-audios-mp3_rf_58413110_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "58413110",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre las redes comerciales cartaginesas, su armada, Cerdeña, Baleares, rutas atlánticas y recursos estratégicos.",
+      "learn": [
+        "Entender el comercio como base del poder cartaginés.",
+        "Relacionar armada, rutas y colonias.",
+        "Situar Cerdeña, Baleares e Iberia en las redes púnicas.",
+        "Conectar con Hannón e Himilcón."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cartago",
+        "comercio",
+        "armada",
+        "mediterráneo occidental"
+      ]
+    },
+    {
+      "id": "ep_religion_cartaginesa",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "Religión cartaginesa: Baal Hammon, Tanit y el tophet",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0211",
+      "main_topic_id": "topic_religion_cartaginesa",
+      "topic_ids": [
+        "topic_religion_cartaginesa",
+        "topic_baal_hammon",
+        "topic_tanit",
+        "topic_tophet_cartago"
+      ],
+      "people_ids": [
+        "person_baal_hammon",
+        "person_tanit"
+      ],
+      "place_ids": [
+        "place_cartago"
+      ],
+      "civilization_ids": [
+        "civ_carthage",
+        "civ_punic_world"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/religion-cartaginesa-baal-hammon-tanit-tophet-audios-mp3_rf_3605121_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3605121",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula sobre la religión púnica, Baal Hammon, Tanit y el difícil debate arqueológico e historiográfico sobre el tophet.",
+      "learn": [
+        "Identificar a Baal Hammon y Tanit.",
+        "Comprender el tophet como problema arqueológico.",
+        "Distinguir fuentes hostiles y evidencia material.",
+        "Relacionar religión y sociedad cartaginesa."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "religión cartaginesa",
+        "baal hammon",
+        "tanit",
+        "tophet"
+      ]
+    },
+    {
+      "id": "ep_cartago_sicilia",
+      "podcast_id": "pod_antena_historia",
+      "podcast_name": "Antena Historia",
+      "episode_code": "",
+      "title": "Cartago y Sicilia: griegos, púnicos y el Mediterráneo central",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0211",
+      "main_topic_id": "topic_sicilia_cartaginesa",
+      "topic_ids": [
+        "topic_sicilia_cartaginesa",
+        "topic_expansion_cartaginesa",
+        "topic_guerras_punicas_contexto"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_sicilia",
+        "place_cartago"
+      ],
+      "civilization_ids": [
+        "civ_carthage"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/cartago-sicilia-griegos-punicos-mediterraneo-central-audios-mp3_rf_4908455_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4908455",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio centrado en Sicilia como espacio de choque entre Cartago, ciudades griegas y más tarde Roma.",
+      "learn": [
+        "Situar Sicilia como frontera estratégica.",
+        "Relacionar griegos y cartagineses.",
+        "Entender la importancia del Mediterráneo central.",
+        "Preparar el contexto de la Primera Guerra Púnica."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cartago",
+        "sicilia",
+        "griegos",
+        "púnicos"
+      ]
+    },
+    {
+      "id": "ep_cartago_iberia_barquidas",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "",
+      "title": "Cartago en Iberia y los Bárquidas",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0211",
+      "main_topic_id": "topic_iberia_cartaginesa",
+      "topic_ids": [
+        "topic_iberia_cartaginesa",
+        "topic_barquidas",
+        "topic_hamilcar_barca",
+        "topic_asdrubal_bello",
+        "topic_qart_hadasht",
+        "topic_anibal_barca"
+      ],
+      "people_ids": [
+        "person_hamilcar_barca",
+        "person_asdrubal_bello",
+        "person_anibal_barca"
+      ],
+      "place_ids": [
+        "place_iberia_cartaginesa",
+        "place_cartagena",
+        "place_gadir"
+      ],
+      "civilization_ids": [
+        "civ_carthage",
+        "civ_punic_world"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v391-127774-cartago-iberia-barquidas-audios-mp3_rf_131578090_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "131578090",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio sobre la expansión cartaginesa en Iberia bajo Amílcar, Asdrúbal y Aníbal, con Qart Hadasht como pieza central.",
+      "learn": [
+        "Comprender la expansión cartaginesa en Iberia.",
+        "Situar a Amílcar, Asdrúbal y Aníbal.",
+        "Relacionar Qart Hadasht con el poder bárquida.",
+        "Preparar la Segunda Guerra Púnica."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cartago",
+        "iberia",
+        "bárquidas",
+        "qart hadasht"
+      ]
+    },
+    {
+      "id": "ep_contexto_guerras_punicas",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Roma y Cartago: antes de las Guerras Púnicas",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0211",
+      "main_topic_id": "topic_guerras_punicas_contexto",
+      "topic_ids": [
+        "topic_guerras_punicas_contexto",
+        "topic_cartago_y_roma",
+        "topic_anibal_barca",
+        "topic_sicilia_cartaginesa"
+      ],
+      "people_ids": [
+        "person_anibal_barca"
+      ],
+      "place_ids": [
+        "place_cartago",
+        "place_roma_republicana",
+        "place_sicilia"
+      ],
+      "civilization_ids": [
+        "civ_carthage"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/roma-cartago-antes-guerras-punicas-audios-mp3_rf_10839741_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "10839741",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de cierre para conectar el bloque cartaginés con la rivalidad con Roma y el inicio del mundo clásico republicano.",
+      "learn": [
+        "Comprender el choque de intereses entre Roma y Cartago.",
+        "Relacionar Sicilia, Iberia y el Mediterráneo occidental.",
+        "Situar a Aníbal como consecuencia de un proceso anterior.",
+        "Preparar la transición hacia el mundo romano."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cartago",
+        "roma",
+        "guerras púnicas",
+        "aníbal"
+      ]
     }
   ],
   "civilizations": [
@@ -14326,6 +15163,57 @@ const DATA = {
         "person_ciro_grande",
         "person_dario_i",
         "person_jerjes_i"
+      ]
+    },
+    {
+      "id": "civ_carthage",
+      "name": "Cartago",
+      "type": "city_state_empire",
+      "date_range": "c. 814-146 a.C.",
+      "region": "Norte de África y Mediterráneo occidental",
+      "summary": "Potencia púnica surgida de la expansión fenicia, con hegemonía comercial y naval en el Mediterráneo central y occidental.",
+      "related_topics": [
+        "topic_cartago",
+        "topic_cartagineses",
+        "topic_potencia_cartaginesa",
+        "topic_expansion_cartaginesa",
+        "topic_religion_cartaginesa"
+      ],
+      "related_places": [
+        "place_cartago",
+        "place_sicilia",
+        "place_cerdena",
+        "place_cartagena"
+      ],
+      "related_people": [
+        "person_dido_elissa",
+        "person_hamilcar_barca",
+        "person_anibal_barca"
+      ]
+    },
+    {
+      "id": "civ_punic_world",
+      "name": "Mundo púnico",
+      "type": "cultural_network",
+      "date_range": "I milenio a.C.",
+      "region": "Mediterráneo central y occidental",
+      "summary": "Red cultural fenicio-occidental vinculada a Cartago y a comunidades púnicas en África, Sicilia, Cerdeña, Baleares e Iberia.",
+      "related_topics": [
+        "topic_punicos",
+        "topic_comercio_cartagines",
+        "topic_religion_cartaginesa",
+        "topic_iberia_cartaginesa"
+      ],
+      "related_places": [
+        "place_cartago",
+        "place_gadir",
+        "place_malaka",
+        "place_ebusim",
+        "place_cartagena"
+      ],
+      "related_people": [
+        "person_hannon_navegante",
+        "person_himilcon"
       ]
     }
   ]

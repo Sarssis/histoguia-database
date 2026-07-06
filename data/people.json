@@ -2229,5 +2229,175 @@
     "related_episodes": [
       "ep_alejandro_conquista_persia"
     ]
+  },
+  {
+    "id": "person_dido_elissa",
+    "name": "Dido / Elissa",
+    "type": "legendary_founder",
+    "category": "punic_legend",
+    "scientific_name": "",
+    "dates": "Tradición legendaria",
+    "period": "Fundación de Cartago",
+    "summary": "Figura legendaria vinculada a la fundación de Cartago desde Tiro.",
+    "related_topics": [
+      "topic_dido_elissa",
+      "topic_fundacion_cartago"
+    ],
+    "related_places": [
+      "place_cartago",
+      "place_tiro"
+    ],
+    "related_episodes": [
+      "ep_cartago_fundacion"
+    ]
+  },
+  {
+    "id": "person_hannon_navegante",
+    "name": "Hannón el Navegante",
+    "type": "explorer",
+    "category": "carthaginian_explorer",
+    "scientific_name": "",
+    "dates": "Tradición antigua",
+    "period": "Cartago arcaica/clásica",
+    "summary": "Navegante cartaginés asociado a expediciones atlánticas y al Periplo de Hannón.",
+    "related_topics": [
+      "topic_hannon_navegante",
+      "topic_comercio_cartagines"
+    ],
+    "related_places": [
+      "place_cartago",
+      "place_atlantico"
+    ],
+    "related_episodes": [
+      "ep_hannon_navegante"
+    ]
+  },
+  {
+    "id": "person_himilcon",
+    "name": "Himilcón",
+    "type": "explorer",
+    "category": "carthaginian_explorer",
+    "scientific_name": "",
+    "dates": "Tradición antigua",
+    "period": "Cartago clásica",
+    "summary": "Navegante cartaginés asociado a exploraciones hacia el Atlántico norte.",
+    "related_topics": [
+      "topic_himilcon",
+      "topic_comercio_cartagines"
+    ],
+    "related_places": [
+      "place_cartago",
+      "place_atlantico"
+    ],
+    "related_episodes": [
+      "ep_cartago_comercio_mediterraneo"
+    ]
+  },
+  {
+    "id": "person_hamilcar_barca",
+    "name": "Amílcar Barca",
+    "type": "general",
+    "category": "carthaginian_general",
+    "scientific_name": "",
+    "dates": "c. 275-228 a.C.",
+    "period": "Cartago bárquida",
+    "summary": "General cartaginés, padre de Aníbal e impulsor de la expansión cartaginesa en Iberia.",
+    "related_topics": [
+      "topic_hamilcar_barca",
+      "topic_barquidas",
+      "topic_iberia_cartaginesa"
+    ],
+    "related_places": [
+      "place_cartagena",
+      "place_iberia_cartaginesa"
+    ],
+    "related_episodes": [
+      "ep_cartago_iberia_barquidas"
+    ]
+  },
+  {
+    "id": "person_asdrubal_bello",
+    "name": "Asdrúbal el Bello",
+    "type": "general",
+    "category": "carthaginian_general",
+    "scientific_name": "",
+    "dates": "m. 221 a.C.",
+    "period": "Cartago bárquida",
+    "summary": "Dirigente cartaginés en Iberia, fundador de Qart Hadasht según la tradición.",
+    "related_topics": [
+      "topic_asdrubal_bello",
+      "topic_qart_hadasht",
+      "topic_iberia_cartaginesa"
+    ],
+    "related_places": [
+      "place_cartagena"
+    ],
+    "related_episodes": [
+      "ep_cartago_iberia_barquidas"
+    ]
+  },
+  {
+    "id": "person_anibal_barca",
+    "name": "Aníbal Barca",
+    "type": "general",
+    "category": "carthaginian_general",
+    "scientific_name": "",
+    "dates": "247-183 a.C.",
+    "period": "Guerras Púnicas",
+    "summary": "General cartaginés protagonista de la Segunda Guerra Púnica.",
+    "related_topics": [
+      "topic_anibal_barca",
+      "topic_guerras_punicas_contexto",
+      "topic_cartago_y_roma"
+    ],
+    "related_places": [
+      "place_cartago",
+      "place_cartagena"
+    ],
+    "related_episodes": [
+      "ep_contexto_guerras_punicas"
+    ]
+  },
+  {
+    "id": "person_baal_hammon",
+    "name": "Baal Hammon",
+    "type": "deity",
+    "category": "punic_deity",
+    "scientific_name": "",
+    "dates": "Religión púnica",
+    "period": "Cartago",
+    "summary": "Divinidad principal del panteón cartaginés.",
+    "related_topics": [
+      "topic_baal_hammon",
+      "topic_religion_cartaginesa",
+      "topic_tophet_cartago"
+    ],
+    "related_places": [
+      "place_cartago"
+    ],
+    "related_episodes": [
+      "ep_religion_cartaginesa"
+    ]
+  },
+  {
+    "id": "person_tanit",
+    "name": "Tanit",
+    "type": "deity",
+    "category": "punic_deity",
+    "scientific_name": "",
+    "dates": "Religión púnica",
+    "period": "Cartago",
+    "summary": "Importante divinidad púnica vinculada a Cartago y al mundo fenicio-occidental.",
+    "related_topics": [
+      "topic_tanit",
+      "topic_religion_cartaginesa",
+      "topic_tophet_cartago"
+    ],
+    "related_places": [
+      "place_cartago"
+    ],
+    "related_episodes": [
+      "ep_religion_cartaginesa"
+    ]
   }
 ]
