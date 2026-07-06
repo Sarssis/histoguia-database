@@ -314,6 +314,15 @@ const DATA = {
       "date_range": "c. 1200-600 a.C.",
       "summary": "Fenicia, Tiro, Sidón, Biblos, navegación, comercio, alfabeto, púrpura, colonización mediterránea, Gadir y fundación de Cartago.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0209",
+      "phase_id": "phase_02",
+      "order": 9,
+      "name": "Hebreos e Israel antiguo",
+      "date_range": "c. 1200-586 a.C.",
+      "summary": "Orígenes israelitas, Canaán, monarquía unida, Saúl, David, Salomón, Jerusalén, Primer Templo, división de Israel y Judá, profetas, Asiria, Babilonia y exilio.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -3385,6 +3394,213 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Pueblos semíticos del Próximo Oriente y Levante durante la Edad del Bronce y del Hierro."
+    },
+    {
+      "id": "topic_hebreos",
+      "name": "Hebreos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblo semítico asociado a la tradición bíblica y al antiguo Israel."
+    },
+    {
+      "id": "topic_israel_antiguo",
+      "name": "Israel antiguo",
+      "type": "kingdom_period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Historia del antiguo Israel desde sus orígenes cananeos hasta la monarquía y el exilio."
+    },
+    {
+      "id": "topic_canaan",
+      "name": "Canaán",
+      "type": "region",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Región del Levante meridional donde se desarrollan ciudades, reinos y tradiciones israelitas."
+    },
+    {
+      "id": "topic_israelitas",
+      "name": "Israelitas",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Poblaciones del Levante meridional asociadas al surgimiento de Israel."
+    },
+    {
+      "id": "topic_jueces_israel",
+      "name": "Periodo de los Jueces",
+      "type": "period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fase previa a la monarquía en la tradición bíblica israelita."
+    },
+    {
+      "id": "topic_monarq_unida_israel",
+      "name": "Monarquía unida de Israel",
+      "type": "kingdom_period",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tradición sobre el reino de Saúl, David y Salomón."
+    },
+    {
+      "id": "topic_saul",
+      "name": "Saúl",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Primer rey de Israel según la tradición bíblica."
+    },
+    {
+      "id": "topic_david",
+      "name": "David",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey de Israel asociado a Jerusalén y a la consolidación del poder monárquico."
+    },
+    {
+      "id": "topic_salomon",
+      "name": "Salomón",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey asociado al Primer Templo, sabiduría y esplendor de Jerusalén."
+    },
+    {
+      "id": "topic_jerusalen_antigua",
+      "name": "Jerusalén antigua",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad central en la historia de Israel, Judá y el judaísmo."
+    },
+    {
+      "id": "topic_primer_templo",
+      "name": "Primer Templo de Jerusalén",
+      "type": "temple",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Templo atribuido a Salomón y núcleo religioso de Judá."
+    },
+    {
+      "id": "topic_reino_israel",
+      "name": "Reino de Israel",
+      "type": "kingdom",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Reino del norte tras la división de la monarquía."
+    },
+    {
+      "id": "topic_reino_juda",
+      "name": "Reino de Judá",
+      "type": "kingdom",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Reino del sur, centrado en Jerusalén."
+    },
+    {
+      "id": "topic_samaria",
+      "name": "Samaria",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Capital del reino del norte de Israel."
+    },
+    {
+      "id": "topic_profetas_israel",
+      "name": "Profetas de Israel",
+      "type": "religion",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tradición profética del antiguo Israel y Judá."
+    },
+    {
+      "id": "topic_yahvismo",
+      "name": "Yahvismo antiguo",
+      "type": "religion",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Culto a Yahvé en el contexto del antiguo Israel y Judá."
+    },
+    {
+      "id": "topic_biblia_hebraica",
+      "name": "Biblia hebrea",
+      "type": "text_corpus",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Corpus textual fundamental para la historia, religión y memoria de Israel antiguo."
+    },
+    {
+      "id": "topic_arca_alianza",
+      "name": "Arca de la Alianza",
+      "type": "religious_object",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Objeto sagrado central en la tradición bíblica israelita."
+    },
+    {
+      "id": "topic_exilio_babilonico",
+      "name": "Exilio babilónico",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Deportación de élites de Judá a Babilonia tras la caída de Jerusalén."
+    },
+    {
+      "id": "topic_caida_samaria",
+      "name": "Caída de Samaria",
+      "type": "historical_event",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conquista asiria del reino de Israel en el siglo VIII a.C."
+    },
+    {
+      "id": "topic_caida_jerusalen_586",
+      "name": "Caída de Jerusalén en 586 a.C.",
+      "type": "historical_event",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conquista babilónica de Jerusalén y destrucción del Primer Templo."
+    },
+    {
+      "id": "topic_filisteos",
+      "name": "Filisteos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblo del Levante meridional vinculado a las tradiciones sobre Saúl y David."
+    },
+    {
+      "id": "topic_arqueologia_biblica",
+      "name": "Arqueología bíblica",
+      "type": "research_field",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Campo de estudio sobre el Levante antiguo y los contextos históricos de los textos bíblicos."
     }
   ],
   "episodes": [
@@ -12338,6 +12554,569 @@ const DATA = {
         "tiro",
         "fenicios"
       ]
+    },
+    {
+      "id": "ep_origenes_hebreos_israelitas",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Los orígenes de Israel y los hebreos",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0209",
+      "main_topic_id": "topic_hebreos",
+      "topic_ids": [
+        "topic_hebreos",
+        "topic_israelitas",
+        "topic_canaan",
+        "topic_yahvismo",
+        "topic_arqueologia_biblica"
+      ],
+      "people_ids": [
+        "person_moises"
+      ],
+      "place_ids": [
+        "place_canaan",
+        "place_israel_antiguo"
+      ],
+      "civilization_ids": [
+        "civ_ancient_israel"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/origenes-israel-hebreos-audios-mp3_rf_9991217_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "9991217",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal para introducir los orígenes israelitas en Canaán, el contexto cananeo, la tradición bíblica y la mirada arqueológica.",
+      "learn": [
+        "Situar a los hebreos dentro del Levante antiguo.",
+        "Distinguir tradición bíblica y reconstrucción histórica.",
+        "Relacionar Canaán, Israelitas y Yahvismo.",
+        "Preparar la monarquía unida."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "hebreos",
+        "israel antiguo",
+        "canaán",
+        "arqueología bíblica"
+      ]
+    },
+    {
+      "id": "ep_saul_david_salomon",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "Saúl, David y Salomón: los reyes de Israel",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0209",
+      "main_topic_id": "topic_monarq_unida_israel",
+      "topic_ids": [
+        "topic_monarq_unida_israel",
+        "topic_saul",
+        "topic_david",
+        "topic_salomon",
+        "topic_filisteos"
+      ],
+      "people_ids": [
+        "person_saul",
+        "person_david",
+        "person_salomon"
+      ],
+      "place_ids": [
+        "place_israel_antiguo",
+        "place_jerusalen",
+        "place_filistea"
+      ],
+      "civilization_ids": [
+        "civ_ancient_israel"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/saul-david-salomon-reyes-israel-audios-mp3_rf_58115512_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "58115512",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre la monarquía unida y sus tres figuras centrales: Saúl, David y Salomón.",
+      "learn": [
+        "Conocer la tradición de la monarquía unida.",
+        "Identificar a Saúl, David y Salomón.",
+        "Relacionar realeza, guerra y templo.",
+        "Preparar la división de Israel y Judá."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "saúl",
+        "david",
+        "salomón",
+        "monarquía unida"
+      ]
+    },
+    {
+      "id": "ep_david_rey_jerusalen",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "David y Jerusalén",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0209",
+      "main_topic_id": "topic_david",
+      "topic_ids": [
+        "topic_david",
+        "topic_jerusalen_antigua",
+        "topic_reino_juda"
+      ],
+      "people_ids": [
+        "person_david"
+      ],
+      "place_ids": [
+        "place_jerusalen",
+        "place_juda"
+      ],
+      "civilization_ids": [
+        "civ_ancient_israel"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/david-jerusalen-audios-mp3_rf_64105183_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64105183",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio centrado en David, Jerusalén y la construcción de la memoria política davídica.",
+      "learn": [
+        "Comprender el papel de David en la tradición israelita.",
+        "Relacionar Jerusalén con el poder monárquico.",
+        "Diferenciar memoria bíblica e historia.",
+        "Conectar David con Judá y el mesianismo posterior."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "david",
+        "jerusalén",
+        "israel antiguo",
+        "judá"
+      ]
+    },
+    {
+      "id": "ep_templo_salomon",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "Salomón y el Primer Templo de Jerusalén",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0209",
+      "main_topic_id": "topic_primer_templo",
+      "topic_ids": [
+        "topic_salomon",
+        "topic_primer_templo",
+        "topic_jerusalen_antigua",
+        "topic_yahvismo"
+      ],
+      "people_ids": [
+        "person_salomon"
+      ],
+      "place_ids": [
+        "place_jerusalen"
+      ],
+      "civilization_ids": [
+        "civ_ancient_israel",
+        "civ_judah"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/salomon-primer-templo-jerusalen-audios-mp3_rf_3604999_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3604999",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula sobre Salomón, Jerusalén y el Primer Templo como núcleo religioso y político de Judá.",
+      "learn": [
+        "Comprender el papel del Primer Templo.",
+        "Relacionar Salomón con Jerusalén.",
+        "Situar templo, monarquía y culto.",
+        "Preparar la división posterior del reino."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "salomón",
+        "primer templo",
+        "jerusalén",
+        "judá"
+      ]
+    },
+    {
+      "id": "ep_division_israel_juda",
+      "podcast_id": "pod_biblia_historica",
+      "podcast_name": "Biblia Histórica",
+      "episode_code": "",
+      "title": "La división de Israel y Judá",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0209",
+      "main_topic_id": "topic_reino_israel",
+      "topic_ids": [
+        "topic_reino_israel",
+        "topic_reino_juda",
+        "topic_samaria",
+        "topic_caida_samaria"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_samaria",
+        "place_jerusalen",
+        "place_juda"
+      ],
+      "civilization_ids": [
+        "civ_israel_northern_kingdom",
+        "civ_judah"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/division-israel-juda-audios-mp3_rf_71283940_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "71283940",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio sobre la separación entre el reino del norte, Israel, y el reino del sur, Judá, con Samaria y Jerusalén como centros.",
+      "learn": [
+        "Comprender la división política tras la monarquía unida.",
+        "Distinguir Israel y Judá.",
+        "Situar Samaria y Jerusalén.",
+        "Preparar Asiria, Babilonia y el exilio."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "israel",
+        "judá",
+        "samaria",
+        "jerusalén"
+      ]
+    },
+    {
+      "id": "ep_profetas_israel",
+      "podcast_id": "pod_desaprendiendo_historia",
+      "podcast_name": "Desaprendiendo la Historia",
+      "episode_code": "",
+      "title": "Los profetas de Israel",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0209",
+      "main_topic_id": "topic_profetas_israel",
+      "topic_ids": [
+        "topic_profetas_israel",
+        "topic_yahvismo",
+        "topic_reino_juda",
+        "topic_biblia_hebraica"
+      ],
+      "people_ids": [
+        "person_isaias",
+        "person_jeremias"
+      ],
+      "place_ids": [
+        "place_jerusalen",
+        "place_juda"
+      ],
+      "civilization_ids": [
+        "civ_ancient_israel",
+        "civ_judah"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2025",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/profetas-israel-audios-mp3_rf_139882193_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "139882193",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de contexto religioso y social sobre los profetas, sus críticas políticas, su papel en Judá e Israel y su relación con la crisis histórica.",
+      "learn": [
+        "Entender la función de los profetas.",
+        "Relacionar profecía, política y crisis social.",
+        "Situar a Isaías y Jeremías.",
+        "Preparar la caída de Jerusalén y el exilio."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "profetas",
+        "israel",
+        "judá",
+        "isaías",
+        "jeremías"
+      ]
+    },
+    {
+      "id": "ep_caida_jerusalen_exilio",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "La caída de Jerusalén y el exilio de Babilonia",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0209",
+      "main_topic_id": "topic_exilio_babilonico",
+      "topic_ids": [
+        "topic_exilio_babilonico",
+        "topic_caida_jerusalen_586",
+        "topic_reino_juda",
+        "topic_babilonia"
+      ],
+      "people_ids": [
+        "person_jeremias",
+        "person_nabucodonosor_ii"
+      ],
+      "place_ids": [
+        "place_jerusalen",
+        "place_juda",
+        "place_babilonia"
+      ],
+      "civilization_ids": [
+        "civ_judah",
+        "civ_babilonia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/caida-jerusalen-exilio-babilonia-audios-mp3_rf_10839684_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "10839684",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de cierre sobre la destrucción de Jerusalén en 586 a.C., el final del reino de Judá y el exilio babilónico.",
+      "learn": [
+        "Comprender la caída de Jerusalén.",
+        "Relacionar Judá con Babilonia.",
+        "Situar a Nabucodonosor II.",
+        "Preparar Persia y el retorno posterior."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "caída de jerusalén",
+        "exilio babilónico",
+        "nabucodonosor",
+        "judá"
+      ]
     }
   ],
   "civilizations": [
@@ -12743,6 +13522,70 @@ const DATA = {
       "related_people": [
         "person_elissa_dido"
       ]
+    },
+    {
+      "id": "civ_ancient_israel",
+      "name": "Israel antiguo",
+      "type": "kingdoms",
+      "date_range": "c. 1200-586 a.C.",
+      "region": "Levante meridional",
+      "summary": "Conjunto de tradiciones, reinos y poblaciones israelitas de Canaán, Israel y Judá hasta el exilio babilónico.",
+      "related_topics": [
+        "topic_israel_antiguo",
+        "topic_hebreos",
+        "topic_monarq_unida_israel",
+        "topic_reino_israel",
+        "topic_reino_juda"
+      ],
+      "related_places": [
+        "place_canaan",
+        "place_jerusalen",
+        "place_samaria"
+      ],
+      "related_people": [
+        "person_saul",
+        "person_david",
+        "person_salomon"
+      ]
+    },
+    {
+      "id": "civ_judah",
+      "name": "Reino de Judá",
+      "type": "kingdom",
+      "date_range": "c. 930-586 a.C.",
+      "region": "Levante meridional",
+      "summary": "Reino del sur centrado en Jerusalén, clave para la historia del judaísmo y el exilio babilónico.",
+      "related_topics": [
+        "topic_reino_juda",
+        "topic_primer_templo",
+        "topic_exilio_babilonico"
+      ],
+      "related_places": [
+        "place_jerusalen",
+        "place_juda"
+      ],
+      "related_people": [
+        "person_salomon",
+        "person_nabucodonosor_ii"
+      ]
+    },
+    {
+      "id": "civ_israel_northern_kingdom",
+      "name": "Reino de Israel",
+      "type": "kingdom",
+      "date_range": "c. 930-722 a.C.",
+      "region": "Levante meridional",
+      "summary": "Reino del norte de Israel, con capital en Samaria, conquistado por Asiria.",
+      "related_topics": [
+        "topic_reino_israel",
+        "topic_samaria",
+        "topic_caida_samaria"
+      ],
+      "related_places": [
+        "place_samaria",
+        "place_israel_antiguo"
+      ],
+      "related_people": []
     }
   ]
 };

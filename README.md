@@ -1,24 +1,25 @@
-# Histoguía Database · phase_02 sub_0208 v4.8
+# Histoguía Database · phase_02 sub_0209 v4.9
 
 ## Subperiodo activado
 
-**8. Fenicios y expansión mediterránea**
+**9. Hebreos e Israel antiguo**
 
 ## Episodios añadidos
 
-- Fenicios
-- V389 Fenicios y expansión mediterránea
-- Los Fenicios
-- El alfabeto fenicio
-- Los fenicios en la península ibérica: Gadir y el comercio atlántico
-- La fundación fenicia de Cartago
+- Los orígenes de Israel y los hebreos
+- Saúl, David y Salomón: los reyes de Israel
+- David y Jerusalén
+- Salomón y el Primer Templo de Jerusalén
+- La división de Israel y Judá
+- Los profetas de Israel
+- La caída de Jerusalén y el exilio de Babilonia
 
 ## Totales
 
-- Episodios totales: 108
-- Episodios del subperiodo 0208: 6
-- Civilizaciones: 18
-- Temas: 341
-- Personas: 92
-- Lugares: 106
-- Relaciones: 2338
+- Episodios totales: 115
+- Episodios del subperiodo 0209: 7
+- Civilizaciones: 21
+- Temas: 364
+- Personas: 99
+- Lugares: 112
+- Relaciones: 2526

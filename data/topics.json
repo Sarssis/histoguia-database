@@ -3067,5 +3067,212 @@
       "phase_02"
     ],
     "summary": "Pueblos semíticos del Próximo Oriente y Levante durante la Edad del Bronce y del Hierro."
+  },
+  {
+    "id": "topic_hebreos",
+    "name": "Hebreos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo semítico asociado a la tradición bíblica y al antiguo Israel."
+  },
+  {
+    "id": "topic_israel_antiguo",
+    "name": "Israel antiguo",
+    "type": "kingdom_period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Historia del antiguo Israel desde sus orígenes cananeos hasta la monarquía y el exilio."
+  },
+  {
+    "id": "topic_canaan",
+    "name": "Canaán",
+    "type": "region",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Región del Levante meridional donde se desarrollan ciudades, reinos y tradiciones israelitas."
+  },
+  {
+    "id": "topic_israelitas",
+    "name": "Israelitas",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Poblaciones del Levante meridional asociadas al surgimiento de Israel."
+  },
+  {
+    "id": "topic_jueces_israel",
+    "name": "Periodo de los Jueces",
+    "type": "period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fase previa a la monarquía en la tradición bíblica israelita."
+  },
+  {
+    "id": "topic_monarq_unida_israel",
+    "name": "Monarquía unida de Israel",
+    "type": "kingdom_period",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tradición sobre el reino de Saúl, David y Salomón."
+  },
+  {
+    "id": "topic_saul",
+    "name": "Saúl",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Primer rey de Israel según la tradición bíblica."
+  },
+  {
+    "id": "topic_david",
+    "name": "David",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey de Israel asociado a Jerusalén y a la consolidación del poder monárquico."
+  },
+  {
+    "id": "topic_salomon",
+    "name": "Salomón",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey asociado al Primer Templo, sabiduría y esplendor de Jerusalén."
+  },
+  {
+    "id": "topic_jerusalen_antigua",
+    "name": "Jerusalén antigua",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad central en la historia de Israel, Judá y el judaísmo."
+  },
+  {
+    "id": "topic_primer_templo",
+    "name": "Primer Templo de Jerusalén",
+    "type": "temple",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Templo atribuido a Salomón y núcleo religioso de Judá."
+  },
+  {
+    "id": "topic_reino_israel",
+    "name": "Reino de Israel",
+    "type": "kingdom",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Reino del norte tras la división de la monarquía."
+  },
+  {
+    "id": "topic_reino_juda",
+    "name": "Reino de Judá",
+    "type": "kingdom",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Reino del sur, centrado en Jerusalén."
+  },
+  {
+    "id": "topic_samaria",
+    "name": "Samaria",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Capital del reino del norte de Israel."
+  },
+  {
+    "id": "topic_profetas_israel",
+    "name": "Profetas de Israel",
+    "type": "religion",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tradición profética del antiguo Israel y Judá."
+  },
+  {
+    "id": "topic_yahvismo",
+    "name": "Yahvismo antiguo",
+    "type": "religion",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Culto a Yahvé en el contexto del antiguo Israel y Judá."
+  },
+  {
+    "id": "topic_biblia_hebraica",
+    "name": "Biblia hebrea",
+    "type": "text_corpus",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Corpus textual fundamental para la historia, religión y memoria de Israel antiguo."
+  },
+  {
+    "id": "topic_arca_alianza",
+    "name": "Arca de la Alianza",
+    "type": "religious_object",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Objeto sagrado central en la tradición bíblica israelita."
+  },
+  {
+    "id": "topic_exilio_babilonico",
+    "name": "Exilio babilónico",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Deportación de élites de Judá a Babilonia tras la caída de Jerusalén."
+  },
+  {
+    "id": "topic_caida_samaria",
+    "name": "Caída de Samaria",
+    "type": "historical_event",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conquista asiria del reino de Israel en el siglo VIII a.C."
+  },
+  {
+    "id": "topic_caida_jerusalen_586",
+    "name": "Caída de Jerusalén en 586 a.C.",
+    "type": "historical_event",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conquista babilónica de Jerusalén y destrucción del Primer Templo."
+  },
+  {
+    "id": "topic_filisteos",
+    "name": "Filisteos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo del Levante meridional vinculado a las tradiciones sobre Saúl y David."
+  },
+  {
+    "id": "topic_arqueologia_biblica",
+    "name": "Arqueología bíblica",
+    "type": "research_field",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Campo de estudio sobre el Levante antiguo y los contextos históricos de los textos bíblicos."
   }
 ]

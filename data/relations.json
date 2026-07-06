@@ -16364,5 +16364,1321 @@
     "target_id": "topic_hebreos",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0209",
+    "source_type": "subperiod",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_hebreos",
+    "source_type": "topic",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_israelitas",
+    "source_type": "topic",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_canaan",
+    "source_type": "topic",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_yahvismo",
+    "source_type": "topic",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_arqueologia_biblica",
+    "source_type": "topic",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_moises",
+    "source_type": "person",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_canaan",
+    "source_type": "place",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0209",
+    "source_type": "subperiod",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_monarq_unida_israel",
+    "source_type": "topic",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_saul",
+    "source_type": "topic",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_david",
+    "source_type": "topic",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_salomon",
+    "source_type": "topic",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_filisteos",
+    "source_type": "topic",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_saul",
+    "source_type": "person",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_filistea",
+    "source_type": "place",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0209",
+    "source_type": "subperiod",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_david",
+    "source_type": "topic",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_jerusalen_antigua",
+    "source_type": "topic",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_juda",
+    "source_type": "topic",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0209",
+    "source_type": "subperiod",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_primer_templo",
+    "source_type": "topic",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_salomon",
+    "source_type": "topic",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_jerusalen_antigua",
+    "source_type": "topic",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_yahvismo",
+    "source_type": "topic",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0209",
+    "source_type": "subperiod",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reino_israel",
+    "source_type": "topic",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reino_juda",
+    "source_type": "topic",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_samaria",
+    "source_type": "topic",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_caida_samaria",
+    "source_type": "topic",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_samaria",
+    "source_type": "place",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_israel_northern_kingdom",
+    "source_type": "civilization",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0209",
+    "source_type": "subperiod",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_profetas_israel",
+    "source_type": "topic",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_yahvismo",
+    "source_type": "topic",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_juda",
+    "source_type": "topic",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_biblia_hebraica",
+    "source_type": "topic",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_isaias",
+    "source_type": "person",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_jeremias",
+    "source_type": "person",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0209",
+    "source_type": "subperiod",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_exilio_babilonico",
+    "source_type": "topic",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_caida_jerusalen_586",
+    "source_type": "topic",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reino_juda",
+    "source_type": "topic",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_babilonia",
+    "source_type": "topic",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jeremias",
+    "source_type": "person",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_nabucodonosor_ii",
+    "source_type": "person",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_babilonia",
+    "source_type": "place",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_babilonia",
+    "source_type": "civilization",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "topic_israel_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "topic_hebreos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "topic_monarq_unida_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "topic_reino_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "topic_reino_juda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "place_canaan",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "place_jerusalen",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "place_samaria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "person_saul",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "person_david",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ancient_israel",
+    "source_type": "civilization",
+    "target_id": "person_salomon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "topic_reino_juda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "topic_primer_templo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "topic_exilio_babilonico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "place_jerusalen",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "place_juda",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "person_salomon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_judah",
+    "source_type": "civilization",
+    "target_id": "person_nabucodonosor_ii",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_israel_northern_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_reino_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_israel_northern_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_samaria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_israel_northern_kingdom",
+    "source_type": "civilization",
+    "target_id": "topic_caida_samaria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_israel_northern_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_samaria",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_israel_northern_kingdom",
+    "source_type": "civilization",
+    "target_id": "place_israel_antiguo",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_saul",
+    "source_type": "person",
+    "target_id": "topic_saul",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_saul",
+    "source_type": "person",
+    "target_id": "topic_monarq_unida_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_saul",
+    "source_type": "person",
+    "target_id": "topic_filisteos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_saul",
+    "source_type": "person",
+    "target_id": "place_canaan",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_saul",
+    "source_type": "person",
+    "target_id": "place_israel_antiguo",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_saul",
+    "source_type": "person",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "topic_david",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "topic_jerusalen_antigua",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "topic_monarq_unida_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "place_jerusalen",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "place_israel_antiguo",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_david",
+    "source_type": "person",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "topic_salomon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "topic_primer_templo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "topic_jerusalen_antigua",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "place_jerusalen",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_salomon",
+    "source_type": "person",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_moises",
+    "source_type": "person",
+    "target_id": "topic_hebreos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_moises",
+    "source_type": "person",
+    "target_id": "topic_biblia_hebraica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_moises",
+    "source_type": "person",
+    "target_id": "topic_yahvismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_moises",
+    "source_type": "person",
+    "target_id": "place_canaan",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_moises",
+    "source_type": "person",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_isaias",
+    "source_type": "person",
+    "target_id": "topic_profetas_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_isaias",
+    "source_type": "person",
+    "target_id": "topic_reino_juda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_isaias",
+    "source_type": "person",
+    "target_id": "place_jerusalen",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_isaias",
+    "source_type": "person",
+    "target_id": "ep_profetas_israel",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_jeremias",
+    "source_type": "person",
+    "target_id": "topic_profetas_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jeremias",
+    "source_type": "person",
+    "target_id": "topic_caida_jerusalen_586",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jeremias",
+    "source_type": "person",
+    "target_id": "topic_exilio_babilonico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jeremias",
+    "source_type": "person",
+    "target_id": "place_jerusalen",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_jeremias",
+    "source_type": "person",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_nabucodonosor_ii",
+    "source_type": "person",
+    "target_id": "topic_caida_jerusalen_586",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nabucodonosor_ii",
+    "source_type": "person",
+    "target_id": "topic_exilio_babilonico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nabucodonosor_ii",
+    "source_type": "person",
+    "target_id": "place_babilonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nabucodonosor_ii",
+    "source_type": "person",
+    "target_id": "place_jerusalen",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_nabucodonosor_ii",
+    "source_type": "person",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_canaan",
+    "source_type": "place",
+    "target_id": "topic_canaan",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_canaan",
+    "source_type": "place",
+    "target_id": "topic_israel_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_canaan",
+    "source_type": "place",
+    "target_id": "topic_fenicios",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_canaan",
+    "source_type": "place",
+    "target_id": "person_saul",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_canaan",
+    "source_type": "place",
+    "target_id": "person_david",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_canaan",
+    "source_type": "place",
+    "target_id": "ep_origenes_hebreos_israelitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "topic_israel_antiguo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "topic_reino_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "topic_reino_juda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "person_saul",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "person_david",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "person_salomon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_israel_antiguo",
+    "source_type": "place",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "topic_jerusalen_antigua",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "topic_primer_templo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "topic_caida_jerusalen_586",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "person_david",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "person_salomon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "person_jeremias",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_david_rey_jerusalen",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_templo_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_jerusalen",
+    "source_type": "place",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_samaria",
+    "source_type": "place",
+    "target_id": "topic_samaria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_samaria",
+    "source_type": "place",
+    "target_id": "topic_reino_israel",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_samaria",
+    "source_type": "place",
+    "target_id": "topic_caida_samaria",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_samaria",
+    "source_type": "place",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "topic_reino_juda",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "topic_jerusalen_antigua",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "person_salomon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "person_jeremias",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "ep_division_israel_juda",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_juda",
+    "source_type": "place",
+    "target_id": "ep_caida_jerusalen_exilio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_filistea",
+    "source_type": "place",
+    "target_id": "topic_filisteos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_filistea",
+    "source_type": "place",
+    "target_id": "person_saul",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_filistea",
+    "source_type": "place",
+    "target_id": "person_david",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_filistea",
+    "source_type": "place",
+    "target_id": "ep_saul_david_salomon",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_fenicios",
+    "source_type": "topic",
+    "target_id": "topic_hebreos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_hebreos",
+    "source_type": "topic",
+    "target_id": "topic_canaan",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_canaan",
+    "source_type": "topic",
+    "target_id": "topic_israel_antiguo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_israel_antiguo",
+    "source_type": "topic",
+    "target_id": "topic_monarq_unida_israel",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_monarq_unida_israel",
+    "source_type": "topic",
+    "target_id": "topic_david",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_david",
+    "source_type": "topic",
+    "target_id": "topic_salomon",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_salomon",
+    "source_type": "topic",
+    "target_id": "topic_primer_templo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_primer_templo",
+    "source_type": "topic",
+    "target_id": "topic_reino_israel",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_reino_israel",
+    "source_type": "topic",
+    "target_id": "topic_reino_juda",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_reino_juda",
+    "source_type": "topic",
+    "target_id": "topic_exilio_babilonico",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_exilio_babilonico",
+    "source_type": "topic",
+    "target_id": "topic_persia_aquemenida",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

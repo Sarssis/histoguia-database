@@ -14,6 +14,7 @@
 - sub_0206: Egipto: Reino Medio y Reino Nuevo
 - sub_0207: Hititas, Mitanni y otros reinos de Anatolia y Siria
 - sub_0208: Fenicios y expansión mediterránea
+- sub_0209: Hebreos e Israel antiguo
 
 ## Siguiente subperiodo sugerido
-- sub_0209: Hebreos e Israel antiguo
+- sub_0210: Persia aqueménida

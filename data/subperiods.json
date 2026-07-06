@@ -183,5 +183,14 @@
     "date_range": "c. 1200-600 a.C.",
     "summary": "Fenicia, Tiro, Sidón, Biblos, navegación, comercio, alfabeto, púrpura, colonización mediterránea, Gadir y fundación de Cartago.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0209",
+    "phase_id": "phase_02",
+    "order": 9,
+    "name": "Hebreos e Israel antiguo",
+    "date_range": "c. 1200-586 a.C.",
+    "summary": "Orígenes israelitas, Canaán, monarquía unida, Saúl, David, Salomón, Jerusalén, Primer Templo, división de Israel y Judá, profetas, Asiria, Babilonia y exilio.",
+    "status": "content_seeded"
   }
 ]

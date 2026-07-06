@@ -1926,5 +1926,124 @@
     "related_episodes": [
       "ep_histocast_fenicios_expansion"
     ]
+  },
+  {
+    "id": "place_canaan",
+    "name": "Canaán",
+    "type": "region",
+    "modern_location": "Levante meridional",
+    "summary": "Región del Levante meridional donde se desarrollaron poblaciones cananeas, israelitas, filisteas y fenicias.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_canaan",
+      "topic_israel_antiguo",
+      "topic_fenicios"
+    ],
+    "related_people": [
+      "person_saul",
+      "person_david"
+    ],
+    "related_episodes": [
+      "ep_origenes_hebreos_israelitas"
+    ]
+  },
+  {
+    "id": "place_israel_antiguo",
+    "name": "Israel antiguo",
+    "type": "region",
+    "modern_location": "Israel/Palestina y áreas próximas",
+    "summary": "Área histórica asociada a los reinos de Israel y Judá.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_israel_antiguo",
+      "topic_reino_israel",
+      "topic_reino_juda"
+    ],
+    "related_people": [
+      "person_saul",
+      "person_david",
+      "person_salomon"
+    ],
+    "related_episodes": [
+      "ep_saul_david_salomon"
+    ]
+  },
+  {
+    "id": "place_jerusalen",
+    "name": "Jerusalén",
+    "type": "city",
+    "modern_location": "Jerusalén",
+    "summary": "Ciudad central de Judá, asociada a David, Salomón, el Primer Templo y la caída de 586 a.C.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_jerusalen_antigua",
+      "topic_primer_templo",
+      "topic_caida_jerusalen_586"
+    ],
+    "related_people": [
+      "person_david",
+      "person_salomon",
+      "person_jeremias"
+    ],
+    "related_episodes": [
+      "ep_david_rey_jerusalen",
+      "ep_templo_salomon",
+      "ep_caida_jerusalen_exilio"
+    ]
+  },
+  {
+    "id": "place_samaria",
+    "name": "Samaria",
+    "type": "city",
+    "modern_location": "Cisjordania",
+    "summary": "Capital del reino del norte de Israel.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_samaria",
+      "topic_reino_israel",
+      "topic_caida_samaria"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_division_israel_juda"
+    ]
+  },
+  {
+    "id": "place_juda",
+    "name": "Judá",
+    "type": "region",
+    "modern_location": "Levante meridional",
+    "summary": "Región y reino del sur, centrado en Jerusalén.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_reino_juda",
+      "topic_jerusalen_antigua"
+    ],
+    "related_people": [
+      "person_salomon",
+      "person_jeremias"
+    ],
+    "related_episodes": [
+      "ep_division_israel_juda",
+      "ep_caida_jerusalen_exilio"
+    ]
+  },
+  {
+    "id": "place_filistea",
+    "name": "Filistea",
+    "type": "region",
+    "modern_location": "Costa sur del Levante",
+    "summary": "Región asociada a los filisteos en la Edad del Hierro.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_filisteos"
+    ],
+    "related_people": [
+      "person_saul",
+      "person_david"
+    ],
+    "related_episodes": [
+      "ep_saul_david_salomon"
+    ]
   }
 ]

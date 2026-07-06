@@ -1926,5 +1926,155 @@
     "related_episodes": [
       "ep_cartago_fundacion_fenicia"
     ]
+  },
+  {
+    "id": "person_saul",
+    "name": "Saúl",
+    "type": "ruler",
+    "category": "biblical_king",
+    "scientific_name": "",
+    "dates": "Tradición bíblica, c. siglo XI a.C.",
+    "period": "Monarquía temprana",
+    "summary": "Primer rey de Israel según la tradición bíblica.",
+    "related_topics": [
+      "topic_saul",
+      "topic_monarq_unida_israel",
+      "topic_filisteos"
+    ],
+    "related_places": [
+      "place_canaan",
+      "place_israel_antiguo"
+    ],
+    "related_episodes": [
+      "ep_saul_david_salomon"
+    ]
+  },
+  {
+    "id": "person_david",
+    "name": "David",
+    "type": "ruler",
+    "category": "biblical_king",
+    "scientific_name": "",
+    "dates": "Tradición bíblica, c. siglo X a.C.",
+    "period": "Monarquía unida",
+    "summary": "Rey asociado a Jerusalén, la consolidación del reino y la memoria davídica.",
+    "related_topics": [
+      "topic_david",
+      "topic_jerusalen_antigua",
+      "topic_monarq_unida_israel"
+    ],
+    "related_places": [
+      "place_jerusalen",
+      "place_israel_antiguo"
+    ],
+    "related_episodes": [
+      "ep_saul_david_salomon",
+      "ep_david_rey_jerusalen"
+    ]
+  },
+  {
+    "id": "person_salomon",
+    "name": "Salomón",
+    "type": "ruler",
+    "category": "biblical_king",
+    "scientific_name": "",
+    "dates": "Tradición bíblica, c. siglo X a.C.",
+    "period": "Monarquía unida",
+    "summary": "Rey asociado al Primer Templo de Jerusalén y al esplendor de la monarquía.",
+    "related_topics": [
+      "topic_salomon",
+      "topic_primer_templo",
+      "topic_jerusalen_antigua"
+    ],
+    "related_places": [
+      "place_jerusalen"
+    ],
+    "related_episodes": [
+      "ep_saul_david_salomon",
+      "ep_templo_salomon"
+    ]
+  },
+  {
+    "id": "person_moises",
+    "name": "Moisés",
+    "type": "prophet_figure",
+    "category": "biblical_figure",
+    "scientific_name": "",
+    "dates": "Tradición bíblica",
+    "period": "Tradición fundacional israelita",
+    "summary": "Figura fundacional vinculada al Éxodo y la Ley en la tradición bíblica.",
+    "related_topics": [
+      "topic_hebreos",
+      "topic_biblia_hebraica",
+      "topic_yahvismo"
+    ],
+    "related_places": [
+      "place_canaan"
+    ],
+    "related_episodes": [
+      "ep_origenes_hebreos_israelitas"
+    ]
+  },
+  {
+    "id": "person_isaias",
+    "name": "Isaías",
+    "type": "prophet",
+    "category": "biblical_prophet",
+    "scientific_name": "",
+    "dates": "c. siglo VIII a.C.",
+    "period": "Reino de Judá",
+    "summary": "Profeta vinculado al reino de Judá y a la tradición profética bíblica.",
+    "related_topics": [
+      "topic_profetas_israel",
+      "topic_reino_juda"
+    ],
+    "related_places": [
+      "place_jerusalen"
+    ],
+    "related_episodes": [
+      "ep_profetas_israel"
+    ]
+  },
+  {
+    "id": "person_jeremias",
+    "name": "Jeremías",
+    "type": "prophet",
+    "category": "biblical_prophet",
+    "scientific_name": "",
+    "dates": "c. siglo VII-VI a.C.",
+    "period": "Final del Reino de Judá",
+    "summary": "Profeta asociado a la crisis final de Judá y la caída de Jerusalén.",
+    "related_topics": [
+      "topic_profetas_israel",
+      "topic_caida_jerusalen_586",
+      "topic_exilio_babilonico"
+    ],
+    "related_places": [
+      "place_jerusalen"
+    ],
+    "related_episodes": [
+      "ep_caida_jerusalen_exilio"
+    ]
+  },
+  {
+    "id": "person_nabucodonosor_ii",
+    "name": "Nabucodonosor II",
+    "type": "ruler",
+    "category": "babylonian_king",
+    "scientific_name": "",
+    "dates": "r. 605-562 a.C.",
+    "period": "Imperio neobabilónico",
+    "summary": "Rey babilónico asociado a la conquista de Jerusalén y el exilio babilónico.",
+    "related_topics": [
+      "topic_caida_jerusalen_586",
+      "topic_exilio_babilonico"
+    ],
+    "related_places": [
+      "place_babilonia",
+      "place_jerusalen"
+    ],
+    "related_episodes": [
+      "ep_caida_jerusalen_exilio"
+    ]
   }
 ]

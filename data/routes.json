@@ -224,7 +224,14 @@
       "ep_memorias_pez_fenicios",
       "ep_alfabeto_fenicio",
       "ep_fenicios_iberia_gadir",
-      "ep_cartago_fundacion_fenicia"
+      "ep_cartago_fundacion_fenicia",
+      "ep_origenes_hebreos_israelitas",
+      "ep_saul_david_salomon",
+      "ep_david_rey_jerusalen",
+      "ep_templo_salomon",
+      "ep_division_israel_juda",
+      "ep_profetas_israel",
+      "ep_caida_jerusalen_exilio"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -295,8 +302,17 @@
       "topic_colonizacion_fenicia",
       "topic_gadir",
       "topic_cartago_fundacion",
-      "topic_hebreos"
+      "topic_hebreos",
+      "topic_canaan",
+      "topic_israel_antiguo",
+      "topic_monarq_unida_israel",
+      "topic_david",
+      "topic_salomon",
+      "topic_primer_templo",
+      "topic_reino_israel",
+      "topic_reino_juda",
+      "topic_exilio_babilonico"
     ],
-    "status": "sub0208_active"
+    "status": "sub0209_active"
   }
 ]

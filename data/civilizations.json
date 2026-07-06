@@ -401,5 +401,69 @@
     "related_people": [
       "person_elissa_dido"
     ]
+  },
+  {
+    "id": "civ_ancient_israel",
+    "name": "Israel antiguo",
+    "type": "kingdoms",
+    "date_range": "c. 1200-586 a.C.",
+    "region": "Levante meridional",
+    "summary": "Conjunto de tradiciones, reinos y poblaciones israelitas de Canaán, Israel y Judá hasta el exilio babilónico.",
+    "related_topics": [
+      "topic_israel_antiguo",
+      "topic_hebreos",
+      "topic_monarq_unida_israel",
+      "topic_reino_israel",
+      "topic_reino_juda"
+    ],
+    "related_places": [
+      "place_canaan",
+      "place_jerusalen",
+      "place_samaria"
+    ],
+    "related_people": [
+      "person_saul",
+      "person_david",
+      "person_salomon"
+    ]
+  },
+  {
+    "id": "civ_judah",
+    "name": "Reino de Judá",
+    "type": "kingdom",
+    "date_range": "c. 930-586 a.C.",
+    "region": "Levante meridional",
+    "summary": "Reino del sur centrado en Jerusalén, clave para la historia del judaísmo y el exilio babilónico.",
+    "related_topics": [
+      "topic_reino_juda",
+      "topic_primer_templo",
+      "topic_exilio_babilonico"
+    ],
+    "related_places": [
+      "place_jerusalen",
+      "place_juda"
+    ],
+    "related_people": [
+      "person_salomon",
+      "person_nabucodonosor_ii"
+    ]
+  },
+  {
+    "id": "civ_israel_northern_kingdom",
+    "name": "Reino de Israel",
+    "type": "kingdom",
+    "date_range": "c. 930-722 a.C.",
+    "region": "Levante meridional",
+    "summary": "Reino del norte de Israel, con capital en Samaria, conquistado por Asiria.",
+    "related_topics": [
+      "topic_reino_israel",
+      "topic_samaria",
+      "topic_caida_samaria"
+    ],
+    "related_places": [
+      "place_samaria",
+      "place_israel_antiguo"
+    ],
+    "related_people": []
   }
 ]
