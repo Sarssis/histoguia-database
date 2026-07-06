@@ -341,6 +341,15 @@ const DATA = {
       "date_range": "c. 814-146 a.C.",
       "summary": "De fundación fenicia a potencia mediterránea: Dido/Elissa, comercio, aristocracia, religión, expansión norteafricana, Sicilia, Cerdeña, Iberia, Barca y contexto previo a las Guerras Púnicas.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0212",
+      "phase_id": "phase_02",
+      "order": 12,
+      "name": "Tartessos e Iberia protohistórica",
+      "date_range": "c. 1200-218 a.C.",
+      "summary": "Tartessos, Huelva, valle del Guadalquivir, Carambolo, Cancho Roano, contactos fenicios y griegos, minería, íberos, celtíberos y pueblos prerromanos de Iberia.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -4096,6 +4105,159 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Relación de competencia entre Cartago y Roma que culmina en las Guerras Púnicas."
+    },
+    {
+      "id": "topic_tartessos",
+      "name": "Tartessos",
+      "type": "culture",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Cultura protohistórica del suroeste peninsular vinculada a minería, comercio mediterráneo y contactos fenicios."
+    },
+    {
+      "id": "topic_argantonio",
+      "name": "Argantonio",
+      "type": "legendary_king",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey tartésico mencionado por fuentes griegas, asociado a riqueza y longevidad legendaria."
+    },
+    {
+      "id": "topic_carambolo",
+      "name": "Tesoro del Carambolo",
+      "type": "archaeological_find",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conjunto de piezas de oro clave para interpretar la religiosidad y élites tartésicas/fenicias."
+    },
+    {
+      "id": "topic_cancho_roano",
+      "name": "Cancho Roano",
+      "type": "archaeological_site",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Santuario-palacio del Guadiana vinculado al mundo postartésico."
+    },
+    {
+      "id": "topic_huelva_protohistorica",
+      "name": "Huelva protohistórica",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Área clave para comprender el contacto entre indígenas, fenicios y redes atlánticas."
+    },
+    {
+      "id": "topic_guadalquivir_protohistorico",
+      "name": "Valle del Guadalquivir protohistórico",
+      "type": "region_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Área nuclear para Tartessos y la formación de sociedades complejas del suroeste."
+    },
+    {
+      "id": "topic_mineria_iberica_antigua",
+      "name": "Minería antigua en Iberia",
+      "type": "economy",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Explotación de plata, cobre, estaño y otros metales en la Iberia protohistórica."
+    },
+    {
+      "id": "topic_fenicios_tartessos",
+      "name": "Fenicios y Tartessos",
+      "type": "contact_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Relación entre comerciantes fenicios y elites indígenas del suroeste peninsular."
+    },
+    {
+      "id": "topic_griegos_iberia",
+      "name": "Griegos en Iberia",
+      "type": "colonization",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Presencia griega en el noreste y contactos comerciales con Iberia."
+    },
+    {
+      "id": "topic_iberia_protohistorica",
+      "name": "Iberia protohistórica",
+      "type": "period_region",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Península ibérica durante la transición entre la Prehistoria final y los testimonios escritos antiguos."
+    },
+    {
+      "id": "topic_pueblos_prerromanos",
+      "name": "Pueblos prerromanos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conjunto de pueblos de Iberia antes de la conquista romana."
+    },
+    {
+      "id": "topic_lusitanos",
+      "name": "Lusitanos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblo prerromano del occidente peninsular."
+    },
+    {
+      "id": "topic_vetones",
+      "name": "Vetones",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblo prerromano de la Meseta occidental."
+    },
+    {
+      "id": "topic_turdetanos",
+      "name": "Turdetanos",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblo del suroeste peninsular heredero en parte del mundo tartésico según las fuentes antiguas."
+    },
+    {
+      "id": "topic_castros_iberia",
+      "name": "Castros y oppida de Iberia",
+      "type": "settlement",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Asentamientos fortificados prerromanos de la península ibérica."
+    },
+    {
+      "id": "topic_escrituras_paleohispanicas",
+      "name": "Escrituras paleohispánicas",
+      "type": "writing_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Conjunto de sistemas de escritura usados en Iberia antes y durante la romanización."
+    },
+    {
+      "id": "topic_indoeuropeos_iberia",
+      "name": "Indoeuropeos en Iberia",
+      "type": "migration_culture",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Presencia de grupos y lenguas indoeuropeas en áreas del interior y oeste peninsular."
     }
   ],
   "episodes": [
@@ -14668,6 +14830,566 @@ const DATA = {
         "guerras púnicas",
         "aníbal"
       ]
+    },
+    {
+      "id": "ep_histocast_tartessos",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Tartessos",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0212",
+      "main_topic_id": "topic_tartessos",
+      "topic_ids": [
+        "topic_tartessos",
+        "topic_argantonio",
+        "topic_fenicios_tartessos",
+        "topic_mineria_iberica_antigua",
+        "topic_guadalquivir_protohistorico"
+      ],
+      "people_ids": [
+        "person_argantonio",
+        "person_tartesios"
+      ],
+      "place_ids": [
+        "place_tartessos",
+        "place_huelva",
+        "place_guadalquivir"
+      ],
+      "civilization_ids": [
+        "civ_tartessos"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/histocast-106-tartessos-audios-mp3_rf_8954373_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "8954373",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal sobre Tartessos: fuentes antiguas, arqueología, suroeste peninsular, comercio fenicio, minería y elites locales.",
+      "learn": [
+        "Comprender qué fue Tartessos.",
+        "Relacionar fuentes literarias y arqueología.",
+        "Situar Huelva, Guadalquivir y contactos fenicios.",
+        "Preparar el paso hacia pueblos prerromanos."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "tartessos",
+        "argantonio",
+        "fenicios",
+        "guadalquivir"
+      ]
+    },
+    {
+      "id": "ep_tartessos_huelva_carambolo",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "Tartessos, Huelva y el tesoro del Carambolo",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0212",
+      "main_topic_id": "topic_carambolo",
+      "topic_ids": [
+        "topic_carambolo",
+        "topic_huelva_protohistorica",
+        "topic_tartessos",
+        "topic_fenicios_tartessos"
+      ],
+      "people_ids": [
+        "person_tartesios"
+      ],
+      "place_ids": [
+        "place_huelva",
+        "place_carambolo",
+        "place_tartessos"
+      ],
+      "civilization_ids": [
+        "civ_tartessos"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/tartessos-huelva-tesoro-del-carambolo-audios-mp3_rf_64107122_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64107122",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre Huelva, el Carambolo y los principales debates arqueológicos del mundo tartésico.",
+      "learn": [
+        "Conocer el tesoro del Carambolo.",
+        "Relacionar Huelva con redes fenicias y atlánticas.",
+        "Comprender las elites del suroeste.",
+        "Distinguir lectura tartésica y fenicia del registro material."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "carambolo",
+        "huelva",
+        "tartessos",
+        "arqueología"
+      ]
+    },
+    {
+      "id": "ep_cancho_roano_tartessos_final",
+      "podcast_id": "pod_antena_historia",
+      "podcast_name": "Antena Historia",
+      "episode_code": "",
+      "title": "Cancho Roano y el final de Tartessos",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0212",
+      "main_topic_id": "topic_cancho_roano",
+      "topic_ids": [
+        "topic_cancho_roano",
+        "topic_tartessos_final",
+        "topic_tartessos"
+      ],
+      "people_ids": [
+        "person_tartesios"
+      ],
+      "place_ids": [
+        "place_cancho_roano",
+        "place_tartessos"
+      ],
+      "civilization_ids": [
+        "civ_tartessos"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/cancho-roano-final-tartessos-audios-mp3_rf_4908497_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4908497",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio sobre Cancho Roano, el Guadiana y el debate sobre el mundo postartésico y el final de Tartessos.",
+      "learn": [
+        "Situar Cancho Roano.",
+        "Comprender el concepto de Tartessos final.",
+        "Relacionar santuarios, elites y territorio.",
+        "Conectar con la Iberia prerromana."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cancho roano",
+        "tartessos final",
+        "guadiana",
+        "protohistoria"
+      ]
+    },
+    {
+      "id": "ep_iberos_prerromanos",
+      "podcast_id": "pod_historia_arqueologia",
+      "podcast_name": "HISTORIA Y ARQUEOLOGIA",
+      "episode_code": "",
+      "title": "Los íberos",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0212",
+      "main_topic_id": "topic_iberos",
+      "topic_ids": [
+        "topic_iberos",
+        "topic_dama_elche",
+        "topic_guerrero_moixent",
+        "topic_escrituras_paleohispanicas"
+      ],
+      "people_ids": [
+        "person_iberos"
+      ],
+      "place_ids": [
+        "place_levante_iberico",
+        "place_elche",
+        "place_moixent"
+      ],
+      "civilization_ids": [
+        "civ_iberians"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/iberos-audios-mp3_rf_4566320_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4566320",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio esencial para introducir la cultura ibérica: territorio, urbanismo, escritura, elites, necrópolis, arte y contactos mediterráneos.",
+      "learn": [
+        "Identificar quiénes fueron los íberos.",
+        "Situar el Levante y sur peninsular.",
+        "Relacionar escritura, arte y elites.",
+        "Conectar la Dama de Elche con la cultura ibérica."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "íberos",
+        "dama de elche",
+        "levante ibérico",
+        "prerromanos"
+      ]
+    },
+    {
+      "id": "ep_celtiberos_numancia",
+      "podcast_id": "pod_antena_historia",
+      "podcast_name": "Antena Historia",
+      "episode_code": "",
+      "title": "Los celtíberos y Numancia",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0212",
+      "main_topic_id": "topic_celtiberos",
+      "topic_ids": [
+        "topic_celtiberos",
+        "topic_numancia",
+        "topic_indoeuropeos_iberia",
+        "topic_castros_iberia"
+      ],
+      "people_ids": [
+        "person_celtiberos"
+      ],
+      "place_ids": [
+        "place_meseta_oriental",
+        "place_numancia"
+      ],
+      "civilization_ids": [
+        "civ_celtiberians"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/celtiberos-audios-mp3_rf_4908378_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4908378",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de apoyo sobre los celtíberos, la Meseta oriental, los oppida, cultura guerrera y Numancia como símbolo posterior.",
+      "learn": [
+        "Identificar a los celtíberos.",
+        "Situar la Meseta oriental.",
+        "Relacionar oppida, armas y cultura material.",
+        "Preparar el contacto con Roma."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "celtíberos",
+        "numancia",
+        "meseta",
+        "prerromanos"
+      ]
+    },
+    {
+      "id": "ep_pueblos_prerromanos_iberia",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "Los pueblos prerromanos de la península ibérica",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0212",
+      "main_topic_id": "topic_pueblos_prerromanos",
+      "topic_ids": [
+        "topic_pueblos_prerromanos",
+        "topic_lusitanos",
+        "topic_vetones",
+        "topic_turdetanos",
+        "topic_iberos",
+        "topic_celtiberos"
+      ],
+      "people_ids": [
+        "person_iberos",
+        "person_celtiberos",
+        "person_viriato"
+      ],
+      "place_ids": [
+        "place_lusitania",
+        "place_levante_iberico",
+        "place_meseta_oriental"
+      ],
+      "civilization_ids": [
+        "civ_iberians",
+        "civ_celtiberians"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/pueblos-prerromanos-peninsula-iberica-audios-mp3_rf_58115790_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "58115790",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio panorámico para cerrar el subperiodo: íberos, celtíberos, lusitanos, vetones, turdetanos y otros pueblos antes de Roma.",
+      "learn": [
+        "Obtener una visión general de los pueblos prerromanos.",
+        "Distinguir áreas ibéricas, célticas y mixtas.",
+        "Relacionar Tartessos, turdetanos e íberos.",
+        "Preparar la romanización posterior."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "pueblos prerromanos",
+        "íberos",
+        "celtíberos",
+        "lusitanos"
+      ]
+    },
+    {
+      "id": "ep_griegos_iberia_empuries",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "",
+      "title": "Griegos en Iberia: Empúries y contactos mediterráneos",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0212",
+      "main_topic_id": "topic_griegos_iberia",
+      "topic_ids": [
+        "topic_griegos_iberia",
+        "topic_empuries",
+        "topic_iberia_protohistorica"
+      ],
+      "people_ids": [],
+      "place_ids": [
+        "place_empuries",
+        "place_levante_iberico"
+      ],
+      "civilization_ids": [
+        "civ_iberians"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v392-127774-griegos-iberia-empuries-audios-mp3_rf_131889652_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "131889652",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de transición sobre la presencia griega en Iberia, Empúries y los contactos mediterráneos que completan el panorama protohistórico.",
+      "learn": [
+        "Comprender la presencia griega en Iberia.",
+        "Situar Empúries.",
+        "Relacionar comercio, colonización y mundo ibérico.",
+        "Preparar la transición hacia el mundo clásico."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "griegos",
+        "iberia",
+        "empúries",
+        "colonización"
+      ]
     }
   ],
   "civilizations": [
@@ -15214,6 +15936,72 @@ const DATA = {
       "related_people": [
         "person_hannon_navegante",
         "person_himilcon"
+      ]
+    },
+    {
+      "id": "civ_tartessos",
+      "name": "Tartessos",
+      "type": "protohistoric_culture",
+      "date_range": "c. 1000-500 a.C.",
+      "region": "Suroeste de la península ibérica",
+      "summary": "Cultura protohistórica del suroeste peninsular, vinculada a minería, elites locales, contactos fenicios y tradición literaria griega.",
+      "related_topics": [
+        "topic_tartessos",
+        "topic_argantonio",
+        "topic_carambolo",
+        "topic_cancho_roano",
+        "topic_fenicios_tartessos"
+      ],
+      "related_places": [
+        "place_tartessos",
+        "place_huelva",
+        "place_carambolo",
+        "place_cancho_roano"
+      ],
+      "related_people": [
+        "person_argantonio"
+      ]
+    },
+    {
+      "id": "civ_iberians",
+      "name": "Íberos",
+      "type": "people_group_culture",
+      "date_range": "c. siglo VI-I a.C.",
+      "region": "Este y sur de Iberia",
+      "summary": "Conjunto de pueblos prerromanos del arco mediterráneo y sur peninsular con arte, urbanismo, escritura y elites guerreras.",
+      "related_topics": [
+        "topic_iberos",
+        "topic_dama_elche",
+        "topic_guerrero_moixent",
+        "topic_escrituras_paleohispanicas"
+      ],
+      "related_places": [
+        "place_levante_iberico",
+        "place_elche",
+        "place_moixent"
+      ],
+      "related_people": [
+        "person_iberos"
+      ]
+    },
+    {
+      "id": "civ_celtiberians",
+      "name": "Celtíberos",
+      "type": "people_group_culture",
+      "date_range": "c. siglo VI-I a.C.",
+      "region": "Meseta oriental",
+      "summary": "Pueblos prerromanos del interior oriental peninsular, conocidos por sus ciudades fortificadas, cultura material y resistencia frente a Roma.",
+      "related_topics": [
+        "topic_celtiberos",
+        "topic_numancia",
+        "topic_indoeuropeos_iberia"
+      ],
+      "related_places": [
+        "place_meseta_oriental",
+        "place_numancia"
+      ],
+      "related_people": [
+        "person_celtiberos"
       ]
     }
   ]

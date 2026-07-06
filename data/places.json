@@ -2355,5 +2355,114 @@
     "related_episodes": [
       "ep_contexto_guerras_punicas"
     ]
+  },
+  {
+    "id": "place_tartessos",
+    "name": "Tartessos",
+    "type": "region_culture",
+    "modern_location": "Suroeste de España",
+    "summary": "Área cultural protohistórica del suroeste peninsular, asociada al Guadalquivir, Huelva y contactos fenicios.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_tartessos",
+      "topic_fenicios_tartessos"
+    ],
+    "related_people": [
+      "person_argantonio",
+      "person_tartesios"
+    ],
+    "related_episodes": [
+      "ep_histocast_tartessos"
+    ]
+  },
+  {
+    "id": "place_huelva",
+    "name": "Huelva protohistórica",
+    "type": "site_area",
+    "modern_location": "Huelva, España",
+    "summary": "Zona clave de contacto entre comunidades indígenas, fenicios y redes atlánticas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_huelva_protohistorica",
+      "topic_mineria_iberica_antigua"
+    ],
+    "related_people": [
+      "person_tartesios"
+    ],
+    "related_episodes": [
+      "ep_tartessos_huelva_carambolo"
+    ]
+  },
+  {
+    "id": "place_guadalquivir",
+    "name": "Valle del Guadalquivir",
+    "type": "region",
+    "modern_location": "Andalucía, España",
+    "summary": "Área fundamental para el mundo tartésico y turdetano.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_guadalquivir_protohistorico",
+      "topic_tartessos"
+    ],
+    "related_people": [
+      "person_argantonio"
+    ],
+    "related_episodes": [
+      "ep_histocast_tartessos"
+    ]
+  },
+  {
+    "id": "place_carambolo",
+    "name": "El Carambolo",
+    "type": "archaeological_site",
+    "modern_location": "Camas, Sevilla, España",
+    "summary": "Yacimiento y tesoro clave para la arqueología tartésica y fenicia del suroeste.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_carambolo",
+      "topic_fenicios_tartessos"
+    ],
+    "related_people": [
+      "person_tartesios"
+    ],
+    "related_episodes": [
+      "ep_tartessos_huelva_carambolo"
+    ]
+  },
+  {
+    "id": "place_cancho_roano",
+    "name": "Cancho Roano",
+    "type": "archaeological_site",
+    "modern_location": "Zalamea de la Serena, Badajoz, España",
+    "summary": "Complejo monumental del Guadiana vinculado al mundo postartésico.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_cancho_roano",
+      "topic_tartessos_final"
+    ],
+    "related_people": [
+      "person_tartesios"
+    ],
+    "related_episodes": [
+      "ep_cancho_roano_tartessos_final"
+    ]
+  },
+  {
+    "id": "place_lusitania",
+    "name": "Lusitania",
+    "type": "region",
+    "modern_location": "Portugal y oeste de España",
+    "summary": "Área asociada a los lusitanos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_lusitanos",
+      "topic_pueblos_prerromanos"
+    ],
+    "related_people": [
+      "person_viriato"
+    ],
+    "related_episodes": [
+      "ep_pueblos_prerromanos_iberia"
+    ]
   }
 ]

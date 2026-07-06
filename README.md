@@ -1,25 +1,25 @@
-# Histoguía Database · phase_02 sub_0211 v4.11
+# Histoguía Database · phase_02 sub_0212 v4.12
 
 ## Subperiodo activado
 
-**11. Cartago**
+**12. Tartessos e Iberia protohistórica**
 
 ## Episodios añadidos
 
-- Cartago
-- La fundación de Cartago y la leyenda de Dido
-- Cartago, comercio y dominio del Mediterráneo occidental
-- Religión cartaginesa: Baal Hammon, Tanit y el tophet
-- Cartago y Sicilia: griegos, púnicos y el Mediterráneo central
-- Cartago en Iberia y los Bárquidas
-- Roma y Cartago: antes de las Guerras Púnicas
+- Tartessos
+- Tartessos, Huelva y el tesoro del Carambolo
+- Cancho Roano y el final de Tartessos
+- Los íberos
+- Los celtíberos y Numancia
+- Los pueblos prerromanos de la península ibérica
+- Griegos en Iberia: Empúries y contactos mediterráneos
 
 ## Totales
 
-- Episodios totales: 128
-- Episodios del subperiodo 0211: 7
-- Civilizaciones: 24
-- Temas: 417
-- Personas: 114
-- Lugares: 129
-- Relaciones: 2897
+- Episodios totales: 135
+- Episodios del subperiodo 0212: 7
+- Civilizaciones: 27
+- Temas: 434
+- Personas: 117
+- Lugares: 135
+- Relaciones: 3048

@@ -543,5 +543,71 @@
       "person_hannon_navegante",
       "person_himilcon"
     ]
+  },
+  {
+    "id": "civ_tartessos",
+    "name": "Tartessos",
+    "type": "protohistoric_culture",
+    "date_range": "c. 1000-500 a.C.",
+    "region": "Suroeste de la península ibérica",
+    "summary": "Cultura protohistórica del suroeste peninsular, vinculada a minería, elites locales, contactos fenicios y tradición literaria griega.",
+    "related_topics": [
+      "topic_tartessos",
+      "topic_argantonio",
+      "topic_carambolo",
+      "topic_cancho_roano",
+      "topic_fenicios_tartessos"
+    ],
+    "related_places": [
+      "place_tartessos",
+      "place_huelva",
+      "place_carambolo",
+      "place_cancho_roano"
+    ],
+    "related_people": [
+      "person_argantonio"
+    ]
+  },
+  {
+    "id": "civ_iberians",
+    "name": "Íberos",
+    "type": "people_group_culture",
+    "date_range": "c. siglo VI-I a.C.",
+    "region": "Este y sur de Iberia",
+    "summary": "Conjunto de pueblos prerromanos del arco mediterráneo y sur peninsular con arte, urbanismo, escritura y elites guerreras.",
+    "related_topics": [
+      "topic_iberos",
+      "topic_dama_elche",
+      "topic_guerrero_moixent",
+      "topic_escrituras_paleohispanicas"
+    ],
+    "related_places": [
+      "place_levante_iberico",
+      "place_elche",
+      "place_moixent"
+    ],
+    "related_people": [
+      "person_iberos"
+    ]
+  },
+  {
+    "id": "civ_celtiberians",
+    "name": "Celtíberos",
+    "type": "people_group_culture",
+    "date_range": "c. siglo VI-I a.C.",
+    "region": "Meseta oriental",
+    "summary": "Pueblos prerromanos del interior oriental peninsular, conocidos por sus ciudades fortificadas, cultura material y resistencia frente a Roma.",
+    "related_topics": [
+      "topic_celtiberos",
+      "topic_numancia",
+      "topic_indoeuropeos_iberia"
+    ],
+    "related_places": [
+      "place_meseta_oriental",
+      "place_numancia"
+    ],
+    "related_people": [
+      "person_celtiberos"
+    ]
   }
 ]

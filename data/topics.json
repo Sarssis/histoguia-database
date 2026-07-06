@@ -3751,5 +3751,158 @@
       "phase_02"
     ],
     "summary": "Relación de competencia entre Cartago y Roma que culmina en las Guerras Púnicas."
+  },
+  {
+    "id": "topic_tartessos",
+    "name": "Tartessos",
+    "type": "culture",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Cultura protohistórica del suroeste peninsular vinculada a minería, comercio mediterráneo y contactos fenicios."
+  },
+  {
+    "id": "topic_argantonio",
+    "name": "Argantonio",
+    "type": "legendary_king",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey tartésico mencionado por fuentes griegas, asociado a riqueza y longevidad legendaria."
+  },
+  {
+    "id": "topic_carambolo",
+    "name": "Tesoro del Carambolo",
+    "type": "archaeological_find",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conjunto de piezas de oro clave para interpretar la religiosidad y élites tartésicas/fenicias."
+  },
+  {
+    "id": "topic_cancho_roano",
+    "name": "Cancho Roano",
+    "type": "archaeological_site",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Santuario-palacio del Guadiana vinculado al mundo postartésico."
+  },
+  {
+    "id": "topic_huelva_protohistorica",
+    "name": "Huelva protohistórica",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Área clave para comprender el contacto entre indígenas, fenicios y redes atlánticas."
+  },
+  {
+    "id": "topic_guadalquivir_protohistorico",
+    "name": "Valle del Guadalquivir protohistórico",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Área nuclear para Tartessos y la formación de sociedades complejas del suroeste."
+  },
+  {
+    "id": "topic_mineria_iberica_antigua",
+    "name": "Minería antigua en Iberia",
+    "type": "economy",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Explotación de plata, cobre, estaño y otros metales en la Iberia protohistórica."
+  },
+  {
+    "id": "topic_fenicios_tartessos",
+    "name": "Fenicios y Tartessos",
+    "type": "contact_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Relación entre comerciantes fenicios y elites indígenas del suroeste peninsular."
+  },
+  {
+    "id": "topic_griegos_iberia",
+    "name": "Griegos en Iberia",
+    "type": "colonization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Presencia griega en el noreste y contactos comerciales con Iberia."
+  },
+  {
+    "id": "topic_iberia_protohistorica",
+    "name": "Iberia protohistórica",
+    "type": "period_region",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Península ibérica durante la transición entre la Prehistoria final y los testimonios escritos antiguos."
+  },
+  {
+    "id": "topic_pueblos_prerromanos",
+    "name": "Pueblos prerromanos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conjunto de pueblos de Iberia antes de la conquista romana."
+  },
+  {
+    "id": "topic_lusitanos",
+    "name": "Lusitanos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo prerromano del occidente peninsular."
+  },
+  {
+    "id": "topic_vetones",
+    "name": "Vetones",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo prerromano de la Meseta occidental."
+  },
+  {
+    "id": "topic_turdetanos",
+    "name": "Turdetanos",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblo del suroeste peninsular heredero en parte del mundo tartésico según las fuentes antiguas."
+  },
+  {
+    "id": "topic_castros_iberia",
+    "name": "Castros y oppida de Iberia",
+    "type": "settlement",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Asentamientos fortificados prerromanos de la península ibérica."
+  },
+  {
+    "id": "topic_escrituras_paleohispanicas",
+    "name": "Escrituras paleohispánicas",
+    "type": "writing_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Conjunto de sistemas de escritura usados en Iberia antes y durante la romanización."
+  },
+  {
+    "id": "topic_indoeuropeos_iberia",
+    "name": "Indoeuropeos en Iberia",
+    "type": "migration_culture",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Presencia de grupos y lenguas indoeuropeas en áreas del interior y oeste peninsular."
   }
 ]

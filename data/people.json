@@ -2399,5 +2399,68 @@
     "related_episodes": [
       "ep_religion_cartaginesa"
     ]
+  },
+  {
+    "id": "person_argantonio",
+    "name": "Argantonio",
+    "type": "legendary_king",
+    "category": "tartessian_figure",
+    "scientific_name": "",
+    "dates": "Tradición griega, c. siglo VII-VI a.C.",
+    "period": "Tartessos",
+    "summary": "Rey tartésico mencionado por Heródoto, símbolo de la riqueza y prestigio de Tartessos.",
+    "related_topics": [
+      "topic_argantonio",
+      "topic_tartessos"
+    ],
+    "related_places": [
+      "place_tartessos",
+      "place_guadalquivir"
+    ],
+    "related_episodes": [
+      "ep_tartessos_argantonio"
+    ]
+  },
+  {
+    "id": "person_tartesios",
+    "name": "Tartesios",
+    "type": "people_group",
+    "category": "protohistoric_people",
+    "scientific_name": "",
+    "dates": "I milenio a.C.",
+    "period": "Protohistoria ibérica",
+    "summary": "Poblaciones vinculadas al mundo tartésico del suroeste peninsular.",
+    "related_topics": [
+      "topic_tartessos",
+      "topic_turdetanos",
+      "topic_fenicios_tartessos"
+    ],
+    "related_places": [
+      "place_tartessos",
+      "place_huelva"
+    ],
+    "related_episodes": [
+      "ep_histocast_tartessos"
+    ]
+  },
+  {
+    "id": "person_viriato",
+    "name": "Viriato",
+    "type": "leader",
+    "category": "lusitanian_leader",
+    "scientific_name": "",
+    "dates": "m. 139 a.C.",
+    "period": "Resistencia lusitana",
+    "summary": "Líder lusitano de la resistencia contra Roma, incluido como figura de transición hacia la romanización.",
+    "related_topics": [
+      "topic_lusitanos",
+      "topic_pueblos_prerromanos"
+    ],
+    "related_places": [
+      "place_lusitania"
+    ],
+    "related_episodes": [
+      "ep_pueblos_prerromanos_iberia"
+    ]
   }
 ]

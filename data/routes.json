@@ -244,7 +244,14 @@
       "ep_religion_cartaginesa",
       "ep_cartago_sicilia",
       "ep_cartago_iberia_barquidas",
-      "ep_contexto_guerras_punicas"
+      "ep_contexto_guerras_punicas",
+      "ep_histocast_tartessos",
+      "ep_tartessos_huelva_carambolo",
+      "ep_cancho_roano_tartessos_final",
+      "ep_iberos_prerromanos",
+      "ep_celtiberos_numancia",
+      "ep_pueblos_prerromanos_iberia",
+      "ep_griegos_iberia_empuries"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -341,8 +348,17 @@
       "topic_sicilia_cartaginesa",
       "topic_iberia_cartaginesa",
       "topic_guerras_punicas_contexto",
-      "topic_tartessos_final"
+      "topic_tartessos_final",
+      "topic_tartessos",
+      "topic_fenicios_tartessos",
+      "topic_carambolo",
+      "topic_cancho_roano",
+      "topic_iberia_protohistorica",
+      "topic_iberos",
+      "topic_celtiberos",
+      "topic_pueblos_prerromanos",
+      "topic_griegos_iberia"
     ],
-    "status": "sub0211_active"
+    "status": "sub0212_active"
   }
 ]

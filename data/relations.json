@@ -20277,5 +20277,1062 @@
     "target_id": "topic_tartessos_final",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0212",
+    "source_type": "subperiod",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_tartessos",
+    "source_type": "topic",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_argantonio",
+    "source_type": "topic",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_fenicios_tartessos",
+    "source_type": "topic",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mineria_iberica_antigua",
+    "source_type": "topic",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_guadalquivir_protohistorico",
+    "source_type": "topic",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_argantonio",
+    "source_type": "person",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_huelva",
+    "source_type": "place",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_guadalquivir",
+    "source_type": "place",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0212",
+    "source_type": "subperiod",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_carambolo",
+    "source_type": "topic",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_huelva_protohistorica",
+    "source_type": "topic",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tartessos",
+    "source_type": "topic",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_fenicios_tartessos",
+    "source_type": "topic",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_huelva",
+    "source_type": "place",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_carambolo",
+    "source_type": "place",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0212",
+    "source_type": "subperiod",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_cancho_roano",
+    "source_type": "topic",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_tartessos_final",
+    "source_type": "topic",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tartessos",
+    "source_type": "topic",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cancho_roano",
+    "source_type": "place",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0212",
+    "source_type": "subperiod",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_iberos",
+    "source_type": "topic",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_dama_elche",
+    "source_type": "topic",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_guerrero_moixent",
+    "source_type": "topic",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_escrituras_paleohispanicas",
+    "source_type": "topic",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_elche",
+    "source_type": "place",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_moixent",
+    "source_type": "place",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "ep_iberos_prerromanos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0212",
+    "source_type": "subperiod",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_celtiberos",
+    "source_type": "topic",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_numancia",
+    "source_type": "topic",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_indoeuropeos_iberia",
+    "source_type": "topic",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_castros_iberia",
+    "source_type": "topic",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_numancia",
+    "source_type": "place",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "ep_celtiberos_numancia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0212",
+    "source_type": "subperiod",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_pueblos_prerromanos",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_lusitanos",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_vetones",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_turdetanos",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_iberos",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_celtiberos",
+    "source_type": "topic",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_iberos",
+    "source_type": "person",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_celtiberos",
+    "source_type": "person",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_viriato",
+    "source_type": "person",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_lusitania",
+    "source_type": "place",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_meseta_oriental",
+    "source_type": "place",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0212",
+    "source_type": "subperiod",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_griegos_iberia",
+    "source_type": "topic",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_empuries",
+    "source_type": "topic",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_iberia_protohistorica",
+    "source_type": "topic",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_empuries",
+    "source_type": "place",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_levante_iberico",
+    "source_type": "place",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "ep_griegos_iberia_empuries",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "topic_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "topic_argantonio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "topic_carambolo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "topic_cancho_roano",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "topic_fenicios_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "place_tartessos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "place_huelva",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "place_carambolo",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "place_cancho_roano",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_tartessos",
+    "source_type": "civilization",
+    "target_id": "person_argantonio",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "topic_dama_elche",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "topic_guerrero_moixent",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "topic_escrituras_paleohispanicas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "place_levante_iberico",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "place_elche",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "place_moixent",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_iberians",
+    "source_type": "civilization",
+    "target_id": "person_iberos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "topic_celtiberos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "topic_numancia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "topic_indoeuropeos_iberia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "place_meseta_oriental",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "place_numancia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_celtiberians",
+    "source_type": "civilization",
+    "target_id": "person_celtiberos",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_argantonio",
+    "source_type": "person",
+    "target_id": "topic_argantonio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_argantonio",
+    "source_type": "person",
+    "target_id": "topic_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_argantonio",
+    "source_type": "person",
+    "target_id": "place_tartessos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_argantonio",
+    "source_type": "person",
+    "target_id": "place_guadalquivir",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_argantonio",
+    "source_type": "person",
+    "target_id": "ep_tartessos_argantonio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "topic_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "topic_turdetanos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "topic_fenicios_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "place_tartessos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "place_huelva",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tartesios",
+    "source_type": "person",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_viriato",
+    "source_type": "person",
+    "target_id": "topic_lusitanos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_viriato",
+    "source_type": "person",
+    "target_id": "topic_pueblos_prerromanos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_viriato",
+    "source_type": "person",
+    "target_id": "place_lusitania",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_viriato",
+    "source_type": "person",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "topic_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "topic_fenicios_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "person_argantonio",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "person_tartesios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tartessos",
+    "source_type": "place",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_huelva",
+    "source_type": "place",
+    "target_id": "topic_huelva_protohistorica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_huelva",
+    "source_type": "place",
+    "target_id": "topic_mineria_iberica_antigua",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_huelva",
+    "source_type": "place",
+    "target_id": "person_tartesios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_huelva",
+    "source_type": "place",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_guadalquivir",
+    "source_type": "place",
+    "target_id": "topic_guadalquivir_protohistorico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guadalquivir",
+    "source_type": "place",
+    "target_id": "topic_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guadalquivir",
+    "source_type": "place",
+    "target_id": "person_argantonio",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_guadalquivir",
+    "source_type": "place",
+    "target_id": "ep_histocast_tartessos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_carambolo",
+    "source_type": "place",
+    "target_id": "topic_carambolo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_carambolo",
+    "source_type": "place",
+    "target_id": "topic_fenicios_tartessos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_carambolo",
+    "source_type": "place",
+    "target_id": "person_tartesios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_carambolo",
+    "source_type": "place",
+    "target_id": "ep_tartessos_huelva_carambolo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_cancho_roano",
+    "source_type": "place",
+    "target_id": "topic_cancho_roano",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cancho_roano",
+    "source_type": "place",
+    "target_id": "topic_tartessos_final",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cancho_roano",
+    "source_type": "place",
+    "target_id": "person_tartesios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cancho_roano",
+    "source_type": "place",
+    "target_id": "ep_cancho_roano_tartessos_final",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_lusitania",
+    "source_type": "place",
+    "target_id": "topic_lusitanos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lusitania",
+    "source_type": "place",
+    "target_id": "topic_pueblos_prerromanos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lusitania",
+    "source_type": "place",
+    "target_id": "person_viriato",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_lusitania",
+    "source_type": "place",
+    "target_id": "ep_pueblos_prerromanos_iberia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_guerras_punicas_contexto",
+    "source_type": "topic",
+    "target_id": "topic_tartessos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_tartessos",
+    "source_type": "topic",
+    "target_id": "topic_fenicios_tartessos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_fenicios_tartessos",
+    "source_type": "topic",
+    "target_id": "topic_carambolo",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_carambolo",
+    "source_type": "topic",
+    "target_id": "topic_cancho_roano",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_cancho_roano",
+    "source_type": "topic",
+    "target_id": "topic_iberia_protohistorica",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_iberia_protohistorica",
+    "source_type": "topic",
+    "target_id": "topic_iberos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_celtiberos",
+    "source_type": "topic",
+    "target_id": "topic_pueblos_prerromanos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_pueblos_prerromanos",
+    "source_type": "topic",
+    "target_id": "topic_griegos_iberia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_griegos_iberia",
+    "source_type": "topic",
+    "target_id": "topic_colapso_bronce_final_oriente",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]

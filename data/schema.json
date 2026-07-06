@@ -1,8 +1,8 @@
 {
-  "version": "4.11",
-  "description": "Periodo 02. Subperiodo 11 activo: Cartago.",
+  "version": "4.12",
+  "description": "Periodo 02. Subperiodo 12 activo: Tartessos e Iberia protohistórica.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 128,
+  "episode_count": 135,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 114,
-  "places_count": 129,
-  "topics_count": 417,
-  "relations_count": 2897,
-  "status": "phase02_sub0211_active",
-  "civilizations_count": 24
+  "people_count": 117,
+  "places_count": 135,
+  "topics_count": 434,
+  "relations_count": 3048,
+  "status": "phase02_sub0212_active",
+  "civilizations_count": 27
 }

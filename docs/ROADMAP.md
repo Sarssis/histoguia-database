@@ -17,6 +17,7 @@
 - sub_0209: Hebreos e Israel antiguo
 - sub_0210: Persia aqueménida
 - sub_0211: Cartago
+- sub_0212: Tartessos e Iberia protohistórica
 
 ## Siguiente subperiodo sugerido
-- sub_0212: Tartessos e Iberia protohistórica
+- sub_0213: El colapso de la Edad del Bronce y el nacimiento del mundo clásico
