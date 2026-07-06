@@ -174,5 +174,14 @@
     "date_range": "c. 1700-1180 a.C.",
     "summary": "Hititas, Mitanni, hurritas, Ugarit, Hattusa, diplomacia internacional, Qadesh y crisis del Bronce Final.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0208",
+    "phase_id": "phase_02",
+    "order": 8,
+    "name": "Fenicios y expansión mediterránea",
+    "date_range": "c. 1200-600 a.C.",
+    "summary": "Fenicia, Tiro, Sidón, Biblos, navegación, comercio, alfabeto, púrpura, colonización mediterránea, Gadir y fundación de Cartago.",
+    "status": "content_seeded"
   }
 ]

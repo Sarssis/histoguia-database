@@ -1,8 +1,8 @@
 {
-  "version": "4.7",
-  "description": "Periodo 02. Subperiodo 7 activo: Hititas, Mitanni y otros reinos de Anatolia y Siria.",
+  "version": "4.8",
+  "description": "Periodo 02. Subperiodo 8 activo: Fenicios y expansión mediterránea.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 102,
+  "episode_count": 108,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 90,
-  "places_count": 99,
-  "topics_count": 323,
-  "relations_count": 2193,
-  "status": "phase02_sub0207_active",
-  "civilizations_count": 16
+  "people_count": 92,
+  "places_count": 106,
+  "topics_count": 341,
+  "relations_count": 2338,
+  "status": "phase02_sub0208_active",
+  "civilizations_count": 18
 }

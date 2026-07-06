@@ -1884,5 +1884,47 @@
     "related_episodes": [
       "ep_mitanni_hurritas"
     ]
+  },
+  {
+    "id": "person_hiram_i",
+    "name": "Hiram I de Tiro",
+    "type": "ruler",
+    "category": "phoenician_king",
+    "scientific_name": "",
+    "dates": "c. siglo X a.C.",
+    "period": "Fenicia",
+    "summary": "Rey de Tiro asociado a la expansión y prosperidad fenicia y a tradiciones bíblicas sobre Salomón.",
+    "related_topics": [
+      "topic_hiram_i",
+      "topic_tiro",
+      "topic_expansion_fenicia"
+    ],
+    "related_places": [
+      "place_tiro"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios_expansion"
+    ]
+  },
+  {
+    "id": "person_elissa_dido",
+    "name": "Elissa / Dido",
+    "type": "legendary_founder",
+    "category": "phoenician_legend",
+    "scientific_name": "",
+    "dates": "Tradición legendaria",
+    "period": "Fundación de Cartago",
+    "summary": "Figura legendaria vinculada a la fundación de Cartago según la tradición clásica.",
+    "related_topics": [
+      "topic_elissa_dido",
+      "topic_cartago_fundacion"
+    ],
+    "related_places": [
+      "place_cartago",
+      "place_tiro"
+    ],
+    "related_episodes": [
+      "ep_cartago_fundacion_fenicia"
+    ]
   }
 ]

@@ -2905,5 +2905,167 @@
       "phase_02"
     ],
     "summary": "Colapso del Bronce Final en Oriente"
+  },
+  {
+    "id": "topic_fenicia",
+    "name": "Fenicia",
+    "type": "region_civilization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Región costera levantina formada por ciudades como Tiro, Sidón y Biblos."
+  },
+  {
+    "id": "topic_expansion_fenicia",
+    "name": "Expansión fenicia",
+    "type": "historical_process",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Proceso de navegación, comercio y fundación de enclaves fenicios por el Mediterráneo."
+  },
+  {
+    "id": "topic_colonizacion_fenicia",
+    "name": "Colonización fenicia",
+    "type": "colonization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fundación de factorías y ciudades fenicias en Chipre, norte de África, Sicilia, Cerdeña, Iberia y otros puntos."
+  },
+  {
+    "id": "topic_tiro",
+    "name": "Tiro",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad fenicia clave en la expansión comercial mediterránea."
+  },
+  {
+    "id": "topic_sidon",
+    "name": "Sidón",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad fenicia importante por su comercio, artesanía y prestigio en el Levante."
+  },
+  {
+    "id": "topic_biblos",
+    "name": "Biblos",
+    "type": "city",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Ciudad levantina vinculada al comercio, escritura y relaciones con Egipto."
+  },
+  {
+    "id": "topic_hiram_i",
+    "name": "Hiram I de Tiro",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Rey de Tiro asociado a la prosperidad fenicia y a tradiciones bíblicas."
+  },
+  {
+    "id": "topic_alfabeto_fenicio",
+    "name": "Alfabeto fenicio",
+    "type": "writing_system",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Sistema alfabético consonántico difundido por los fenicios y clave para escrituras mediterráneas posteriores."
+  },
+  {
+    "id": "topic_purpura_tiro",
+    "name": "Púrpura de Tiro",
+    "type": "luxury_good",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Tinte de alto valor asociado a producción fenicia y comercio de prestigio."
+  },
+  {
+    "id": "topic_navegacion_fenicia",
+    "name": "Navegación fenicia",
+    "type": "maritime_technology",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Técnicas y rutas marítimas que permitieron la expansión comercial fenicia."
+  },
+  {
+    "id": "topic_comercio_fenicio",
+    "name": "Comercio fenicio",
+    "type": "economy",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Redes de intercambio de metales, textiles, cerámica, vino, aceite, productos de lujo y materias primas."
+  },
+  {
+    "id": "topic_cartago_fundacion",
+    "name": "Fundación de Cartago",
+    "type": "foundation",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fundación fenicia tradicionalmente vinculada a Tiro y al Mediterráneo central."
+  },
+  {
+    "id": "topic_elissa_dido",
+    "name": "Elissa / Dido",
+    "type": "legendary_figure",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Figura legendaria asociada a la fundación de Cartago."
+  },
+  {
+    "id": "topic_cadiz_fenicia",
+    "name": "Cádiz fenicia",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Área urbana vinculada a la antigua Gadir y a la presencia fenicia en Iberia."
+  },
+  {
+    "id": "topic_mediterraneo_fenicio",
+    "name": "Mediterráneo fenicio",
+    "type": "regional_network",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Espacio de rutas marítimas, colonias y contactos fenicios."
+  },
+  {
+    "id": "topic_fenicios_iberia",
+    "name": "Fenicios en Iberia",
+    "type": "colonization",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Presencia fenicia en el sur y suroeste de la península ibérica."
+  },
+  {
+    "id": "topic_malaga_fenicia",
+    "name": "Malaka fenicia",
+    "type": "site_topic",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Fundación fenicia vinculada a la actual Málaga."
+  },
+  {
+    "id": "topic_semitas_levante",
+    "name": "Semitas del Levante",
+    "type": "people_group",
+    "phase_ids": [
+      "phase_02"
+    ],
+    "summary": "Pueblos semíticos del Próximo Oriente y Levante durante la Edad del Bronce y del Hierro."
   }
 ]

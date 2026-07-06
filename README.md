@@ -1,24 +1,24 @@
-# Histoguía Database · phase_02 sub_0207 v4.7
+# Histoguía Database · phase_02 sub_0208 v4.8
 
 ## Subperiodo activado
 
-**7. Hititas, Mitanni y otros reinos de Anatolia y Siria**
+**8. Fenicios y expansión mediterránea**
 
 ## Episodios añadidos
 
-- Los hititas
-- V388 Hititas, el imperio de Anatolia
-- Mitanni y los hurritas
-- La batalla de Qadesh: Egipto contra los hititas
-- Ugarit y los archivos del Bronce Final
-- El colapso del Bronce Final en Anatolia y Siria
+- Fenicios
+- V389 Fenicios y expansión mediterránea
+- Los Fenicios
+- El alfabeto fenicio
+- Los fenicios en la península ibérica: Gadir y el comercio atlántico
+- La fundación fenicia de Cartago
 
 ## Totales
 
-- Episodios totales: 102
-- Episodios del subperiodo 0207: 6
-- Civilizaciones: 16
-- Temas: 323
-- Personas: 90
-- Lugares: 99
-- Relaciones: 2193
+- Episodios totales: 108
+- Episodios del subperiodo 0208: 6
+- Civilizaciones: 18
+- Temas: 341
+- Personas: 92
+- Lugares: 106
+- Relaciones: 2338

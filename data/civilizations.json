@@ -355,5 +355,51 @@
       "place_ugarit"
     ],
     "related_people": []
+  },
+  {
+    "id": "civ_phoenicia",
+    "name": "Fenicia",
+    "type": "city_state_network",
+    "date_range": "c. 1200-539 a.C.",
+    "region": "Levante mediterráneo",
+    "summary": "Red de ciudades fenicias como Tiro, Sidón y Biblos, destacada por navegación, comercio, alfabeto y expansión colonial.",
+    "related_topics": [
+      "topic_fenicia",
+      "topic_fenicios",
+      "topic_expansion_fenicia",
+      "topic_alfabeto_fenicio"
+    ],
+    "related_places": [
+      "place_fenicia",
+      "place_tiro",
+      "place_sidon",
+      "place_biblos"
+    ],
+    "related_people": [
+      "person_hiram_i"
+    ]
+  },
+  {
+    "id": "civ_phoenician_colonies",
+    "name": "Colonias fenicias",
+    "type": "colonial_network",
+    "date_range": "c. 1000-600 a.C.",
+    "region": "Mediterráneo",
+    "summary": "Red de enclaves fenicios en el Mediterráneo central y occidental, incluyendo Gadir, Malaka y Cartago.",
+    "related_topics": [
+      "topic_colonizacion_fenicia",
+      "topic_gadir",
+      "topic_cartago_fundacion",
+      "topic_fenicios_iberia"
+    ],
+    "related_places": [
+      "place_gadir",
+      "place_cartago",
+      "place_malaka",
+      "place_mediterraneo_occidental"
+    ],
+    "related_people": [
+      "person_elissa_dido"
+    ]
   }
 ]

@@ -218,7 +218,13 @@
       "ep_mitanni_hurritas",
       "ep_qadesh_hititas_egipto",
       "ep_ugarit_bronce_final",
-      "ep_colapso_bronce_anatolia_siria"
+      "ep_colapso_bronce_anatolia_siria",
+      "ep_histocast_fenicios_expansion",
+      "ep_v389_fenicios_mediterraneo",
+      "ep_memorias_pez_fenicios",
+      "ep_alfabeto_fenicio",
+      "ep_fenicios_iberia_gadir",
+      "ep_cartago_fundacion_fenicia"
     ],
     "topic_ids": [
       "topic_edad_hierro",
@@ -279,8 +285,18 @@
       "topic_tratado_qadesh",
       "topic_ugarit",
       "topic_colapso_bronce_final_oriente",
-      "topic_fenicios_peninsula"
+      "topic_fenicios_peninsula",
+      "topic_fenicia",
+      "topic_fenicios",
+      "topic_tiro",
+      "topic_alfabeto_fenicio",
+      "topic_navegacion_fenicia",
+      "topic_expansion_fenicia",
+      "topic_colonizacion_fenicia",
+      "topic_gadir",
+      "topic_cartago_fundacion",
+      "topic_hebreos"
     ],
-    "status": "sub0207_active"
+    "status": "sub0208_active"
   }
 ]

@@ -1797,5 +1797,134 @@
     "related_episodes": [
       "ep_ugarit_bronce_final"
     ]
+  },
+  {
+    "id": "place_fenicia",
+    "name": "Fenicia",
+    "type": "region",
+    "modern_location": "Costa del Líbano y Levante",
+    "summary": "Región costera levantina formada por ciudades-estado como Tiro, Sidón y Biblos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_fenicia",
+      "topic_fenicios"
+    ],
+    "related_people": [
+      "person_fenicios",
+      "person_hiram_i"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios_expansion"
+    ]
+  },
+  {
+    "id": "place_tiro",
+    "name": "Tiro",
+    "type": "city",
+    "modern_location": "Líbano",
+    "summary": "Ciudad fenicia clave en la expansión comercial y colonial mediterránea.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_tiro",
+      "topic_purpura_tiro"
+    ],
+    "related_people": [
+      "person_hiram_i"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios_expansion",
+      "ep_cartago_fundacion_fenicia"
+    ]
+  },
+  {
+    "id": "place_sidon",
+    "name": "Sidón",
+    "type": "city",
+    "modern_location": "Líbano",
+    "summary": "Ciudad fenicia importante por comercio, artesanía y redes marítimas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_sidon",
+      "topic_fenicia"
+    ],
+    "related_people": [
+      "person_fenicios"
+    ],
+    "related_episodes": [
+      "ep_memorias_pez_fenicios"
+    ]
+  },
+  {
+    "id": "place_biblos",
+    "name": "Biblos",
+    "type": "city",
+    "modern_location": "Líbano",
+    "summary": "Ciudad levantina vinculada a comercio, escritura y contactos con Egipto.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_biblos",
+      "topic_alfabeto_fenicio"
+    ],
+    "related_people": [
+      "person_fenicios"
+    ],
+    "related_episodes": [
+      "ep_alfabeto_fenicio"
+    ]
+  },
+  {
+    "id": "place_malaka",
+    "name": "Malaka",
+    "type": "city",
+    "modern_location": "Málaga, España",
+    "summary": "Enclave fenicio vinculado a la actual Málaga.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_malaga_fenicia",
+      "topic_fenicios_iberia"
+    ],
+    "related_people": [
+      "person_fenicios"
+    ],
+    "related_episodes": [
+      "ep_fenicios_iberia_gadir"
+    ]
+  },
+  {
+    "id": "place_cartago",
+    "name": "Cartago",
+    "type": "city",
+    "modern_location": "Túnez",
+    "summary": "Fundación fenicia en el norte de África que más tarde desarrollará una potencia mediterránea propia.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_cartago_fundacion",
+      "topic_elissa_dido"
+    ],
+    "related_people": [
+      "person_elissa_dido",
+      "person_fenicios"
+    ],
+    "related_episodes": [
+      "ep_cartago_fundacion_fenicia"
+    ]
+  },
+  {
+    "id": "place_chipre_fenicia",
+    "name": "Chipre fenicia",
+    "type": "region",
+    "modern_location": "Chipre",
+    "summary": "Isla clave en las rutas y contactos fenicios del Mediterráneo oriental.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_expansion_fenicia",
+      "topic_mediterraneo_fenicio"
+    ],
+    "related_people": [
+      "person_fenicios"
+    ],
+    "related_episodes": [
+      "ep_histocast_fenicios_expansion"
+    ]
   }
 ]

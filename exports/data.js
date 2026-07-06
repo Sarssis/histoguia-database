@@ -305,6 +305,15 @@ const DATA = {
       "date_range": "c. 1700-1180 a.C.",
       "summary": "Hititas, Mitanni, hurritas, Ugarit, Hattusa, diplomacia internacional, Qadesh y crisis del Bronce Final.",
       "status": "content_seeded"
+    },
+    {
+      "id": "sub_0208",
+      "phase_id": "phase_02",
+      "order": 8,
+      "name": "Fenicios y expansión mediterránea",
+      "date_range": "c. 1200-600 a.C.",
+      "summary": "Fenicia, Tiro, Sidón, Biblos, navegación, comercio, alfabeto, púrpura, colonización mediterránea, Gadir y fundación de Cartago.",
+      "status": "content_seeded"
     }
   ],
   "topics": [
@@ -3214,6 +3223,168 @@ const DATA = {
         "phase_02"
       ],
       "summary": "Colapso del Bronce Final en Oriente"
+    },
+    {
+      "id": "topic_fenicia",
+      "name": "Fenicia",
+      "type": "region_civilization",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Región costera levantina formada por ciudades como Tiro, Sidón y Biblos."
+    },
+    {
+      "id": "topic_expansion_fenicia",
+      "name": "Expansión fenicia",
+      "type": "historical_process",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Proceso de navegación, comercio y fundación de enclaves fenicios por el Mediterráneo."
+    },
+    {
+      "id": "topic_colonizacion_fenicia",
+      "name": "Colonización fenicia",
+      "type": "colonization",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fundación de factorías y ciudades fenicias en Chipre, norte de África, Sicilia, Cerdeña, Iberia y otros puntos."
+    },
+    {
+      "id": "topic_tiro",
+      "name": "Tiro",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad fenicia clave en la expansión comercial mediterránea."
+    },
+    {
+      "id": "topic_sidon",
+      "name": "Sidón",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad fenicia importante por su comercio, artesanía y prestigio en el Levante."
+    },
+    {
+      "id": "topic_biblos",
+      "name": "Biblos",
+      "type": "city",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Ciudad levantina vinculada al comercio, escritura y relaciones con Egipto."
+    },
+    {
+      "id": "topic_hiram_i",
+      "name": "Hiram I de Tiro",
+      "type": "ruler",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Rey de Tiro asociado a la prosperidad fenicia y a tradiciones bíblicas."
+    },
+    {
+      "id": "topic_alfabeto_fenicio",
+      "name": "Alfabeto fenicio",
+      "type": "writing_system",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Sistema alfabético consonántico difundido por los fenicios y clave para escrituras mediterráneas posteriores."
+    },
+    {
+      "id": "topic_purpura_tiro",
+      "name": "Púrpura de Tiro",
+      "type": "luxury_good",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Tinte de alto valor asociado a producción fenicia y comercio de prestigio."
+    },
+    {
+      "id": "topic_navegacion_fenicia",
+      "name": "Navegación fenicia",
+      "type": "maritime_technology",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Técnicas y rutas marítimas que permitieron la expansión comercial fenicia."
+    },
+    {
+      "id": "topic_comercio_fenicio",
+      "name": "Comercio fenicio",
+      "type": "economy",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Redes de intercambio de metales, textiles, cerámica, vino, aceite, productos de lujo y materias primas."
+    },
+    {
+      "id": "topic_cartago_fundacion",
+      "name": "Fundación de Cartago",
+      "type": "foundation",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fundación fenicia tradicionalmente vinculada a Tiro y al Mediterráneo central."
+    },
+    {
+      "id": "topic_elissa_dido",
+      "name": "Elissa / Dido",
+      "type": "legendary_figure",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Figura legendaria asociada a la fundación de Cartago."
+    },
+    {
+      "id": "topic_cadiz_fenicia",
+      "name": "Cádiz fenicia",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Área urbana vinculada a la antigua Gadir y a la presencia fenicia en Iberia."
+    },
+    {
+      "id": "topic_mediterraneo_fenicio",
+      "name": "Mediterráneo fenicio",
+      "type": "regional_network",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Espacio de rutas marítimas, colonias y contactos fenicios."
+    },
+    {
+      "id": "topic_fenicios_iberia",
+      "name": "Fenicios en Iberia",
+      "type": "colonization",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Presencia fenicia en el sur y suroeste de la península ibérica."
+    },
+    {
+      "id": "topic_malaga_fenicia",
+      "name": "Malaka fenicia",
+      "type": "site_topic",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Fundación fenicia vinculada a la actual Málaga."
+    },
+    {
+      "id": "topic_semitas_levante",
+      "name": "Semitas del Levante",
+      "type": "people_group",
+      "phase_ids": [
+        "phase_02"
+      ],
+      "summary": "Pueblos semíticos del Próximo Oriente y Levante durante la Edad del Bronce y del Hierro."
     }
   ],
   "episodes": [
@@ -11675,6 +11846,498 @@ const DATA = {
         "hititas",
         "ugarit"
       ]
+    },
+    {
+      "id": "ep_histocast_fenicios_expansion",
+      "podcast_id": "pod_histocast",
+      "podcast_name": "HistoCast",
+      "episode_code": "",
+      "title": "Fenicios",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0208",
+      "main_topic_id": "topic_fenicios",
+      "topic_ids": [
+        "topic_fenicios",
+        "topic_fenicia",
+        "topic_tiro",
+        "topic_sidon",
+        "topic_biblos",
+        "topic_expansion_fenicia",
+        "topic_colonizacion_fenicia"
+      ],
+      "people_ids": [
+        "person_fenicios",
+        "person_hiram_i"
+      ],
+      "place_ids": [
+        "place_fenicia",
+        "place_tiro",
+        "place_sidon",
+        "place_biblos"
+      ],
+      "civilization_ids": [
+        "civ_phoenicia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2013",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/histocast-48-fenicios-audios-mp3_rf_1966725_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "1966725",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio troncal sobre los fenicios: ciudades del Levante, comercio, navegación, alfabeto, expansión y colonización mediterránea.",
+      "learn": [
+        "Conocer el origen levantino de los fenicios.",
+        "Relacionar Tiro, Sidón y Biblos con comercio marítimo.",
+        "Comprender la expansión fenicia por el Mediterráneo.",
+        "Conectar alfabeto, comercio y colonización."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "fenicios",
+        "tiro",
+        "sidón",
+        "biblos",
+        "colonización fenicia"
+      ]
+    },
+    {
+      "id": "ep_v389_fenicios_mediterraneo",
+      "podcast_id": "pod_victoria_historia",
+      "podcast_name": "Victoria Podcast Historia",
+      "episode_code": "",
+      "title": "V389 Fenicios y expansión mediterránea",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0208",
+      "main_topic_id": "topic_expansion_fenicia",
+      "topic_ids": [
+        "topic_expansion_fenicia",
+        "topic_colonizacion_fenicia",
+        "topic_mediterraneo_fenicio",
+        "topic_comercio_fenicio",
+        "topic_navegacion_fenicia"
+      ],
+      "people_ids": [
+        "person_fenicios"
+      ],
+      "place_ids": [
+        "place_fenicia",
+        "place_tiro",
+        "place_chipre_fenicia",
+        "place_gadir",
+        "place_cartago"
+      ],
+      "civilization_ids": [
+        "civ_phoenicia",
+        "civ_phoenician_colonies"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2024",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 3,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/v389-127774-fenicios-expansion-mediterranea-audios-mp3_rf_130948667_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "130948667",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de refuerzo sobre la expansión fenicia por el Mediterráneo, desde las ciudades levantinas hasta las colonias occidentales.",
+      "learn": [
+        "Entender la lógica de las rutas fenicias.",
+        "Relacionar comercio, metales y enclaves costeros.",
+        "Situar la expansión tras la crisis del Bronce Final.",
+        "Preparar Gadir y Cartago."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "fenicios",
+        "expansión mediterránea",
+        "colonias",
+        "comercio"
+      ]
+    },
+    {
+      "id": "ep_memorias_pez_fenicios",
+      "podcast_id": "pod_memorias_pez",
+      "podcast_name": "Memorias de Pez",
+      "episode_code": "",
+      "title": "Los Fenicios",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0208",
+      "main_topic_id": "topic_fenicia",
+      "topic_ids": [
+        "topic_fenicia",
+        "topic_fenicios",
+        "topic_navegacion_fenicia",
+        "topic_comercio_fenicio"
+      ],
+      "people_ids": [
+        "person_fenicios"
+      ],
+      "place_ids": [
+        "place_fenicia",
+        "place_tiro",
+        "place_sidon"
+      ],
+      "civilization_ids": [
+        "civ_phoenicia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "2020",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "partial",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 1,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/fenicios-audios-mp3_rf_58115198_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "58115198",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio divulgativo de apoyo para fijar la imagen general de los fenicios como navegantes, comerciantes y transmisores culturales.",
+      "learn": [
+        "Repasar quiénes fueron los fenicios.",
+        "Comprender su papel como navegantes.",
+        "Distinguir ciudad-estado y colonia.",
+        "Usar como síntesis divulgativa."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "fenicios",
+        "navegantes",
+        "comerciantes",
+        "mediterráneo"
+      ]
+    },
+    {
+      "id": "ep_alfabeto_fenicio",
+      "podcast_id": "pod_historia_universal",
+      "podcast_name": "Historia Universal",
+      "episode_code": "",
+      "title": "El alfabeto fenicio",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0208",
+      "main_topic_id": "topic_alfabeto_fenicio",
+      "topic_ids": [
+        "topic_alfabeto_fenicio",
+        "topic_biblos",
+        "topic_fenicios",
+        "topic_comercio_fenicio"
+      ],
+      "people_ids": [
+        "person_fenicios"
+      ],
+      "place_ids": [
+        "place_biblos",
+        "place_fenicia"
+      ],
+      "civilization_ids": [
+        "civ_phoenicia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/alfabeto-fenicio-audios-mp3_rf_3604942_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "3604942",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Cápsula centrada en el alfabeto fenicio y su impacto en las escrituras mediterráneas posteriores.",
+      "learn": [
+        "Comprender qué fue el alfabeto fenicio.",
+        "Relacionarlo con comercio y administración.",
+        "Conectar Fenicia con Grecia y Roma.",
+        "Valorar su importancia cultural."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "alfabeto fenicio",
+        "escritura",
+        "biblos",
+        "mediterráneo"
+      ]
+    },
+    {
+      "id": "ep_fenicios_iberia_gadir",
+      "podcast_id": "pod_antena_historia",
+      "podcast_name": "Antena Historia",
+      "episode_code": "",
+      "title": "Los fenicios en la península ibérica: Gadir y el comercio atlántico",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0208",
+      "main_topic_id": "topic_fenicios_iberia",
+      "topic_ids": [
+        "topic_fenicios_iberia",
+        "topic_gadir",
+        "topic_cadiz_fenicia",
+        "topic_malaga_fenicia",
+        "topic_comercio_fenicio"
+      ],
+      "people_ids": [
+        "person_fenicios"
+      ],
+      "place_ids": [
+        "place_gadir",
+        "place_cadiz",
+        "place_malaka"
+      ],
+      "civilization_ids": [
+        "civ_phoenician_colonies",
+        "civ_phoenicia"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 3,
+      "difficulty": 2,
+      "depth": 2,
+      "editor_rating": 5,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/fenicios-peninsula-iberica-gadir-comercio-atlantico-audios-mp3_rf_4908401_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "4908401",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio dedicado a la presencia fenicia en Iberia, con Gadir como eje y el comercio de metales, rutas atlánticas y contactos indígenas.",
+      "learn": [
+        "Situar Gadir dentro de la expansión fenicia.",
+        "Relacionar Cádiz, metales y comercio atlántico.",
+        "Conocer otros enclaves fenicios en Iberia.",
+        "Preparar Tartessos e Iberia protohistórica."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "gadir",
+        "cádiz",
+        "fenicios en iberia",
+        "comercio atlántico"
+      ]
+    },
+    {
+      "id": "ep_cartago_fundacion_fenicia",
+      "podcast_id": "pod_documentalia",
+      "podcast_name": "Documentalia",
+      "episode_code": "",
+      "title": "La fundación fenicia de Cartago",
+      "phase_id": "phase_02",
+      "subperiod_id": "sub_0208",
+      "main_topic_id": "topic_cartago_fundacion",
+      "topic_ids": [
+        "topic_cartago_fundacion",
+        "topic_elissa_dido",
+        "topic_tiro",
+        "topic_colonizacion_fenicia"
+      ],
+      "people_ids": [
+        "person_elissa_dido",
+        "person_fenicios"
+      ],
+      "place_ids": [
+        "place_cartago",
+        "place_tiro"
+      ],
+      "civilization_ids": [
+        "civ_phoenician_colonies"
+      ],
+      "event_ids": [],
+      "duration": "",
+      "duration_minutes": null,
+      "published": "",
+      "language": "es",
+      "status": "verified",
+      "metadata_status": {
+        "duration": "pending",
+        "published": "pending",
+        "language": "verified",
+        "editorial_scoring": "verified"
+      },
+      "priority": 2,
+      "difficulty": 1,
+      "depth": 2,
+      "editor_rating": 4,
+      "links": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "https://www.ivoox.com/fundacion-fenicia-cartago-audios-mp3_rf_64104421_1.html",
+        "youtube": "",
+        "web": ""
+      },
+      "platform_ids": {
+        "apple": "",
+        "spotify": "",
+        "ivoox": "64104421",
+        "youtube": "",
+        "web": ""
+      },
+      "verification": {
+        "apple": "not_available",
+        "spotify": "not_available",
+        "ivoox": "verified",
+        "youtube": "not_available",
+        "web": "not_available"
+      },
+      "summary": "Episodio de transición hacia Cartago. Presenta la tradición de Elissa/Dido, la fundación de Cartago y su origen dentro de las redes coloniales fenicias.",
+      "learn": [
+        "Entender Cartago como fundación fenicia.",
+        "Relacionar Tiro, Elissa/Dido y el Mediterráneo central.",
+        "Distinguir fundación legendaria y desarrollo histórico.",
+        "Preparar el subperiodo específico de Cartago."
+      ],
+      "listen_before": [],
+      "listen_after": [],
+      "related_topics": [],
+      "keywords": [
+        "cartago",
+        "dido",
+        "elissa",
+        "tiro",
+        "fenicios"
+      ]
     }
   ],
   "civilizations": [
@@ -12034,6 +12697,52 @@ const DATA = {
         "place_ugarit"
       ],
       "related_people": []
+    },
+    {
+      "id": "civ_phoenicia",
+      "name": "Fenicia",
+      "type": "city_state_network",
+      "date_range": "c. 1200-539 a.C.",
+      "region": "Levante mediterráneo",
+      "summary": "Red de ciudades fenicias como Tiro, Sidón y Biblos, destacada por navegación, comercio, alfabeto y expansión colonial.",
+      "related_topics": [
+        "topic_fenicia",
+        "topic_fenicios",
+        "topic_expansion_fenicia",
+        "topic_alfabeto_fenicio"
+      ],
+      "related_places": [
+        "place_fenicia",
+        "place_tiro",
+        "place_sidon",
+        "place_biblos"
+      ],
+      "related_people": [
+        "person_hiram_i"
+      ]
+    },
+    {
+      "id": "civ_phoenician_colonies",
+      "name": "Colonias fenicias",
+      "type": "colonial_network",
+      "date_range": "c. 1000-600 a.C.",
+      "region": "Mediterráneo",
+      "summary": "Red de enclaves fenicios en el Mediterráneo central y occidental, incluyendo Gadir, Malaka y Cartago.",
+      "related_topics": [
+        "topic_colonizacion_fenicia",
+        "topic_gadir",
+        "topic_cartago_fundacion",
+        "topic_fenicios_iberia"
+      ],
+      "related_places": [
+        "place_gadir",
+        "place_cartago",
+        "place_malaka",
+        "place_mediterraneo_occidental"
+      ],
+      "related_people": [
+        "person_elissa_dido"
+      ]
     }
   ]
 };

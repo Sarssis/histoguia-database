@@ -15349,5 +15349,1020 @@
     "target_id": "topic_fenicios_peninsula",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0208",
+    "source_type": "subperiod",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fenicios",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tiro",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_sidon",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_biblos",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_expansion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_colonizacion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_hiram_i",
+    "source_type": "person",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sidon",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_biblos",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0208",
+    "source_type": "subperiod",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_expansion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_colonizacion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mediterraneo_fenicio",
+    "source_type": "topic",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_comercio_fenicio",
+    "source_type": "topic",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_navegacion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_chipre_fenicia",
+    "source_type": "place",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "ep_v389_fenicios_mediterraneo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0208",
+    "source_type": "subperiod",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fenicios",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_navegacion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_comercio_fenicio",
+    "source_type": "topic",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_sidon",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0208",
+    "source_type": "subperiod",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_alfabeto_fenicio",
+    "source_type": "topic",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_biblos",
+    "source_type": "topic",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_fenicios",
+    "source_type": "topic",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_comercio_fenicio",
+    "source_type": "topic",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_biblos",
+    "source_type": "place",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0208",
+    "source_type": "subperiod",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_fenicios_iberia",
+    "source_type": "topic",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_gadir",
+    "source_type": "topic",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_cadiz_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_malaga_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_comercio_fenicio",
+    "source_type": "topic",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_gadir",
+    "source_type": "place",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cadiz",
+    "source_type": "place",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_malaka",
+    "source_type": "place",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0208",
+    "source_type": "subperiod",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_cartago_fundacion",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_elissa_dido",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tiro",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_colonizacion_fenicia",
+    "source_type": "topic",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_elissa_dido",
+    "source_type": "person",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_fenicios",
+    "source_type": "person",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "topic_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "topic_fenicios",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "topic_expansion_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "topic_alfabeto_fenicio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "place_fenicia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "place_tiro",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "place_sidon",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "place_biblos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenicia",
+    "source_type": "civilization",
+    "target_id": "person_hiram_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "topic_colonizacion_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "topic_gadir",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "topic_cartago_fundacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "topic_fenicios_iberia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "place_gadir",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "place_malaka",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "place_mediterraneo_occidental",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_phoenician_colonies",
+    "source_type": "civilization",
+    "target_id": "person_elissa_dido",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiram_i",
+    "source_type": "person",
+    "target_id": "topic_hiram_i",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiram_i",
+    "source_type": "person",
+    "target_id": "topic_tiro",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiram_i",
+    "source_type": "person",
+    "target_id": "topic_expansion_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiram_i",
+    "source_type": "person",
+    "target_id": "place_tiro",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiram_i",
+    "source_type": "person",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_elissa_dido",
+    "source_type": "person",
+    "target_id": "topic_elissa_dido",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_elissa_dido",
+    "source_type": "person",
+    "target_id": "topic_cartago_fundacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_elissa_dido",
+    "source_type": "person",
+    "target_id": "place_cartago",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_elissa_dido",
+    "source_type": "person",
+    "target_id": "place_tiro",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_elissa_dido",
+    "source_type": "person",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "topic_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "topic_fenicios",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "person_hiram_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_fenicia",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "topic_tiro",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "topic_purpura_tiro",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "person_hiram_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_tiro",
+    "source_type": "place",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_sidon",
+    "source_type": "place",
+    "target_id": "topic_sidon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sidon",
+    "source_type": "place",
+    "target_id": "topic_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sidon",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_sidon",
+    "source_type": "place",
+    "target_id": "ep_memorias_pez_fenicios",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_biblos",
+    "source_type": "place",
+    "target_id": "topic_biblos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_biblos",
+    "source_type": "place",
+    "target_id": "topic_alfabeto_fenicio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_biblos",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_biblos",
+    "source_type": "place",
+    "target_id": "ep_alfabeto_fenicio",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_malaka",
+    "source_type": "place",
+    "target_id": "topic_malaga_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_malaka",
+    "source_type": "place",
+    "target_id": "topic_fenicios_iberia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_malaka",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_malaka",
+    "source_type": "place",
+    "target_id": "ep_fenicios_iberia_gadir",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "topic_cartago_fundacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "topic_elissa_dido",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "person_elissa_dido",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_cartago",
+    "source_type": "place",
+    "target_id": "ep_cartago_fundacion_fenicia",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_chipre_fenicia",
+    "source_type": "place",
+    "target_id": "topic_expansion_fenicia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_chipre_fenicia",
+    "source_type": "place",
+    "target_id": "topic_mediterraneo_fenicio",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_chipre_fenicia",
+    "source_type": "place",
+    "target_id": "person_fenicios",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_chipre_fenicia",
+    "source_type": "place",
+    "target_id": "ep_histocast_fenicios_expansion",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_colapso_bronce_final_oriente",
+    "source_type": "topic",
+    "target_id": "topic_fenicia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_fenicia",
+    "source_type": "topic",
+    "target_id": "topic_fenicios",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_fenicios",
+    "source_type": "topic",
+    "target_id": "topic_tiro",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_tiro",
+    "source_type": "topic",
+    "target_id": "topic_alfabeto_fenicio",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_alfabeto_fenicio",
+    "source_type": "topic",
+    "target_id": "topic_navegacion_fenicia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_navegacion_fenicia",
+    "source_type": "topic",
+    "target_id": "topic_expansion_fenicia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_expansion_fenicia",
+    "source_type": "topic",
+    "target_id": "topic_colonizacion_fenicia",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_colonizacion_fenicia",
+    "source_type": "topic",
+    "target_id": "topic_gadir",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_gadir",
+    "source_type": "topic",
+    "target_id": "topic_cartago_fundacion",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_cartago_fundacion",
+    "source_type": "topic",
+    "target_id": "topic_hebreos",
+    "target_type": "topic",
+    "relation": "next_in_route"
   }
 ]
