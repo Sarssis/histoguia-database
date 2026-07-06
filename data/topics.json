@@ -4120,5 +4120,275 @@
       "phase_02"
     ],
     "summary": "Aparición del marco griego y romano que dominará la Antigüedad clásica."
+  },
+  {
+    "id": "topic_grecia_arcaica_p03",
+    "name": "Grecia arcaica",
+    "type": "period",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Etapa de formación de la polis, la colonización griega, el alfabeto y las bases del mundo clásico."
+  },
+  {
+    "id": "topic_nacimiento_polis",
+    "name": "Nacimiento de la polis",
+    "type": "political_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Proceso de formación de la ciudad-estado griega como comunidad política, religiosa y militar."
+  },
+  {
+    "id": "topic_polis_griega_p03",
+    "name": "Polis griega",
+    "type": "political_model",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Ciudad-estado griega, núcleo de ciudadanía, instituciones, culto cívico y guerra hoplítica."
+  },
+  {
+    "id": "topic_oikos",
+    "name": "Oikos",
+    "type": "social_institution",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Casa, familia y unidad económica básica del mundo griego."
+  },
+  {
+    "id": "topic_aristocracia_griega",
+    "name": "Aristocracia griega arcaica",
+    "type": "social_group",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Élites guerreras, terratenientes y políticas de la Grecia arcaica."
+  },
+  {
+    "id": "topic_tiranias_griegas",
+    "name": "Tiranías griegas",
+    "type": "political_system",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Regímenes personales que surgen en varias polis durante la época arcaica."
+  },
+  {
+    "id": "topic_hoplitas",
+    "name": "Hoplitas",
+    "type": "military_group",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Infantería pesada ciudadana característica de la Grecia arcaica y clásica."
+  },
+  {
+    "id": "topic_falange_hoplita",
+    "name": "Falange hoplita",
+    "type": "military_formation",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Formación militar de infantería pesada asociada a la ciudadanía y la polis."
+  },
+  {
+    "id": "topic_colonizacion_griega_p03",
+    "name": "Colonización griega arcaica",
+    "type": "colonization",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Expansión de comunidades griegas por el Mediterráneo y el mar Negro entre los siglos VIII y VI a.C."
+  },
+  {
+    "id": "topic_magna_grecia_p03",
+    "name": "Magna Grecia",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Conjunto de colonias griegas del sur de Italia y Sicilia."
+  },
+  {
+    "id": "topic_marsella_griega",
+    "name": "Massalia / Marsella griega",
+    "type": "city_colony",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Colonia focense fundada en la costa gala, actual Marsella."
+  },
+  {
+    "id": "topic_empuries_griega",
+    "name": "Emporion / Empúries griega",
+    "type": "city_colony",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Enclave griego en el noreste de Iberia, clave para los contactos mediterráneos."
+  },
+  {
+    "id": "topic_alfabeto_griego_p03",
+    "name": "Alfabeto griego",
+    "type": "writing_system",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Sistema de escritura adaptado del alfabeto fenicio, con incorporación de vocales."
+  },
+  {
+    "id": "topic_homero_p03",
+    "name": "Homero",
+    "type": "literary_figure",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Figura tradicional asociada a la Ilíada y la Odisea."
+  },
+  {
+    "id": "topic_hesiodo",
+    "name": "Hesíodo",
+    "type": "literary_figure",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Poeta arcaico asociado a la Teogonía y Trabajos y días."
+  },
+  {
+    "id": "topic_oraculo_delfos",
+    "name": "Oráculo de Delfos",
+    "type": "sanctuary",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Santuario panhelénico de Apolo, de enorme relevancia política y religiosa."
+  },
+  {
+    "id": "topic_olimpia_arcaica",
+    "name": "Olimpia arcaica",
+    "type": "sanctuary",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Santuario panhelénico y sede de los Juegos Olímpicos antiguos."
+  },
+  {
+    "id": "topic_juegos_olimpicos_antiguos",
+    "name": "Juegos Olímpicos antiguos",
+    "type": "festival",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Competición religiosa y atlética panhelénica celebrada en Olimpia."
+  },
+  {
+    "id": "topic_esparta_arcaica_p03",
+    "name": "Esparta arcaica",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Polis laconia cuya organización social y militar se consolida en la época arcaica."
+  },
+  {
+    "id": "topic_licurgo",
+    "name": "Licurgo",
+    "type": "lawgiver_legend",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Figura tradicional asociada a las leyes y organización de Esparta."
+  },
+  {
+    "id": "topic_atenas_arcaica_p03",
+    "name": "Atenas arcaica",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Polis ática en proceso de transformación desde la aristocracia hacia reformas institucionales."
+  },
+  {
+    "id": "topic_drakon",
+    "name": "Dracón",
+    "type": "lawgiver",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Legislador ateniense asociado a la primera codificación severa de leyes."
+  },
+  {
+    "id": "topic_solon_p03",
+    "name": "Solón",
+    "type": "lawgiver",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Legislador ateniense cuyas reformas intentaron resolver tensiones sociales y económicas."
+  },
+  {
+    "id": "topic_clistenes",
+    "name": "Clístenes",
+    "type": "lawgiver",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Reformador ateniense asociado al nacimiento de la democracia ateniense."
+  },
+  {
+    "id": "topic_eupatridas",
+    "name": "Eupátridas",
+    "type": "social_group",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Aristocracia ateniense arcaica."
+  },
+  {
+    "id": "topic_panhelenismo",
+    "name": "Panhelenismo",
+    "type": "cultural_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Formación de una identidad griega compartida mediante lengua, mitos, santuarios y competiciones."
+  },
+  {
+    "id": "topic_jonia_arcaica",
+    "name": "Jonia arcaica",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Ciudades griegas de Asia Menor, clave en comercio, pensamiento y conflictos con Persia."
+  },
+  {
+    "id": "topic_corinto_arcaico",
+    "name": "Corinto arcaico",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Polis comercial y colonial importante en la Grecia arcaica."
+  },
+  {
+    "id": "topic_mileto_arcaico",
+    "name": "Mileto arcaico",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Ciudad jonia relevante en comercio, colonización y pensamiento temprano."
+  },
+  {
+    "id": "topic_egina_arcaica",
+    "name": "Egina arcaica",
+    "type": "city_state",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Polis insular destacada por comercio y moneda."
   }
 ]

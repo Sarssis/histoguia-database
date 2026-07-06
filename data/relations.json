@@ -22601,5 +22601,1503 @@
     "target_id": "topic_mundo_clasico",
     "target_type": "topic",
     "relation": "next_in_route"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_grecia_arcaica_p03",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homero_p03",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_nacimiento_polis",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_polis_griega_p03",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_alfabeto_griego_p03",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_panhelenismo",
+    "source_type": "topic",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jonia",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_homero_p03",
+    "source_type": "topic",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_hesiodo",
+    "source_type": "topic",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_iliada_odisea",
+    "source_type": "topic",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_panhelenismo",
+    "source_type": "topic",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_hesiodo",
+    "source_type": "person",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_beocia",
+    "source_type": "place",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_colonizacion_griega_p03",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_magna_grecia_p03",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_marsella_griega",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_empuries_griega",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_comercio_fenicio",
+    "source_type": "topic",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_corinto",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_magna_grecia",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_massalia",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_empuries_p03",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_aristocracia_griega",
+    "source_type": "topic",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_tiranias_griegas",
+    "source_type": "topic",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hoplitas",
+    "source_type": "topic",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_falange_hoplita",
+    "source_type": "topic",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_polis_griega_p03",
+    "source_type": "topic",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_teognis",
+    "source_type": "person",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_corinto",
+    "source_type": "place",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_egina",
+    "source_type": "place",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_esparta_arcaica_p03",
+    "source_type": "topic",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_licurgo",
+    "source_type": "topic",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hoplitas",
+    "source_type": "topic",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_falange_hoplita",
+    "source_type": "topic",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_dorian_greeks",
+    "source_type": "civilization",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_atenas_arcaica_p03",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_drakon",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_solon_p03",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_clistenes",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_eupatridas",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_drakon",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_panhelenismo",
+    "source_type": "topic",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_oraculo_delfos",
+    "source_type": "topic",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_olimpia_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_juegos_olimpicos_antiguos",
+    "source_type": "topic",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_delfos",
+    "source_type": "place",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_olimpia",
+    "source_type": "place",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_jonia_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_mileto_arcaico",
+    "source_type": "topic",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_alfabeto_griego_p03",
+    "source_type": "topic",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persia_aquemenida",
+    "source_type": "topic",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tales_mileto",
+    "source_type": "person",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jonia",
+    "source_type": "place",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mileto",
+    "source_type": "place",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "topic_grecia_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "topic_nacimiento_polis",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "topic_polis_griega_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "topic_colonizacion_griega_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "topic_alfabeto_griego_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "place_grecia_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "place_esparta_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "place_delfos",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "place_olimpia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "person_homero_p03",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "person_hesiodo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "person_solon_p03",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "person_clistenes",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "topic_jonia_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "topic_mileto_arcaico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "topic_colonizacion_griega_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "place_jonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "place_mileto",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_ionian_greeks",
+    "source_type": "civilization",
+    "target_id": "person_tales_mileto",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_dorian_greeks",
+    "source_type": "civilization",
+    "target_id": "topic_esparta_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_dorian_greeks",
+    "source_type": "civilization",
+    "target_id": "topic_corinto_arcaico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_dorian_greeks",
+    "source_type": "civilization",
+    "target_id": "place_esparta_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_dorian_greeks",
+    "source_type": "civilization",
+    "target_id": "place_corinto",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_dorian_greeks",
+    "source_type": "civilization",
+    "target_id": "person_licurgo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "topic_homero_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "topic_alfabeto_griego_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "topic_panhelenismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "place_grecia_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "place_jonia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_homero_p03",
+    "source_type": "person",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hesiodo",
+    "source_type": "person",
+    "target_id": "topic_hesiodo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hesiodo",
+    "source_type": "person",
+    "target_id": "topic_panhelenismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hesiodo",
+    "source_type": "person",
+    "target_id": "place_beocia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hesiodo",
+    "source_type": "person",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "topic_licurgo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "topic_esparta_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "place_esparta_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_drakon",
+    "source_type": "person",
+    "target_id": "topic_drakon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_drakon",
+    "source_type": "person",
+    "target_id": "topic_atenas_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_drakon",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_drakon",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "topic_solon_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "topic_atenas_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "topic_eupatridas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "topic_clistenes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "topic_atenas_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_tales_mileto",
+    "source_type": "person",
+    "target_id": "topic_jonia_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tales_mileto",
+    "source_type": "person",
+    "target_id": "topic_mileto_arcaico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tales_mileto",
+    "source_type": "person",
+    "target_id": "place_mileto",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_tales_mileto",
+    "source_type": "person",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_teognis",
+    "source_type": "person",
+    "target_id": "topic_aristocracia_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_teognis",
+    "source_type": "person",
+    "target_id": "place_grecia_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_teognis",
+    "source_type": "person",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "topic_grecia_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "topic_polis_griega_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "person_homero_p03",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "person_solon_p03",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "ep_grecia_arcaica_homero_polis",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "topic_atenas_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "topic_solon_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "topic_clistenes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "person_drakon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "person_solon_p03",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "person_clistenes",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_atenas_solon_clistenes",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "topic_esparta_arcaica_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "topic_licurgo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "topic_hoplitas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "person_licurgo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "ep_esparta_arcaica_licurgo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_delfos",
+    "source_type": "place",
+    "target_id": "topic_oraculo_delfos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_delfos",
+    "source_type": "place",
+    "target_id": "topic_panhelenismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_delfos",
+    "source_type": "place",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_olimpia",
+    "source_type": "place",
+    "target_id": "topic_olimpia_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_olimpia",
+    "source_type": "place",
+    "target_id": "topic_juegos_olimpicos_antiguos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_olimpia",
+    "source_type": "place",
+    "target_id": "topic_panhelenismo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_olimpia",
+    "source_type": "place",
+    "target_id": "ep_delfos_olimpia_panhelenismo",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_jonia",
+    "source_type": "place",
+    "target_id": "topic_jonia_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jonia",
+    "source_type": "place",
+    "target_id": "topic_mileto_arcaico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jonia",
+    "source_type": "place",
+    "target_id": "person_tales_mileto",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_jonia",
+    "source_type": "place",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mileto",
+    "source_type": "place",
+    "target_id": "topic_mileto_arcaico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mileto",
+    "source_type": "place",
+    "target_id": "topic_jonia_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mileto",
+    "source_type": "place",
+    "target_id": "person_tales_mileto",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mileto",
+    "source_type": "place",
+    "target_id": "ep_jonia_mileto_origen_pensamiento",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_corinto",
+    "source_type": "place",
+    "target_id": "topic_corinto_arcaico",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_corinto",
+    "source_type": "place",
+    "target_id": "topic_colonizacion_griega_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_corinto",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_massalia",
+    "source_type": "place",
+    "target_id": "topic_marsella_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_massalia",
+    "source_type": "place",
+    "target_id": "topic_colonizacion_griega_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_massalia",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_empuries_p03",
+    "source_type": "place",
+    "target_id": "topic_empuries_griega",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_empuries_p03",
+    "source_type": "place",
+    "target_id": "topic_colonizacion_griega_p03",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_empuries_p03",
+    "source_type": "place",
+    "target_id": "ep_colonizacion_griega_arcaica",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_beocia",
+    "source_type": "place",
+    "target_id": "topic_hesiodo",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_beocia",
+    "source_type": "place",
+    "target_id": "person_hesiodo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_beocia",
+    "source_type": "place",
+    "target_id": "ep_homero_hesiodo_mundo_arcaico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_egina",
+    "source_type": "place",
+    "target_id": "topic_egina_arcaica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_egina",
+    "source_type": "place",
+    "target_id": "ep_aristocracia_tiranias_hoplitas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mundo_clasico",
+    "source_type": "topic",
+    "target_id": "topic_grecia_arcaica_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_grecia_arcaica_p03",
+    "source_type": "topic",
+    "target_id": "topic_homero_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_homero_p03",
+    "source_type": "topic",
+    "target_id": "topic_alfabeto_griego_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_alfabeto_griego_p03",
+    "source_type": "topic",
+    "target_id": "topic_nacimiento_polis",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_nacimiento_polis",
+    "source_type": "topic",
+    "target_id": "topic_polis_griega_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_polis_griega_p03",
+    "source_type": "topic",
+    "target_id": "topic_colonizacion_griega_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_colonizacion_griega_p03",
+    "source_type": "topic",
+    "target_id": "topic_aristocracia_griega",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_aristocracia_griega",
+    "source_type": "topic",
+    "target_id": "topic_tiranias_griegas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_tiranias_griegas",
+    "source_type": "topic",
+    "target_id": "topic_hoplitas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_hoplitas",
+    "source_type": "topic",
+    "target_id": "topic_esparta_arcaica_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_esparta_arcaica_p03",
+    "source_type": "topic",
+    "target_id": "topic_atenas_arcaica_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_atenas_arcaica_p03",
+    "source_type": "topic",
+    "target_id": "topic_solon_p03",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_solon_p03",
+    "source_type": "topic",
+    "target_id": "topic_clistenes",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_clistenes",
+    "source_type": "topic",
+    "target_id": "topic_jonia_arcaica",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_jonia_arcaica",
+    "source_type": "topic",
+    "target_id": "topic_guerras_medicas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0213",
+    "source_type": "subperiod",
+    "target_id": "sub_0301",
+    "target_type": "subperiod",
+    "relation": "next_subperiod"
+  },
+  {
+    "source_id": "phase_02",
+    "source_type": "phase",
+    "target_id": "phase_03",
+    "target_type": "phase",
+    "relation": "next_phase"
   }
 ]

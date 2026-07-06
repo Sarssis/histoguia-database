@@ -2584,5 +2584,167 @@
     "related_episodes": [
       "ep_pueblos_mar_colapso"
     ]
+  },
+  {
+    "id": "person_homero_p03",
+    "name": "Homero",
+    "type": "literary_figure",
+    "category": "greek_tradition",
+    "scientific_name": "",
+    "dates": "Tradición arcaica",
+    "period": "Grecia arcaica",
+    "summary": "Poeta tradicionalmente asociado a la Ilíada y la Odisea, textos fundamentales para la identidad griega.",
+    "related_topics": [
+      "topic_homero_p03",
+      "topic_alfabeto_griego_p03",
+      "topic_panhelenismo"
+    ],
+    "related_places": [
+      "place_grecia_p03",
+      "place_jonia"
+    ],
+    "related_episodes": [
+      "ep_grecia_arcaica_homero_polis"
+    ]
+  },
+  {
+    "id": "person_hesiodo",
+    "name": "Hesíodo",
+    "type": "poet",
+    "category": "greek_poet",
+    "scientific_name": "",
+    "dates": "c. siglo VIII-VII a.C.",
+    "period": "Grecia arcaica",
+    "summary": "Poeta griego asociado a la Teogonía y Trabajos y días.",
+    "related_topics": [
+      "topic_hesiodo",
+      "topic_panhelenismo"
+    ],
+    "related_places": [
+      "place_beocia"
+    ],
+    "related_episodes": [
+      "ep_homero_hesiodo_mundo_arcaico"
+    ]
+  },
+  {
+    "id": "person_licurgo",
+    "name": "Licurgo",
+    "type": "lawgiver_legend",
+    "category": "spartan_tradition",
+    "scientific_name": "",
+    "dates": "Tradición arcaica",
+    "period": "Esparta arcaica",
+    "summary": "Figura tradicional vinculada a la organización política y social de Esparta.",
+    "related_topics": [
+      "topic_licurgo",
+      "topic_esparta_arcaica_p03"
+    ],
+    "related_places": [
+      "place_esparta_p03"
+    ],
+    "related_episodes": [
+      "ep_esparta_arcaica_licurgo"
+    ]
+  },
+  {
+    "id": "person_drakon",
+    "name": "Dracón",
+    "type": "lawgiver",
+    "category": "athenian_lawgiver",
+    "scientific_name": "",
+    "dates": "c. siglo VII a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Legislador ateniense asociado a la codificación temprana de leyes.",
+    "related_topics": [
+      "topic_drakon",
+      "topic_atenas_arcaica_p03"
+    ],
+    "related_places": [
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_atenas_solon_clistenes"
+    ]
+  },
+  {
+    "id": "person_solon_p03",
+    "name": "Solón",
+    "type": "lawgiver",
+    "category": "athenian_lawgiver",
+    "scientific_name": "",
+    "dates": "c. 638-558 a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Legislador ateniense cuyas reformas atenuaron tensiones sociales y sentaron bases institucionales posteriores.",
+    "related_topics": [
+      "topic_solon_p03",
+      "topic_atenas_arcaica_p03",
+      "topic_eupatridas"
+    ],
+    "related_places": [
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_atenas_solon_clistenes"
+    ]
+  },
+  {
+    "id": "person_clistenes",
+    "name": "Clístenes",
+    "type": "lawgiver",
+    "category": "athenian_reformer",
+    "scientific_name": "",
+    "dates": "c. 570-508 a.C.",
+    "period": "Atenas arcaica tardía",
+    "summary": "Reformador ateniense asociado al nacimiento de la democracia ateniense.",
+    "related_topics": [
+      "topic_clistenes",
+      "topic_atenas_arcaica_p03"
+    ],
+    "related_places": [
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_atenas_solon_clistenes"
+    ]
+  },
+  {
+    "id": "person_tales_mileto",
+    "name": "Tales de Mileto",
+    "type": "thinker",
+    "category": "presocratic_philosopher",
+    "scientific_name": "",
+    "dates": "c. 624-546 a.C.",
+    "period": "Jonia arcaica",
+    "summary": "Pensador jónico tradicionalmente considerado uno de los primeros filósofos griegos.",
+    "related_topics": [
+      "topic_jonia_arcaica",
+      "topic_mileto_arcaico"
+    ],
+    "related_places": [
+      "place_mileto"
+    ],
+    "related_episodes": [
+      "ep_jonia_mileto_origen_pensamiento"
+    ]
+  },
+  {
+    "id": "person_teognis",
+    "name": "Teognis de Mégara",
+    "type": "poet",
+    "category": "greek_poet",
+    "scientific_name": "",
+    "dates": "c. siglo VI a.C.",
+    "period": "Grecia arcaica",
+    "summary": "Poeta elegíaco que refleja tensiones aristocráticas de la Grecia arcaica.",
+    "related_topics": [
+      "topic_aristocracia_griega"
+    ],
+    "related_places": [
+      "place_grecia_p03"
+    ],
+    "related_episodes": [
+      "ep_aristocracia_tiranias_hoplitas"
+    ]
   }
 ]

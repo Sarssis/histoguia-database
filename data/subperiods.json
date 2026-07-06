@@ -228,5 +228,122 @@
     "date_range": "c. 1200-500 a.C.",
     "summary": "Crisis del Bronce Final, Pueblos del Mar, caída de palacios micénicos e hititas, transición a la Edad del Hierro, Grecia arcaica, polis, alfabeto, colonización griega, Roma arcaica y nacimiento del mundo clásico.",
     "status": "content_seeded"
+  },
+  {
+    "id": "sub_0301",
+    "phase_id": "phase_03",
+    "order": 1,
+    "name": "Grecia arcaica y nacimiento de la polis",
+    "date_range": "c. 800-500 a.C.",
+    "summary": "Formación de la polis, alfabeto griego, colonización, aristocracias, tiranías, hoplitas, Esparta arcaica, Atenas arcaica, Solón, Clístenes y el paso hacia el mundo clásico.",
+    "status": "content_seeded"
+  },
+  {
+    "id": "sub_0302",
+    "phase_id": "phase_03",
+    "order": 2,
+    "name": "Esparta, Atenas y las reformas políticas",
+    "date_range": "c. 700-500 a.C.",
+    "summary": "Consolidación de Esparta y Atenas, reformas sociales, leyes, ciudadanía, instituciones y modelos políticos contrapuestos.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0303",
+    "phase_id": "phase_03",
+    "order": 3,
+    "name": "Las Guerras Médicas",
+    "date_range": "499-449 a.C.",
+    "summary": "Conflicto entre las polis griegas y el Imperio persa: Maratón, Termópilas, Salamina, Platea y consecuencias.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0304",
+    "phase_id": "phase_03",
+    "order": 4,
+    "name": "El siglo de Pericles y la Atenas clásica",
+    "date_range": "c. 461-429 a.C.",
+    "summary": "Democracia ateniense, imperio marítimo, Acrópolis, teatro, pensamiento y esplendor cultural de Atenas.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0305",
+    "phase_id": "phase_03",
+    "order": 5,
+    "name": "La Guerra del Peloponeso",
+    "date_range": "431-404 a.C.",
+    "summary": "Conflicto entre Atenas y Esparta, crisis de la polis y transformación del equilibrio griego.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0306",
+    "phase_id": "phase_03",
+    "order": 6,
+    "name": "Crisis del mundo griego y hegemonía tebana",
+    "date_range": "404-362 a.C.",
+    "summary": "Posguerra del Peloponeso, hegemonías espartana y tebana, Epaminondas y agotamiento del sistema de polis.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0307",
+    "phase_id": "phase_03",
+    "order": 7,
+    "name": "Filipo II y el ascenso de Macedonia",
+    "date_range": "359-336 a.C.",
+    "summary": "Reformas macedonias, Queronea y subordinación del mundo griego a Macedonia.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0308",
+    "phase_id": "phase_03",
+    "order": 8,
+    "name": "Alejandro Magno",
+    "date_range": "356-323 a.C.",
+    "summary": "Vida, formación, liderazgo y proyecto político de Alejandro.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0309",
+    "phase_id": "phase_03",
+    "order": 9,
+    "name": "Las conquistas de Alejandro",
+    "date_range": "334-323 a.C.",
+    "summary": "Campañas contra Persia, Egipto, Mesopotamia, Asia Central e India.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0310",
+    "phase_id": "phase_03",
+    "order": 10,
+    "name": "El mundo helenístico",
+    "date_range": "323-31 a.C.",
+    "summary": "Diádocos, reinos helenísticos, Alejandría, Seleúcidas, Ptolomeos y Antigónidas.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0311",
+    "phase_id": "phase_03",
+    "order": 11,
+    "name": "Ciencia, filosofía y cultura griegas",
+    "date_range": "siglos VI-I a.C.",
+    "summary": "Filosofía, ciencia, medicina, matemáticas, historiografía, arte, teatro y pensamiento griego.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0312",
+    "phase_id": "phase_03",
+    "order": 12,
+    "name": "Religión, mitología y vida cotidiana en Grecia",
+    "date_range": "siglos VIII-I a.C.",
+    "summary": "Dioses, mitos, cultos, santuarios, Juegos Olímpicos, familia, ciudadanía, esclavitud y vida cotidiana.",
+    "status": "planned"
+  },
+  {
+    "id": "sub_0313",
+    "phase_id": "phase_03",
+    "order": 13,
+    "name": "La conquista romana de Grecia y el legado griego",
+    "date_range": "200-146 a.C. y legado posterior",
+    "summary": "Conquista romana, integración cultural y pervivencia del legado griego en Roma y Occidente.",
+    "status": "planned"
   }
 ]

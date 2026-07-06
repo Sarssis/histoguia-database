@@ -6,20 +6,10 @@
 - 13 subperiodos completados y funcionando.
 
 ### Periodo 02 · Primeras Civilizaciones
-- sub_0201: Mesopotamia y Sumer
-- sub_0202: Egipto predinástico y Reino Antiguo
-- sub_0203: Imperio Acadio y renacimiento sumerio
-- sub_0204: Babilonia y Hammurabi
-- sub_0205: Asiria y los primeros grandes imperios militares
-- sub_0206: Egipto: Reino Medio y Reino Nuevo
-- sub_0207: Hititas, Mitanni y otros reinos de Anatolia y Siria
-- sub_0208: Fenicios y expansión mediterránea
-- sub_0209: Hebreos e Israel antiguo
-- sub_0210: Persia aqueménida
-- sub_0211: Cartago
-- sub_0212: Tartessos e Iberia protohistórica
-- sub_0213: El colapso de la Edad del Bronce y el nacimiento del mundo clásico
+- 13 subperiodos completados y funcionando.
 
-## Estado
+### Periodo 03 · Grecia
+- sub_0301: Grecia arcaica y nacimiento de la polis
 
-- Periodo 02 completado.
+## Siguiente subperiodo sugerido
+- sub_0302: Esparta, Atenas y las reformas políticas

@@ -689,5 +689,72 @@
       "person_romulo",
       "person_remo"
     ]
+  },
+  {
+    "id": "civ_archaic_greece_p03",
+    "name": "Grecia arcaica",
+    "type": "city_state_culture",
+    "date_range": "c. 800-500 a.C.",
+    "region": "Grecia, Egeo, Asia Menor y colonias mediterráneas",
+    "summary": "Mundo griego de época arcaica, caracterizado por la formación de la polis, el alfabeto, la colonización, la aristocracia, las tiranías y la guerra hoplítica.",
+    "related_topics": [
+      "topic_grecia_arcaica_p03",
+      "topic_nacimiento_polis",
+      "topic_polis_griega_p03",
+      "topic_colonizacion_griega_p03",
+      "topic_alfabeto_griego_p03"
+    ],
+    "related_places": [
+      "place_grecia_p03",
+      "place_atenas_p03",
+      "place_esparta_p03",
+      "place_delfos",
+      "place_olimpia"
+    ],
+    "related_people": [
+      "person_homero_p03",
+      "person_hesiodo",
+      "person_solon_p03",
+      "person_clistenes"
+    ]
+  },
+  {
+    "id": "civ_ionian_greeks",
+    "name": "Griegos jonios",
+    "type": "regional_greek_group",
+    "date_range": "Época arcaica",
+    "region": "Jonia y Egeo oriental",
+    "summary": "Comunidades griegas de Asia Menor, relevantes en comercio, colonización, alfabeto, pensamiento y contactos con Oriente.",
+    "related_topics": [
+      "topic_jonia_arcaica",
+      "topic_mileto_arcaico",
+      "topic_colonizacion_griega_p03"
+    ],
+    "related_places": [
+      "place_jonia",
+      "place_mileto"
+    ],
+    "related_people": [
+      "person_tales_mileto"
+    ]
+  },
+  {
+    "id": "civ_dorian_greeks",
+    "name": "Griegos dorios",
+    "type": "regional_greek_group",
+    "date_range": "Época arcaica",
+    "region": "Peloponeso, Creta, Rodas y colonias dorias",
+    "summary": "Comunidades griegas asociadas a Esparta, Corinto y otros ámbitos dorios.",
+    "related_topics": [
+      "topic_esparta_arcaica_p03",
+      "topic_corinto_arcaico"
+    ],
+    "related_places": [
+      "place_esparta_p03",
+      "place_corinto"
+    ],
+    "related_people": [
+      "person_licurgo"
+    ]
   }
 ]

@@ -2612,5 +2612,213 @@
     "related_episodes": [
       "ep_etruscos_roma_arcaica"
     ]
+  },
+  {
+    "id": "place_grecia_p03",
+    "name": "Grecia",
+    "type": "region",
+    "modern_location": "Grecia",
+    "summary": "Región nuclear del mundo griego arcaico y clásico.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_grecia_arcaica_p03",
+      "topic_polis_griega_p03"
+    ],
+    "related_people": [
+      "person_homero_p03",
+      "person_solon_p03"
+    ],
+    "related_episodes": [
+      "ep_grecia_arcaica_homero_polis"
+    ]
+  },
+  {
+    "id": "place_atenas_p03",
+    "name": "Atenas",
+    "type": "city",
+    "modern_location": "Grecia",
+    "summary": "Polis ática central en las reformas políticas arcaicas y en el desarrollo posterior de la democracia.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_atenas_arcaica_p03",
+      "topic_solon_p03",
+      "topic_clistenes"
+    ],
+    "related_people": [
+      "person_drakon",
+      "person_solon_p03",
+      "person_clistenes"
+    ],
+    "related_episodes": [
+      "ep_atenas_solon_clistenes"
+    ]
+  },
+  {
+    "id": "place_esparta_p03",
+    "name": "Esparta",
+    "type": "city",
+    "modern_location": "Laconia, Grecia",
+    "summary": "Polis doria del Peloponeso, caracterizada por una organización social y militar singular.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_esparta_arcaica_p03",
+      "topic_licurgo",
+      "topic_hoplitas"
+    ],
+    "related_people": [
+      "person_licurgo"
+    ],
+    "related_episodes": [
+      "ep_esparta_arcaica_licurgo"
+    ]
+  },
+  {
+    "id": "place_delfos",
+    "name": "Delfos",
+    "type": "sanctuary",
+    "modern_location": "Grecia",
+    "summary": "Santuario panhelénico de Apolo y centro oracular fundamental para la política y la colonización griega.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_oraculo_delfos",
+      "topic_panhelenismo"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_delfos_olimpia_panhelenismo"
+    ]
+  },
+  {
+    "id": "place_olimpia",
+    "name": "Olimpia",
+    "type": "sanctuary",
+    "modern_location": "Élide, Grecia",
+    "summary": "Santuario de Zeus y sede de los Juegos Olímpicos antiguos.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_olimpia_arcaica",
+      "topic_juegos_olimpicos_antiguos",
+      "topic_panhelenismo"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_delfos_olimpia_panhelenismo"
+    ]
+  },
+  {
+    "id": "place_jonia",
+    "name": "Jonia",
+    "type": "region",
+    "modern_location": "Costa occidental de Turquía",
+    "summary": "Región de ciudades griegas de Asia Menor, clave en comercio, colonización y pensamiento arcaico.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_jonia_arcaica",
+      "topic_mileto_arcaico"
+    ],
+    "related_people": [
+      "person_tales_mileto"
+    ],
+    "related_episodes": [
+      "ep_jonia_mileto_origen_pensamiento"
+    ]
+  },
+  {
+    "id": "place_mileto",
+    "name": "Mileto",
+    "type": "city",
+    "modern_location": "Turquía",
+    "summary": "Ciudad jonia de gran importancia comercial, colonial e intelectual.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_mileto_arcaico",
+      "topic_jonia_arcaica"
+    ],
+    "related_people": [
+      "person_tales_mileto"
+    ],
+    "related_episodes": [
+      "ep_jonia_mileto_origen_pensamiento"
+    ]
+  },
+  {
+    "id": "place_corinto",
+    "name": "Corinto",
+    "type": "city",
+    "modern_location": "Grecia",
+    "summary": "Polis comercial y colonial fundamental en la Grecia arcaica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_corinto_arcaico",
+      "topic_colonizacion_griega_p03"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_colonizacion_griega_arcaica"
+    ]
+  },
+  {
+    "id": "place_massalia",
+    "name": "Massalia / Marsella",
+    "type": "city_colony",
+    "modern_location": "Marsella, Francia",
+    "summary": "Colonia griega focense en el Mediterráneo occidental.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_marsella_griega",
+      "topic_colonizacion_griega_p03"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_colonizacion_griega_arcaica"
+    ]
+  },
+  {
+    "id": "place_empuries_p03",
+    "name": "Emporion / Empúries",
+    "type": "city_colony",
+    "modern_location": "Girona, España",
+    "summary": "Enclave griego del noreste peninsular vinculado a contactos comerciales con Iberia.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_empuries_griega",
+      "topic_colonizacion_griega_p03"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_colonizacion_griega_arcaica"
+    ]
+  },
+  {
+    "id": "place_beocia",
+    "name": "Beocia",
+    "type": "region",
+    "modern_location": "Grecia central",
+    "summary": "Región griega asociada a Hesíodo y a tradiciones arcaicas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_hesiodo"
+    ],
+    "related_people": [
+      "person_hesiodo"
+    ],
+    "related_episodes": [
+      "ep_homero_hesiodo_mundo_arcaico"
+    ]
+  },
+  {
+    "id": "place_egina",
+    "name": "Egina",
+    "type": "island_city",
+    "modern_location": "Grecia",
+    "summary": "Polis insular relevante por comercio y moneda en época arcaica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_egina_arcaica"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_aristocracia_tiranias_hoplitas"
+    ]
   }
 ]

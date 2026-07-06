@@ -378,5 +378,40 @@
       "topic_mundo_clasico"
     ],
     "status": "sub0213_active"
+  },
+  {
+    "id": "route_grecia",
+    "phase_id": "phase_03",
+    "name": "Ruta Grecia",
+    "summary": "Recorrido por la historia griega desde la Grecia arcaica y la polis hasta la conquista romana y el legado griego.",
+    "episode_ids": [
+      "ep_grecia_arcaica_homero_polis",
+      "ep_homero_hesiodo_mundo_arcaico",
+      "ep_colonizacion_griega_arcaica",
+      "ep_aristocracia_tiranias_hoplitas",
+      "ep_esparta_arcaica_licurgo",
+      "ep_atenas_solon_clistenes",
+      "ep_delfos_olimpia_panhelenismo",
+      "ep_jonia_mileto_origen_pensamiento"
+    ],
+    "topic_ids": [
+      "topic_mundo_clasico",
+      "topic_grecia_arcaica_p03",
+      "topic_homero_p03",
+      "topic_alfabeto_griego_p03",
+      "topic_nacimiento_polis",
+      "topic_polis_griega_p03",
+      "topic_colonizacion_griega_p03",
+      "topic_aristocracia_griega",
+      "topic_tiranias_griegas",
+      "topic_hoplitas",
+      "topic_esparta_arcaica_p03",
+      "topic_atenas_arcaica_p03",
+      "topic_solon_p03",
+      "topic_clistenes",
+      "topic_jonia_arcaica",
+      "topic_guerras_medicas"
+    ],
+    "status": "sub0301_active"
   }
 ]

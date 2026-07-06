@@ -11768,5 +11768,648 @@
       "remo",
       "república romana"
     ]
+  },
+  {
+    "id": "ep_grecia_arcaica_homero_polis",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "Grecia arcaica: Homero, polis y nacimiento del mundo griego",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_grecia_arcaica_p03",
+    "topic_ids": [
+      "topic_grecia_arcaica_p03",
+      "topic_homero_p03",
+      "topic_nacimiento_polis",
+      "topic_polis_griega_p03",
+      "topic_alfabeto_griego_p03",
+      "topic_panhelenismo"
+    ],
+    "people_ids": [
+      "person_homero_p03"
+    ],
+    "place_ids": [
+      "place_grecia_p03",
+      "place_jonia"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03",
+      "civ_ionian_greeks"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/histocast-131-grecia-arcaica-audios-mp3_rf_12388874_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "12388874",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio troncal para abrir el Periodo 03. Sitúa el final de la Edad Oscura, la aparición de la polis, Homero, el alfabeto, aristocracias y panhelenismo.",
+    "learn": [
+      "Comprender el paso de la Edad Oscura a la Grecia arcaica.",
+      "Situar a Homero y la épica como memoria cultural griega.",
+      "Entender por qué la polis se convierte en el eje político griego.",
+      "Preparar colonización, hoplitas, Esparta y Atenas arcaicas."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "grecia arcaica",
+      "homero",
+      "polis",
+      "edad oscura griega"
+    ]
+  },
+  {
+    "id": "ep_homero_hesiodo_mundo_arcaico",
+    "podcast_id": "pod_desaprendiendo_historia",
+    "podcast_name": "Desaprendiendo la Historia",
+    "episode_code": "",
+    "title": "Homero y Hesíodo: la memoria del mundo arcaico",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_homero_p03",
+    "topic_ids": [
+      "topic_homero_p03",
+      "topic_hesiodo",
+      "topic_iliada_odisea",
+      "topic_panhelenismo"
+    ],
+    "people_ids": [
+      "person_homero_p03",
+      "person_hesiodo"
+    ],
+    "place_ids": [
+      "place_grecia_p03",
+      "place_beocia"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2025",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/homero-hesiodo-memoria-del-mundo-arcaico-audios-mp3_rf_139882205_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "139882205",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio cultural de apoyo sobre Homero, Hesíodo, oralidad, poesía épica, genealogías divinas y valores aristocráticos de la Grecia arcaica.",
+    "learn": [
+      "Distinguir la tradición homérica y hesiódica.",
+      "Relacionar épica, oralidad e identidad griega.",
+      "Comprender la importancia cultural de la Teogonía y la épica.",
+      "Conectar literatura, religión y aristocracia."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "homero",
+      "hesíodo",
+      "ilíada",
+      "odisea",
+      "teogonía"
+    ]
+  },
+  {
+    "id": "ep_colonizacion_griega_arcaica",
+    "podcast_id": "pod_victoria_historia",
+    "podcast_name": "Victoria Podcast Historia",
+    "episode_code": "",
+    "title": "V394 Grecia arcaica: colonización y expansión mediterránea",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_colonizacion_griega_p03",
+    "topic_ids": [
+      "topic_colonizacion_griega_p03",
+      "topic_magna_grecia_p03",
+      "topic_marsella_griega",
+      "topic_empuries_griega",
+      "topic_comercio_fenicio"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_corinto",
+      "place_magna_grecia",
+      "place_massalia",
+      "place_empuries_p03"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03",
+      "civ_ionian_greeks"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2024",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/v394-127774-grecia-arcaica-colonizacion-expansion-audios-mp3_rf_132531642_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "132531642",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio sobre la expansión griega por el Mediterráneo y el mar Negro: causas, apoikiai, comercio, metrópolis, Magna Grecia, Massalia y Emporion.",
+    "learn": [
+      "Comprender las causas de la colonización griega.",
+      "Situar Magna Grecia, Massalia y Emporion.",
+      "Relacionar comercio, población y conflictos sociales.",
+      "Conectar Grecia con fenicios, cartagineses e íberos."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "colonización griega",
+      "magna grecia",
+      "massalia",
+      "empúries"
+    ]
+  },
+  {
+    "id": "ep_aristocracia_tiranias_hoplitas",
+    "podcast_id": "pod_documentalia",
+    "podcast_name": "Documentalia",
+    "episode_code": "",
+    "title": "Aristócratas, tiranos y hoplitas en la Grecia arcaica",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_aristocracia_griega",
+    "topic_ids": [
+      "topic_aristocracia_griega",
+      "topic_tiranias_griegas",
+      "topic_hoplitas",
+      "topic_falange_hoplita",
+      "topic_polis_griega_p03"
+    ],
+    "people_ids": [
+      "person_teognis"
+    ],
+    "place_ids": [
+      "place_grecia_p03",
+      "place_corinto",
+      "place_egina"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/aristocratas-tiranos-hoplitas-grecia-arcaica-audios-mp3_rf_64108472_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "64108472",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de estructura social y militar sobre aristocracias, tensiones internas, tiranías, reforma hoplítica y transformación de la polis.",
+    "learn": [
+      "Entender el peso de la aristocracia en la Grecia arcaica.",
+      "Relacionar crisis social y tiranías.",
+      "Comprender el papel político-militar de los hoplitas.",
+      "Preparar las reformas de Solón y Clístenes."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "aristocracia griega",
+      "tiranías",
+      "hoplitas",
+      "falange"
+    ]
+  },
+  {
+    "id": "ep_esparta_arcaica_licurgo",
+    "podcast_id": "pod_memorias_pez",
+    "podcast_name": "Memorias de Pez",
+    "episode_code": "",
+    "title": "Esparta arcaica y la leyenda de Licurgo",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_esparta_arcaica_p03",
+    "topic_ids": [
+      "topic_esparta_arcaica_p03",
+      "topic_licurgo",
+      "topic_hoplitas",
+      "topic_falange_hoplita"
+    ],
+    "people_ids": [
+      "person_licurgo"
+    ],
+    "place_ids": [
+      "place_esparta_p03"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03",
+      "civ_dorian_greeks"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2020",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/esparta-arcaica-leyenda-licurgo-audios-mp3_rf_58414361_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "58414361",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de apoyo sobre la formación de Esparta, Licurgo, la sociedad lacedemonia, los hoplitas y el modelo político-militar espartano.",
+    "learn": [
+      "Situar Esparta dentro de la Grecia arcaica.",
+      "Entender la tradición de Licurgo.",
+      "Relacionar organización social y militar.",
+      "Preparar el contraste posterior con Atenas."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "esparta",
+      "licurgo",
+      "hoplitas",
+      "laconia"
+    ]
+  },
+  {
+    "id": "ep_atenas_solon_clistenes",
+    "podcast_id": "pod_historia_universal",
+    "podcast_name": "Historia Universal",
+    "episode_code": "",
+    "title": "Atenas arcaica: Dracón, Solón y Clístenes",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_atenas_arcaica_p03",
+    "topic_ids": [
+      "topic_atenas_arcaica_p03",
+      "topic_drakon",
+      "topic_solon_p03",
+      "topic_clistenes",
+      "topic_eupatridas"
+    ],
+    "people_ids": [
+      "person_drakon",
+      "person_solon_p03",
+      "person_clistenes"
+    ],
+    "place_ids": [
+      "place_atenas_p03"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/atenas-arcaica-dracon-solon-clistenes-audios-mp3_rf_3605268_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "3605268",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Cápsula sobre la transformación política de Atenas desde la aristocracia a las reformas de Dracón, Solón y Clístenes.",
+    "learn": [
+      "Comprender los conflictos sociales de Atenas arcaica.",
+      "Identificar a Dracón, Solón y Clístenes.",
+      "Relacionar reformas e instituciones políticas.",
+      "Preparar el desarrollo de la democracia ateniense."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "atenas arcaica",
+      "dracón",
+      "solón",
+      "clístenes"
+    ]
+  },
+  {
+    "id": "ep_delfos_olimpia_panhelenismo",
+    "podcast_id": "pod_antena_historia",
+    "podcast_name": "Antena Historia",
+    "episode_code": "",
+    "title": "Delfos, Olimpia y el nacimiento del panhelenismo",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_panhelenismo",
+    "topic_ids": [
+      "topic_panhelenismo",
+      "topic_oraculo_delfos",
+      "topic_olimpia_arcaica",
+      "topic_juegos_olimpicos_antiguos"
+    ],
+    "people_ids": [],
+    "place_ids": [
+      "place_delfos",
+      "place_olimpia",
+      "place_grecia_p03"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/delfos-olimpia-nacimiento-del-panhelenismo-audios-mp3_rf_4908602_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "4908602",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio sobre los grandes santuarios panhelénicos, el Oráculo de Delfos, Olimpia, juegos, religión compartida e identidad griega.",
+    "learn": [
+      "Entender qué fue el panhelenismo.",
+      "Situar Delfos y Olimpia.",
+      "Relacionar religión, competición e identidad común.",
+      "Conectar polis locales con cultura griega compartida."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "delfos",
+      "olimpia",
+      "panhelenismo",
+      "juegos olímpicos"
+    ]
+  },
+  {
+    "id": "ep_jonia_mileto_origen_pensamiento",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "Jonia y Mileto: comercio, polis y primeros pensadores",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0301",
+    "main_topic_id": "topic_jonia_arcaica",
+    "topic_ids": [
+      "topic_jonia_arcaica",
+      "topic_mileto_arcaico",
+      "topic_alfabeto_griego_p03",
+      "topic_persia_aquemenida"
+    ],
+    "people_ids": [
+      "person_tales_mileto"
+    ],
+    "place_ids": [
+      "place_jonia",
+      "place_mileto"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03",
+      "civ_ionian_greeks"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/jonia-mileto-comercio-polis-primeros-pensadores-audios-mp3_rf_10839788_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "10839788",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de cierre del subperiodo centrado en Jonia, Mileto, contactos orientales y los primeros pensadores como transición hacia filosofía, Persia y Guerras Médicas.",
+    "learn": [
+      "Situar Jonia dentro del mundo griego arcaico.",
+      "Relacionar comercio, colonización y pensamiento.",
+      "Conocer el papel de Mileto y Tales.",
+      "Preparar el conflicto con Persia."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "jonia",
+      "mileto",
+      "tales",
+      "presocráticos"
+    ]
   }
 ]

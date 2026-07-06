@@ -1,8 +1,8 @@
 {
-  "version": "4.13",
-  "description": "Periodo 02. Subperiodo 13 activo: El colapso de la Edad del Bronce y el nacimiento del mundo clásico.",
+  "version": "5.01",
+  "description": "Periodo 03. Subperiodo 1 activo: Grecia arcaica y nacimiento de la polis.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 143,
+  "episode_count": 151,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 123,
-  "places_count": 144,
-  "topics_count": 458,
-  "relations_count": 3229,
-  "status": "phase02_sub0213_active",
-  "civilizations_count": 31
+  "people_count": 131,
+  "places_count": 156,
+  "topics_count": 488,
+  "relations_count": 3443,
+  "status": "phase03_sub0301_active",
+  "civilizations_count": 34
 }
