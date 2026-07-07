@@ -2746,5 +2746,148 @@
     "related_episodes": [
       "ep_aristocracia_tiranias_hoplitas"
     ]
+  },
+  {
+    "id": "person_leonidas_i",
+    "name": "Leónidas I",
+    "type": "ruler",
+    "category": "spartan_king",
+    "scientific_name": "",
+    "dates": "m. 480 a.C.",
+    "period": "Esparta clásica temprana",
+    "summary": "Rey espartano, incluido como figura de continuidad hacia las Guerras Médicas.",
+    "related_topics": [
+      "topic_esparta_clasica_formacion",
+      "topic_diarquia_espartana"
+    ],
+    "related_places": [
+      "place_esparta_p03"
+    ],
+    "related_episodes": [
+      "ep_esparta_sistema_politico"
+    ]
+  },
+  {
+    "id": "person_pisistrato",
+    "name": "Pisístrato",
+    "type": "ruler",
+    "category": "athenian_tyrant",
+    "scientific_name": "",
+    "dates": "c. 600-527 a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Tirano ateniense que gobernó Atenas durante buena parte del siglo VI a.C.",
+    "related_topics": [
+      "topic_pisistrato",
+      "topic_tirania_pisistratidas",
+      "topic_atenas_preclasica"
+    ],
+    "related_places": [
+      "place_atenas_p03",
+      "place_atica"
+    ],
+    "related_episodes": [
+      "ep_pisistrato_tirania_atenas"
+    ]
+  },
+  {
+    "id": "person_hipias",
+    "name": "Hipias",
+    "type": "ruler",
+    "category": "athenian_tyrant",
+    "scientific_name": "",
+    "dates": "c. siglo VI-V a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Hijo de Pisístrato y último tirano de Atenas.",
+    "related_topics": [
+      "topic_hipias",
+      "topic_tirania_pisistratidas"
+    ],
+    "related_places": [
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_pisistrato_tirania_atenas"
+    ]
+  },
+  {
+    "id": "person_hiparco",
+    "name": "Hiparco",
+    "type": "ruler",
+    "category": "athenian_tyrant",
+    "scientific_name": "",
+    "dates": "m. 514 a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Hijo de Pisístrato, asesinado por Harmodio y Aristogitón según la tradición ateniense.",
+    "related_topics": [
+      "topic_hiparco",
+      "topic_harmodio_aristogiton"
+    ],
+    "related_places": [
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_pisistrato_tirania_atenas"
+    ]
+  },
+  {
+    "id": "person_harmodio",
+    "name": "Harmodio",
+    "type": "political_figure",
+    "category": "athenian_tyrannicide",
+    "scientific_name": "",
+    "dates": "m. 514 a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Uno de los tiranicidas atenienses asociados al asesinato de Hiparco.",
+    "related_topics": [
+      "topic_harmodio_aristogiton",
+      "topic_tirania_pisistratidas"
+    ],
+    "related_places": [
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_pisistrato_tirania_atenas"
+    ]
+  },
+  {
+    "id": "person_aristogiton",
+    "name": "Aristogitón",
+    "type": "political_figure",
+    "category": "athenian_tyrannicide",
+    "scientific_name": "",
+    "dates": "m. 514 a.C.",
+    "period": "Atenas arcaica",
+    "summary": "Uno de los tiranicidas atenienses asociados al asesinato de Hiparco.",
+    "related_topics": [
+      "topic_harmodio_aristogiton",
+      "topic_tirania_pisistratidas"
+    ],
+    "related_places": [
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_pisistrato_tirania_atenas"
+    ]
+  },
+  {
+    "id": "person_cleomenes_i",
+    "name": "Cleómenes I",
+    "type": "ruler",
+    "category": "spartan_king",
+    "scientific_name": "",
+    "dates": "r. c. 520-490 a.C.",
+    "period": "Esparta arcaica tardía",
+    "summary": "Rey espartano implicado en la política griega de finales del siglo VI a.C.",
+    "related_topics": [
+      "topic_esparta_clasica_formacion",
+      "topic_tirania_pisistratidas"
+    ],
+    "related_places": [
+      "place_esparta_p03",
+      "place_atenas_p03"
+    ],
+    "related_episodes": [
+      "ep_clistenes_democracia_ateniense"
+    ]
   }
 ]

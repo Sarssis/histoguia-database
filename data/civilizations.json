@@ -756,5 +756,56 @@
     "related_people": [
       "person_licurgo"
     ]
+  },
+  {
+    "id": "civ_sparta_archaic",
+    "name": "Esparta arcaica",
+    "type": "polis",
+    "date_range": "c. 800-500 a.C.",
+    "region": "Laconia y Mesenia",
+    "summary": "Polis doria del Peloponeso, organizada sobre ciudadanía militarizada, ilotas, periecos, diarquía, gerusía, éforos y agogé.",
+    "related_topics": [
+      "topic_esparta_clasica_formacion",
+      "topic_gran_retra",
+      "topic_agoge",
+      "topic_ilotas",
+      "topic_gerusia",
+      "topic_eforos"
+    ],
+    "related_places": [
+      "place_esparta_p03",
+      "place_laconia",
+      "place_mesenia_p03"
+    ],
+    "related_people": [
+      "person_licurgo",
+      "person_leonidas_i"
+    ]
+  },
+  {
+    "id": "civ_athens_archaic",
+    "name": "Atenas arcaica",
+    "type": "polis",
+    "date_range": "c. 700-500 a.C.",
+    "region": "Ática",
+    "summary": "Polis ática que atraviesa crisis aristocrática, reformas legales y sociales, tiranía de los Pisistrátidas y reformas clisténicas.",
+    "related_topics": [
+      "topic_atenas_preclasica",
+      "topic_dracon_leyes",
+      "topic_reformas_solon",
+      "topic_tirania_pisistratidas",
+      "topic_reformas_clistenes",
+      "topic_nacimiento_democracia_ateniense"
+    ],
+    "related_places": [
+      "place_atenas_p03",
+      "place_atica"
+    ],
+    "related_people": [
+      "person_drakon",
+      "person_solon_p03",
+      "person_pisistrato",
+      "person_clistenes"
+    ]
   }
 ]

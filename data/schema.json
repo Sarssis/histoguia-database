@@ -1,8 +1,8 @@
 {
-  "version": "5.01",
-  "description": "Periodo 03. Subperiodo 1 activo: Grecia arcaica y nacimiento de la polis.",
+  "version": "5.02",
+  "description": "Periodo 03. Subperiodo 2 activo: Esparta, Atenas y las reformas políticas.",
   "publication_rule": "Mostrar enlaces por plataforma solo si verification[platform] = verified.",
-  "episode_count": 151,
+  "episode_count": 159,
   "platforms": [
     "apple",
     "spotify",
@@ -10,10 +10,10 @@
     "youtube",
     "web"
   ],
-  "people_count": 131,
-  "places_count": 156,
-  "topics_count": 488,
-  "relations_count": 3443,
-  "status": "phase03_sub0301_active",
-  "civilizations_count": 34
+  "people_count": 138,
+  "places_count": 161,
+  "topics_count": 520,
+  "relations_count": 3646,
+  "status": "phase03_sub0302_active",
+  "civilizations_count": 36
 }

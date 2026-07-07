@@ -24099,5 +24099,1426 @@
     "target_id": "phase_03",
     "target_type": "phase",
     "relation": "next_phase"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_comparacion_esparta_atenas",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_modelos_politicos_griegos",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_esparta_clasica_formacion",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_atenas_preclasica",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ciudadania_griega",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_laconia",
+    "source_type": "place",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_esparta_atenas_modelos_politicos",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_esparta_clasica_formacion",
+    "source_type": "topic",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_gran_retra",
+    "source_type": "topic",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_diarquia_espartana",
+    "source_type": "topic",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_gerusia",
+    "source_type": "topic",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_eforos",
+    "source_type": "topic",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_apella",
+    "source_type": "topic",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_leonidas_i",
+    "source_type": "person",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_laconia",
+    "source_type": "place",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_ilotas",
+    "source_type": "topic",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_periecos",
+    "source_type": "topic",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_espartiatas",
+    "source_type": "topic",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_mesenia",
+    "source_type": "topic",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_guerras_mesenias",
+    "source_type": "topic",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_agoge",
+    "source_type": "topic",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_mesenia_p03",
+    "source_type": "place",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_laconia",
+    "source_type": "place",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reformas_solon",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_atenas_preclasica",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_crisis_ateniense_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_dracon_leyes",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_seisachtheia",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_timocracia_ateniense",
+    "source_type": "topic",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_drakon",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_pisistrato",
+    "source_type": "topic",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_tirania_pisistratidas",
+    "source_type": "topic",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hipias",
+    "source_type": "topic",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_hiparco",
+    "source_type": "topic",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_harmodio_aristogiton",
+    "source_type": "topic",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_pisistrato",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_hipias",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_hiparco",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_harmodio",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_aristogiton",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_acropolis_atenas",
+    "source_type": "place",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_reformas_clistenes",
+    "source_type": "topic",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_demos_atenienses",
+    "source_type": "topic",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_tribus_clistenicas",
+    "source_type": "topic",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_boule_500",
+    "source_type": "topic",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_ostracismo",
+    "source_type": "topic",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_nacimiento_democracia_ateniense",
+    "source_type": "topic",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_cleomenes_i",
+    "source_type": "person",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_colono_atenas",
+    "source_type": "place",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_ciudadania_griega",
+    "source_type": "topic",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_modelos_politicos_griegos",
+    "source_type": "topic",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_polis_griega_p03",
+    "source_type": "topic",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_reformas_solon",
+    "source_type": "topic",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_gran_retra",
+    "source_type": "topic",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_solon_p03",
+    "source_type": "person",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_licurgo",
+    "source_type": "person",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_grecia_p03",
+    "source_type": "place",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_archaic_greece_p03",
+    "source_type": "civilization",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_ciudadania_polis_reformas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "phase_03",
+    "source_type": "phase",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "sub_0302",
+    "source_type": "subperiod",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_modelos_politicos_griegos",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "covered_by"
+  },
+  {
+    "source_id": "topic_comparacion_esparta_atenas",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_jonia_arcaica",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_guerras_medicas",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_persia_aquemenida",
+    "source_type": "topic",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_clistenes",
+    "source_type": "person",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_leonidas_i",
+    "source_type": "person",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "person_cleomenes_i",
+    "source_type": "person",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_esparta_p03",
+    "source_type": "place",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_atenas_p03",
+    "source_type": "place",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "place_jonia",
+    "source_type": "place",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "ep_esparta_atenas_camino_guerras_medicas",
+    "target_type": "episode",
+    "relation": "appears_in"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_esparta_clasica_formacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_gran_retra",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_agoge",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_ilotas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_gerusia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_eforos",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "place_esparta_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "place_laconia",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "place_mesenia_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "person_licurgo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_sparta_archaic",
+    "source_type": "civilization",
+    "target_id": "person_leonidas_i",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_atenas_preclasica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_dracon_leyes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_reformas_solon",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_reformas_clistenes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "topic_nacimiento_democracia_ateniense",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "place_atica",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "person_drakon",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "person_solon_p03",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "person_pisistrato",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "civ_athens_archaic",
+    "source_type": "civilization",
+    "target_id": "person_clistenes",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_leonidas_i",
+    "source_type": "person",
+    "target_id": "topic_esparta_clasica_formacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_leonidas_i",
+    "source_type": "person",
+    "target_id": "topic_diarquia_espartana",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_leonidas_i",
+    "source_type": "person",
+    "target_id": "place_esparta_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_leonidas_i",
+    "source_type": "person",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_pisistrato",
+    "source_type": "person",
+    "target_id": "topic_pisistrato",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pisistrato",
+    "source_type": "person",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pisistrato",
+    "source_type": "person",
+    "target_id": "topic_atenas_preclasica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pisistrato",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pisistrato",
+    "source_type": "person",
+    "target_id": "place_atica",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_pisistrato",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hipias",
+    "source_type": "person",
+    "target_id": "topic_hipias",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hipias",
+    "source_type": "person",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hipias",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hipias",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_hiparco",
+    "source_type": "person",
+    "target_id": "topic_hiparco",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiparco",
+    "source_type": "person",
+    "target_id": "topic_harmodio_aristogiton",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiparco",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_hiparco",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_harmodio",
+    "source_type": "person",
+    "target_id": "topic_harmodio_aristogiton",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_harmodio",
+    "source_type": "person",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_harmodio",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_harmodio",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_aristogiton",
+    "source_type": "person",
+    "target_id": "topic_harmodio_aristogiton",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_aristogiton",
+    "source_type": "person",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_aristogiton",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_aristogiton",
+    "source_type": "person",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "person_cleomenes_i",
+    "source_type": "person",
+    "target_id": "topic_esparta_clasica_formacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cleomenes_i",
+    "source_type": "person",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cleomenes_i",
+    "source_type": "person",
+    "target_id": "place_esparta_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cleomenes_i",
+    "source_type": "person",
+    "target_id": "place_atenas_p03",
+    "target_type": "place",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "person_cleomenes_i",
+    "source_type": "person",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_laconia",
+    "source_type": "place",
+    "target_id": "topic_esparta_clasica_formacion",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_laconia",
+    "source_type": "place",
+    "target_id": "topic_espartiatas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_laconia",
+    "source_type": "place",
+    "target_id": "person_licurgo",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_laconia",
+    "source_type": "place",
+    "target_id": "ep_esparta_sistema_politico",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_mesenia_p03",
+    "source_type": "place",
+    "target_id": "topic_mesenia",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesenia_p03",
+    "source_type": "place",
+    "target_id": "topic_guerras_mesenias",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesenia_p03",
+    "source_type": "place",
+    "target_id": "topic_ilotas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_mesenia_p03",
+    "source_type": "place",
+    "target_id": "ep_ilotas_mesenia_agoge",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "topic_atenas_preclasica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "topic_demos_atenienses",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "person_solon_p03",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "person_clistenes",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_atica",
+    "source_type": "place",
+    "target_id": "ep_atenas_solon_clistenes_detalle",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_colono_atenas",
+    "source_type": "place",
+    "target_id": "topic_demos_atenienses",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_colono_atenas",
+    "source_type": "place",
+    "target_id": "topic_reformas_clistenes",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_colono_atenas",
+    "source_type": "place",
+    "target_id": "ep_clistenes_democracia_ateniense",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "place_acropolis_atenas",
+    "source_type": "place",
+    "target_id": "topic_atenas_preclasica",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_acropolis_atenas",
+    "source_type": "place",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_acropolis_atenas",
+    "source_type": "place",
+    "target_id": "person_pisistrato",
+    "target_type": "person",
+    "relation": "related_to"
+  },
+  {
+    "source_id": "place_acropolis_atenas",
+    "source_type": "place",
+    "target_id": "ep_pisistrato_tirania_atenas",
+    "target_type": "episode",
+    "relation": "related_episode"
+  },
+  {
+    "source_id": "topic_grecia_arcaica_p03",
+    "source_type": "topic",
+    "target_id": "topic_modelos_politicos_griegos",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_modelos_politicos_griegos",
+    "source_type": "topic",
+    "target_id": "topic_esparta_clasica_formacion",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_esparta_clasica_formacion",
+    "source_type": "topic",
+    "target_id": "topic_gran_retra",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_gran_retra",
+    "source_type": "topic",
+    "target_id": "topic_agoge",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_agoge",
+    "source_type": "topic",
+    "target_id": "topic_ilotas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_ilotas",
+    "source_type": "topic",
+    "target_id": "topic_atenas_preclasica",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_atenas_preclasica",
+    "source_type": "topic",
+    "target_id": "topic_dracon_leyes",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_dracon_leyes",
+    "source_type": "topic",
+    "target_id": "topic_reformas_solon",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_reformas_solon",
+    "source_type": "topic",
+    "target_id": "topic_tirania_pisistratidas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_tirania_pisistratidas",
+    "source_type": "topic",
+    "target_id": "topic_reformas_clistenes",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_reformas_clistenes",
+    "source_type": "topic",
+    "target_id": "topic_nacimiento_democracia_ateniense",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_nacimiento_democracia_ateniense",
+    "source_type": "topic",
+    "target_id": "topic_comparacion_esparta_atenas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "topic_comparacion_esparta_atenas",
+    "source_type": "topic",
+    "target_id": "topic_guerras_medicas",
+    "target_type": "topic",
+    "relation": "next_in_route"
+  },
+  {
+    "source_id": "sub_0301",
+    "source_type": "subperiod",
+    "target_id": "sub_0302",
+    "target_type": "subperiod",
+    "relation": "next_subperiod"
   }
 ]

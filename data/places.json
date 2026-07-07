@@ -2820,5 +2820,93 @@
     "related_episodes": [
       "ep_aristocracia_tiranias_hoplitas"
     ]
+  },
+  {
+    "id": "place_laconia",
+    "name": "Laconia",
+    "type": "region",
+    "modern_location": "Peloponeso, Grecia",
+    "summary": "Región nuclear de Esparta.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_esparta_clasica_formacion",
+      "topic_espartiatas"
+    ],
+    "related_people": [
+      "person_licurgo"
+    ],
+    "related_episodes": [
+      "ep_esparta_sistema_politico"
+    ]
+  },
+  {
+    "id": "place_mesenia_p03",
+    "name": "Mesenia",
+    "type": "region",
+    "modern_location": "Peloponeso, Grecia",
+    "summary": "Región conquistada por Esparta, clave para el sistema de ilotas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_mesenia",
+      "topic_guerras_mesenias",
+      "topic_ilotas"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_ilotas_mesenia_agoge"
+    ]
+  },
+  {
+    "id": "place_atica",
+    "name": "Ática",
+    "type": "region",
+    "modern_location": "Grecia",
+    "summary": "Región de Atenas y su territorio cívico.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_atenas_preclasica",
+      "topic_demos_atenienses"
+    ],
+    "related_people": [
+      "person_solon_p03",
+      "person_clistenes"
+    ],
+    "related_episodes": [
+      "ep_atenas_solon_clistenes_detalle"
+    ]
+  },
+  {
+    "id": "place_colono_atenas",
+    "name": "Colono",
+    "type": "deme_area",
+    "modern_location": "Atenas, Grecia",
+    "summary": "Zona ática vinculada a la organización territorial de Atenas.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_demos_atenienses",
+      "topic_reformas_clistenes"
+    ],
+    "related_people": [],
+    "related_episodes": [
+      "ep_clistenes_democracia_ateniense"
+    ]
+  },
+  {
+    "id": "place_acropolis_atenas",
+    "name": "Acrópolis de Atenas",
+    "type": "site",
+    "modern_location": "Atenas, Grecia",
+    "summary": "Centro religioso y simbólico ateniense, relevante desde época arcaica.",
+    "coordinates": "",
+    "related_topics": [
+      "topic_atenas_preclasica",
+      "topic_tirania_pisistratidas"
+    ],
+    "related_people": [
+      "person_pisistrato"
+    ],
+    "related_episodes": [
+      "ep_pisistrato_tirania_atenas"
+    ]
   }
 ]

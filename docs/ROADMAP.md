@@ -10,6 +10,7 @@
 
 ### Periodo 03 · Grecia
 - sub_0301: Grecia arcaica y nacimiento de la polis
+- sub_0302: Esparta, Atenas y las reformas políticas
 
 ## Siguiente subperiodo sugerido
-- sub_0302: Esparta, Atenas y las reformas políticas
+- sub_0303: Las Guerras Médicas

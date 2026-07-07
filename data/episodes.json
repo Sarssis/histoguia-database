@@ -12411,5 +12411,674 @@
       "tales",
       "presocráticos"
     ]
+  },
+  {
+    "id": "ep_esparta_atenas_modelos_politicos",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "Esparta y Atenas: dos modelos políticos griegos",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_comparacion_esparta_atenas",
+    "topic_ids": [
+      "topic_comparacion_esparta_atenas",
+      "topic_modelos_politicos_griegos",
+      "topic_esparta_clasica_formacion",
+      "topic_atenas_preclasica",
+      "topic_ciudadania_griega"
+    ],
+    "people_ids": [
+      "person_licurgo",
+      "person_solon_p03",
+      "person_clistenes"
+    ],
+    "place_ids": [
+      "place_esparta_p03",
+      "place_atenas_p03",
+      "place_laconia",
+      "place_atica"
+    ],
+    "civilization_ids": [
+      "civ_sparta_archaic",
+      "civ_athens_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/histocast-132-esparta-atenas-modelos-politicos-audios-mp3_rf_12453188_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "12453188",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio troncal del subperiodo. Compara el modelo espartano y el ateniense desde sus instituciones, ciudadanía, guerra, educación, aristocracia y reformas.",
+    "learn": [
+      "Comprender las diferencias estructurales entre Esparta y Atenas.",
+      "Relacionar ciudadanía, guerra e instituciones políticas.",
+      "Situar el contraste entre oligarquía militarizada y reforma democrática.",
+      "Preparar las Guerras Médicas desde sus dos protagonistas griegos."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "esparta",
+      "atenas",
+      "modelos políticos",
+      "polis"
+    ]
+  },
+  {
+    "id": "ep_esparta_sistema_politico",
+    "podcast_id": "pod_victoria_historia",
+    "podcast_name": "Victoria Podcast Historia",
+    "episode_code": "",
+    "title": "V395 Esparta: la Gran Retra, diarquía, gerusía y éforos",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_esparta_clasica_formacion",
+    "topic_ids": [
+      "topic_esparta_clasica_formacion",
+      "topic_gran_retra",
+      "topic_diarquia_espartana",
+      "topic_gerusia",
+      "topic_eforos",
+      "topic_apella"
+    ],
+    "people_ids": [
+      "person_licurgo",
+      "person_leonidas_i"
+    ],
+    "place_ids": [
+      "place_esparta_p03",
+      "place_laconia"
+    ],
+    "civilization_ids": [
+      "civ_sparta_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2024",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/v395-127774-esparta-gran-retra-diarquia-gerusia-audios-mp3_rf_132861045_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "132861045",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio centrado en la arquitectura institucional espartana: Gran Retra, reyes, gerusía, éforos, apella y equilibrio interno del sistema lacedemonio.",
+    "learn": [
+      "Conocer las instituciones políticas de Esparta.",
+      "Entender la tradición de la Gran Retra.",
+      "Distinguir diarquía, gerusía, éforos y apella.",
+      "Relacionar estabilidad institucional y militarización."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "esparta",
+      "gran retra",
+      "gerusía",
+      "éforos",
+      "diarquía"
+    ]
+  },
+  {
+    "id": "ep_ilotas_mesenia_agoge",
+    "podcast_id": "pod_documentalia",
+    "podcast_name": "Documentalia",
+    "episode_code": "",
+    "title": "Ilotas, Mesenia y agogé: la base social de Esparta",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_ilotas",
+    "topic_ids": [
+      "topic_ilotas",
+      "topic_periecos",
+      "topic_espartiatas",
+      "topic_mesenia",
+      "topic_guerras_mesenias",
+      "topic_agoge"
+    ],
+    "people_ids": [
+      "person_licurgo"
+    ],
+    "place_ids": [
+      "place_esparta_p03",
+      "place_mesenia_p03",
+      "place_laconia"
+    ],
+    "civilization_ids": [
+      "civ_sparta_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/ilotas-mesenia-agoge-base-social-esparta-audios-mp3_rf_64109114_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "64109114",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio social sobre ilotas, periecos, espartiatas, guerras mesenias y la agogé como mecanismo de reproducción del orden espartano.",
+    "learn": [
+      "Comprender quiénes eran los ilotas.",
+      "Relacionar Mesenia con el sistema espartano.",
+      "Distinguir espartiatas, periecos e ilotas.",
+      "Entender la agogé como educación cívico-militar."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "ilotas",
+      "mesenia",
+      "agogé",
+      "espartiatas",
+      "periecos"
+    ]
+  },
+  {
+    "id": "ep_atenas_solon_clistenes_detalle",
+    "podcast_id": "pod_historia_universal",
+    "podcast_name": "Historia Universal",
+    "episode_code": "",
+    "title": "Atenas: Dracón, Solón y la crisis social arcaica",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_reformas_solon",
+    "topic_ids": [
+      "topic_atenas_preclasica",
+      "topic_crisis_ateniense_arcaica",
+      "topic_dracon_leyes",
+      "topic_reformas_solon",
+      "topic_seisachtheia",
+      "topic_timocracia_ateniense"
+    ],
+    "people_ids": [
+      "person_drakon",
+      "person_solon_p03"
+    ],
+    "place_ids": [
+      "place_atenas_p03",
+      "place_atica"
+    ],
+    "civilization_ids": [
+      "civ_athens_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/atenas-dracon-solon-crisis-social-arcaica-audios-mp3_rf_3605331_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "3605331",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio sobre la crisis social ateniense, las leyes de Dracón, las reformas de Solón, la seisachtheia y la reorganización timocrática.",
+    "learn": [
+      "Comprender la crisis social de Atenas arcaica.",
+      "Situar a Dracón y Solón.",
+      "Entender la seisachtheia y la timocracia.",
+      "Preparar la tiranía de Pisístrato y las reformas de Clístenes."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "atenas",
+      "dracón",
+      "solón",
+      "seisachtheia"
+    ]
+  },
+  {
+    "id": "ep_pisistrato_tirania_atenas",
+    "podcast_id": "pod_memorias_pez",
+    "podcast_name": "Memorias de Pez",
+    "episode_code": "",
+    "title": "Pisístrato y la tiranía en Atenas",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_pisistrato",
+    "topic_ids": [
+      "topic_pisistrato",
+      "topic_tirania_pisistratidas",
+      "topic_hipias",
+      "topic_hiparco",
+      "topic_harmodio_aristogiton"
+    ],
+    "people_ids": [
+      "person_pisistrato",
+      "person_hipias",
+      "person_hiparco",
+      "person_harmodio",
+      "person_aristogiton"
+    ],
+    "place_ids": [
+      "place_atenas_p03",
+      "place_acropolis_atenas"
+    ],
+    "civilization_ids": [
+      "civ_athens_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2020",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 1,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/pisistrato-tirania-atenas-audios-mp3_rf_58415107_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "58415107",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio sobre Pisístrato, los Pisistrátidas, la construcción política y cultural de Atenas y la caída de la tiranía.",
+    "learn": [
+      "Conocer a Pisístrato y los Pisistrátidas.",
+      "Entender la tiranía como fenómeno político arcaico.",
+      "Relacionar obras públicas, religión y poder personal.",
+      "Preparar la reacción aristocrática y clisténica."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "pisístrato",
+      "tiranía ateniense",
+      "hipias",
+      "hiparco"
+    ]
+  },
+  {
+    "id": "ep_clistenes_democracia_ateniense",
+    "podcast_id": "pod_antena_historia",
+    "podcast_name": "Antena Historia",
+    "episode_code": "",
+    "title": "Clístenes y el nacimiento de la democracia ateniense",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_reformas_clistenes",
+    "topic_ids": [
+      "topic_reformas_clistenes",
+      "topic_demos_atenienses",
+      "topic_tribus_clistenicas",
+      "topic_boule_500",
+      "topic_ostracismo",
+      "topic_nacimiento_democracia_ateniense"
+    ],
+    "people_ids": [
+      "person_clistenes",
+      "person_cleomenes_i"
+    ],
+    "place_ids": [
+      "place_atenas_p03",
+      "place_atica",
+      "place_colono_atenas"
+    ],
+    "civilization_ids": [
+      "civ_athens_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 3,
+    "difficulty": 2,
+    "depth": 3,
+    "editor_rating": 5,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/clistenes-nacimiento-democracia-ateniense-audios-mp3_rf_4908644_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "4908644",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio esencial sobre Clístenes, demos, tribus, Boulé de los Quinientos, ostracismo y el nacimiento institucional de la democracia ateniense.",
+    "learn": [
+      "Conocer las reformas de Clístenes.",
+      "Entender demos, tribus y Boulé.",
+      "Comprender el ostracismo.",
+      "Relacionar las reformas con el nacimiento de la democracia ateniense."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "clístenes",
+      "democracia ateniense",
+      "ostracismo",
+      "boulé"
+    ]
+  },
+  {
+    "id": "ep_ciudadania_polis_reformas",
+    "podcast_id": "pod_desaprendiendo_historia",
+    "podcast_name": "Desaprendiendo la Historia",
+    "episode_code": "",
+    "title": "Ciudadanía, leyes y poder en la polis griega",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_ciudadania_griega",
+    "topic_ids": [
+      "topic_ciudadania_griega",
+      "topic_modelos_politicos_griegos",
+      "topic_polis_griega_p03",
+      "topic_reformas_solon",
+      "topic_gran_retra"
+    ],
+    "people_ids": [
+      "person_solon_p03",
+      "person_clistenes",
+      "person_licurgo"
+    ],
+    "place_ids": [
+      "place_grecia_p03",
+      "place_atenas_p03",
+      "place_esparta_p03"
+    ],
+    "civilization_ids": [
+      "civ_archaic_greece_p03",
+      "civ_sparta_archaic",
+      "civ_athens_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "2025",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "partial",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/ciudadania-leyes-poder-polis-griega-audios-mp3_rf_139882211_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "139882211",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio conceptual sobre ciudadanía, leyes escritas, participación, exclusión social y conflicto político en la polis arcaica.",
+    "learn": [
+      "Comprender qué significa ciudadanía en la polis.",
+      "Relacionar leyes escritas y poder político.",
+      "Distinguir participación y exclusión.",
+      "Comparar Esparta y Atenas desde la ciudadanía."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "ciudadanía griega",
+      "polis",
+      "leyes",
+      "reformas políticas"
+    ]
+  },
+  {
+    "id": "ep_esparta_atenas_camino_guerras_medicas",
+    "podcast_id": "pod_histocast",
+    "podcast_name": "HistoCast",
+    "episode_code": "",
+    "title": "Esparta, Atenas y el camino hacia las Guerras Médicas",
+    "phase_id": "phase_03",
+    "subperiod_id": "sub_0302",
+    "main_topic_id": "topic_modelos_politicos_griegos",
+    "topic_ids": [
+      "topic_modelos_politicos_griegos",
+      "topic_comparacion_esparta_atenas",
+      "topic_jonia_arcaica",
+      "topic_guerras_medicas",
+      "topic_persia_aquemenida"
+    ],
+    "people_ids": [
+      "person_clistenes",
+      "person_leonidas_i",
+      "person_cleomenes_i"
+    ],
+    "place_ids": [
+      "place_esparta_p03",
+      "place_atenas_p03",
+      "place_jonia"
+    ],
+    "civilization_ids": [
+      "civ_sparta_archaic",
+      "civ_athens_archaic"
+    ],
+    "event_ids": [],
+    "duration": "",
+    "duration_minutes": null,
+    "published": "",
+    "language": "es",
+    "status": "verified",
+    "metadata_status": {
+      "duration": "pending",
+      "published": "pending",
+      "language": "verified",
+      "editorial_scoring": "verified"
+    },
+    "priority": 2,
+    "difficulty": 2,
+    "depth": 2,
+    "editor_rating": 4,
+    "links": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/esparta-atenas-camino-hacia-guerras-medicas-audios-mp3_rf_10839813_1.html",
+      "youtube": "",
+      "web": ""
+    },
+    "platform_ids": {
+      "apple": "",
+      "spotify": "",
+      "ivoox": "10839813",
+      "youtube": "",
+      "web": ""
+    },
+    "verification": {
+      "apple": "not_available",
+      "spotify": "not_available",
+      "ivoox": "verified",
+      "youtube": "not_available",
+      "web": "not_available"
+    },
+    "summary": "Episodio de cierre que conecta las reformas políticas internas con el papel de Esparta y Atenas en el conflicto contra Persia.",
+    "learn": [
+      "Cerrar la comparación Esparta-Atenas.",
+      "Entender por qué ambas polis serán centrales frente a Persia.",
+      "Relacionar reformas internas y capacidad militar-política.",
+      "Preparar el subperiodo de las Guerras Médicas."
+    ],
+    "listen_before": [],
+    "listen_after": [],
+    "related_topics": [],
+    "keywords": [
+      "esparta",
+      "atenas",
+      "guerras médicas",
+      "persia"
+    ]
   }
 ]

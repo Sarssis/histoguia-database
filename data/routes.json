@@ -392,7 +392,15 @@
       "ep_esparta_arcaica_licurgo",
       "ep_atenas_solon_clistenes",
       "ep_delfos_olimpia_panhelenismo",
-      "ep_jonia_mileto_origen_pensamiento"
+      "ep_jonia_mileto_origen_pensamiento",
+      "ep_esparta_atenas_modelos_politicos",
+      "ep_esparta_sistema_politico",
+      "ep_ilotas_mesenia_agoge",
+      "ep_atenas_solon_clistenes_detalle",
+      "ep_pisistrato_tirania_atenas",
+      "ep_clistenes_democracia_ateniense",
+      "ep_ciudadania_polis_reformas",
+      "ep_esparta_atenas_camino_guerras_medicas"
     ],
     "topic_ids": [
       "topic_mundo_clasico",
@@ -410,8 +418,20 @@
       "topic_solon_p03",
       "topic_clistenes",
       "topic_jonia_arcaica",
-      "topic_guerras_medicas"
+      "topic_guerras_medicas",
+      "topic_modelos_politicos_griegos",
+      "topic_esparta_clasica_formacion",
+      "topic_gran_retra",
+      "topic_agoge",
+      "topic_ilotas",
+      "topic_atenas_preclasica",
+      "topic_dracon_leyes",
+      "topic_reformas_solon",
+      "topic_tirania_pisistratidas",
+      "topic_reformas_clistenes",
+      "topic_nacimiento_democracia_ateniense",
+      "topic_comparacion_esparta_atenas"
     ],
-    "status": "sub0301_active"
+    "status": "sub0302_active"
   }
 ]

@@ -4390,5 +4390,293 @@
       "phase_03"
     ],
     "summary": "Polis insular destacada por comercio y moneda."
+  },
+  {
+    "id": "topic_modelos_politicos_griegos",
+    "name": "Modelos políticos griegos arcaicos",
+    "type": "political_model",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Modelos políticos griegos arcaicos"
+  },
+  {
+    "id": "topic_esparta_clasica_formacion",
+    "name": "Formación del sistema espartano",
+    "type": "political_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Formación del sistema espartano"
+  },
+  {
+    "id": "topic_gran_retra",
+    "name": "Gran Retra",
+    "type": "legal_tradition",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Gran Retra"
+  },
+  {
+    "id": "topic_agoge",
+    "name": "Agogé espartana",
+    "type": "education_system",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Agogé espartana"
+  },
+  {
+    "id": "topic_ilotas",
+    "name": "Ilotas",
+    "type": "social_group",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Ilotas"
+  },
+  {
+    "id": "topic_periecos",
+    "name": "Periecos",
+    "type": "social_group",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Periecos"
+  },
+  {
+    "id": "topic_espartiatas",
+    "name": "Espartiatas",
+    "type": "citizen_group",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Espartiatas"
+  },
+  {
+    "id": "topic_diarquia_espartana",
+    "name": "Diarquía espartana",
+    "type": "political_institution",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Diarquía espartana"
+  },
+  {
+    "id": "topic_gerusia",
+    "name": "Gerusía",
+    "type": "political_institution",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Gerusía"
+  },
+  {
+    "id": "topic_eforos",
+    "name": "Éforos",
+    "type": "political_institution",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Éforos"
+  },
+  {
+    "id": "topic_apella",
+    "name": "Apella",
+    "type": "political_institution",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Apella"
+  },
+  {
+    "id": "topic_mesenia",
+    "name": "Mesenia",
+    "type": "region_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Mesenia"
+  },
+  {
+    "id": "topic_guerras_mesenias",
+    "name": "Guerras mesenias",
+    "type": "war",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Guerras mesenias"
+  },
+  {
+    "id": "topic_atenas_preclasica",
+    "name": "Atenas preclásica",
+    "type": "period",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Atenas preclásica"
+  },
+  {
+    "id": "topic_crisis_ateniense_arcaica",
+    "name": "Crisis social ateniense arcaica",
+    "type": "social_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Crisis social ateniense arcaica"
+  },
+  {
+    "id": "topic_dracon_leyes",
+    "name": "Leyes de Dracón",
+    "type": "legal_code",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Leyes de Dracón"
+  },
+  {
+    "id": "topic_reformas_solon",
+    "name": "Reformas de Solón",
+    "type": "political_reform",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Reformas de Solón"
+  },
+  {
+    "id": "topic_seisachtheia",
+    "name": "Seisachtheia",
+    "type": "economic_reform",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Seisachtheia"
+  },
+  {
+    "id": "topic_timocracia_ateniense",
+    "name": "Timocracia ateniense",
+    "type": "political_system",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Timocracia ateniense"
+  },
+  {
+    "id": "topic_pisistrato",
+    "name": "Pisístrato",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Pisístrato"
+  },
+  {
+    "id": "topic_tirania_pisistratidas",
+    "name": "Tiranía de los Pisistrátidas",
+    "type": "political_period",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Tiranía de los Pisistrátidas"
+  },
+  {
+    "id": "topic_hipias",
+    "name": "Hipias",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Hipias"
+  },
+  {
+    "id": "topic_hiparco",
+    "name": "Hiparco",
+    "type": "ruler",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Hiparco"
+  },
+  {
+    "id": "topic_harmodio_aristogiton",
+    "name": "Harmodio y Aristogitón",
+    "type": "legendary_figures",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Harmodio y Aristogitón"
+  },
+  {
+    "id": "topic_reformas_clistenes",
+    "name": "Reformas de Clístenes",
+    "type": "political_reform",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Reformas de Clístenes"
+  },
+  {
+    "id": "topic_demos_atenienses",
+    "name": "Demos atenienses",
+    "type": "political_unit",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Demos atenienses"
+  },
+  {
+    "id": "topic_tribus_clistenicas",
+    "name": "Tribus clisténicas",
+    "type": "political_unit",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Tribus clisténicas"
+  },
+  {
+    "id": "topic_boule_500",
+    "name": "Boulé de los Quinientos",
+    "type": "political_institution",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Boulé de los Quinientos"
+  },
+  {
+    "id": "topic_ostracismo",
+    "name": "Ostracismo",
+    "type": "political_institution",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Ostracismo"
+  },
+  {
+    "id": "topic_nacimiento_democracia_ateniense",
+    "name": "Nacimiento de la democracia ateniense",
+    "type": "political_process",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Nacimiento de la democracia ateniense"
+  },
+  {
+    "id": "topic_comparacion_esparta_atenas",
+    "name": "Esparta y Atenas: modelos contrapuestos",
+    "type": "comparative_topic",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Esparta y Atenas: modelos contrapuestos"
+  },
+  {
+    "id": "topic_ciudadania_griega",
+    "name": "Ciudadanía griega arcaica",
+    "type": "social_political_concept",
+    "phase_ids": [
+      "phase_03"
+    ],
+    "summary": "Ciudadanía griega arcaica"
   }
 ]

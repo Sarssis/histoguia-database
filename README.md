@@ -1,30 +1,30 @@
-# Histoguía Database · phase_03 sub_0301 v5.01
+# Histoguía Database · phase_03 sub_0302 v5.02
 
-## Periodo activado
+## Periodo
 
 **03. Grecia**
 
 ## Subperiodo activado
 
-**1. Grecia arcaica y nacimiento de la polis**
+**2. Esparta, Atenas y las reformas políticas**
 
 ## Episodios añadidos
 
-- Grecia arcaica: Homero, polis y nacimiento del mundo griego
-- Homero y Hesíodo: la memoria del mundo arcaico
-- V394 Grecia arcaica: colonización y expansión mediterránea
-- Aristócratas, tiranos y hoplitas en la Grecia arcaica
-- Esparta arcaica y la leyenda de Licurgo
-- Atenas arcaica: Dracón, Solón y Clístenes
-- Delfos, Olimpia y el nacimiento del panhelenismo
-- Jonia y Mileto: comercio, polis y primeros pensadores
+- Esparta y Atenas: dos modelos políticos griegos
+- V395 Esparta: la Gran Retra, diarquía, gerusía y éforos
+- Ilotas, Mesenia y agogé: la base social de Esparta
+- Atenas: Dracón, Solón y la crisis social arcaica
+- Pisístrato y la tiranía en Atenas
+- Clístenes y el nacimiento de la democracia ateniense
+- Ciudadanía, leyes y poder en la polis griega
+- Esparta, Atenas y el camino hacia las Guerras Médicas
 
 ## Totales
 
-- Episodios totales: 151
-- Episodios del subperiodo 0301: 8
-- Civilizaciones: 34
-- Temas: 488
-- Personas: 131
-- Lugares: 156
-- Relaciones: 3443
+- Episodios totales: 159
+- Episodios del subperiodo 0302: 8
+- Civilizaciones: 36
+- Temas: 520
+- Personas: 138
+- Lugares: 161
+- Relaciones: 3646
